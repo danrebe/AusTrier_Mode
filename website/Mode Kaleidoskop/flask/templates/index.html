@@ -72,10 +72,10 @@
                 Folge Farben, Formen und visuellen
                 Verbindungen durch die Sammlung.
             </p>
-
-            <a href="#features" class="button">
+           <a href="#" class="button" onclick="sammlungClick(event)">
                 Sammlung entdecken ↗
             </a>
+
 
         </section>
 
@@ -253,7 +253,7 @@
                 visueller Merkmale zu entdecken.
             </p>
 
-            <a href="#startseite" class="button">
+            <a href="/" class="button">
                 Zurück nach oben ↑
             </a>
 
@@ -319,6 +319,19 @@
                 featureButton.focus();
             }
         });
+    
+    async function sammlungClick(event) {
+        event.preventDefault();
+
+        const response = await fetch("/sammlung", {
+            method: "POST"
+        });
+
+        if (response.ok) {
+            window.location.href = "/sammlung";
+        }
+    }
+
     </script>
 
 </body>
