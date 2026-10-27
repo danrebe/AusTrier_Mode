@@ -12,13 +12,13 @@ from flask import render_template, request
 
 @app.route("/sammlung", methods=["GET", "POST"])
 def sammlungClicked():
-    if request.method == "POST":
-        # Hier kannst du deine zusätzlichen Funktionen ausführen
-        print("Button wurde geklickt!")
+    kategorie = request.args.get("kategorie")
 
-    return render_template("sammlung.html", title="Sammlung")
-
-
+    return render_template(
+        "sammlung.html",
+        title="Sammlung",
+        kategorie=kategorie
+    )
 
 if __name__ == "__main__":
     app.run(debug=True)
