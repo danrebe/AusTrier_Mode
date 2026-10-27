@@ -35,10 +35,10 @@
                 </button>
 
                 <div class="feature-menu" id="feature-menu">
-                    <a href="#farbe">Farbe</a>
-                    <a href="#silhouette">Silhouette</a>
-                    <a href="#accessoires">Accessoires</a>
-                    <a href="#embedding">Embedding</a>
+                    <a href="/sammlung?kategorie=farbe">Farbe</a>
+                    <a href="/sammlung?kategorie=silhouette">Silhouette</a>
+                    <a href="/sammlung?kategorie=accessoires">Accessoires</a>
+                    <a href="/sammlung?kategorie=embedding">Embedding</a>
                 </div>
 
             </div>
@@ -72,10 +72,9 @@
                 Folge Farben, Formen und visuellen
                 Verbindungen durch die Sammlung.
             </p>
-           <a href="#" class="button" onclick="sammlungClick(event)">
+           <a href="/sammlung?kategorie=random" class="button">
                 Sammlung entdecken ↗
             </a>
-
 
         </section>
 
@@ -98,15 +97,16 @@
             </p>
 
             <div class="feature-tags">
-                <a href="#farbe" class="feature-tag">#Farbe</a>
-                <a href="#silhouette" class="feature-tag">#Silhouette</a>
-                <a href="#accessoires" class="feature-tag">#Accessoires</a>
-                <a href="#embedding" class="feature-tag">#Embedding</a>
+                <a href="/sammlung?kategorie=farbe" class="feature-tag">#Farbe</a>
+                <a href="/sammlung?kategorie=silhouette" class="feature-tag">#Silhouette</a>
+                <a href="/sammlung?kategorie=accessoires" class="feature-tag">#Accessoires</a>
+                <a href="/sammlung?kategorie=embedding" class="feature-tag">#Embedding</a>
             </div>
 
             <div class="features-grid">
 
                 <!-- FARBE -->
+                <a href="/sammlung?kategorie=farbe" class="feature-card-link">
                 <article class="feature-card" id="farbe">
 
                     <div class="card-top">
@@ -137,9 +137,10 @@
                     </p>
 
                 </article>
-
+                </a>
 
                 <!-- SILHOUETTE -->
+                <a href="/sammlung?kategorie=silhouette" class="feature-card-link">
                 <article class="feature-card" id="silhouette">
 
                     <div class="card-top">
@@ -167,9 +168,10 @@
                     </p>
 
                 </article>
-
+                </a>
 
                 <!-- ACCESSOIRES -->
+                <a href="/sammlung?kategorie=accessoires" class="feature-card-link">
                 <article class="feature-card" id="accessoires">
 
                     <div class="card-top">
@@ -197,9 +199,10 @@
                     </p>
 
                 </article>
-
+                </a>
 
                 <!-- EMBEDDING -->
+                <a href="/sammlung?kategorie=embedding" class="feature-card-link">
                 <article class="feature-card" id="embedding">
 
                     <div class="card-top">
@@ -230,7 +233,7 @@
                     </p>
 
                 </article>
-
+                </a>
             </div>
 
         </section>
@@ -320,17 +323,26 @@
             }
         });
     
-    async function sammlungClick(event) {
-        event.preventDefault();
+   
+async function sammlungClicked(kategorie) {
+    console.log("JavaScript gestartet:", kategorie);
 
-        const response = await fetch("/sammlung", {
-            method: "POST"
-        });
+    const response = await fetch("/sammlung", {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json"
+        },
+        body: JSON.stringify({
+            kategorie: kategorie
+        })
+    });
 
-        if (response.ok) {
-            window.location.href = "/sammlung";
-        }
-    }
+    console.log("HTTP-Status:", response.status);
+
+    const result = await response.text();
+    console.log("Antwort:", result);
+}
+
 
     </script>
 
