@@ -1,0 +1,44 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30661",
+    "titel": "Modebild: Zwei Gesellschaftskleider in rosa und weiß, Pelzboa, kunstvolle Frisuren",
+    "Datum": "1829",
+    "Thema": [
+        "(Damen-)Kleid",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "dress, gown",
+        "Modebilder",
+        "fashion plates",
+        "clothes for official occasions",
+        "Kleidung für offizielle Anlässe",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Frau",
+        "Bürgertum",
+        "Fashion",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Frisur",
+        "woman",
+        "Öffentliche Feste und Feierlichkeiten",
+        "hairdress",
+        "Public Festivals and Celebrations",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49312/745557_default.webp",
+    "id": "cf15721a-d7d0-4c3f-9e71-ae225e146f83",
+    "Filter": {
+        "Aehnlichkeit": 1710,
+        "Farbe": [
+            31,
+            2018,
+            7664,
+            9343,
+            11001,
+            11065
+        ]
+    }
+}

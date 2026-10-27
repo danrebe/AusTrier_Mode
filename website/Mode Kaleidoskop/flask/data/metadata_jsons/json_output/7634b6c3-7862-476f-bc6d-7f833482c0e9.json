@@ -1,0 +1,34 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31832",
+    "titel": "Modebild: Fünfzehn Männerhalsbinden aus der Handlung zum Seidenschuh",
+    "Datum": "1837",
+    "Thema": [
+        "copricapo",
+        "chapelaria",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "couvre-chef",
+        "Bourgeoisie",
+        "Modebilder",
+        "Bürgertum",
+        "Fashion",
+        "fashion plates",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/56060/510629_default.webp",
+    "id": "7634b6c3-7862-476f-bc6d-7f833482c0e9",
+    "Filter": {
+        "Aehnlichkeit": 1365,
+        "Farbe": [
+            439,
+            1901,
+            5142,
+            6416,
+            6857,
+            7220,
+            8046
+        ]
+    }
+}

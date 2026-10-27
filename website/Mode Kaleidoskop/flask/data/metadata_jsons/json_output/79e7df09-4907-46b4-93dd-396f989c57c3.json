@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30009",
+    "titel": "Modebild: \"Sea Side Dress\"",
+    "Datum": "1826",
+    "Thema": [
+        "head-gear",
+        "copricapo",
+        "chapelaria",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "fashion plates",
+        "Modebilder",
+        "couvre-chef",
+        "Kopfbedeckung",
+        "被り物",
+        "Biedermeier",
+        "Frau",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/45209/510985_default.webp",
+    "id": "79e7df09-4907-46b4-93dd-396f989c57c3",
+    "Filter": {
+        "Aehnlichkeit": 1693,
+        "Farbe": [
+            1941,
+            3730,
+            4339,
+            5170,
+            8601
+        ]
+    }
+}

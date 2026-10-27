@@ -1,0 +1,44 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30960",
+    "titel": "Modebild: Drei Figuren, Herren- und Damenmoden",
+    "Datum": "1826",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "coat",
+        "Jacke, Mantel",
+        "dandy, beau",
+        "Dandy, Beau, Geck",
+        "被り物",
+        "chapelaria",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "man",
+        "Mode",
+        "Fashion",
+        "Bürgertum",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Frau",
+        "woman",
+        "Modebilder",
+        "fashion plates",
+        "Mann"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/50165/513397_default.webp",
+    "id": "53504afe-d916-440f-9e5a-567949b480e5",
+    "Filter": {
+        "Aehnlichkeit": 1519,
+        "Farbe": [
+            280,
+            1481,
+            3341,
+            6674,
+            9121,
+            9957
+        ]
+    }
+}

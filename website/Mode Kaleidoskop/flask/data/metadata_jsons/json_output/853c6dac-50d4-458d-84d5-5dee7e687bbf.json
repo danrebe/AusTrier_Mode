@@ -1,0 +1,47 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31130",
+    "titel": "Modebild: Fünf Gesellschaftskleider, ein Herrenjagdanzug",
+    "Datum": "1841",
+    "Thema": [
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Dandy, Beau, Geck",
+        "dandy, beau",
+        "coat",
+        "Jacke, Mantel",
+        "Kleidung für offizielle Anlässe",
+        "clothes for official occasions",
+        "被り物",
+        "Accessoires",
+        "accessories (~ clothing)",
+        "Kopfbedeckung",
+        "head-gear",
+        "woman",
+        "Frau",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "man",
+        "Mann",
+        "Mode",
+        "fashion plates",
+        "Public Festivals and Celebrations",
+        "hairdress",
+        "Frisur",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53517/513035_default.webp",
+    "id": "853c6dac-50d4-458d-84d5-5dee7e687bbf",
+    "Filter": {
+        "Aehnlichkeit": 63,
+        "Farbe": [
+            2349,
+            8111,
+            8703,
+            10285
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31512",
+    "titel": "Modebild: Eine Figur, Besuchstoilette",
+    "Datum": "1831",
+    "Thema": [
+        "woman",
+        "Mode",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "couvre-chef",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "chapelaria",
+        "fashion plates",
+        "Fashion",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Frau",
+        "Bürgertum",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55230/614301_default.webp",
+    "id": "46e48c12-9362-4fcf-aa32-61dcf8761e55",
+    "Filter": {
+        "Aehnlichkeit": 1464,
+        "Farbe": [
+            289,
+            1500,
+            3356,
+            7526,
+            9133
+        ]
+    }
+}

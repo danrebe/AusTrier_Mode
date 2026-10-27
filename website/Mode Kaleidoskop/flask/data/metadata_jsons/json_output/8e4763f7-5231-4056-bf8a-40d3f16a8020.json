@@ -1,0 +1,42 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31791",
+    "titel": "Modebild: Zwei Figuren, Gesellschaftskleider",
+    "Datum": "1837",
+    "Thema": [
+        "chapelaria",
+        "Kleidung für offizielle Anlässe",
+        "clothes for official occasions",
+        "Kopfbedeckung",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "被り物",
+        "Frau",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Bourgeoisie",
+        "Fashion",
+        "Bürgertum",
+        "Public Festivals and Celebrations",
+        "fashion plates",
+        "Modebilder",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55900/510573_default.webp",
+    "id": "8e4763f7-5231-4056-bf8a-40d3f16a8020",
+    "Filter": {
+        "Aehnlichkeit": 541,
+        "Farbe": [
+            1831,
+            5718,
+            5985,
+            6817,
+            7624,
+            9263,
+            10848
+        ]
+    }
+}

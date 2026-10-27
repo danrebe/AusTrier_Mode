@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30853",
+    "titel": "Modebild: Zwei Figuren, London Dresses for August",
+    "Datum": "1809",
+    "Thema": [
+        "dress, gown",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "fashion plates",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "Frau",
+        "Mode",
+        "woman",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49817/512703_default.webp",
+    "id": "cf919e18-6ea9-4e86-a1b3-5e075ab89ae2",
+    "Filter": {
+        "Aehnlichkeit": 1126,
+        "Farbe": [
+            1322,
+            3200,
+            4759,
+            5925,
+            6142,
+            6628,
+            7177
+        ]
+    }
+}

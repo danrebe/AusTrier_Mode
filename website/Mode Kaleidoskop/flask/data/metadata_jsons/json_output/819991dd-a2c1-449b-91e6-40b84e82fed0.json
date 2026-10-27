@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30321",
+    "titel": "Modebild: \"Pariserinnen mit Atlashut, himmelblauem Barett und griechischem Leibchen\"",
+    "Datum": "1825",
+    "Thema": [
+        "fashion plates",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "couvre-chef",
+        "head-gear",
+        "chapelaria",
+        "copricapo",
+        "Kopfbedeckung",
+        "被り物",
+        "woman",
+        "Modebilder",
+        "Biedermeier",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Frau",
+        "Fashion",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48171/511887_default.webp",
+    "id": "819991dd-a2c1-449b-91e6-40b84e82fed0",
+    "Filter": {
+        "Aehnlichkeit": 446,
+        "Farbe": [
+            551,
+            2212,
+            3955,
+            5336
+        ]
+    }
+}

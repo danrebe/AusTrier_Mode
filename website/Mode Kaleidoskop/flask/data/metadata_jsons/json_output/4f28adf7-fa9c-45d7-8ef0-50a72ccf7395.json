@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30064",
+    "titel": "Modebild: \"Dame in einer Robe à l' Anglais\"",
+    "Datum": "1787",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Kopfbedeckung",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "被り物",
+        "Mode",
+        "Modebilder",
+        "Bourgeoisie",
+        "Fashion",
+        "Bürgertum",
+        "Frau",
+        "woman",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/46974/511451_default.webp",
+    "id": "4f28adf7-fa9c-45d7-8ef0-50a72ccf7395",
+    "Filter": {
+        "Aehnlichkeit": 1500,
+        "Farbe": [
+            130,
+            839,
+            2784,
+            4245,
+            4361
+        ]
+    }
+}

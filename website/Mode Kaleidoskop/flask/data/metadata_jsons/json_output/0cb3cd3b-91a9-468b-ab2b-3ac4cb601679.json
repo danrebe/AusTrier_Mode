@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30738",
+    "titel": "Modebild: Zwei Figuren, Samtspencer, Rock aus weißem Satin",
+    "Datum": "1830",
+    "Thema": [
+        "Mode",
+        "woman",
+        "fashion plates",
+        "Modebilder",
+        "dress, gown",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "Fashion",
+        "Biedermeier",
+        "Frau",
+        "Bürgertum",
+        "Bourgeoisie",
+        "被り物",
+        "(Damen-)Kleid"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49477/512531_default.webp",
+    "id": "0cb3cd3b-91a9-468b-ab2b-3ac4cb601679",
+    "Filter": {
+        "Aehnlichkeit": 771,
+        "Farbe": [
+            248,
+            1407,
+            3275,
+            4835
+        ]
+    }
+}

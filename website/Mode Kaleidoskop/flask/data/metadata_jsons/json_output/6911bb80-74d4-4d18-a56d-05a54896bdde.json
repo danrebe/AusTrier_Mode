@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30547",
+    "titel": "Modebild: Herr mit Redingote und Pantalons, Knabe mit Redingote und Pantalons",
+    "Datum": "1827",
+    "Thema": [
+        "Jacke, Mantel",
+        "coat",
+        "Dandy, Beau, Geck",
+        "dandy, beau",
+        "fashion plates",
+        "Modebilder",
+        "Mode",
+        "couvre-chef",
+        "chapelaria",
+        "copricapo",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "man",
+        "Mann",
+        "Bourgeoisie",
+        "child",
+        "Bürgertum",
+        "Fashion",
+        "Biedermeier",
+        "Kind",
+        "Kleidung für Jungen",
+        "fashion, clothing (+ boys' clothes)"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48884/511227_default.webp",
+    "id": "6911bb80-74d4-4d18-a56d-05a54896bdde",
+    "Filter": {
+        "Aehnlichkeit": 1625,
+        "Farbe": [
+            516,
+            2114,
+            3871,
+            5285,
+            6936
+        ]
+    }
+}

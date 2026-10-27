@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31798",
+    "titel": "Modebild: Zwei Figuren, Brautkleid und Gesellschaftskleid",
+    "Datum": "1837",
+    "Thema": [
+        "Kopfbedeckung",
+        "被り物",
+        "couvre-chef",
+        "Kleidung für spezielle Zwecke (Brautmode)",
+        "head-gear",
+        "Modebilder",
+        "fashion plates",
+        "copricapo",
+        "chapelaria",
+        "clothes for official occasions",
+        "Kleidung für offizielle Anlässe",
+        "Öffentliche Feste und Feierlichkeiten",
+        "dress, gown",
+        "Bräuche",
+        "Frau",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "Costums",
+        "Public Festivals and Celebrations",
+        "(Damen-)Kleid",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55914/510581_default.webp",
+    "id": "929d9229-4f86-41cf-8f29-e9a69d58c0a0",
+    "Filter": {
+        "Aehnlichkeit": 1556,
+        "Farbe": [
+            1931,
+            3721,
+            6863,
+            9309,
+            9676
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30641",
+    "titel": "Modebild: Zwei Damen mit Samthüten und Samtkleidern sowie Pelzstolen",
+    "Datum": "1828",
+    "Thema": [
+        "head-gear",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "couvre-chef",
+        "Mode",
+        "Kopfbedeckung",
+        "被り物",
+        "copricapo",
+        "chapelaria",
+        "woman",
+        "Biedermeier",
+        "Frau",
+        "Bourgeoisie",
+        "Fashion",
+        "Bürgertum",
+        "fashion plates",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49172/512385_default.webp",
+    "id": "322e0580-8e14-49e5-9846-5cbeedc41852",
+    "Filter": {
+        "Aehnlichkeit": 773,
+        "Farbe": [
+            277,
+            1475,
+            3335,
+            4886,
+            10823
+        ]
+    }
+}

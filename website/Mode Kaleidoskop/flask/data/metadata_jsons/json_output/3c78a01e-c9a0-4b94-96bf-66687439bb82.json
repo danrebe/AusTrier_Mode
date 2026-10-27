@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30502",
+    "titel": "Modebild: \"Französin mit Turban aus weißer und goldener Gaze sowie weißer Robe aus Satin\"",
+    "Datum": "1824",
+    "Thema": [
+        "head-gear: turban",
+        "chapelaria",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "copricapo",
+        "Mode",
+        "woman",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Kopfbedeckung: Turban",
+        "Fashion",
+        "Biedermeier",
+        "Exotismus",
+        "Frau",
+        "Exoticism",
+        "Bürgertum",
+        "Bourgeoisie",
+        "fashion plates",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48706/512173_default.webp",
+    "id": "3c78a01e-c9a0-4b94-96bf-66687439bb82",
+    "Filter": {
+        "Aehnlichkeit": 8,
+        "Farbe": [
+            1663,
+            3496,
+            4330,
+            5006
+        ]
+    }
+}

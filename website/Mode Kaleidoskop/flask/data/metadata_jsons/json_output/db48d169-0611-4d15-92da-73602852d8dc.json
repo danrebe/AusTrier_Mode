@@ -1,0 +1,45 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31722",
+    "titel": "Modebild: Damenreitkleid, Herrenanzug",
+    "Datum": "1835",
+    "Thema": [
+        "被り物",
+        "fashion plates",
+        "Modebilder",
+        "Jacke, Mantel",
+        "coat",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "chapelaria",
+        "copricapo",
+        "dandy, beau",
+        "Biedermeier",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "woman",
+        "Frau",
+        "Dandy, Beau, Geck",
+        "Mode",
+        "man",
+        "Mann"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55790/614725_default.webp",
+    "id": "db48d169-0611-4d15-92da-73602852d8dc",
+    "Filter": {
+        "Aehnlichkeit": 812,
+        "Farbe": [
+            2124,
+            3880,
+            6424,
+            6939,
+            7229,
+            8071,
+            9382
+        ]
+    }
+}

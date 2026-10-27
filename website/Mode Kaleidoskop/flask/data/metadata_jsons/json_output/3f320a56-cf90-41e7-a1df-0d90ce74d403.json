@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30505",
+    "titel": "Modebild: \"Französische Damen mit Blumenhut, Umhang, Kragen und Kleid\"",
+    "Datum": "1824",
+    "Thema": [
+        "被り物",
+        "couvre-chef",
+        "cape",
+        "Umhang, Cape",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Mode",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "chapelaria",
+        "fashion plates",
+        "Fashion",
+        "Biedermeier",
+        "Frau",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Modebilder",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48710/512177_default.webp",
+    "id": "3f320a56-cf90-41e7-a1df-0d90ce74d403",
+    "Filter": {
+        "Aehnlichkeit": 9,
+        "Farbe": [
+            396,
+            1773,
+            3592,
+            5067
+        ]
+    }
+}

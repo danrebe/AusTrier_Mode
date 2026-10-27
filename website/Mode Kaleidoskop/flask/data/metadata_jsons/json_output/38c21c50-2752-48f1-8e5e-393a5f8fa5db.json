@@ -1,0 +1,44 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30300/2",
+    "titel": "Modebild: \"Pariserinnen mit Strohhüten, Sommerkleidern sowie lila und gelben Stiefeletten\"",
+    "Datum": "1823",
+    "Thema": [
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "chapelaria",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "neck-gear ~ clothing",
+        "Schal",
+        "Modebilder",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Biedermeier",
+        "Fashion",
+        "Frau",
+        "Mode",
+        "woman",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47965/511853_default.webp",
+    "accessoires": [
+        "Schal"
+    ],
+    "id": "38c21c50-2752-48f1-8e5e-393a5f8fa5db",
+    "Filter": {
+        "Aehnlichkeit": 332,
+        "Farbe": [
+            1297,
+            3181,
+            4738,
+            5920,
+            6334,
+            9895,
+            10568
+        ]
+    }
+}

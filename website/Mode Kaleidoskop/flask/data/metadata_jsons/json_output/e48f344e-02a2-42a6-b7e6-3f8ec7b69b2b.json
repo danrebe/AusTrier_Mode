@@ -1,0 +1,42 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30452",
+    "titel": "Modebild: \"Französin mit Federhut, gelber Robe, Schal und Schirm\"",
+    "Datum": "1822",
+    "Thema": [
+        "dress, gown",
+        "fashion plates",
+        "(Damen-)Kleid",
+        "Schal",
+        "被り物",
+        "head-gear",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "neck-gear ~ clothing",
+        "Modebilder",
+        "Biedermeier",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "woman",
+        "Frau",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48592/512093_default.webp",
+    "accessoires": [
+        "Schal"
+    ],
+    "id": "e48f344e-02a2-42a6-b7e6-3f8ec7b69b2b",
+    "Filter": {
+        "Aehnlichkeit": 1601,
+        "Farbe": [
+            1687,
+            3517,
+            5018,
+            6765,
+            7199
+        ]
+    }
+}

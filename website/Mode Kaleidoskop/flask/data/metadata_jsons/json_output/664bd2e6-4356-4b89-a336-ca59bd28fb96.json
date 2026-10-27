@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30156",
+    "titel": "Modebild: \"Zwei Damen mit Samthut und Federkopfputz\"",
+    "Datum": "1801",
+    "Thema": [
+        "dress, gown",
+        "(Damen-)Kleid",
+        "head-gear",
+        "被り物",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "chapelaria",
+        "copricapo",
+        "fashion plates",
+        "woman",
+        "Bourgeoisie",
+        "Fashion",
+        "Frau",
+        "Bürgertum",
+        "Modebilder",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47515/511615_default.webp",
+    "id": "664bd2e6-4356-4b89-a336-ca59bd28fb96",
+    "Filter": {
+        "Aehnlichkeit": 406,
+        "Farbe": [
+            229,
+            1320,
+            6626,
+            9085,
+            9904,
+            10991
+        ]
+    }
+}

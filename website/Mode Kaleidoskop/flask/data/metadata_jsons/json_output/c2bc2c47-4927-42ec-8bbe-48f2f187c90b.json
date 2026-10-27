@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31741",
+    "titel": "Modebild: Zwei Figuren, Damenkleider",
+    "Datum": "1835",
+    "Thema": [
+        "fashion plates",
+        "Modebilder",
+        "(Damen-)Kleid",
+        "head-gear",
+        "被り物",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "dress, gown",
+        "Fashion",
+        "Frau",
+        "Bourgeoisie",
+        "Bürgertum",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55821/614763_default.webp",
+    "id": "c2bc2c47-4927-42ec-8bbe-48f2f187c90b",
+    "Filter": {
+        "Aehnlichkeit": 1294,
+        "Farbe": [
+            2196,
+            6031,
+            6261,
+            6970,
+            7713,
+            9420,
+            9651
+        ]
+    }
+}

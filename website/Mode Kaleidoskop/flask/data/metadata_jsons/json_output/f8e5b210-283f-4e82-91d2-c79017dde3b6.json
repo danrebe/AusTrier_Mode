@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30534",
+    "titel": "Modebild: \"Zwei Pariserinnen mit Kapotthütchen und Redingoten\"",
+    "Datum": "1827",
+    "Thema": [
+        "fashion plates",
+        "Kopfbedeckung",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "被り物",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Modebilder",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Fashion",
+        "Bürgertum",
+        "woman",
+        "Mode",
+        "Frau"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48851/512225_default.webp",
+    "id": "f8e5b210-283f-4e82-91d2-c79017dde3b6",
+    "Filter": {
+        "Aehnlichkeit": 475,
+        "Farbe": [
+            1826,
+            3634,
+            5102,
+            10080,
+            10847,
+            11036
+        ]
+    }
+}

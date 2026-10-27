@@ -1,0 +1,47 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31982",
+    "titel": "Modebild: Zwei Figuren, festl. Herren- und Damenmoden",
+    "Datum": "1841",
+    "Thema": [
+        "chapelaria",
+        "(Damen-)Kleid",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Kleidung für offizielle Anlässe",
+        "dress, gown",
+        "dandy, beau",
+        "Dandy, Beau, Geck",
+        "Jacke, Mantel",
+        "coat",
+        "clothes for official occasions",
+        "woman",
+        "Nachtleben",
+        "Frau",
+        "Bourgeoisie",
+        "Fashion",
+        "Bürgertum",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Modebilder",
+        "Mode",
+        "fashion plates",
+        "Nightlife",
+        "Mann",
+        "Public Festivals and Celebrations",
+        "man"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/57050/510941_default.webp",
+    "id": "21bba6b5-4017-40cd-ae4e-e3352c5696b7",
+    "Filter": {
+        "Aehnlichkeit": 500,
+        "Farbe": [
+            811,
+            2747,
+            4238,
+            5455
+        ]
+    }
+}

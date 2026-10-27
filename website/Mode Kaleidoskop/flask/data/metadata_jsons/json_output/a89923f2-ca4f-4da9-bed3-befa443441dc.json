@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30122",
+    "titel": "Modebild: \"Englische Hut- und Haubenmoden\"",
+    "Datum": "1801",
+    "Thema": [
+        "Modebilder",
+        "fashion plates",
+        "head-gear",
+        "被り物",
+        "Kopfbedeckung",
+        "chapelaria",
+        "couvre-chef",
+        "copricapo",
+        "(Damen-)Kleid",
+        "Bourgeoisie",
+        "Fashion",
+        "Bürgertum",
+        "Frau",
+        "woman",
+        "Mode",
+        "dress, gown"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47412/511557_default.webp",
+    "id": "a89923f2-ca4f-4da9-bed3-befa443441dc",
+    "Filter": {
+        "Aehnlichkeit": 979,
+        "Farbe": [
+            1248,
+            3143,
+            4698,
+            5630,
+            6130,
+            6598
+        ]
+    }
+}

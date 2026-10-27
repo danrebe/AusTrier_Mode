@@ -1,0 +1,44 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30361",
+    "titel": "Modebild: \"Französische Dame in Hofkleidung und geschmückter Frisur\"",
+    "Datum": "1810",
+    "Thema": [
+        "Kleidung für offizielle Anlässe",
+        "clothes for official occasions",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Mode",
+        "Frisur",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "hairdress",
+        "Bourgeoisie",
+        "Frau",
+        "Bürgertum",
+        "Court Life",
+        "Adel",
+        "Aristocracy",
+        "Fashion",
+        "Modebilder",
+        "fashion plates",
+        "woman",
+        "Höfisches Leben"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48294/511951_default.webp",
+    "id": "876c79ca-e2a8-4f1d-81f8-c73484ac5a16",
+    "Filter": {
+        "Aehnlichkeit": 1290,
+        "Farbe": [
+            1064,
+            6534,
+            7437,
+            8402,
+            8999
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30772",
+    "titel": "Modebild: Zwei Figuren, Redingoten aus Musselin mit Stickerei",
+    "Datum": "1830",
+    "Thema": [
+        "fashion plates",
+        "(Damen-)Kleid",
+        "Modebilder",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "dress, gown",
+        "Fashion",
+        "Biedermeier",
+        "Bürgertum",
+        "Frau",
+        "Bourgeoisie",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49570/512583_default.webp",
+    "id": "960e9ded-6ab0-473a-9a93-76474f32a7aa",
+    "Filter": {
+        "Aehnlichkeit": 147,
+        "Farbe": [
+            2241,
+            3982,
+            5355,
+            8664,
+            11002
+        ]
+    }
+}

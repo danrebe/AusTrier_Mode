@@ -1,0 +1,52 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31310",
+    "titel": "Modebild: Fünf Figuren, Damen-, Herren- und Kindermoden",
+    "Datum": "1852",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dandy, beau",
+        "Dandy, Beau, Geck",
+        "fashion plates",
+        "Modebilder",
+        "coat",
+        "Jacke, Mantel",
+        "dress, gown",
+        "Mode",
+        "woman",
+        "fashion, clothing (+ boys' clothes)",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "girls dress",
+        "Fashion",
+        "Family",
+        "Bürgertum",
+        "Bourgeoisie",
+        "child",
+        "Familie",
+        "Kleidung für Mädchen",
+        "Frau",
+        "Kind",
+        "Mädchenkleid",
+        "Mann",
+        "man",
+        "fashion, clothing (+ girls' clothes)",
+        "Kleidung für Jungen"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54061/513207_default.webp",
+    "id": "e7740748-329c-4686-94a0-c3c9469f8c1a",
+    "Filter": {
+        "Aehnlichkeit": 1977,
+        "Farbe": [
+            831,
+            2776,
+            5864,
+            8333,
+            8952
+        ]
+    }
+}

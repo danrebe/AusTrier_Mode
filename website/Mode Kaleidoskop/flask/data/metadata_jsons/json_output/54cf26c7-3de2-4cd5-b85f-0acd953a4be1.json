@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31685",
+    "titel": "Modebild: Zwei Figuren, Damenmoden (Redingoten)",
+    "Datum": "1834",
+    "Thema": [
+        "Mode",
+        "fashion plates",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "copricapo",
+        "chapelaria",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Modebilder",
+        "Fashion",
+        "Bürgertum",
+        "Frau",
+        "Bourgeoisie",
+        "Biedermeier",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55454/614651_default.webp",
+    "id": "54cf26c7-3de2-4cd5-b85f-0acd953a4be1",
+    "Filter": {
+        "Aehnlichkeit": 1524,
+        "Farbe": [
+            409,
+            1798,
+            6804,
+            7210,
+            8037,
+            8576,
+            9251
+        ]
+    }
+}

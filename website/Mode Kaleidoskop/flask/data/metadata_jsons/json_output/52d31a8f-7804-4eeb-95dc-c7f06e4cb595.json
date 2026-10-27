@@ -1,0 +1,35 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30068",
+    "titel": "Modebild: \"Kapuzinermönch\"",
+    "Datum": "1788",
+    "Thema": [
+        "修道士, 会士",
+        "moines et frères",
+        "Mönch(e), Klosterbrüder",
+        "fashion plates",
+        "Modebilder",
+        "monge(s), frade(s)",
+        "man",
+        "Mann",
+        "professional clothes",
+        "Arbeitskleidung",
+        "monaco/i, frate/i",
+        "monk(s), friar(s)",
+        "Fashion",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/46980/511459_default.webp",
+    "id": "52d31a8f-7804-4eeb-95dc-c7f06e4cb595",
+    "Filter": {
+        "Aehnlichkeit": 1515,
+        "Farbe": [
+            843,
+            2788,
+            4246,
+            4365,
+            6465,
+            9727
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30757",
+    "titel": "Modebild: Zwei Figuren, Redingoten aus Gros de Berlin",
+    "Datum": "1830",
+    "Thema": [
+        "dress, gown",
+        "(Damen-)Kleid",
+        "fashion plates",
+        "Modebilder",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Frau",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Fashion",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49547/512563_default.webp",
+    "id": "b28a4285-cc2a-4747-a0d1-6d556f9e3e25",
+    "Filter": {
+        "Aehnlichkeit": 408,
+        "Farbe": [
+            580,
+            2280,
+            4011,
+            5368
+        ]
+    }
+}

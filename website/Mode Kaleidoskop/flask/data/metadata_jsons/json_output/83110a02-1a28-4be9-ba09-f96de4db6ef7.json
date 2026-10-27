@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30058",
+    "titel": "Modebild: \"Junge Dame in Promenadetoilette\"",
+    "Datum": "1786",
+    "Thema": [
+        "couvre-chef",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "head-gear",
+        "chapelaria",
+        "copricapo",
+        "Kopfbedeckung",
+        "被り物",
+        "woman",
+        "Frau",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "fashion plates",
+        "Modebilder",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/46960/511441_default.webp",
+    "id": "83110a02-1a28-4be9-ba09-f96de4db6ef7",
+    "Filter": {
+        "Aehnlichkeit": 1727,
+        "Farbe": [
+            147,
+            882,
+            4402,
+            9634,
+            10554,
+            10609,
+            11090
+        ]
+    }
+}

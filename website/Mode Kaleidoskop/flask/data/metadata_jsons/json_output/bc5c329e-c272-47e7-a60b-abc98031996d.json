@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30788",
+    "titel": "Modebild: Zwei Figuren, Seidenkleider",
+    "Datum": "1830",
+    "Thema": [
+        "dress, gown",
+        "(Damen-)Kleid",
+        "fashion plates",
+        "Modebilder",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Frau",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Fashion",
+        "Bürgertum",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49594/511353_default.webp",
+    "id": "bc5c329e-c272-47e7-a60b-abc98031996d",
+    "Filter": {
+        "Aehnlichkeit": 376,
+        "Farbe": [
+            2092,
+            3852,
+            5271,
+            6246
+        ]
+    }
+}

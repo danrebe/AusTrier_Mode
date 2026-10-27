@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31703",
+    "titel": "Modebild: Sechs weibliche  Hut- und Haarmoden",
+    "Datum": "1835",
+    "Thema": [
+        "Modebilder",
+        "couvre-chef",
+        "head-gear",
+        "accessories (~ clothing)",
+        "Kopfbedeckung",
+        "被り物",
+        "copricapo",
+        "chapelaria",
+        "Accessoires",
+        "Frau",
+        "fashion plates",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "hairdress",
+        "woman",
+        "Frisur",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55752/614687_default.webp",
+    "id": "ff7f9cc2-13fd-40dc-8bc0-d2e43cf8a1fc",
+    "Filter": {
+        "Aehnlichkeit": 2020,
+        "Farbe": [
+            636,
+            4083,
+            6440,
+            7041,
+            8128,
+            9506,
+            10313
+        ]
+    }
+}

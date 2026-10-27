@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30556",
+    "titel": "Modebild: Zwei Pariserinnen mit Redingote-Blouse in weiß und gelb",
+    "Datum": "1828",
+    "Thema": [
+        "Mode",
+        "woman",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Biedermeier",
+        "fashion plates",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "Frau",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48952/512257_default.webp",
+    "id": "6afbe699-e928-4704-860f-7cb604db4fba",
+    "Filter": {
+        "Aehnlichkeit": 377,
+        "Farbe": [
+            1743,
+            3563,
+            5045,
+            5976,
+            8569,
+            10055
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30540",
+    "titel": "Modebild: Zwei Pariserinnen in Crèpe-Kleidern in rosa und weiß, hochgesteckte Frisuren mit Blumen und Bändern",
+    "Datum": "1827",
+    "Thema": [
+        "fashion plates",
+        "woman",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Kopfbedeckung",
+        "被り物",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Modebilder",
+        "Bourgeoisie",
+        "Fashion",
+        "Biedermeier",
+        "Frau",
+        "Bürgertum",
+        "hairdress",
+        "Mode",
+        "Frisur"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48865/512233_default.webp",
+    "id": "773fb223-f16e-4467-bd61-1bd81575bc74",
+    "Filter": {
+        "Aehnlichkeit": 1058,
+        "Farbe": [
+            422,
+            1838,
+            3644,
+            5109,
+            5719,
+            5986,
+            6199
+        ]
+    }
+}

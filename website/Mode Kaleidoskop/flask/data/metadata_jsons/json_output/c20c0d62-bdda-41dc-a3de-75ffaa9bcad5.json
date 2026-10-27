@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30710",
+    "titel": "Modebild: Zwei Figuren, Kapotthut, weißes Musselinkleid, blaue Kreuzbandschuhe",
+    "Datum": "1829",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "fashion plates",
+        "Modebilder",
+        "Kopfbedeckung",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "被り物",
+        "Mode",
+        "Frau",
+        "Fashion",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Bürgertum",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49425/512489_default.webp",
+    "id": "c20c0d62-bdda-41dc-a3de-75ffaa9bcad5",
+    "Filter": {
+        "Aehnlichkeit": 130,
+        "Farbe": [
+            243,
+            1393,
+            3261,
+            4821
+        ]
+    }
+}

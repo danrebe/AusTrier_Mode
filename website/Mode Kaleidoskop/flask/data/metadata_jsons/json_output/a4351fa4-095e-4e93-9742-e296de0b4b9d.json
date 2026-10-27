@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31040",
+    "titel": "Modebild: Zwei Damenmoden von Longchamps",
+    "Datum": "1826",
+    "Thema": [
+        "dress, gown",
+        "Mode",
+        "(Damen-)Kleid",
+        "Modebilder",
+        "couvre-chef",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "chapelaria",
+        "fashion plates",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Frau",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/51066/513483_default.webp",
+    "id": "a4351fa4-095e-4e93-9742-e296de0b4b9d",
+    "Filter": {
+        "Aehnlichkeit": 1236,
+        "Farbe": [
+            1954,
+            6218,
+            6873,
+            9320,
+            10953
+        ]
+    }
+}

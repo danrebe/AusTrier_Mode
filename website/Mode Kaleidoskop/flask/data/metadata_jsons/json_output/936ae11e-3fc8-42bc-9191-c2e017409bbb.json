@@ -1,0 +1,45 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30894",
+    "titel": "Modebild: Zwei Figuren, Abend- und Sommerreitkleid",
+    "Datum": "1832",
+    "Thema": [
+        "Modebilder",
+        "fashion plates",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Nightlife",
+        "Sport",
+        "woman",
+        "Kopfbedeckung",
+        "被り物",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Bourgeoisie",
+        "Nachtleben",
+        "Bürgertum",
+        "Erholung und Freizeit",
+        "Frau",
+        "Biedermeier",
+        "Fashion",
+        "Mode",
+        "Recreation and Leisure",
+        "Sports"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49992/512785_default.webp",
+    "id": "936ae11e-3fc8-42bc-9191-c2e017409bbb",
+    "Filter": {
+        "Aehnlichkeit": 1778,
+        "Farbe": [
+            1895,
+            3690,
+            5137,
+            6415,
+            6854,
+            7219,
+            7642
+        ]
+    }
+}

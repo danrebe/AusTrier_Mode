@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31879",
+    "titel": "Modebild: Hut- und Haarmoden (weiblich)",
+    "Datum": "1838",
+    "Thema": [
+        "chapelaria",
+        "Modebilder",
+        "fashion plates",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Accessoires",
+        "accessories (~ clothing)",
+        "Bourgeoisie",
+        "Fashion",
+        "Bürgertum",
+        "Frisur",
+        "woman",
+        "Frau",
+        "Mode",
+        "hairdress"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/56157/510659_default.webp",
+    "id": "d3006e04-a3b0-46f7-b860-52276c83b3e2",
+    "Filter": {
+        "Aehnlichkeit": 669,
+        "Farbe": [
+            2522,
+            4152,
+            6063,
+            6372,
+            7102,
+            7847,
+            9584
+        ]
+    }
+}

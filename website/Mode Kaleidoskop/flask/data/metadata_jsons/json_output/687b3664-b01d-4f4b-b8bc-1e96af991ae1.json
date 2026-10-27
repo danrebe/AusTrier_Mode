@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31447",
+    "titel": "Modebild: Zwei Figuren, Abend- und  Ausgehkleid",
+    "Datum": "1829",
+    "Thema": [
+        "couvre-chef",
+        "copricapo",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Nightlife",
+        "Mode",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "chapelaria",
+        "Biedermeier",
+        "woman",
+        "Fashion",
+        "Bourgeoisie",
+        "Frau",
+        "Bürgertum",
+        "Nachtleben",
+        "fashion plates",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55092/513905_default.webp",
+    "id": "687b3664-b01d-4f4b-b8bc-1e96af991ae1",
+    "Filter": {
+        "Aehnlichkeit": 394,
+        "Farbe": [
+            1445,
+            3308,
+            4866,
+            5654,
+            7510,
+            10818
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30797",
+    "titel": "Modebild: Zwei Figuren, Kleider in gelb und blau mit Schinkenärmeln",
+    "Datum": "1830",
+    "Thema": [
+        "fashion plates",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Kopfbedeckung",
+        "被り物",
+        "chapelaria",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Modebilder",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Fashion",
+        "Bürgertum",
+        "Mode",
+        "woman",
+        "Frau"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49603/511361_default.webp",
+    "id": "f7f81b3e-62fb-4804-8233-9b28e4d07bf3",
+    "Filter": {
+        "Aehnlichkeit": 113,
+        "Farbe": [
+            495,
+            2076,
+            3840,
+            5260,
+            8627,
+            10180,
+            10877
+        ]
+    }
+}

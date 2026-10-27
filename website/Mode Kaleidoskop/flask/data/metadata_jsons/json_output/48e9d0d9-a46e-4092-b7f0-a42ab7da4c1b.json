@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30814",
+    "titel": "Modebild: Zwei Figuren, Samtkleid und Samtmantel",
+    "Datum": "1830",
+    "Thema": [
+        "被り物",
+        "copricapo",
+        "coat",
+        "Jacke, Mantel",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Kopfbedeckung",
+        "head-gear",
+        "chapelaria",
+        "couvre-chef",
+        "Frau",
+        "Mode",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Fashion",
+        "Bürgertum",
+        "fashion plates",
+        "Modebilder",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49691/512627_default.webp",
+    "id": "48e9d0d9-a46e-4092-b7f0-a42ab7da4c1b",
+    "Filter": {
+        "Aehnlichkeit": 1115,
+        "Farbe": [
+            483,
+            2047,
+            3816,
+            5240
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30650",
+    "titel": "Modebild: Zwei Damen in Kleidern aus Gros des Indes in blau und rosa; Frisur mit Perlen und Schleifen",
+    "Datum": "1829",
+    "Thema": [
+        "Modebilder",
+        "fashion plates",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "被り物",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "copricapo",
+        "head-gear",
+        "chapelaria",
+        "Frisur",
+        "hairdress",
+        "Bürgertum",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Fashion",
+        "Frau",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49217/511279_default.webp",
+    "id": "d645e086-12ba-4732-8bd9-b3360e4c7027",
+    "Filter": {
+        "Aehnlichkeit": 114,
+        "Farbe": [
+            443,
+            1912,
+            3704,
+            5153,
+            5728,
+            5999,
+            10855
+        ]
+    }
+}

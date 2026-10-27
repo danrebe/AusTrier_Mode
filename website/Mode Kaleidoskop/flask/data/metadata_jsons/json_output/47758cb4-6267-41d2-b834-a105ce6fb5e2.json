@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31918",
+    "titel": "Modebild: Zwei Figuren, Damenmoden, Umhänge",
+    "Datum": "1839",
+    "Thema": [
+        "copricapo",
+        "cape",
+        "coat",
+        "Jacke, Mantel",
+        "Umhang, Cape",
+        "dress, gown",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "(Damen-)Kleid",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "Frau",
+        "Modebilder",
+        "fashion plates",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/56464/510849_default.webp",
+    "id": "47758cb4-6267-41d2-b834-a105ce6fb5e2",
+    "Filter": {
+        "Aehnlichkeit": 723,
+        "Farbe": [
+            665,
+            2462,
+            4121,
+            9543,
+            10339,
+            10977
+        ]
+    }
+}

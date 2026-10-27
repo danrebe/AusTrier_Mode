@@ -1,0 +1,51 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30527",
+    "titel": "Modebild: \"Zwei Pariserinnen mit Ballfrisuren und Tanzkleidern\"",
+    "Datum": "1827",
+    "Thema": [
+        "Öffentliche Feste und Feierlichkeiten",
+        "hairdress",
+        "Frisur",
+        "Nachtleben",
+        "Nightlife",
+        "Kopfbedeckung",
+        "Public Festivals and Celebrations",
+        "Tanz",
+        "woman",
+        "fashion plates",
+        "Modebilder",
+        "Mode",
+        "couvre-chef",
+        "被り物",
+        "Bräuche",
+        "Bourgeoisie",
+        "Costums",
+        "Bürgertum",
+        "Frau",
+        "Biedermeier",
+        "Dance",
+        "Fashion",
+        "head-gear",
+        "copricapo",
+        "(Damen-)Kleid",
+        "dress, gown: ball gown",
+        "Ballkleid",
+        "chapelaria",
+        "dress, gown"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48826/512211_default.webp",
+    "id": "0c987890-d70d-46a6-8546-3b2c7a48c470",
+    "Filter": {
+        "Aehnlichkeit": 369,
+        "Farbe": [
+            1815,
+            3625,
+            5096,
+            6810,
+            10075,
+            11058,
+            11133
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30227",
+    "titel": "Modebild: \"Vier Mützen und Vier Frisurbeispiele aus Frankreich\"",
+    "Datum": "1816",
+    "Thema": [
+        "fashion plates",
+        "Modebilder",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Mode",
+        "Nachtleben",
+        "woman",
+        "head-gear",
+        "被り物",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Tanz",
+        "Bürgertum",
+        "Biedermeier",
+        "Fashion",
+        "Dance",
+        "Bourgeoisie",
+        "Frau",
+        "Frisur",
+        "Nightlife",
+        "hairdress"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47718/1759469_default.webp",
+    "id": "b8a76a6c-c941-4ed7-8075-7023de7fb31e",
+    "Filter": {
+        "Aehnlichkeit": 1873,
+        "Farbe": [
+            1309,
+            3191,
+            6621,
+            7982,
+            9082,
+            9899
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30040",
+    "titel": "Modebild: \"Evening Dress\"",
+    "Datum": "1830",
+    "Thema": [
+        "(Damen-)Kleid",
+        "fashion plates",
+        "dress, gown",
+        "Modebilder",
+        "chapelaria",
+        "woman",
+        "copricapo",
+        "couvre-chef",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "Tanz",
+        "Nightlife",
+        "Mode",
+        "Biedermeier",
+        "Fashion",
+        "Bürgertum",
+        "Frau",
+        "Bourgeoisie",
+        "Dance",
+        "Nachtleben"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/46878/511409_default.webp",
+    "id": "b2f6e9e6-584e-4b16-a8c9-375cea763863",
+    "Filter": {
+        "Aehnlichkeit": 1054,
+        "Farbe": [
+            2245,
+            3985,
+            5357,
+            10889,
+            11170,
+            11201
+        ]
+    }
+}

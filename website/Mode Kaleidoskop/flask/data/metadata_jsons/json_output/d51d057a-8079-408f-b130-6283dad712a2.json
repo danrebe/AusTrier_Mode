@@ -1,0 +1,51 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31702",
+    "titel": "Modebild: Drei Figuren, Herrenhausanzug, Damen- und Mädchenkleid",
+    "Datum": "1834",
+    "Thema": [
+        "coat",
+        "Jacke, Mantel",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "dandy, beau",
+        "copricapo",
+        "Dandy, Beau, Geck",
+        "woman",
+        "Modebilder",
+        "fashion plates",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "Mädchenkleid",
+        "man",
+        "Bourgeoisie",
+        "child",
+        "Fashion",
+        "Bürgertum",
+        "Family",
+        "Familie",
+        "Frau",
+        "Mode",
+        "fashion, clothing (+ girls' clothes)",
+        "Kind",
+        "Mann",
+        "Kleidung für Mädchen",
+        "girls dress"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55751/614685_default.webp",
+    "id": "d51d057a-8079-408f-b130-6283dad712a2",
+    "Filter": {
+        "Aehnlichkeit": 722,
+        "Farbe": [
+            336,
+            1656,
+            6752,
+            7578,
+            9190,
+            11023
+        ]
+    }
+}

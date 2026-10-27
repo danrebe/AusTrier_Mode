@@ -1,0 +1,44 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31137",
+    "titel": "Modebild: Drei Damenmoden, Damen- und Herrenreitanzug",
+    "Datum": "1841",
+    "Thema": [
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "被り物",
+        "dress, gown",
+        "Jacke, Mantel",
+        "coat",
+        "dandy, beau",
+        "(Damen-)Kleid",
+        "fashion plates",
+        "Dandy, Beau, Geck",
+        "Mann",
+        "Recreation and Leisure",
+        "man",
+        "woman",
+        "Mode",
+        "Bürgertum",
+        "Modebilder",
+        "Bourgeoisie",
+        "Fashion",
+        "Erholung und Freizeit",
+        "Frau"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53550/513041_default.webp",
+    "id": "3d10d6c4-9d9d-4409-a15b-afe898c51eba",
+    "Filter": {
+        "Aehnlichkeit": 84,
+        "Farbe": [
+            2436,
+            5803,
+            7810,
+            8739,
+            9704
+        ]
+    }
+}

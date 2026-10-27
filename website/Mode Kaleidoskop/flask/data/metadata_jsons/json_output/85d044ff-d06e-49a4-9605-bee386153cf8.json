@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30506",
+    "titel": "Modebild: \"Pariser mit Zylinder, Frack, weißer Hose und schwarzen Schuhen\"",
+    "Datum": "1824",
+    "Thema": [
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Mode",
+        "fashion plates",
+        "copricapo",
+        "chapelaria",
+        "Kleidung für den Unterkörper",
+        "clothing for the lower part of the body",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Fashion",
+        "Modebilder",
+        "man",
+        "Mann"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48713/512179_default.webp",
+    "id": "85d044ff-d06e-49a4-9605-bee386153cf8",
+    "Filter": {
+        "Aehnlichkeit": 1739,
+        "Farbe": [
+            399,
+            1776,
+            3594,
+            5069
+        ]
+    }
+}

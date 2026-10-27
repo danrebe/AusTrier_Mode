@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30935",
+    "titel": "Modebild: Englische Damenmode, sechs weibliche  Hutmoden",
+    "Datum": "1816",
+    "Thema": [
+        "Modebilder",
+        "(Damen-)Kleid",
+        "fashion plates",
+        "dress, gown",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Bürgertum",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Fashion",
+        "woman",
+        "Frau",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/50098/513367_default.webp",
+    "id": "f75ef612-0f6c-4657-9e2b-d63d0ffa57e8",
+    "Filter": {
+        "Aehnlichkeit": 2003,
+        "Farbe": [
+            1212,
+            3109,
+            6581,
+            9049,
+            9863
+        ]
+    }
+}

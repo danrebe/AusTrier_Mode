@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30665",
+    "titel": "Modebild: Zwei Figuren, Samthüte, Samtkleid, Satinmantel",
+    "Datum": "1829",
+    "Thema": [
+        "couvre-chef",
+        "head-gear",
+        "(Damen-)Kleid",
+        "coat",
+        "Jacke, Mantel",
+        "Modebilder",
+        "fashion plates",
+        "被り物",
+        "Kopfbedeckung",
+        "copricapo",
+        "chapelaria",
+        "dress, gown",
+        "Bourgeoisie",
+        "Fashion",
+        "Biedermeier",
+        "Bürgertum",
+        "Frau",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49327/512421_default.webp",
+    "id": "a78133b4-7b67-4213-9331-ac150c758d1a",
+    "Filter": {
+        "Aehnlichkeit": 141,
+        "Farbe": [
+            477,
+            2034,
+            3805,
+            5229
+        ]
+    }
+}

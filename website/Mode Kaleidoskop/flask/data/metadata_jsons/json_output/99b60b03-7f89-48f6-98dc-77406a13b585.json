@@ -1,0 +1,35 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30193",
+    "titel": "Modebild: \"Dame in blauer Seidenrobe\"",
+    "Datum": "1808",
+    "Thema": [
+        "dress, gown",
+        "fashion plates",
+        "Modebilder",
+        "couvre-chef",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "chapelaria",
+        "(Damen-)Kleid",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "Frau",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47621/1759435_default.webp",
+    "id": "99b60b03-7f89-48f6-98dc-77406a13b585",
+    "Filter": {
+        "Aehnlichkeit": 289,
+        "Farbe": [
+            163,
+            974,
+            2908,
+            4489
+        ]
+    }
+}

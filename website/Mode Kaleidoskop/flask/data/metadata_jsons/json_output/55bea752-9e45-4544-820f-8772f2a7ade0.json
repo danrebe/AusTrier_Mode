@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30141",
+    "titel": "Modebild: \"Junge Dame in Perkalkleid\"",
+    "Datum": "1813",
+    "Thema": [
+        "dress, gown",
+        "(Damen-)Kleid",
+        "copricapo",
+        "couvre-chef",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "Modebilder",
+        "Frau",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "woman",
+        "Mode",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47477/511589_default.webp",
+    "id": "55bea752-9e45-4544-820f-8772f2a7ade0",
+    "Filter": {
+        "Aehnlichkeit": 1240,
+        "Farbe": [
+            1143,
+            4629,
+            8430,
+            9022,
+            9835
+        ]
+    }
+}

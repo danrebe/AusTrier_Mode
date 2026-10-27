@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30161",
+    "titel": "Modebild: \"Zwei Damen mit Federbüschel, Schirm und Federhut\"",
+    "Datum": "1801",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "被り物",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "Modebilder",
+        "fashion plates",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "Mode",
+        "Frau",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47520/511059_default.webp",
+    "id": "cfb2850d-3e09-4bfc-9c65-f246f2cfa858",
+    "Filter": {
+        "Aehnlichkeit": 1927,
+        "Farbe": [
+            1323,
+            3201,
+            9086,
+            9905,
+            11054
+        ]
+    }
+}

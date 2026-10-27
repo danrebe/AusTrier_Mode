@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30223",
+    "titel": "Modebild: \"Französische Dame im Übermantel und Hut\"",
+    "Datum": "1816",
+    "Thema": [
+        "chapelaria",
+        "Jacke, Mantel",
+        "coat",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Tanz",
+        "Nachtleben",
+        "couvre-chef",
+        "copricapo",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Modebilder",
+        "woman",
+        "Fashion",
+        "Bürgertum",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Frau",
+        "Dance",
+        "fashion plates",
+        "Nightlife",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47709/1759465_default.webp",
+    "id": "70afe4c1-ca83-4bc2-b5af-614902933f84",
+    "Filter": {
+        "Aehnlichkeit": 1668,
+        "Farbe": [
+            291,
+            1508,
+            3363,
+            4905,
+            9658
+        ]
+    }
+}

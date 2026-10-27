@@ -1,0 +1,33 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30771",
+    "titel": "Modebild: Sechs weibliche  Hut- und Haubenmoden",
+    "Datum": "1830",
+    "Thema": [
+        "Modebilder",
+        "chapelaria",
+        "被り物",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "fashion plates",
+        "Bürgertum",
+        "Biedermeier",
+        "Fashion",
+        "Bourgeoisie",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49569/511337_default.webp",
+    "id": "3883bedf-3976-4bf9-a3c2-046d6f6af4f1",
+    "Filter": {
+        "Aehnlichkeit": 607,
+        "Farbe": [
+            2125,
+            3881,
+            5291,
+            6022,
+            10195
+        ]
+    }
+}

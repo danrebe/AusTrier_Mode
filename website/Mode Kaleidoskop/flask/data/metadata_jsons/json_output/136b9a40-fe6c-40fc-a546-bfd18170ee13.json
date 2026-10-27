@@ -1,0 +1,46 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31221",
+    "titel": "Modebild: Sechs Figuren, Damen- und Kindermoden",
+    "Datum": "1844",
+    "Thema": [
+        "Mädchenkleid",
+        "Frau",
+        "Kleidung für Mädchen",
+        "fashion, clothing (+ boys' clothes)",
+        "Fashion",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Bürgertum",
+        "child",
+        "girls dress",
+        "fashion plates",
+        "Modebilder",
+        "woman",
+        "Kind",
+        "Mode",
+        "fashion, clothing (+ girls' clothes)",
+        "Kleidung für Jungen",
+        "chapelaria",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53868/513121_default.webp",
+    "id": "136b9a40-fe6c-40fc-a546-bfd18170ee13",
+    "Filter": {
+        "Aehnlichkeit": 929,
+        "Farbe": [
+            766,
+            2661,
+            7358,
+            8268,
+            8885,
+            10450
+        ]
+    }
+}

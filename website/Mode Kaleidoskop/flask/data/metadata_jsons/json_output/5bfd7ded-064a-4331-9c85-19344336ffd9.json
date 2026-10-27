@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30489",
+    "titel": "Modebild: \"Pariserin mit Haube und weißem Morgenrock aus Perkal\"",
+    "Datum": "1822",
+    "Thema": [
+        "fashion plates",
+        "woman",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "copricapo",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "chapelaria",
+        "Modebilder",
+        "Frau",
+        "Biedermeier",
+        "Fashion",
+        "Bürgertum",
+        "Mode",
+        "Bourgeoisie"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48685/512153_default.webp",
+    "id": "5bfd7ded-064a-4331-9c85-19344336ffd9",
+    "Filter": {
+        "Aehnlichkeit": 15,
+        "Farbe": [
+            196,
+            1110,
+            3027,
+            4601,
+            6315
+        ]
+    }
+}

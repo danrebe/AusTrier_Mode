@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31926",
+    "titel": "Modebild: Zwei Figuren, weibliche  Gesellschaftsmoden",
+    "Datum": "1839",
+    "Thema": [
+        "Kopfbedeckung",
+        "被り物",
+        "head-gear",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Modebilder",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Kleidung für offizielle Anlässe",
+        "clothes for official occasions",
+        "coat",
+        "fashion plates",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Frau",
+        "Fashion",
+        "Public Festivals and Celebrations",
+        "woman",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Jacke, Mantel",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/56475/510861_default.webp",
+    "id": "974b4a09-9159-4d23-bdd9-fc8d5bab6020",
+    "Filter": {
+        "Aehnlichkeit": 1783,
+        "Farbe": [
+            2381,
+            4073,
+            8121,
+            9499,
+            10302,
+            10602
+        ]
+    }
+}

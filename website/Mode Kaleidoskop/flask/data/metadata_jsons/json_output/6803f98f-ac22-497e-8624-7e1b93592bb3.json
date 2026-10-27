@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31898",
+    "titel": "Modebild: Zwei Figuren, Promenadenkleider",
+    "Datum": "1839",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "couvre-chef",
+        "被り物",
+        "Kopfbedeckung",
+        "chapelaria",
+        "copricapo",
+        "head-gear",
+        "Bürgertum",
+        "Mode",
+        "Bourgeoisie",
+        "Fashion",
+        "Frau",
+        "fashion plates",
+        "woman",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/56187/510821_default.webp",
+    "id": "6803f98f-ac22-497e-8624-7e1b93592bb3",
+    "Filter": {
+        "Aehnlichkeit": 1142,
+        "Farbe": [
+            2328,
+            5389,
+            7013,
+            7759,
+            8692,
+            10600
+        ]
+    }
+}

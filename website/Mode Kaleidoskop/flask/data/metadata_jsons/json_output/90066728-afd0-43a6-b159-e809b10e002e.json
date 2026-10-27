@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31109",
+    "titel": "Modebild: Fünf Damen- und Hutmoden",
+    "Datum": "1841",
+    "Thema": [
+        "Modebilder",
+        "head-gear",
+        "accessories (~ clothing)",
+        "Accessoires",
+        "被り物",
+        "Kopfbedeckung",
+        "chapelaria",
+        "couvre-chef",
+        "copricapo",
+        "Fashion",
+        "woman",
+        "Frau",
+        "Bürgertum",
+        "Frisur",
+        "Bourgeoisie",
+        "fashion plates",
+        "Mode",
+        "hairdress"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53465/513555_default.webp",
+    "id": "90066728-afd0-43a6-b159-e809b10e002e",
+    "Filter": {
+        "Aehnlichkeit": 67,
+        "Farbe": [
+            5787,
+            7253,
+            7760,
+            8106,
+            8693,
+            10274,
+            10649
+        ]
+    }
+}

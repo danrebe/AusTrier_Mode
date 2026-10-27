@@ -1,0 +1,49 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30890",
+    "titel": "Modebild: Zwei Figuren, Ball- und Ausgehkleid",
+    "Datum": "1830",
+    "Thema": [
+        "copricapo",
+        "fashion plates",
+        "Modebilder",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Ballkleid",
+        "dress, gown: ball gown",
+        "Mode",
+        "Kleidung für offizielle Anlässe",
+        "clothes for official occasions",
+        "chapelaria",
+        "被り物",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Biedermeier",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Dance",
+        "Costums",
+        "Bräuche",
+        "Tanz",
+        "Nachtleben",
+        "Public Festivals and Celebrations",
+        "Frau",
+        "woman",
+        "Nightlife"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49985/512777_default.webp",
+    "id": "dd71f068-5bc9-49f2-bdc8-4982e00ab179",
+    "Filter": {
+        "Aehnlichkeit": 188,
+        "Farbe": [
+            2007,
+            3784,
+            5213,
+            10153,
+            10867
+        ]
+    }
+}

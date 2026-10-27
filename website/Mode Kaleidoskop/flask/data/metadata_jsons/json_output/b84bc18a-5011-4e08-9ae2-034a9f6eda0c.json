@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30382",
+    "titel": "Modebild: \"Pariserin in Merinoanzug und Schal\"",
+    "Datum": "1817",
+    "Thema": [
+        "fashion plates",
+        "Modebilder",
+        "head-gear",
+        "woman",
+        "Schal",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "Kopfbedeckung",
+        "被り物",
+        "neck-gear ~ clothing",
+        "dress, gown",
+        "Biedermeier",
+        "Bürgertum",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "(Damen-)Kleid",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48365/511983_default.webp",
+    "accessoires": [
+        "Schal"
+    ],
+    "id": "b84bc18a-5011-4e08-9ae2-034a9f6eda0c",
+    "Filter": {
+        "Aehnlichkeit": 211,
+        "Farbe": [
+            1333,
+            3209,
+            4321,
+            4768
+        ]
+    }
+}

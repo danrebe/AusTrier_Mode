@@ -1,0 +1,34 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30429",
+    "titel": "Modebild: \"sechs Pariser Damenhüte aus Gaze und Crepe mit Zierat\"",
+    "Datum": "1822",
+    "Thema": [
+        "fashion plates",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Kopfbedeckung",
+        "被り物",
+        "Modebilder",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Fashion",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48545/511177_default.webp",
+    "id": "703428a8-bae2-487c-a6a2-a0650916c50a",
+    "Filter": {
+        "Aehnlichkeit": 1665,
+        "Farbe": [
+            1159,
+            4637,
+            5618,
+            6111,
+            6558,
+            9031
+        ]
+    }
+}

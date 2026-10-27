@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30253",
+    "titel": "Modebild: \"Wienerin mit Tafthut, Pariserin in großer Toilette\"",
+    "Datum": "1816",
+    "Thema": [
+        "woman",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "被り物",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Kopfbedeckung",
+        "Mode",
+        "Bourgeoisie",
+        "Frau",
+        "Fashion",
+        "Biedermeier",
+        "Bürgertum",
+        "fashion plates",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47812/1759495_default.webp",
+    "id": "8cde85e0-055b-4500-b1b3-23dd5bd4b28d",
+    "Filter": {
+        "Aehnlichkeit": 470,
+        "Farbe": [
+            1570,
+            3416,
+            4955,
+            9988
+        ]
+    }
+}

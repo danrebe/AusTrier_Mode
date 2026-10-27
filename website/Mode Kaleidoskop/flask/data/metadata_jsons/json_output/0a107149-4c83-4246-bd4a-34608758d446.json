@@ -1,0 +1,35 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31344",
+    "titel": "Modebild: Zwei Figuren, Frühlingskleider",
+    "Datum": "1806",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "chapelaria",
+        "copricapo",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "Frau",
+        "woman",
+        "Mode",
+        "fashion plates",
+        "Modebilder",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54186/513799_default.webp",
+    "id": "0a107149-4c83-4246-bd4a-34608758d446",
+    "Filter": {
+        "Aehnlichkeit": 673,
+        "Farbe": [
+            1180,
+            3084,
+            4299,
+            4651
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30925",
+    "titel": "Modebild: Drei Figuren,, Reitanzug, Festkleid, Tageskleid",
+    "Datum": "1816",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Tanz",
+        "Nightlife",
+        "Sport",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Public Festivals and Celebrations",
+        "Höfisches Leben",
+        "woman",
+        "Recreation and Leisure",
+        "被り物",
+        "Kleidung für offizielle Anlässe",
+        "clothes for official occasions",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "chapelaria",
+        "couvre-chef",
+        "Nachtleben",
+        "Frau",
+        "Biedermeier",
+        "Dance",
+        "Erholung und Freizeit",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "Court Life",
+        "fashion plates",
+        "Modebilder",
+        "Mode",
+        "Sports"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/50063/512839_default.webp",
+    "id": "51cd57b3-0d9f-4c02-8580-614595087392",
+    "Filter": {
+        "Aehnlichkeit": 1034,
+        "Farbe": [
+            215,
+            1227,
+            3122,
+            9060
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30354",
+    "titel": "Modebild: \"Französin mit Strohhut, Kinnband, Schultertuch und Anzug\"",
+    "Datum": "1807",
+    "Thema": [
+        "(Damen-)Kleid",
+        "fashion plates",
+        "Modebilder",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "head-gear",
+        "被り物",
+        "copricapo",
+        "chapelaria",
+        "Frau",
+        "dress, gown",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48272/511939_default.webp",
+    "id": "e2ed7168-2758-4f62-9ffe-e3ee2ad46f2d",
+    "Filter": {
+        "Aehnlichkeit": 19,
+        "Farbe": [
+            1306,
+            3188,
+            4747,
+            5570,
+            8478,
+            9081
+        ]
+    }
+}

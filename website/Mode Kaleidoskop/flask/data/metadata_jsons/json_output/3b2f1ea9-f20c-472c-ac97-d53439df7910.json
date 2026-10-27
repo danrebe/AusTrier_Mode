@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31692",
+    "titel": "Modebild: Vier Fig., Herrenmoden",
+    "Datum": "1834",
+    "Thema": [
+        "Jacke, Mantel",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "copricapo",
+        "chapelaria",
+        "coat",
+        "dandy, beau",
+        "Dandy, Beau, Geck",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "fashion plates",
+        "Mann",
+        "man",
+        "Modebilder",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55461/614665_default.webp",
+    "id": "3b2f1ea9-f20c-472c-ac97-d53439df7910",
+    "Filter": {
+        "Aehnlichkeit": 1369,
+        "Farbe": [
+            19,
+            1783,
+            3600,
+            6799,
+            9246,
+            10064
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30219",
+    "titel": "Modebild: \"Französische Damen mit Satin- und Velourhut\";",
+    "Datum": "1815",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "fashion plates",
+        "Modebilder",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "chapelaria",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Fashion",
+        "Frau",
+        "Bürgertum",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47691/1759461_default.webp",
+    "id": "a0486e0c-a1e4-4d49-9887-901811d56fd0",
+    "Filter": {
+        "Aehnlichkeit": 1129,
+        "Farbe": [
+            1050,
+            2978,
+            4554,
+            5886,
+            7433,
+            8398
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31761",
+    "titel": "Modebild: Drei Figuren, Herrenhausanzug, Knabenmoden",
+    "Datum": "1836",
+    "Thema": [
+        "coat",
+        "被り物",
+        "Jacke, Mantel",
+        "Modebilder",
+        "fashion plates",
+        "chapelaria",
+        "copricapo",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "head-gear",
+        "man",
+        "Mann",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "child",
+        "fashion, clothing (+ boys' clothes)",
+        "Kleidung für Jungen",
+        "Mode",
+        "Kind"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55850/614803_default.webp",
+    "id": "a58d6025-0298-48b8-b2b6-1d0937fc777f",
+    "Filter": {
+        "Aehnlichkeit": 1826,
+        "Farbe": [
+            2548,
+            5533,
+            7111,
+            8199,
+            9594,
+            10387
+        ]
+    }
+}

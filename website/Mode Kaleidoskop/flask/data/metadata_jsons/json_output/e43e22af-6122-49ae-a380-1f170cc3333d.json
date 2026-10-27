@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30205",
+    "titel": "Modebild: \"Französische Dame in gelbem Kleid vor einem Sessel\"",
+    "Datum": "1811",
+    "Thema": [
+        "copricapo",
+        "couvre-chef",
+        "Modebilder",
+        "fashion plates",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Biedermeier",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "Mode",
+        "Frau",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47636/1759447_default.webp",
+    "id": "e43e22af-6122-49ae-a380-1f170cc3333d",
+    "Filter": {
+        "Aehnlichkeit": 1310,
+        "Farbe": [
+            1255,
+            3148,
+            4701,
+            6603,
+            7475,
+            11022
+        ]
+    }
+}

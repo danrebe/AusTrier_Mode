@@ -1,0 +1,44 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31529",
+    "titel": "Modebild: Zwei Figuren, Herrenanzüge",
+    "Datum": "1832",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "dandy, beau",
+        "Dandy, Beau, Geck",
+        "Jacke, Mantel",
+        "coat",
+        "Kopfbedeckung",
+        "chapelaria",
+        "被り物",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "man",
+        "fashion plates",
+        "Biedermeier",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Frau",
+        "Mode",
+        "Modebilder",
+        "Mann",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55256/614335_default.webp",
+    "id": "60782310-c608-48fe-abbb-77330c67c1b7",
+    "Filter": {
+        "Aehnlichkeit": 1443,
+        "Farbe": [
+            2151,
+            3898,
+            6950,
+            8076,
+            9394,
+            10202
+        ]
+    }
+}

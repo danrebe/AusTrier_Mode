@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31695",
+    "titel": "Modebild: Zwei Figuren, Damenmoden",
+    "Datum": "1834",
+    "Thema": [
+        "Jacke, Mantel",
+        "coat",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "head-gear",
+        "copricapo",
+        "couvre-chef",
+        "chapelaria",
+        "Kopfbedeckung",
+        "被り物",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Frau",
+        "Fashion",
+        "fashion plates",
+        "woman",
+        "Mode",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55464/614671_default.webp",
+    "id": "64965f53-e39f-40d2-bd78-70f45fc88a8f",
+    "Filter": {
+        "Aehnlichkeit": 1615,
+        "Farbe": [
+            1779,
+            3597,
+            6404,
+            6797,
+            7205,
+            8031,
+            9244
+        ]
+    }
+}

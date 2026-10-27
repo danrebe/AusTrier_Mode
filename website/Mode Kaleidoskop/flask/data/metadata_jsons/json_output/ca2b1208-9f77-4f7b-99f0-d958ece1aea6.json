@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31381",
+    "titel": "Modebild: Eine Figur, Opernkleid",
+    "Datum": "1814",
+    "Thema": [
+        "chapelaria",
+        "Modebilder",
+        "fashion plates",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Oper",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Fashion",
+        "Mode",
+        "Biedermeier",
+        "Bürgertum",
+        "Theater",
+        "Frau",
+        "Bourgeoisie",
+        "Theatre",
+        "Opera",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54965/513283_default.webp",
+    "id": "ca2b1208-9f77-4f7b-99f0-d958ece1aea6",
+    "Filter": {
+        "Aehnlichkeit": 244,
+        "Farbe": [
+            1388,
+            3256,
+            4817,
+            9925,
+            10571
+        ]
+    }
+}

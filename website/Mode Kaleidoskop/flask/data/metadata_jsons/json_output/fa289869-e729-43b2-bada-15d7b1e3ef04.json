@@ -1,0 +1,51 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30303",
+    "titel": "Modebild: \"Französische Dame und Herr in Theaterkleidung mit Umhang und Mantel\"",
+    "Datum": "1823",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Jacke, Mantel",
+        "coat",
+        "Dandy, Beau, Geck",
+        "dandy, beau",
+        "cape",
+        "Umhang, Cape",
+        "Modebilder",
+        "head-gear",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "clothes for official occasions",
+        "Kleidung für offizielle Anlässe",
+        "被り物",
+        "Kopfbedeckung",
+        "Fashion",
+        "Nightlife",
+        "man",
+        "Frau",
+        "Bourgeoisie",
+        "Bürgertum",
+        "fashion plates",
+        "Biedermeier",
+        "woman",
+        "Theatre",
+        "Nachtleben",
+        "Theater",
+        "Mann",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48115/511859_default.webp",
+    "id": "fa289869-e729-43b2-bada-15d7b1e3ef04",
+    "Filter": {
+        "Aehnlichkeit": 1151,
+        "Farbe": [
+            227,
+            1307,
+            3189,
+            4748,
+            10804
+        ]
+    }
+}

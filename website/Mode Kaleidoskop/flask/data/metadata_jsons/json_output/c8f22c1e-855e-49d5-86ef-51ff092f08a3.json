@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30035",
+    "titel": "Modebild: \"Carriage Dress\"",
+    "Datum": "1829",
+    "Thema": [
+        "Modebilder",
+        "chapelaria",
+        "fashion plates",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "couvre-chef",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "Fashion",
+        "Bürgertum",
+        "Biedermeier",
+        "Frau",
+        "Bourgeoisie",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/46858/511401_default.webp",
+    "id": "c8f22c1e-855e-49d5-86ef-51ff092f08a3",
+    "Filter": {
+        "Aehnlichkeit": 1053,
+        "Farbe": [
+            1902,
+            3696,
+            5143,
+            10113
+        ]
+    }
+}

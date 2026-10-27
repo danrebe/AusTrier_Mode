@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31649",
+    "titel": "Modebild: Zwei Figuren, Brautkleider",
+    "Datum": "1834",
+    "Thema": [
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Kleidung für offizielle Anlässe",
+        "clothes for official occasions",
+        "Kleidung für spezielle Zwecke (Brautmode)",
+        "(Damen-)Kleid",
+        "Modebilder",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "fashion plates",
+        "Bräuche",
+        "Bourgeoisie",
+        "Frau",
+        "Costums",
+        "Bürgertum",
+        "Fashion",
+        "woman",
+        "Mode",
+        "dress, gown"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55418/614579_default.webp",
+    "id": "c129e89e-643b-49cc-b39b-a54061c35255",
+    "Filter": {
+        "Aehnlichkeit": 1539,
+        "Farbe": [
+            6205,
+            6832,
+            7217,
+            7634,
+            8589,
+            9277,
+            10094
+        ]
+    }
+}

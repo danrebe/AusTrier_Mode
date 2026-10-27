@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30659",
+    "titel": "Modebild: Zwei Wollmäntel mit zwei Satinhüten",
+    "Datum": "1829",
+    "Thema": [
+        "被り物",
+        "chapelaria",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "coat",
+        "Jacke, Mantel",
+        "fashion plates",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "woman",
+        "Bürgertum",
+        "Biedermeier",
+        "Fashion",
+        "Bourgeoisie",
+        "Frau",
+        "Modebilder",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49309/512411_default.webp",
+    "id": "7534e018-f09a-47d3-8f63-d6c4cd1376b4",
+    "Filter": {
+        "Aehnlichkeit": 138,
+        "Farbe": [
+            471,
+            2015,
+            3790,
+            5217,
+            10589,
+            11151
+        ]
+    }
+}

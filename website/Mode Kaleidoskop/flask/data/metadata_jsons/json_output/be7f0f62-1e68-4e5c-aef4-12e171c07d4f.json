@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30170",
+    "titel": "Modebild: \"Eine  Dame im Abendanzug - Evening Dress\"",
+    "Datum": "1798",
+    "Thema": [
+        "Kopfbedeckung",
+        "woman",
+        "dress, gown",
+        "Modebilder",
+        "fashion plates",
+        "(Damen-)Kleid",
+        "head-gear",
+        "被り物",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "Nightlife",
+        "Dance",
+        "Bourgeoisie",
+        "Frau",
+        "Fashion",
+        "Bürgertum",
+        "Tanz",
+        "Mode",
+        "Nachtleben"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47539/1759412_default.webp",
+    "id": "be7f0f62-1e68-4e5c-aef4-12e171c07d4f",
+    "Filter": {
+        "Aehnlichkeit": 1886,
+        "Farbe": [
+            1027,
+            2960,
+            6383,
+            7157,
+            7429,
+            8990
+        ]
+    }
+}

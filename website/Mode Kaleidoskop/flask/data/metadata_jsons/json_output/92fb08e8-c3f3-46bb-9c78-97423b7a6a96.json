@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30674",
+    "titel": "Modebild: Zwei Figuren, Kleider aus Organdy reich verziert, Schals und Hüte",
+    "Datum": "1829",
+    "Thema": [
+        "head-gear",
+        "couvre-chef",
+        "chapelaria",
+        "copricapo",
+        "fashion plates",
+        "Modebilder",
+        "dress, gown",
+        "Kopfbedeckung",
+        "Schal",
+        "被り物",
+        "neck-gear ~ clothing",
+        "Bourgeoisie",
+        "(Damen-)Kleid",
+        "Biedermeier",
+        "Fashion",
+        "Bürgertum",
+        "Frau",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49345/512435_default.webp",
+    "accessoires": [
+        "Schal"
+    ],
+    "id": "92fb08e8-c3f3-46bb-9c78-97423b7a6a96",
+    "Filter": {
+        "Aehnlichkeit": 592,
+        "Farbe": [
+            2050,
+            3819,
+            5243,
+            10168
+        ]
+    }
+}

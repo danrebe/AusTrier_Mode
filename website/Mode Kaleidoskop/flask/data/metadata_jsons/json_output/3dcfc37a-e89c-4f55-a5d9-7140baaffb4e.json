@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31575",
+    "titel": "Modebild: Drei Figuren, Herrenmoden und Schnittbeilage",
+    "Datum": "1832",
+    "Thema": [
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "Dandy, Beau, Geck",
+        "dandy, beau",
+        "copricapo",
+        "Jacke, Mantel",
+        "被り物",
+        "coat",
+        "chapelaria",
+        "Bourgeoisie",
+        "Mann",
+        "Modebilder",
+        "Biedermeier",
+        "Fashion",
+        "Bürgertum",
+        "man",
+        "fashion plates",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55332/614427_default.webp",
+    "id": "3dcfc37a-e89c-4f55-a5d9-7140baaffb4e",
+    "Filter": {
+        "Aehnlichkeit": 1398,
+        "Farbe": [
+            40,
+            2255,
+            3993,
+            9445,
+            10242
+        ]
+    }
+}

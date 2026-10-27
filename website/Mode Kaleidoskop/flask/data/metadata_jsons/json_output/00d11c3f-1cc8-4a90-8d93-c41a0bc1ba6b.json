@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30613",
+    "titel": "Modebild: Zwei Damen in weißen Musselinkleidern mit verzierten Hüten",
+    "Datum": "1828",
+    "Thema": [
+        "woman",
+        "couvre-chef",
+        "fashion plates",
+        "被り物",
+        "dress, gown",
+        "Biedermeier",
+        "Bürgertum",
+        "Fashion",
+        "Frau",
+        "head-gear",
+        "Bourgeoisie",
+        "Mode",
+        "Modebilder",
+        "(Damen-)Kleid",
+        "Kopfbedeckung",
+        "chapelaria",
+        "copricapo"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49078/512343_default.webp",
+    "id": "00d11c3f-1cc8-4a90-8d93-c41a0bc1ba6b",
+    "Filter": {
+        "Aehnlichkeit": 175,
+        "Farbe": [
+            1946,
+            3735,
+            5172,
+            6002
+        ]
+    }
+}

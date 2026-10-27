@@ -1,0 +1,42 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30313",
+    "titel": "Modebild: \"Pariserin mit italienischem Strohhut, Herr mit Castorhut und Peitsche\"",
+    "Datum": "1825",
+    "Thema": [
+        "Modebilder",
+        "fashion plates",
+        "Jacke, Mantel",
+        "Dandy, Beau, Geck",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "coat",
+        "Kopfbedeckung",
+        "被り物",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Biedermeier",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "woman",
+        "man",
+        "dandy, beau",
+        "Frau",
+        "Mann",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48141/511875_default.webp",
+    "id": "f18f445d-831d-4a1a-a0ba-05d7fbefc1f3",
+    "Filter": {
+        "Aehnlichkeit": 779,
+        "Farbe": [
+            2189,
+            3936,
+            5321,
+            8080
+        ]
+    }
+}

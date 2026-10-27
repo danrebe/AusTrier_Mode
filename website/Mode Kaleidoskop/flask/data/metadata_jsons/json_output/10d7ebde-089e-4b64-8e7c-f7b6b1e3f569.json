@@ -1,0 +1,35 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30121",
+    "titel": "Modebild: \"Hüte nach englischem und französischemGeschmack\"",
+    "Datum": "1801",
+    "Thema": [
+        "woman",
+        "Mode",
+        "Modebilder",
+        "fashion plates",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "Frau",
+        "dress, gown",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "couvre-chef",
+        "copricapo",
+        "(Damen-)Kleid",
+        "chapelaria"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47411/511555_default.webp",
+    "id": "10d7ebde-089e-4b64-8e7c-f7b6b1e3f569",
+    "Filter": {
+        "Aehnlichkeit": 728,
+        "Farbe": [
+            1247,
+            3142,
+            4309,
+            4697
+        ]
+    }
+}

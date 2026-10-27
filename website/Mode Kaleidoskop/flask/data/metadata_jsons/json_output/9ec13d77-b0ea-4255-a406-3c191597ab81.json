@@ -1,0 +1,35 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31368",
+    "titel": "Modebild: Eine Figur, Spaziergehkleid",
+    "Datum": "1813",
+    "Thema": [
+        "couvre-chef",
+        "dress, gown",
+        "fashion plates",
+        "Modebilder",
+        "chapelaria",
+        "copricapo",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "(Damen-)Kleid",
+        "Bourgeoisie",
+        "Frau",
+        "Fashion",
+        "Bürgertum",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54940/513269_default.webp",
+    "id": "9ec13d77-b0ea-4255-a406-3c191597ab81",
+    "Filter": {
+        "Aehnlichkeit": 1806,
+        "Farbe": [
+            1059,
+            2985,
+            4560,
+            8401
+        ]
+    }
+}

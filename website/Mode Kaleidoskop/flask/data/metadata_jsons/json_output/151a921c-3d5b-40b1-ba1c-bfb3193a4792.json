@@ -1,0 +1,45 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31367",
+    "titel": "Modebild: Eine Figur, Reitkleid (Long Champs Elisee)",
+    "Datum": "1807",
+    "Thema": [
+        "Modebilder",
+        "Kopfbedeckung",
+        "Pferd",
+        "fashion plates",
+        "Mode",
+        "woman",
+        "Tiere",
+        "被り物",
+        "(Damen-)Kleid",
+        "Frau",
+        "horse",
+        "cheval",
+        "cavalo",
+        "cavallo",
+        "馬",
+        "head-gear",
+        "dress, gown",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Animals",
+        "Fashion"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54938/513825_default.webp",
+    "id": "151a921c-3d5b-40b1-ba1c-bfb3193a4792",
+    "Filter": {
+        "Aehnlichkeit": 961,
+        "Farbe": [
+            1296,
+            4737,
+            6619,
+            7174,
+            10994,
+            11208
+        ]
+    }
+}

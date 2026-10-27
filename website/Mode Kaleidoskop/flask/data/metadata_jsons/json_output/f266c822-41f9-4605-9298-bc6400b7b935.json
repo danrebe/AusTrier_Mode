@@ -1,0 +1,49 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30876",
+    "titel": "Modebild: Zwei Figuren, Opern- und Abendkleid",
+    "Datum": "1830",
+    "Thema": [
+        "clothes for official occasions",
+        "copricapo",
+        "Modebilder",
+        "(Damen-)Kleid",
+        "fashion plates",
+        "dress, gown",
+        "Nachtleben",
+        "Nightlife",
+        "Mode",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "chapelaria",
+        "Kleidung für offizielle Anlässe",
+        "Theatre",
+        "Bürgertum",
+        "Biedermeier",
+        "Dance",
+        "Bourgeoisie",
+        "Fashion",
+        "Frau",
+        "Theater",
+        "Opera",
+        "Tanz",
+        "woman",
+        "Oper"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49925/512749_default.webp",
+    "id": "f266c822-41f9-4605-9298-bc6400b7b935",
+    "Filter": {
+        "Aehnlichkeit": 187,
+        "Farbe": [
+            2043,
+            3812,
+            5237,
+            5508,
+            5743,
+            6908,
+            7225
+        ]
+    }
+}

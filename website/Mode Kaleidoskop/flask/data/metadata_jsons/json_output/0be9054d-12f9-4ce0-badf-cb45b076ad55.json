@@ -1,0 +1,47 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31182",
+    "titel": "Modebild: Gesellschafts- und Ausgehkleider",
+    "Datum": "1843",
+    "Thema": [
+        "被り物",
+        "Fashion",
+        "Nachtleben",
+        "Public Festivals and Celebrations",
+        "Frisur",
+        "woman",
+        "fashion plates",
+        "Bourgeoisie",
+        "Frau",
+        "Biedermeier",
+        "Bürgertum",
+        "hairdress",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "chapelaria",
+        "copricapo",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Nightlife",
+        "Modebilder",
+        "Mode",
+        "Kleidung für offizielle Anlässe",
+        "clothes for official occasions",
+        "Accessoires",
+        "accessories (~ clothing)"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53810/513633_default.webp",
+    "id": "0be9054d-12f9-4ce0-badf-cb45b076ad55",
+    "Filter": {
+        "Aehnlichkeit": 738,
+        "Farbe": [
+            779,
+            2693,
+            7127,
+            8287,
+            9614,
+            10469,
+            10900
+        ]
+    }
+}

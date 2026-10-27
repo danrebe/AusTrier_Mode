@@ -1,0 +1,44 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30947",
+    "titel": "Modebild: Herren- und Damenmoden",
+    "Datum": "1821",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "coat",
+        "Jacke, Mantel",
+        "Dandy, Beau, Geck",
+        "dandy, beau",
+        "head-gear",
+        "被り物",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Fashion",
+        "woman",
+        "Biedermeier",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Frau",
+        "fashion plates",
+        "Mann",
+        "Mode",
+        "Modebilder",
+        "man"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/50133/512861_default.webp",
+    "id": "59c883f2-0263-4e96-a096-d8e56a137c70",
+    "Filter": {
+        "Aehnlichkeit": 1548,
+        "Farbe": [
+            1451,
+            3314,
+            6159,
+            6659,
+            7512,
+            9108
+        ]
+    }
+}

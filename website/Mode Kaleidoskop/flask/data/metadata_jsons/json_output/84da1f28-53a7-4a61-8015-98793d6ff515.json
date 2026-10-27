@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30067",
+    "titel": "Modebild: Hüte (Hauben), Schmuck, Mieder",
+    "Datum": "1788",
+    "Thema": [
+        "dress, gown",
+        "(Damen-)Kleid",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "woman",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Mode",
+        "Modebilder",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/46979/511457_default.webp",
+    "id": "84da1f28-53a7-4a61-8015-98793d6ff515",
+    "Filter": {
+        "Aehnlichkeit": 1734,
+        "Farbe": [
+            133,
+            851,
+            2796,
+            4372,
+            5591,
+            8339
+        ]
+    }
+}

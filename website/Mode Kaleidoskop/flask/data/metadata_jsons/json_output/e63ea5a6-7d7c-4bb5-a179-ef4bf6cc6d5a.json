@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31371",
+    "titel": "Modebild: Eine Figur, Abendkleid",
+    "Datum": "1813",
+    "Thema": [
+        "(Damen-)Kleid",
+        "Modebilder",
+        "fashion plates",
+        "couvre-chef",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "chapelaria",
+        "dress, gown",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Frau",
+        "woman",
+        "Nachtleben",
+        "Nightlife",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54946/513829_default.webp",
+    "id": "e63ea5a6-7d7c-4bb5-a179-ef4bf6cc6d5a",
+    "Filter": {
+        "Aehnlichkeit": 241,
+        "Farbe": [
+            1219,
+            3115,
+            6124,
+            6586,
+            7466,
+            9054
+        ]
+    }
+}

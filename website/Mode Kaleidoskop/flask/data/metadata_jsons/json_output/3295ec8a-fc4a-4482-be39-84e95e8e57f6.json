@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30593",
+    "titel": "Modebild: Dame mit reichgeschmückten Hut in weißer Redingote aus Musselin",
+    "Datum": "1828",
+    "Thema": [
+        "woman",
+        "chapelaria",
+        "(Damen-)Kleid",
+        "被り物",
+        "Kopfbedeckung",
+        "dress, gown",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Modebilder",
+        "Mode",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "Frau",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49056/512313_default.webp",
+    "id": "3295ec8a-fc4a-4482-be39-84e95e8e57f6",
+    "Filter": {
+        "Aehnlichkeit": 1312,
+        "Farbe": [
+            1819,
+            3628,
+            5098,
+            10077,
+            10580,
+            10709
+        ]
+    }
+}

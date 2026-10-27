@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30096",
+    "titel": "Modebild: \"Deutsche Dame im Negligée (halber Anzug)\"",
+    "Datum": "1795",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "woman",
+        "Kopfbedeckung",
+        "被り物",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Modebilder",
+        "Frau",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "fashion plates",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47339/511511_default.webp",
+    "id": "4891e966-406b-453f-ab74-4dae40067a03",
+    "Filter": {
+        "Aehnlichkeit": 1467,
+        "Farbe": [
+            884,
+            2826,
+            4260,
+            4404,
+            8961
+        ]
+    }
+}

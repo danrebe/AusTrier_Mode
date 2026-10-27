@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30569",
+    "titel": "Modebild: Zwei Damen, eine in rosa Kleid, die andere in einem blauen Wollmantel",
+    "Datum": "1828",
+    "Thema": [
+        "chapelaria",
+        "被り物",
+        "fashion plates",
+        "Modebilder",
+        "Jacke, Mantel",
+        "coat",
+        "(Damen-)Kleid",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "dress, gown",
+        "Frau",
+        "Biedermeier",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48997/512277_default.webp",
+    "id": "a80be5ad-707c-4037-a201-07b6ddbd01bc",
+    "Filter": {
+        "Aehnlichkeit": 363,
+        "Farbe": [
+            338,
+            1670,
+            3502,
+            5011,
+            5698,
+            10952,
+            10983
+        ]
+    }
+}

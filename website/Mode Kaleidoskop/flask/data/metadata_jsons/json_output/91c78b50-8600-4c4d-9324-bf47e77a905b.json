@@ -1,0 +1,35 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30001",
+    "titel": "\"Two Ladies in the newest Dress\" (Originaltitel)",
+    "Datum": "1775",
+    "Thema": [
+        "head-gear",
+        "(Damen-)Kleid",
+        "Kopfbedeckung",
+        "被り物",
+        "dress, gown",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Bourgeoisie",
+        "Frau",
+        "Fashion",
+        "woman",
+        "Bürgertum",
+        "fashion plates",
+        "Mode",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/45200/510971_default.webp",
+    "id": "91c78b50-8600-4c4d-9324-bf47e77a905b",
+    "Filter": {
+        "Aehnlichkeit": 1775,
+        "Farbe": [
+            139,
+            863,
+            2807,
+            4384
+        ]
+    }
+}

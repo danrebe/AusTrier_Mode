@@ -1,0 +1,51 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31657",
+    "titel": "Modebild: Zwei Figuren, Ball- und Gesellschaftskleid",
+    "Datum": "1834",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown: ball gown",
+        "Ballkleid",
+        "dress, gown",
+        "woman",
+        "Nachtleben",
+        "Modebilder",
+        "clothes for official occasions",
+        "fashion plates",
+        "被り物",
+        "head-gear",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "Kleidung für offizielle Anlässe",
+        "chapelaria",
+        "copricapo",
+        "Tanz",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Biedermeier",
+        "Bürgertum",
+        "Dance",
+        "Bräuche",
+        "Costums",
+        "Fashion",
+        "Frau",
+        "Bourgeoisie",
+        "Public Festivals and Celebrations",
+        "Nightlife",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55426/614595_default.webp",
+    "id": "89f21ded-2cef-4ea2-8df7-0cb7c56ac055",
+    "Filter": {
+        "Aehnlichkeit": 103,
+        "Farbe": [
+            1846,
+            3650,
+            5987,
+            6201,
+            6821,
+            9268,
+            10088
+        ]
+    }
+}

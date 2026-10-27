@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31477",
+    "titel": "Modebild: Drei Figuren, Ausgehkleid, Morgenkleid und Wagenkleid",
+    "Datum": "1832",
+    "Thema": [
+        "被り物",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "woman",
+        "Mode",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "chapelaria",
+        "copricapo",
+        "fashion plates",
+        "Bürgertum",
+        "Biedermeier",
+        "Fashion",
+        "Bourgeoisie",
+        "Reisen und Tourismus",
+        "Frau",
+        "Modebilder",
+        "Travel and Tourism"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55147/614231_default.webp",
+    "id": "78ad6e23-b69c-4a74-bb5e-9b3580f8d223",
+    "Filter": {
+        "Aehnlichkeit": 1663,
+        "Farbe": [
+            2009,
+            6893,
+            7662,
+            9339,
+            10155,
+            11027
+        ]
+    }
+}

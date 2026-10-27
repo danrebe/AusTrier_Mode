@@ -1,0 +1,35 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31352",
+    "titel": "Modebild: Zwei Figuren, Full- Dress, Spenzer-Kleid",
+    "Datum": "1807",
+    "Thema": [
+        "dress, gown",
+        "(Damen-)Kleid",
+        "fashion plates",
+        "被り物",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "Modebilder",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "Frau",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54240/513807_default.webp",
+    "id": "609e61f0-ca9e-4797-9e30-46e59a93b79f",
+    "Filter": {
+        "Aehnlichkeit": 436,
+        "Farbe": [
+            231,
+            1350,
+            3222,
+            4779
+        ]
+    }
+}

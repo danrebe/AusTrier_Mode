@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30147",
+    "titel": "Modebild: \"Zwei Damen mit Strausfedern im Haar\"",
+    "Datum": "1796",
+    "Thema": [
+        "(Damen-)Kleid",
+        "Modebilder",
+        "fashion plates",
+        "copricapo",
+        "head-gear",
+        "couvre-chef",
+        "Kopfbedeckung",
+        "被り物",
+        "chapelaria",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "Mode",
+        "Frau",
+        "woman",
+        "dress, gown"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47503/511599_default.webp",
+    "id": "e5bffe15-96cd-49d2-b972-0e787e685c42",
+    "Filter": {
+        "Aehnlichkeit": 1976,
+        "Farbe": [
+            161,
+            954,
+            2888,
+            4466,
+            6486,
+            10945
+        ]
+    }
+}

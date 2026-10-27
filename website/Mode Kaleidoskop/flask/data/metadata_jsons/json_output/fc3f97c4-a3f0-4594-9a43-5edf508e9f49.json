@@ -1,0 +1,46 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31430",
+    "titel": "Modebild: Eine Figur, Ballkleid",
+    "Datum": "1816",
+    "Thema": [
+        "dress, gown",
+        "(Damen-)Kleid",
+        "fashion plates",
+        "Modebilder",
+        "Ballkleid",
+        "dress, gown: ball gown",
+        "woman",
+        "Tanz",
+        "head-gear",
+        "chapelaria",
+        "couvre-chef",
+        "copricapo",
+        "被り物",
+        "Kopfbedeckung",
+        "Bourgeoisie",
+        "Mode",
+        "Biedermeier",
+        "Fashion",
+        "Dance",
+        "Bräuche",
+        "Costums",
+        "Bürgertum",
+        "Nachtleben",
+        "Nightlife",
+        "Frau"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55061/513889_default.webp",
+    "id": "fc3f97c4-a3f0-4594-9a43-5edf508e9f49",
+    "Filter": {
+        "Aehnlichkeit": 239,
+        "Farbe": [
+            1533,
+            3385,
+            4930,
+            7534,
+            8527,
+            10526
+        ]
+    }
+}

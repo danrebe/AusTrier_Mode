@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30394",
+    "titel": "Modebild: \"Pariserin in weißem Kleid, zwei Rosen haltend\"",
+    "Datum": "1818",
+    "Thema": [
+        "Mode",
+        "woman",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "head-gear",
+        "被り物",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Modebilder",
+        "Bürgertum",
+        "Biedermeier",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48377/512003_default.webp",
+    "id": "89fda8de-7966-4800-aa3b-96a324419385",
+    "Filter": {
+        "Aehnlichkeit": 21,
+        "Farbe": [
+            977,
+            2911,
+            4280,
+            4492,
+            8381
+        ]
+    }
+}

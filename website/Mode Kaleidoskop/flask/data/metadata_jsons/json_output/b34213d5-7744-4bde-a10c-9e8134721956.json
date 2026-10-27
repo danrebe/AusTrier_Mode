@@ -1,0 +1,42 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31456",
+    "titel": "Modebild: Drei Figuren, Wagenkleid, Morgen- und Abendkleid",
+    "Datum": "1829",
+    "Thema": [
+        "fashion plates",
+        "Reisen und Tourismus",
+        "Modebilder",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Nachtleben",
+        "couvre-chef",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "chapelaria",
+        "被り物",
+        "woman",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Bürgertum",
+        "Fashion",
+        "Frau",
+        "Nightlife",
+        "Travel and Tourism",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55113/513359_default.webp",
+    "id": "b34213d5-7744-4bde-a10c-9e8134721956",
+    "Filter": {
+        "Aehnlichkeit": 764,
+        "Farbe": [
+            1970,
+            3753,
+            5185,
+            6358,
+            6880,
+            10141
+        ]
+    }
+}

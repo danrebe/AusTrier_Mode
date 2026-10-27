@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30871",
+    "titel": "Modebild: Zwei Figuren, Promenaden- und Abendkleid",
+    "Datum": "1829",
+    "Thema": [
+        "chapelaria",
+        "(Damen-)Kleid",
+        "fashion plates",
+        "Modebilder",
+        "dress, gown",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Mode",
+        "Bourgeoisie",
+        "Frau",
+        "Fashion",
+        "Biedermeier",
+        "Bürgertum",
+        "Nachtleben",
+        "Nightlife",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49910/512739_default.webp",
+    "id": "95e1fcf8-1ecd-4ccd-bb9a-94553ebd2c0e",
+    "Filter": {
+        "Aehnlichkeit": 1326,
+        "Farbe": [
+            1898,
+            3693,
+            5140,
+            6210,
+            6855,
+            10112
+        ]
+    }
+}

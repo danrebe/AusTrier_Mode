@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30256",
+    "titel": "Modebild: \"Londoner Dame auf einem Sessel sitzend\"",
+    "Datum": "1816",
+    "Thema": [
+        "Mode",
+        "woman",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "copricapo",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "chapelaria",
+        "Bürgertum",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Fashion",
+        "Frau",
+        "Modebilder",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47820/1759498_default.webp",
+    "id": "3e1d1eb2-3f88-44b5-a075-ccfe70cecb15",
+    "Filter": {
+        "Aehnlichkeit": 1231,
+        "Farbe": [
+            270,
+            1461,
+            4878,
+            8518,
+            10822
+        ]
+    }
+}

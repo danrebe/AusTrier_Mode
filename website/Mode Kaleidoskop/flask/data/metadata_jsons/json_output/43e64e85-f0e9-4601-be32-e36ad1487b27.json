@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30989",
+    "titel": "Modebild: Kopfschmuck, Häubchen, Frisur",
+    "Datum": "1837",
+    "Thema": [
+        "被り物",
+        "chapelaria",
+        "accessories (~ clothing)",
+        "Accessoires",
+        "Modebilder",
+        "fashion plates",
+        "woman",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "hairdress",
+        "Biedermeier",
+        "Frau",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Frisur",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/50237/513431_default.webp",
+    "id": "43e64e85-f0e9-4601-be32-e36ad1487b27",
+    "Filter": {
+        "Aehnlichkeit": 1455,
+        "Farbe": [
+            2278,
+            4010,
+            7743,
+            9459,
+            10251
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31463",
+    "titel": "Modebild: Drei Figuren, Dinnerkleid, Wagenkleid und Promenadenkleid",
+    "Datum": "1830",
+    "Thema": [
+        "copricapo",
+        "chapelaria",
+        "head-gear",
+        "fashion plates",
+        "Modebilder",
+        "Nightlife",
+        "woman",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "couvre-chef",
+        "Kopfbedeckung",
+        "被り物",
+        "Fashion",
+        "Travel and Tourism",
+        "Biedermeier",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Frau",
+        "Reisen und Tourismus",
+        "Nachtleben",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55121/614203_default.webp",
+    "id": "3ba132dc-4976-43f7-a16d-47b5ce02ee96",
+    "Filter": {
+        "Aehnlichkeit": 1175,
+        "Farbe": [
+            1590,
+            3434,
+            4969,
+            6721,
+            9647,
+            9661,
+            10904
+        ]
+    }
+}

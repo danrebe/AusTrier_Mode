@@ -1,0 +1,46 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31591",
+    "titel": "Modebild: Zwei Figuren, Damenmorgenanzug, Mädchenkleid",
+    "Datum": "1833",
+    "Thema": [
+        "dress, gown",
+        "Kleidung für Mädchen",
+        "Jacke, Mantel",
+        "coat",
+        "head-gear",
+        "woman",
+        "fashion plates",
+        "Modebilder",
+        "Mode",
+        "(Damen-)Kleid",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Kopfbedeckung",
+        "被り物",
+        "Mädchenkleid",
+        "Biedermeier",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "child",
+        "Kind",
+        "fashion, clothing (+ girls' clothes)",
+        "girls dress"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55354/614461_default.webp",
+    "id": "2868e353-6ccb-4553-8e8e-648879c7b245",
+    "Filter": {
+        "Aehnlichkeit": 1213,
+        "Farbe": [
+            2026,
+            3799,
+            5224,
+            5507,
+            6900,
+            10160
+        ]
+    }
+}

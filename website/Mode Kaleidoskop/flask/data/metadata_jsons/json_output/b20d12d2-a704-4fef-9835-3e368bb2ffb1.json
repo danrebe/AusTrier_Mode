@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30348",
+    "titel": "Modebild: \"Pariserin mit Hut, Schleier und Blumenstrauß\"",
+    "Datum": "1806",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "被り物",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "Modebilder",
+        "Frau",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "woman",
+        "Mode",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48253/511143_default.webp",
+    "id": "b20d12d2-a704-4fef-9835-3e368bb2ffb1",
+    "Filter": {
+        "Aehnlichkeit": 210,
+        "Farbe": [
+            1190,
+            3091,
+            4301,
+            4657,
+            6325
+        ]
+    }
+}

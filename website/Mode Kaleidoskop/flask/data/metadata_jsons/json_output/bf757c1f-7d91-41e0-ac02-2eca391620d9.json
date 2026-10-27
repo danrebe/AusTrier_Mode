@@ -1,0 +1,46 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30329",
+    "titel": "Modebild: \"Französische Dame mit gestickter Tüllpelerine, Herr in Nankinhose\"",
+    "Datum": "1829",
+    "Thema": [
+        "copricapo",
+        "chapelaria",
+        "Modebilder",
+        "Dandy, Beau, Geck",
+        "dandy, beau",
+        "coat",
+        "fashion plates",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "Kleidung für den Unterkörper",
+        "clothing for the lower part of the body",
+        "被り物",
+        "(Damen-)Kleid",
+        "Bürgertum",
+        "Biedermeier",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "man",
+        "Mode",
+        "dress, gown",
+        "Jacke, Mantel",
+        "woman",
+        "Mann"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48200/511135_default.webp",
+    "id": "bf757c1f-7d91-41e0-ac02-2eca391620d9",
+    "Filter": {
+        "Aehnlichkeit": 524,
+        "Farbe": [
+            8,
+            268,
+            1458,
+            3320,
+            4876,
+            11106
+        ]
+    }
+}

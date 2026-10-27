@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31082",
+    "titel": "Modebild: Drei Damenmoden, zwei Herrenanzüge",
+    "Datum": "1840",
+    "Thema": [
+        "man",
+        "Bourgeoisie",
+        "Frau",
+        "Fashion",
+        "Bürgertum",
+        "dandy, beau",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Dandy, Beau, Geck",
+        "couvre-chef",
+        "chapelaria",
+        "copricapo",
+        "coat",
+        "accessories (~ clothing)",
+        "Accessoires",
+        "fashion plates",
+        "Mode",
+        "Frisur",
+        "hairdress",
+        "woman",
+        "Mann",
+        "Modebilder",
+        "Jacke, Mantel"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/51193/513527_default.webp",
+    "id": "0917d753-4e95-4843-b943-0d71ac7e120b",
+    "Filter": {
+        "Aehnlichkeit": 77,
+        "Farbe": [
+            2685,
+            8281,
+            8900,
+            10465
+        ]
+    }
+}

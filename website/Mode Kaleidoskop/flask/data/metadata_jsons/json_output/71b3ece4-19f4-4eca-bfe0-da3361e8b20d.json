@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31355",
+    "titel": "Modebild: Zwei Figuren, Morgenkleid, Fulldress",
+    "Datum": "1807",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Bourgeoisie",
+        "woman",
+        "Fashion",
+        "Frau",
+        "Bürgertum",
+        "Mode",
+        "Modebilder",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54251/513813_default.webp",
+    "id": "71b3ece4-19f4-4eca-bfe0-da3361e8b20d",
+    "Filter": {
+        "Aehnlichkeit": 1671,
+        "Farbe": [
+            1354,
+            3226,
+            4783,
+            8495,
+            9915,
+            10523
+        ]
+    }
+}

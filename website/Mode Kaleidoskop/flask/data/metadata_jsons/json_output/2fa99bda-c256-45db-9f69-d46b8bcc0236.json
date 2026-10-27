@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30433",
+    "titel": "Modebild: \"Franzose mit Casimir-Weste, Mantel und Zylinderhut\"",
+    "Datum": "1822",
+    "Thema": [
+        "被り物",
+        "Dandy, Beau, Geck",
+        "dandy, beau",
+        "Jacke, Mantel",
+        "coat",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Biedermeier",
+        "Mode",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "Mann",
+        "man",
+        "fashion plates",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48561/511179_default.webp",
+    "id": "2fa99bda-c256-45db-9f69-d46b8bcc0236",
+    "Filter": {
+        "Aehnlichkeit": 282,
+        "Farbe": [
+            1228,
+            3123,
+            4683,
+            7468,
+            7980
+        ]
+    }
+}

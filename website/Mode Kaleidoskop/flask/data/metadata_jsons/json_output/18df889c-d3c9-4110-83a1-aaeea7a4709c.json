@@ -1,0 +1,46 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30974",
+    "titel": "Modebild: Vier Figuren, Damen- und Herren- und weibliche  Hutmoden",
+    "Datum": "1836",
+    "Thema": [
+        "copricapo",
+        "fashion plates",
+        "couvre-chef",
+        "Jacke, Mantel",
+        "被り物",
+        "coat",
+        "man",
+        "Frisur",
+        "hairdress",
+        "woman",
+        "Mode",
+        "Kopfbedeckung",
+        "Accessoires",
+        "accessories (~ clothing)",
+        "Dandy, Beau, Geck",
+        "head-gear",
+        "dandy, beau",
+        "chapelaria",
+        "Modebilder",
+        "Biedermeier",
+        "Fashion",
+        "Mann",
+        "Frau",
+        "Bürgertum",
+        "Bourgeoisie"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/50200/513415_default.webp",
+    "id": "18df889c-d3c9-4110-83a1-aaeea7a4709c",
+    "Filter": {
+        "Aehnlichkeit": 69,
+        "Farbe": [
+            1636,
+            3472,
+            7570,
+            8015,
+            8547,
+            10696
+        ]
+    }
+}

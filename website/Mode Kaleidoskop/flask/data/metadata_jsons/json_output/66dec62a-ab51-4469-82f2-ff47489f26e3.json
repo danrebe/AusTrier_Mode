@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30917",
+    "titel": "Modebild: Zwei Figuren, Mantel mit Pelzbesatz, Kleid nach englischer  Mode",
+    "Datum": "1816",
+    "Thema": [
+        "被り物",
+        "copricapo",
+        "Jacke, Mantel",
+        "coat",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "fashion plates",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "chapelaria",
+        "Frau",
+        "Fashion",
+        "Bürgertum",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Modebilder",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/50044/512831_default.webp",
+    "id": "66dec62a-ab51-4469-82f2-ff47489f26e3",
+    "Filter": {
+        "Aehnlichkeit": 1549,
+        "Farbe": [
+            1164,
+            3072,
+            5619,
+            7458,
+            9036,
+            9845
+        ]
+    }
+}

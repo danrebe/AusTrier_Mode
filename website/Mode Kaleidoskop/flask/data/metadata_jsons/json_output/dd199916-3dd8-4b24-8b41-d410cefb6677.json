@@ -1,0 +1,44 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31735",
+    "titel": "Modebild: Zwei Figuren, Damen- und Herrenanzug",
+    "Datum": "1835",
+    "Thema": [
+        "chapelaria",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "dandy, beau",
+        "Dandy, Beau, Geck",
+        "couvre-chef",
+        "Jacke, Mantel",
+        "coat",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "Modebilder",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "Frau",
+        "man",
+        "Mann",
+        "woman",
+        "Mode",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55811/614751_default.webp",
+    "id": "dd199916-3dd8-4b24-8b41-d410cefb6677",
+    "Filter": {
+        "Aehnlichkeit": 1460,
+        "Farbe": [
+            36,
+            511,
+            2104,
+            3864,
+            6931,
+            9373,
+            10189
+        ]
+    }
+}

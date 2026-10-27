@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30622",
+    "titel": "Modebild: Dame in grün-schwarz gestreifter Robe",
+    "Datum": "1828",
+    "Thema": [
+        "Biedermeier",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "couvre-chef",
+        "Modebilder",
+        "Mode",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "copricapo",
+        "chapelaria",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "fashion plates",
+        "Frau",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49109/511265_default.webp",
+    "id": "20dd78b2-f1cc-4211-a86f-bfa4c467acb1",
+    "Filter": {
+        "Aehnlichkeit": 115,
+        "Farbe": [
+            307,
+            1549,
+            3399,
+            4943,
+            10623
+        ]
+    }
+}

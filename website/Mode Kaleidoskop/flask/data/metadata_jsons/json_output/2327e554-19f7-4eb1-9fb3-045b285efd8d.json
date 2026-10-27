@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31240",
+    "titel": "Modebild: Sieben Figuren, Herren- u- Knabenmoden",
+    "Datum": "1844",
+    "Thema": [
+        "Mann",
+        "被り物",
+        "dandy, beau",
+        "Dandy, Beau, Geck",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "Jacke, Mantel",
+        "coat",
+        "head-gear",
+        "Kopfbedeckung",
+        "Modebilder",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "child",
+        "fashion plates",
+        "Kind",
+        "Mode",
+        "man",
+        "fashion, clothing (+ boys' clothes)",
+        "Kleidung für Jungen"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53892/513697_default.webp",
+    "id": "2327e554-19f7-4eb1-9fb3-045b285efd8d",
+    "Filter": {
+        "Aehnlichkeit": 1156,
+        "Farbe": [
+            2502,
+            5816,
+            7302,
+            7839,
+            8172,
+            8774
+        ]
+    }
+}

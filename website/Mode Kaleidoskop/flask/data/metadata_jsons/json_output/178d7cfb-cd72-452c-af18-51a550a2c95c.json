@@ -1,0 +1,44 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30961",
+    "titel": "Modebild: Drei Figuren, Damen- und Mädchenmoden",
+    "Datum": "1826",
+    "Thema": [
+        "Kleidung für Mädchen",
+        "chapelaria",
+        "girls dress",
+        "fashion plates",
+        "fashion, clothing (+ girls' clothes)",
+        "Mädchenkleid",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "woman",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Frau",
+        "child",
+        "Biedermeier",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "Mode",
+        "Modebilder",
+        "Kind"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/50169/513399_default.webp",
+    "id": "178d7cfb-cd72-452c-af18-51a550a2c95c",
+    "Filter": {
+        "Aehnlichkeit": 736,
+        "Farbe": [
+            1478,
+            3338,
+            6163,
+            6672,
+            7519,
+            9120
+        ]
+    }
+}

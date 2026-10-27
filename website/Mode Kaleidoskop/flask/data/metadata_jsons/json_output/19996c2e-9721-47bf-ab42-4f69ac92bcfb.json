@@ -1,0 +1,47 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31174",
+    "titel": "Modebild: Vier Damenmoden, ein Herrenanzug",
+    "Datum": "1842",
+    "Thema": [
+        "copricapo",
+        "woman",
+        "couvre-chef",
+        "head-gear",
+        "被り物",
+        "dandy, beau",
+        "Jacke, Mantel",
+        "coat",
+        "hairdress",
+        "chapelaria",
+        "Kopfbedeckung",
+        "Dandy, Beau, Geck",
+        "accessories (~ clothing)",
+        "Accessoires",
+        "Frisur",
+        "Bürgertum",
+        "Frau",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Fashion",
+        "man",
+        "Mode",
+        "fashion plates",
+        "Modebilder",
+        "Mann"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53777/513079_default.webp",
+    "id": "19996c2e-9721-47bf-ab42-4f69ac92bcfb",
+    "Filter": {
+        "Aehnlichkeit": 170,
+        "Farbe": [
+            712,
+            2561,
+            5824,
+            7319,
+            7868,
+            8206,
+            8806
+        ]
+    }
+}

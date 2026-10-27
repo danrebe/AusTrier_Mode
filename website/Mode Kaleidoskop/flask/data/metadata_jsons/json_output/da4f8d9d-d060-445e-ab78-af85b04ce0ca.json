@@ -1,0 +1,45 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31285",
+    "titel": "Modebild: Fünf Figuren, ein Brautkleid, Festkleider",
+    "Datum": "1846",
+    "Thema": [
+        "Costums",
+        "Mode",
+        "Public Festivals and Celebrations",
+        "Frau",
+        "Öffentliche Feste und Feierlichkeiten",
+        "woman",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Biedermeier",
+        "Fashion",
+        "Bräuche",
+        "Kleidung für spezielle Zwecke (Brautmode)",
+        "Kopfbedeckung",
+        "被り物",
+        "Kleidung für offizielle Anlässe",
+        "clothes for official occasions",
+        "Modebilder",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53984/513183_default.webp",
+    "id": "da4f8d9d-d060-445e-ab78-af85b04ce0ca",
+    "Filter": {
+        "Aehnlichkeit": 1636,
+        "Farbe": [
+            2633,
+            5542,
+            6067,
+            7343,
+            7904,
+            8864
+        ]
+    }
+}

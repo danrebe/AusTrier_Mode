@@ -1,0 +1,49 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30288",
+    "titel": "Modebild: \"Pariserin mit Rosen und Myrthen im Haar, Herr im Reitanzug\"",
+    "Datum": "1822",
+    "Thema": [
+        "Jacke, Mantel",
+        "head-gear",
+        "couvre-chef",
+        "被り物",
+        "copricapo",
+        "chapelaria",
+        "Modebilder",
+        "Mode",
+        "Sport",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "coat",
+        "dandy, beau",
+        "Dandy, Beau, Geck",
+        "Kopfbedeckung",
+        "woman",
+        "Fashion",
+        "Biedermeier",
+        "Bürgertum",
+        "Erholung und Freizeit",
+        "Frau",
+        "Bourgeoisie",
+        "Recreation and Leisure",
+        "man",
+        "Mann",
+        "Sports",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47898/511117_default.webp",
+    "id": "22bb7b4e-af60-4ff6-8f3c-f10bd2086e97",
+    "Filter": {
+        "Aehnlichkeit": 1149,
+        "Farbe": [
+            324,
+            1619,
+            3458,
+            4984,
+            5686,
+            5969,
+            8009
+        ]
+    }
+}

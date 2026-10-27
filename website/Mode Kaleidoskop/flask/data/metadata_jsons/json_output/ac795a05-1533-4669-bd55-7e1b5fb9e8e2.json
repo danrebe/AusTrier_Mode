@@ -1,0 +1,50 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31115",
+    "titel": "Modebild: Fünf Gesellschaftskleider, ein Herrenanzug",
+    "Datum": "1841",
+    "Thema": [
+        "copricapo",
+        "chapelaria",
+        "couvre-chef",
+        "Modebilder",
+        "Dandy, Beau, Geck",
+        "dandy, beau",
+        "fashion plates",
+        "Jacke, Mantel",
+        "coat",
+        "clothes for official occasions",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "accessories (~ clothing)",
+        "Accessoires",
+        "Kleidung für offizielle Anlässe",
+        "Nachtleben",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "Frau",
+        "Mode",
+        "Öffentliche Feste und Feierlichkeiten",
+        "woman",
+        "Public Festivals and Celebrations",
+        "Nightlife",
+        "man",
+        "hairdress",
+        "Frisur",
+        "Mann"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53479/513021_default.webp",
+    "id": "ac795a05-1533-4669-bd55-7e1b5fb9e8e2",
+    "Filter": {
+        "Aehnlichkeit": 42,
+        "Farbe": [
+            2365,
+            7028,
+            8113,
+            8712,
+            10291
+        ]
+    }
+}

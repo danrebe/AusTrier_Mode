@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30693",
+    "titel": "Modebild: Zwei Figuren, Oberteile weiß mit Schinkenärmeln, Röcke blau und graublau mit Muster",
+    "Datum": "1829",
+    "Thema": [
+        "被り物",
+        "head-gear",
+        "fashion plates",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Modebilder",
+        "Mode",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Fashion",
+        "Frau",
+        "Biedermeier",
+        "Bürgertum",
+        "Bourgeoisie",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49398/512465_default.webp",
+    "id": "c2ec6a35-df3a-4553-af59-d41264878a00",
+    "Filter": {
+        "Aehnlichkeit": 381,
+        "Farbe": [
+            507,
+            2096,
+            3856,
+            5273
+        ]
+    }
+}

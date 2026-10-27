@@ -1,0 +1,42 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30748",
+    "titel": "Modebild: Zwei Figuren, Gesellschaftskleider, mit Maschen verziert",
+    "Datum": "1830",
+    "Thema": [
+        "copricapo",
+        "Frau",
+        "chapelaria",
+        "Kopfbedeckung",
+        "Modebilder",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "fashion plates",
+        "couvre-chef",
+        "head-gear",
+        "被り物",
+        "Kleidung für offizielle Anlässe",
+        "clothes for official occasions",
+        "Fashion",
+        "Biedermeier",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Public Festivals and Celebrations",
+        "Mode",
+        "Öffentliche Feste und Feierlichkeiten",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49529/511323_default.webp",
+    "id": "d5da080c-ec05-416e-8bb8-5952d2175c27",
+    "Filter": {
+        "Aehnlichkeit": 150,
+        "Farbe": [
+            302,
+            1531,
+            3383,
+            4928,
+            5669,
+            10830
+        ]
+    }
+}

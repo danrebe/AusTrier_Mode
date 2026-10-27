@@ -1,0 +1,51 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31792",
+    "titel": "Modebild: Vier Figuren, Mädchen- und Knabenmoden",
+    "Datum": "1837",
+    "Thema": [
+        "coat",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "woman",
+        "Modebilder",
+        "fashion plates",
+        "fashion, clothing (+ girls' clothes)",
+        "girls dress",
+        "chapelaria",
+        "Kleidung für Jungen",
+        "Jacke, Mantel",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "fashion, clothing (+ boys' clothes)",
+        "Family",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Frau",
+        "child",
+        "Familie",
+        "Fashion",
+        "Mode",
+        "man",
+        "Mädchenkleid",
+        "Kleidung für Mädchen",
+        "Mann",
+        "Kind"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55901/510543_default.webp",
+    "id": "7498a5c9-2026-4368-a782-8c01acffc1c0",
+    "Filter": {
+        "Aehnlichkeit": 1674,
+        "Farbe": [
+            21,
+            1827,
+            3635,
+            8582,
+            9261,
+            10081
+        ]
+    }
+}

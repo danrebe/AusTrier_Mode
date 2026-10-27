@@ -1,0 +1,44 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31142",
+    "titel": "Modebild: Damen- und Herrenmoden",
+    "Datum": "1841",
+    "Thema": [
+        "copricapo",
+        "Bourgeoisie",
+        "Mode",
+        "Dandy, Beau, Geck",
+        "coat",
+        "fashion plates",
+        "hairdress",
+        "Frisur",
+        "man",
+        "Mann",
+        "woman",
+        "Frau",
+        "Bürgertum",
+        "Fashion",
+        "accessories (~ clothing)",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "chapelaria",
+        "Accessoires",
+        "Modebilder",
+        "Jacke, Mantel",
+        "dandy, beau"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53562/513589_default.webp",
+    "id": "c1d5457d-ef98-45ee-9b4d-fe97606aca4e",
+    "Filter": {
+        "Aehnlichkeit": 257,
+        "Farbe": [
+            64,
+            2367,
+            5524,
+            7780,
+            8714
+        ]
+    }
+}

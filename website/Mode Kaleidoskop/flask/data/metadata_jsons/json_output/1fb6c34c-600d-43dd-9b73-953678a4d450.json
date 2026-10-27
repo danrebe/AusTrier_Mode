@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30568",
+    "titel": "Modebild: Zwei Damen in Kleidern aus Gros des Indes in blau mit rosa Hüten",
+    "Datum": "1828",
+    "Thema": [
+        "Mode",
+        "woman",
+        "fashion plates",
+        "Modebilder",
+        "Frau",
+        "Bourgeoisie",
+        "Fashion",
+        "Biedermeier",
+        "Bürgertum",
+        "head-gear",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "Kopfbedeckung",
+        "被り物"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48993/512275_default.webp",
+    "id": "1fb6c34c-600d-43dd-9b73-953678a4d450",
+    "Filter": {
+        "Aehnlichkeit": 367,
+        "Farbe": [
+            395,
+            1772,
+            3591,
+            5066
+        ]
+    }
+}

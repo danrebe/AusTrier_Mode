@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30860",
+    "titel": "Modebild: Zwei Figuren, London Dresses for July",
+    "Datum": "1811",
+    "Thema": [
+        "Modebilder",
+        "fashion plates",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "Mode",
+        "woman",
+        "Bourgeoisie",
+        "Frau",
+        "Bürgertum",
+        "Fashion",
+        "dress, gown",
+        "被り物",
+        "(Damen-)Kleid"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49850/512717_default.webp",
+    "id": "1e10a7fc-bc54-4419-9932-0578b778d3c3",
+    "Filter": {
+        "Aehnlichkeit": 432,
+        "Farbe": [
+            1342,
+            3216,
+            4774,
+            5931,
+            6148,
+            6638,
+            9910
+        ]
+    }
+}

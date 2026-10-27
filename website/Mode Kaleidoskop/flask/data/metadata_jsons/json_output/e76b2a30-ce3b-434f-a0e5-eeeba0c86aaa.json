@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30051",
+    "titel": "Modebild: Kleidung, Frisur, Schirm",
+    "Datum": "1785-1790",
+    "Thema": [
+        "dress, gown",
+        "Modebilder",
+        "fashion plates",
+        "couvre-chef",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "chapelaria",
+        "(Damen-)Kleid",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "Mode",
+        "woman",
+        "Frau",
+        "Frisur",
+        "hairdress"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/46915/511429_default.webp",
+    "id": "e76b2a30-ce3b-434f-a0e5-eeeba0c86aaa",
+    "Filter": {
+        "Aehnlichkeit": 1658,
+        "Farbe": [
+            187,
+            1057,
+            2983,
+            4558,
+            10560,
+            11099,
+            11183
+        ]
+    }
+}

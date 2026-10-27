@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31860",
+    "titel": "Modebild: Zwei Figuren, Damensommermoden",
+    "Datum": "1838",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "被り物",
+        "Mode",
+        "Frau",
+        "woman",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "Modebilder",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/56120/510767_default.webp",
+    "id": "5b5a9f46-52f8-4d0d-a9a4-c812233928ff",
+    "Filter": {
+        "Aehnlichkeit": 1555,
+        "Farbe": [
+            2473,
+            4127,
+            7076,
+            9551,
+            10346,
+            10603
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31184",
+    "titel": "Modebild: Ein Herrenanzug, vier Gesellschaftskleider",
+    "Datum": "1843",
+    "Thema": [
+        "Mode",
+        "Modebilder",
+        "fashion plates",
+        "coat",
+        "Public Festivals and Celebrations",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Nightlife",
+        "man",
+        "Nachtleben",
+        "Jacke, Mantel",
+        "chapelaria",
+        "(Damen-)Kleid",
+        "Fashion",
+        "copricapo",
+        "Kleidung für offizielle Anlässe",
+        "clothes for official occasions",
+        "couvre-chef",
+        "woman",
+        "Bürgertum",
+        "Frau",
+        "Bourgeoisie",
+        "Mann",
+        "dress, gown",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "dandy, beau",
+        "Dandy, Beau, Geck"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53813/513635_default.webp",
+    "id": "2dadd68c-0c5c-4506-bf7b-0bfc18883382",
+    "Filter": {
+        "Aehnlichkeit": 91,
+        "Farbe": [
+            5433,
+            6072,
+            7128,
+            7369,
+            7932,
+            8290,
+            10470
+        ]
+    }
+}

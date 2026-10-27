@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30516",
+    "titel": "Modebild: \"Zwei Pariserinnen in Longchamp-Kleidung, Hüten und Mänteln\"",
+    "Datum": "1826",
+    "Thema": [
+        "dress, gown",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "(Damen-)Kleid",
+        "Jacke, Mantel",
+        "coat",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "Modebilder",
+        "Biedermeier",
+        "Frau",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "woman",
+        "Mode",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48744/511215_default.webp",
+    "id": "37534ebb-0d90-4fce-9178-3b2d293bb8d6",
+    "Filter": {
+        "Aehnlichkeit": 334,
+        "Farbe": [
+            1499,
+            3354,
+            4898,
+            5663,
+            5952,
+            6688,
+            7525
+        ]
+    }
+}

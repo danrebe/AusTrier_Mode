@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31627",
+    "titel": "Modebild: Vier Figuren, Damenmoden",
+    "Datum": "1833",
+    "Thema": [
+        "Kopfbedeckung",
+        "被り物",
+        "dress, gown",
+        "fashion plates",
+        "Modebilder",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "(Damen-)Kleid",
+        "Frau",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "Biedermeier",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55396/614535_default.webp",
+    "id": "a4c95887-c94e-4ee9-be08-173f9ac513aa",
+    "Filter": {
+        "Aehnlichkeit": 1822,
+        "Farbe": [
+            3470,
+            5691,
+            6743,
+            7568,
+            9184,
+            10014,
+            11121
+        ]
+    }
+}

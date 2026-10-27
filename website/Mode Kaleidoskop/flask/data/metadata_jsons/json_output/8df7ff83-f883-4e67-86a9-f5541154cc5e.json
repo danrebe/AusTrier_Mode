@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30642",
+    "titel": "Modebild: Zwei Gesellschaftskleider aus Gros des Naples in rosa und weiß reich verziert.",
+    "Datum": "1828",
+    "Thema": [
+        "Kleidung für offizielle Anlässe",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Öffentliche Feste und Feierlichkeiten",
+        "clothes for official occasions",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Bürgertum",
+        "Public Festivals and Celebrations",
+        "woman",
+        "Frau",
+        "Bourgeoisie",
+        "Fashion",
+        "Biedermeier",
+        "Mode",
+        "Modebilder",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49183/511275_default.webp",
+    "id": "8df7ff83-f883-4e67-86a9-f5541154cc5e",
+    "Filter": {
+        "Aehnlichkeit": 1765,
+        "Farbe": [
+            1588,
+            3433,
+            4968,
+            5683,
+            7553
+        ]
+    }
+}

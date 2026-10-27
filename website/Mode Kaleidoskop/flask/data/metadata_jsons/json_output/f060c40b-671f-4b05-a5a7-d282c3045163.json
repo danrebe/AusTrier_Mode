@@ -1,0 +1,45 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31069",
+    "titel": "Modebild: Zwei Herrenanzüge, drei Damenmoden",
+    "Datum": "1839",
+    "Thema": [
+        "chapelaria",
+        "coat",
+        "head-gear",
+        "dandy, beau",
+        "Dandy, Beau, Geck",
+        "fashion plates",
+        "Modebilder",
+        "copricapo",
+        "couvre-chef",
+        "Kopfbedeckung",
+        "被り物",
+        "Accessoires",
+        "accessories (~ clothing)",
+        "Jacke, Mantel",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Mann",
+        "Frisur",
+        "hairdress",
+        "man",
+        "woman",
+        "Frau",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/51174/512975_default.webp",
+    "id": "f060c40b-671f-4b05-a5a7-d282c3045163",
+    "Filter": {
+        "Aehnlichkeit": 1631,
+        "Farbe": [
+            2573,
+            5826,
+            7875,
+            8213,
+            8815,
+            10941
+        ]
+    }
+}

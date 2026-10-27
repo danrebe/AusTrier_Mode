@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31544",
+    "titel": "Modebild: Zwei Figuren, Frühjahrspromenadenanzüge (weiblich)",
+    "Datum": "1832",
+    "Thema": [
+        "Modebilder",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "fashion plates",
+        "Bürgertum",
+        "Biedermeier",
+        "Fashion",
+        "Frau",
+        "Bourgeoisie",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55280/614365_default.webp",
+    "id": "59494e6d-32b4-4dab-9640-b10064e60438",
+    "Filter": {
+        "Aehnlichkeit": 999,
+        "Farbe": [
+            2169,
+            3916,
+            6027,
+            6255,
+            6958,
+            7705,
+            9404
+        ]
+    }
+}

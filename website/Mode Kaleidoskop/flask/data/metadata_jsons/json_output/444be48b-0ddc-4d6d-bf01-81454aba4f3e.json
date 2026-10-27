@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30531",
+    "titel": "Modebild: \"Zwei Franzosen mit Zylinder, der eine im blauen Rock, der andere in braunem Mantel\"",
+    "Datum": "1827",
+    "Thema": [
+        "被り物",
+        "coat",
+        "Kopfbedeckung",
+        "Jacke, Mantel",
+        "Dandy, Beau, Geck",
+        "dandy, beau",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "fashion plates",
+        "Bourgeoisie",
+        "Fashion",
+        "Bürgertum",
+        "Biedermeier",
+        "man",
+        "Mode",
+        "Mann",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48841/512219_default.webp",
+    "id": "444be48b-0ddc-4d6d-bf01-81454aba4f3e",
+    "Filter": {
+        "Aehnlichkeit": 358,
+        "Farbe": [
+            363,
+            1714,
+            3538,
+            5033
+        ]
+    }
+}

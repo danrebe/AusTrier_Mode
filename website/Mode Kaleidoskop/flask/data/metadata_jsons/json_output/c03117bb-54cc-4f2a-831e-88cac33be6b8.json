@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31370",
+    "titel": "Modebild: Eine Figur, Morgenkleid",
+    "Datum": "1813",
+    "Thema": [
+        "Modebilder",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "couvre-chef",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "chapelaria",
+        "fashion plates",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Frau",
+        "Fashion",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54944/513271_default.webp",
+    "id": "c03117bb-54cc-4f2a-831e-88cac33be6b8",
+    "Filter": {
+        "Aehnlichkeit": 1889,
+        "Farbe": [
+            2925,
+            4503,
+            6379,
+            6505,
+            7156,
+            7420,
+            7975
+        ]
+    }
+}

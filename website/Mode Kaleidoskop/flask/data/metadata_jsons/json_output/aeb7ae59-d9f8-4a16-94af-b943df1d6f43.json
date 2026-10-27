@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30733",
+    "titel": "Modebild: Zwei Figuren, Kleider verziert mit Fransen, Pelzboas",
+    "Datum": "1829",
+    "Thema": [
+        "被り物",
+        "chapelaria",
+        "fashion plates",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Modebilder",
+        "Bourgeoisie",
+        "Fashion",
+        "Bürgertum",
+        "Biedermeier",
+        "Frau",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49468/512523_default.webp",
+    "id": "aeb7ae59-d9f8-4a16-94af-b943df1d6f43",
+    "Filter": {
+        "Aehnlichkeit": 1462,
+        "Farbe": [
+            303,
+            1537,
+            3389,
+            4934,
+            8529
+        ]
+    }
+}

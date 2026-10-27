@@ -1,0 +1,47 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31475",
+    "titel": "Modebild: Drei Figuren, Ausgehkleid und Promenadenkleid, Mädchenkleid",
+    "Datum": "1831",
+    "Thema": [
+        "dress, gown",
+        "Kleidung für Mädchen",
+        "(Damen-)Kleid",
+        "Jacke, Mantel",
+        "coat",
+        "Modebilder",
+        "fashion plates",
+        "Kind",
+        "Frau",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "fashion, clothing (+ girls' clothes)",
+        "Fashion",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Bürgertum",
+        "child",
+        "girls dress",
+        "Mode",
+        "woman",
+        "Mädchenkleid"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55143/614227_default.webp",
+    "id": "eda8d586-fe4e-4a84-9c50-822b5c86babd",
+    "Filter": {
+        "Aehnlichkeit": 1177,
+        "Farbe": [
+            258,
+            1431,
+            3295,
+            4856,
+            9939,
+            10619,
+            10705
+        ]
+    }
+}

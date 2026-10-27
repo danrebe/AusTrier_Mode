@@ -1,0 +1,53 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31102",
+    "titel": "Modebild: Festliche Damen- und Herrenmoden",
+    "Datum": "1840",
+    "Thema": [
+        "copricapo",
+        "chapelaria",
+        "accessories (~ clothing)",
+        "coat",
+        "Jacke, Mantel",
+        "dandy, beau",
+        "Modebilder",
+        "fashion plates",
+        "Dandy, Beau, Geck",
+        "couvre-chef",
+        "head-gear",
+        "clothes for official occasions",
+        "Kleidung für offizielle Anlässe",
+        "Kopfbedeckung",
+        "被り物",
+        "Accessoires",
+        "Fashion",
+        "Nightlife",
+        "woman",
+        "Frau",
+        "hairdress",
+        "Public Festivals and Celebrations",
+        "Frisur",
+        "Nachtleben",
+        "Bourgeoisie",
+        "Dance",
+        "Bürgertum",
+        "Mode",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Tanz",
+        "man",
+        "Mann"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53440/513547_default.webp",
+    "id": "ef253579-efe4-4ec0-8433-23b4ce5050ad",
+    "Filter": {
+        "Aehnlichkeit": 98,
+        "Farbe": [
+            96,
+            726,
+            2594,
+            4174,
+            4357,
+            11084
+        ]
+    }
+}

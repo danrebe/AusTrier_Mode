@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30014",
+    "titel": "Modebild: \"Parisian Fashions for Feb.1829\"",
+    "Datum": "1829",
+    "Thema": [
+        "Modebilder",
+        "dress, gown",
+        "fashion plates",
+        "(Damen-)Kleid",
+        "Kopfbedeckung",
+        "被り物",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Frau",
+        "Fashion",
+        "Bürgertum",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/45214/510995_default.webp",
+    "id": "c31317d1-7837-47e8-b04e-e24eafc403cd",
+    "Filter": {
+        "Aehnlichkeit": 1896,
+        "Farbe": [
+            1960,
+            4341,
+            5179,
+            6220,
+            6875,
+            10137
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30621",
+    "titel": "Modebild: Zwei Damen in Roben aus Gros de Naples mit Hüten aus Gros des Naples",
+    "Datum": "1828",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Modebilder",
+        "chapelaria",
+        "被り物",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "Biedermeier",
+        "fashion plates",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "woman",
+        "Mode",
+        "Frau"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49106/512355_default.webp",
+    "id": "a0152f86-4e89-4318-b62b-8f2e543e6633",
+    "Filter": {
+        "Aehnlichkeit": 1023,
+        "Farbe": [
+            391,
+            1766,
+            3586,
+            5062
+        ]
+    }
+}

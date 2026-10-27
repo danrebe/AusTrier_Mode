@@ -1,0 +1,46 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30879",
+    "titel": "Modebild: Zwei Figuren, Abend- und Galakleid",
+    "Datum": "1830",
+    "Thema": [
+        "head-gear",
+        "Kleidung für offizielle Anlässe",
+        "Kopfbedeckung",
+        "fashion plates",
+        "Modebilder",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Mode",
+        "Tanz",
+        "被り物",
+        "copricapo",
+        "clothes for official occasions",
+        "chapelaria",
+        "couvre-chef",
+        "Public Festivals and Celebrations",
+        "Frau",
+        "Bourgeoisie",
+        "Fashion",
+        "Dance",
+        "Biedermeier",
+        "Bürgertum",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Nachtleben",
+        "Nightlife",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49938/512755_default.webp",
+    "id": "a55e5c62-07d7-4899-b9a9-caa04792fa82",
+    "Filter": {
+        "Aehnlichkeit": 402,
+        "Farbe": [
+            2153,
+            3900,
+            5303,
+            6024,
+            6253,
+            7700
+        ]
+    }
+}

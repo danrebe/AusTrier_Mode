@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31583",
+    "titel": "Modebild: Zwei Figuren, Damenkleid mit Umhang",
+    "Datum": "1833",
+    "Thema": [
+        "cape",
+        "Umhang, Cape",
+        "Kopfbedeckung",
+        "被り物",
+        "head-gear",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Jacke, Mantel",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "Bourgeoisie",
+        "coat",
+        "Frau",
+        "Fashion",
+        "Bürgertum",
+        "Modebilder",
+        "fashion plates",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55341/614445_default.webp",
+    "id": "67833f1c-0689-4370-8a1c-76bc2d3ae0f5",
+    "Filter": {
+        "Aehnlichkeit": 1621,
+        "Farbe": [
+            1917,
+            3708,
+            7646,
+            8599,
+            9301,
+            11140
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30682",
+    "titel": "Modebild: Zwei Figuren, Kleider aus Gros des Naples, kariert u.bestickt",
+    "Datum": "1829",
+    "Thema": [
+        "fashion plates",
+        "Modebilder",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "chapelaria",
+        "copricapo",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Biedermeier",
+        "Fashion",
+        "Frau",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49371/511293_default.webp",
+    "id": "c467c3a2-d2ba-46e3-93d3-12064847778e",
+    "Filter": {
+        "Aehnlichkeit": 457,
+        "Farbe": [
+            491,
+            2062,
+            3830,
+            5253,
+            10876
+        ]
+    }
+}

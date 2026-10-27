@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30254",
+    "titel": "Modebild: \"Pariser Dame in Perkal-Robe und mit italienischem Strohhut samt Federn\"",
+    "Datum": "1816",
+    "Thema": [
+        "fashion plates",
+        "Modebilder",
+        "被り物",
+        "(Damen-)Kleid",
+        "Kopfbedeckung",
+        "head-gear",
+        "dress, gown",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "woman",
+        "Bürgertum",
+        "Biedermeier",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47813/1759496_default.webp",
+    "id": "35abe72b-47d7-45af-90a3-b0b5ce495d9c",
+    "Filter": {
+        "Aehnlichkeit": 212,
+        "Farbe": [
+            1457,
+            3319,
+            4875,
+            9948
+        ]
+    }
+}

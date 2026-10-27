@@ -1,0 +1,45 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31058",
+    "titel": "Modebild: Ein Herrenanzug, vier Damenmoden",
+    "Datum": "1839",
+    "Thema": [
+        "copricapo",
+        "被り物",
+        "Jacke, Mantel",
+        "coat",
+        "Modebilder",
+        "fashion plates",
+        "Dandy, Beau, Geck",
+        "dandy, beau",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "chapelaria",
+        "Accessoires",
+        "accessories (~ clothing)",
+        "Frau",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "Mode",
+        "Mann",
+        "hairdress",
+        "man",
+        "Frisur",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/51142/513503_default.webp",
+    "id": "a854935f-db7c-4c22-8347-454baa0b293d",
+    "Filter": {
+        "Aehnlichkeit": 1839,
+        "Farbe": [
+            719,
+            2580,
+            7325,
+            7880,
+            8217,
+            8822
+        ]
+    }
+}

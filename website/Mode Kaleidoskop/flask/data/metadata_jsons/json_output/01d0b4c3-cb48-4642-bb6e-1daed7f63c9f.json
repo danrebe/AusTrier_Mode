@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31350",
+    "titel": "Modebild: Zwei Figuren, Spencerkleid, Fulldress",
+    "Datum": "1807",
+    "Thema": [
+        "fashion plates",
+        "Modebilder",
+        "Mode",
+        "woman",
+        "Frau",
+        "couvre-chef",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "chapelaria",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54222/513805_default.webp",
+    "id": "01d0b4c3-cb48-4642-bb6e-1daed7f63c9f",
+    "Filter": {
+        "Aehnlichkeit": 205,
+        "Farbe": [
+            1349,
+            3221,
+            4778,
+            6642,
+            8493,
+            10771
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30044",
+    "titel": "Modebild: \"Morning Visiting Dress\"",
+    "Datum": "1830",
+    "Thema": [
+        "Mode",
+        "Modebilder",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "dress, gown",
+        "Fashion",
+        "fashion plates",
+        "Biedermeier",
+        "Bürgertum",
+        "Bourgeoisie",
+        "woman",
+        "Frau"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/46892/511417_default.webp",
+    "id": "313574bf-a645-472e-89bc-6a2cd42c702b",
+    "Filter": {
+        "Aehnlichkeit": 1300,
+        "Farbe": [
+            1397,
+            3265,
+            4825,
+            10811
+        ]
+    }
+}

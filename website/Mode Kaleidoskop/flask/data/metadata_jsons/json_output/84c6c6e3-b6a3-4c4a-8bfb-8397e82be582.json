@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30400",
+    "titel": "Modebild: \"Französin mit Gazehut, Perkalrobe (Promenadeanzug) und Schirm\"",
+    "Datum": "1819",
+    "Thema": [
+        "Mode",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Modebilder",
+        "Bürgertum",
+        "Biedermeier",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "woman",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48383/512013_default.webp",
+    "id": "84c6c6e3-b6a3-4c4a-8bfb-8397e82be582",
+    "Filter": {
+        "Aehnlichkeit": 291,
+        "Farbe": [
+            1193,
+            3093,
+            4303,
+            4659
+        ]
+    }
+}

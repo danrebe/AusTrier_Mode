@@ -1,0 +1,35 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30084",
+    "titel": "Modebild: \"Junge, deutsche Dame in einem Hemdenkleid\"",
+    "Datum": "1793",
+    "Thema": [
+        "dress, gown",
+        "(Damen-)Kleid",
+        "copricapo",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "chapelaria",
+        "fashion plates",
+        "Fashion",
+        "Bürgertum",
+        "Frau",
+        "Bourgeoisie",
+        "Mode",
+        "woman",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47290/511489_default.webp",
+    "id": "bd9f2527-a46c-4b70-b026-b71e1a579f59",
+    "Filter": {
+        "Aehnlichkeit": 215,
+        "Farbe": [
+            856,
+            2800,
+            4377,
+            9653
+        ]
+    }
+}

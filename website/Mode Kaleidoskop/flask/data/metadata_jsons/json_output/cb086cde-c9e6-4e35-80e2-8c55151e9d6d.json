@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31773",
+    "titel": "Modebild: Zwei Figuren, Damen- und Mädchenkleid",
+    "Datum": "1836",
+    "Thema": [
+        "Modebilder",
+        "dress, gown",
+        "fashion plates",
+        "(Damen-)Kleid",
+        "Kind",
+        "girls dress",
+        "woman",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Biedermeier",
+        "Frau",
+        "child",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "Mode",
+        "fashion, clothing (+ girls' clothes)",
+        "Mädchenkleid",
+        "Kleidung für Mädchen"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55865/614827_default.webp",
+    "id": "cb086cde-c9e6-4e35-80e2-8c55151e9d6d",
+    "Filter": {
+        "Aehnlichkeit": 1171,
+        "Farbe": [
+            2495,
+            6057,
+            7086,
+            7836,
+            9563
+        ]
+    }
+}

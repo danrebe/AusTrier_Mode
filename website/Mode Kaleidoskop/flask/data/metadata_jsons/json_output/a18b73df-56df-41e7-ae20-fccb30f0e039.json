@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31440",
+    "titel": "Modebild: Eine Figur, Pariser Promenadenkleid",
+    "Datum": "1816",
+    "Thema": [
+        "Modebilder",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "fashion plates",
+        "Biedermeier",
+        "Bürgertum",
+        "Frau",
+        "Bourgeoisie",
+        "Fashion",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55082/513345_default.webp",
+    "id": "a18b73df-56df-41e7-ae20-fccb30f0e039",
+    "Filter": {
+        "Aehnlichkeit": 895,
+        "Farbe": [
+            1134,
+            4620,
+            5614,
+            6108,
+            6551,
+            9021
+        ]
+    }
+}

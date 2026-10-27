@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31556",
+    "titel": "Modebild: Zwei Figuren, Haus- und Gesellschaftskleid",
+    "Datum": "1832",
+    "Thema": [
+        "Kleidung für offizielle Anlässe",
+        "chapelaria",
+        "clothes for official occasions",
+        "couvre-chef",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "fashion plates",
+        "Öffentliche Feste und Feierlichkeiten",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "woman",
+        "Modebilder",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Frau",
+        "Fashion",
+        "Bürgertum",
+        "Mode",
+        "Public Festivals and Celebrations"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55300/614389_default.webp",
+    "id": "8e6be008-d0e9-41be-9f5f-89940f82f59b",
+    "Filter": {
+        "Aehnlichkeit": 638,
+        "Farbe": [
+            2193,
+            3939,
+            7712,
+            9419
+        ]
+    }
+}

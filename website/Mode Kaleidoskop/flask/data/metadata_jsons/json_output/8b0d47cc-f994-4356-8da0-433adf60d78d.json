@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30774",
+    "titel": "Modebild: Zwei Figuren, Moirékleider, mit Spitze verziert",
+    "Datum": "1830",
+    "Thema": [
+        "Mode",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "被り物",
+        "Kopfbedeckung",
+        "copricapo",
+        "head-gear",
+        "couvre-chef",
+        "chapelaria",
+        "Frau",
+        "woman",
+        "Fashion",
+        "Biedermeier",
+        "Bürgertum",
+        "Bourgeoisie",
+        "fashion plates",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49572/512585_default.webp",
+    "id": "8b0d47cc-f994-4356-8da0-433adf60d78d",
+    "Filter": {
+        "Aehnlichkeit": 121,
+        "Farbe": [
+            565,
+            2234,
+            3977,
+            5350,
+            11169
+        ]
+    }
+}

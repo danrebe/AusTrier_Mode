@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30957",
+    "titel": "Modebild: Drei Figuren, Reit- und Promenadenkleider",
+    "Datum": "1826",
+    "Thema": [
+        "Sports",
+        "woman",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Modebilder",
+        "fashion plates",
+        "被り物",
+        "copricapo",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "chapelaria",
+        "Sport",
+        "Biedermeier",
+        "Bürgertum",
+        "Frau",
+        "Bourgeoisie",
+        "Erholung und Freizeit",
+        "Fashion",
+        "Recreation and Leisure",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/50156/513393_default.webp",
+    "id": "bb1f22f2-c2b1-4da0-87f6-a5ab71cfab3d",
+    "Filter": {
+        "Aehnlichkeit": 1394,
+        "Farbe": [
+            287,
+            1491,
+            3348,
+            7521,
+            9128
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31081",
+    "titel": "Modebild: Vier Damenmoden, zwei Herrenmoden",
+    "Datum": "1840",
+    "Thema": [
+        "man",
+        "fashion plates",
+        "hairdress",
+        "Frisur",
+        "Mann",
+        "Kind",
+        "Modebilder",
+        "fashion, clothing (+ boys' clothes)",
+        "Mode",
+        "woman",
+        "Fashion",
+        "Frau",
+        "Bourgeoisie",
+        "child",
+        "Bürgertum",
+        "head-gear",
+        "accessories (~ clothing)",
+        "Accessoires",
+        "copricapo",
+        "chapelaria",
+        "coat",
+        "被り物",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "Jacke, Mantel",
+        "Dandy, Beau, Geck",
+        "dandy, beau",
+        "Kleidung für Jungen"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/51192/512987_default.webp",
+    "id": "1ed7e5bb-1235-426d-acb5-2d4d4256a6bc",
+    "Filter": {
+        "Aehnlichkeit": 168,
+        "Farbe": [
+            2687,
+            7927,
+            8282,
+            8901,
+            10929
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30221",
+    "titel": "Modebild: \"Zwei französische Damen mit Velourhüten und Winterkleidung\"",
+    "Datum": "1816",
+    "Thema": [
+        "fashion plates",
+        "Mode",
+        "Winter",
+        "man",
+        "woman",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "couvre-chef",
+        "copricapo",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Modebilder",
+        "Frau",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Biedermeier",
+        "Fashion",
+        "Mann"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47697/1759463_default.webp",
+    "id": "8cd7797f-a371-44a5-add6-a147b3329c1a",
+    "Filter": {
+        "Aehnlichkeit": 1569,
+        "Farbe": [
+            1391,
+            3259,
+            9099,
+            9927,
+            10573
+        ]
+    }
+}

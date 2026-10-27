@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31496",
+    "titel": "Modebild: Zwei Figuren, Damenmoden",
+    "Datum": "1831",
+    "Thema": [
+        "woman",
+        "chapelaria",
+        "copricapo",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "fashion plates",
+        "Modebilder",
+        "Biedermeier",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "Frau",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55187/614269_default.webp",
+    "id": "34207e0d-52c1-4a8e-a47b-ba24e24d3bc2",
+    "Filter": {
+        "Aehnlichkeit": 109,
+        "Farbe": [
+            1577,
+            3423,
+            5682,
+            5964,
+            6715,
+            7550,
+            9152
+        ]
+    }
+}

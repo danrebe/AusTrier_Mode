@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30041",
+    "titel": "Modebild: \"Parisian Evening Dress\"",
+    "Datum": "1830",
+    "Thema": [
+        "chapelaria",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Tanz",
+        "woman",
+        "Mode",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Nachtleben",
+        "Nightlife",
+        "Fashion",
+        "Bürgertum",
+        "Biedermeier",
+        "Frau",
+        "Bourgeoisie",
+        "Dance",
+        "Modebilder",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/46883/511411_default.webp",
+    "id": "51dd0abb-3b27-4b01-9384-588b854a59cd",
+    "Filter": {
+        "Aehnlichkeit": 1323,
+        "Farbe": [
+            2128,
+            3882,
+            5292,
+            5511,
+            7230
+        ]
+    }
+}

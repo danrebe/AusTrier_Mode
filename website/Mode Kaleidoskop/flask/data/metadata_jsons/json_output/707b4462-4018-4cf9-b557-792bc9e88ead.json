@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30509",
+    "titel": "Modebild: \"Franzose mit Zylinder, Mantel und schwarzer Hose\"",
+    "Datum": "1825",
+    "Thema": [
+        "被り物",
+        "Dandy, Beau, Geck",
+        "dandy, beau",
+        "coat",
+        "Jacke, Mantel",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Mode",
+        "Biedermeier",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Mann",
+        "Modebilder",
+        "fashion plates",
+        "man"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48720/511211_default.webp",
+    "id": "707b4462-4018-4cf9-b557-792bc9e88ead",
+    "Filter": {
+        "Aehnlichkeit": 279,
+        "Farbe": [
+            397,
+            1774,
+            3593,
+            5068
+        ]
+    }
+}

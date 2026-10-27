@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30128/1",
+    "titel": "Modebild: \"Dame mit Fächer\"",
+    "Datum": "1803",
+    "Thema": [
+        "copricapo",
+        "Fashion",
+        "fashion plates",
+        "Mode",
+        "woman",
+        "Bürgertum",
+        "Frau",
+        "Bourgeoisie",
+        "Erotik",
+        "Eroticism",
+        "dress, gown",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "chapelaria",
+        "(Damen-)Kleid",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47431/511567_default.webp",
+    "id": "1d1e3859-5707-4188-a653-95b8108356bc",
+    "Filter": {
+        "Aehnlichkeit": 487,
+        "Farbe": [
+            889,
+            2831,
+            4409,
+            9737,
+            10516
+        ]
+    }
+}

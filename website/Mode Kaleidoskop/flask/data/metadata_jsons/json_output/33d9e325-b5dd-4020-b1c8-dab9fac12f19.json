@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30319",
+    "titel": "Modebild: \"Engländerin in Atlaskleid, Französin mit Schal aus Seidenbaumwolle\"",
+    "Datum": "1825",
+    "Thema": [
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "被り物",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Schal",
+        "neck-gear ~ clothing",
+        "Modebilder",
+        "fashion plates",
+        "Frau",
+        "Fashion",
+        "Biedermeier",
+        "Bürgertum",
+        "Bourgeoisie",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48163/511885_default.webp",
+    "accessoires": [
+        "Schal"
+    ],
+    "id": "33d9e325-b5dd-4020-b1c8-dab9fac12f19",
+    "Filter": {
+        "Aehnlichkeit": 490,
+        "Farbe": [
+            2207,
+            3950,
+            5333,
+            10224,
+            11038,
+            11049
+        ]
+    }
+}

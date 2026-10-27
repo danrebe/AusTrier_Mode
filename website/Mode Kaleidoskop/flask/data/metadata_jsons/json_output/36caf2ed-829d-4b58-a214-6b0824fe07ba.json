@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30796",
+    "titel": "Modebild: Zwei Figuren, Kleider in grün und blau",
+    "Datum": "1830",
+    "Thema": [
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Dandy, Beau, Geck",
+        "Mode",
+        "chapelaria",
+        "dandy, beau",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "woman",
+        "Bürgertum",
+        "Biedermeier",
+        "Fashion",
+        "Frau",
+        "Bourgeoisie",
+        "man",
+        "fashion plates",
+        "Modebilder",
+        "Mann"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49602/512609_default.webp",
+    "id": "36caf2ed-829d-4b58-a214-6b0824fe07ba",
+    "Filter": {
+        "Aehnlichkeit": 1024,
+        "Farbe": [
+            2178,
+            3923,
+            5314,
+            10213,
+            10643
+        ]
+    }
+}

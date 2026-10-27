@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30490",
+    "titel": "Modebild: \"Französische Dame mit Velourhut samt Maraboutfedern, Mantel und Merinorobe\"",
+    "Datum": "1822",
+    "Thema": [
+        "被り物",
+        "Modebilder",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Jacke, Mantel",
+        "coat",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "chapelaria",
+        "copricapo",
+        "Bourgeoisie",
+        "Frau",
+        "Biedermeier",
+        "Bürgertum",
+        "Fashion",
+        "fashion plates",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48686/511203_default.webp",
+    "id": "9158b192-02b9-4960-bc7d-81ab68e59ebf",
+    "Filter": {
+        "Aehnlichkeit": 1773,
+        "Farbe": [
+            1147,
+            3058,
+            8431,
+            9025,
+            9838
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30550",
+    "titel": "Modebild: Zwei Pariserinnen mit Turban, Satinkleidern und Cape mit Chinchillabesatz",
+    "Datum": "1827",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "fashion plates",
+        "Modebilder",
+        "Kopfbedeckung: Turban",
+        "head-gear: turban",
+        "Jacke, Mantel",
+        "chapelaria",
+        "copricapo",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "Bourgeoisie",
+        "coat",
+        "Bürgertum",
+        "Biedermeier",
+        "Fashion",
+        "Exotismus",
+        "Exoticism",
+        "woman",
+        "Mode",
+        "Frau"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48891/512249_default.webp",
+    "id": "fb43ec60-0080-49d6-b9c5-72d4ea50289f",
+    "Filter": {
+        "Aehnlichkeit": 2012,
+        "Farbe": [
+            1938,
+            3727,
+            5168,
+            10128,
+            10859
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30553",
+    "titel": "Modebild: Zwei Pariserinnen mit aufgesteckten Haaren, mit Blumen geschmückt; Kleider weiß und rosa, weiße Kreuzbandschuhe",
+    "Datum": "1828",
+    "Thema": [
+        "woman",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "chapelaria",
+        "copricapo",
+        "Mode",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Biedermeier",
+        "Fashion",
+        "Frau",
+        "Modebilder",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48941/512253_default.webp",
+    "id": "4b78bc5c-d909-4ac2-a067-8e44c79bf1a2",
+    "Filter": {
+        "Aehnlichkeit": 1057,
+        "Farbe": [
+            1639,
+            3475,
+            4990,
+            5694,
+            6745,
+            7571,
+            11122
+        ]
+    }
+}

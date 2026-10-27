@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30220",
+    "titel": "Modebild: \"Zwei Pariserinnen in Mänteln und Hüten\"",
+    "Datum": "1816",
+    "Thema": [
+        "被り物",
+        "copricapo",
+        "(Damen-)Kleid",
+        "fashion plates",
+        "Modebilder",
+        "Jacke, Mantel",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "chapelaria",
+        "coat",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Biedermeier",
+        "Fashion",
+        "woman",
+        "Mode",
+        "Frau",
+        "dress, gown"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47694/1759462_default.webp",
+    "id": "ea22e4a1-e197-4631-8f9e-5ea9c5c6b79d",
+    "Filter": {
+        "Aehnlichkeit": 345,
+        "Farbe": [
+            1387,
+            3255,
+            4816,
+            7498,
+            9098
+        ]
+    }
+}

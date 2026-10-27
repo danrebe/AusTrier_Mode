@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30877",
+    "titel": "Modebild: Zwei Figuren, Nachmittags- und Ausgehkleid",
+    "Datum": "1830",
+    "Thema": [
+        "Modebilder",
+        "dress, gown",
+        "Nachtleben",
+        "Nightlife",
+        "Mode",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "chapelaria",
+        "(Damen-)Kleid",
+        "Bürgertum",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Tanz",
+        "Dance",
+        "woman",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49933/512751_default.webp",
+    "id": "0d1b84d0-eabd-40d3-ab5c-86f6e31d0524",
+    "Filter": {
+        "Aehnlichkeit": 401,
+        "Farbe": [
+            2040,
+            3810,
+            5234,
+            6012,
+            6237,
+            6906,
+            7673
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30895",
+    "titel": "Modebild: Zwei Figuren, englische Damenmoden",
+    "Datum": "1802",
+    "Thema": [
+        "woman",
+        "Modebilder",
+        "fashion plates",
+        "Mode",
+        "Bourgeoisie",
+        "Frau",
+        "Fashion",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Bürgertum"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49996/512787_default.webp",
+    "id": "19ef5233-baab-4b28-bf87-97a74f85202f",
+    "Filter": {
+        "Aehnlichkeit": 1019,
+        "Farbe": [
+            167,
+            984,
+            2917,
+            4496
+        ]
+    }
+}

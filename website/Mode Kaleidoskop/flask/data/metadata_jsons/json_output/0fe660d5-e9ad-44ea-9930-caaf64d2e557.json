@@ -1,0 +1,50 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31051",
+    "titel": "Modebild: Drei Gesellschaftskleider, Hausmantel, Herrenanzug",
+    "Datum": "1839",
+    "Thema": [
+        "dandy, beau",
+        "copricapo",
+        "Kleidung für offizielle Anlässe",
+        "Accessoires",
+        "accessories (~ clothing)",
+        "clothes for official occasions",
+        "Bürgertum",
+        "hairdress",
+        "Public Festivals and Celebrations",
+        "Mann",
+        "woman",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Mode",
+        "man",
+        "Frisur",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Fashion",
+        "Frau",
+        "head-gear",
+        "Dandy, Beau, Geck",
+        "chapelaria",
+        "coat",
+        "couvre-chef",
+        "被り物",
+        "Jacke, Mantel",
+        "Kopfbedeckung",
+        "Modebilder",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/51112/513495_default.webp",
+    "id": "0fe660d5-e9ad-44ea-9930-caaf64d2e557",
+    "Filter": {
+        "Aehnlichkeit": 94,
+        "Farbe": [
+            89,
+            5823,
+            7317,
+            7865,
+            8803,
+            10678
+        ]
+    }
+}

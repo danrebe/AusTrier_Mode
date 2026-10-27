@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30339",
+    "titel": "Modebild: \"Dame mit Strohhut und Robe mit Schleppe\"",
+    "Datum": "1803",
+    "Thema": [
+        "Frau",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "fashion plates",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "Mode",
+        "woman",
+        "Modebilder",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48213/511915_default.webp",
+    "id": "02ef0e4a-a8d7-483b-b495-598a5ed659b9",
+    "Filter": {
+        "Aehnlichkeit": 320,
+        "Farbe": [
+            908,
+            2849,
+            4427,
+            6473,
+            9745
+        ]
+    }
+}

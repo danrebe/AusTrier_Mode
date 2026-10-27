@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31215",
+    "titel": "Modebild: Fünf Figuren, Damen- und Herrenmoden, Frisuren, Hauben",
+    "Datum": "1844",
+    "Thema": [
+        "Bourgeoisie",
+        "Modebilder",
+        "Jacke, Mantel",
+        "coat",
+        "Mann",
+        "Frisur",
+        "man",
+        "woman",
+        "hairdress",
+        "被り物",
+        "couvre-chef",
+        "fashion plates",
+        "Kopfbedeckung",
+        "Frau",
+        "Mode",
+        "Bürgertum",
+        "Fashion",
+        "head-gear",
+        "Accessoires",
+        "accessories (~ clothing)",
+        "copricapo",
+        "chapelaria"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53860/513115_default.webp",
+    "id": "fda2d99a-e9ce-4718-990a-799e95286993",
+    "Filter": {
+        "Aehnlichkeit": 1260,
+        "Farbe": [
+            42,
+            2286,
+            5520,
+            7748,
+            8680,
+            10254
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30453",
+    "titel": "Modebild: \"Französische Dame mit Federhut, grünem Festkleid und schwarzer Spitzenpelerine\"",
+    "Datum": "1822",
+    "Thema": [
+        "被り物",
+        "clothes for official occasions",
+        "Kleidung für offizielle Anlässe",
+        "(Damen-)Kleid",
+        "Modebilder",
+        "fashion plates",
+        "dress, gown",
+        "Kopfbedeckung",
+        "head-gear",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "Frau",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Mode",
+        "woman",
+        "Public Festivals and Celebrations"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48593/512095_default.webp",
+    "id": "ed204465-ca2e-4e68-bc72-b27b5569de7e",
+    "Filter": {
+        "Aehnlichkeit": 197,
+        "Farbe": [
+            406,
+            1792,
+            3608,
+            5079,
+            10753
+        ]
+    }
+}

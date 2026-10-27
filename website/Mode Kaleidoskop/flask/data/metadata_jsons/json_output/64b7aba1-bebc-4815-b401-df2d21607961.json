@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30501",
+    "titel": "Modebild: \"Pariserin mit italienischem Strohhut mit Straußenfeder, Satinspencer und Perkalekleid\"",
+    "Datum": "1823",
+    "Thema": [
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "head-gear",
+        "Kopfbedeckung",
+        "neck-gear ~ clothing",
+        "被り物",
+        "Schal",
+        "Biedermeier",
+        "Modebilder",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "fashion plates",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48704/512171_default.webp",
+    "accessoires": [
+        "Schal"
+    ],
+    "id": "64b7aba1-bebc-4815-b401-df2d21607961",
+    "Filter": {
+        "Aehnlichkeit": 298,
+        "Farbe": [
+            1317,
+            4755,
+            7485,
+            8482,
+            10805,
+            11102
+        ]
+    }
+}

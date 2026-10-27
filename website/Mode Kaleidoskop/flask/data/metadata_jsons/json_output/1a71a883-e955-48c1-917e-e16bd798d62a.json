@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30700",
+    "titel": "Modebild: Zwei Figuren, Oberteile weiß mit Schinkenärmeln und Pelerinen, Röcke grün und blau",
+    "Datum": "1829",
+    "Thema": [
+        "Bourgeoisie",
+        "Fashion",
+        "Frau",
+        "Biedermeier",
+        "Kopfbedeckung",
+        "被り物",
+        "head-gear",
+        "Bürgertum",
+        "woman",
+        "Mode",
+        "fashion plates",
+        "Modebilder",
+        "chapelaria",
+        "copricapo",
+        "(Damen-)Kleid",
+        "couvre-chef",
+        "dress, gown"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49415/512475_default.webp",
+    "id": "1a71a883-e955-48c1-917e-e16bd798d62a",
+    "Filter": {
+        "Aehnlichkeit": 1022,
+        "Farbe": [
+            2109,
+            3868,
+            5281,
+            6933,
+            8634
+        ]
+    }
+}

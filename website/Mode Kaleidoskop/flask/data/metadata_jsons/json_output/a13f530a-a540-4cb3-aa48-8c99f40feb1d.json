@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31768",
+    "titel": "Modebild: Sechs weibliche  Hut- und Haarmoden",
+    "Datum": "1836",
+    "Thema": [
+        "Modebilder",
+        "copricapo",
+        "Accessoires",
+        "accessories (~ clothing)",
+        "Frisur",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "chapelaria",
+        "fashion plates",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Frau",
+        "Fashion",
+        "Mode",
+        "hairdress",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55859/614817_default.webp",
+    "id": "a13f530a-a540-4cb3-aa48-8c99f40feb1d",
+    "Filter": {
+        "Aehnlichkeit": 1563,
+        "Farbe": [
+            2504,
+            7089,
+            7840,
+            9566,
+            9644,
+            10550
+        ]
+    }
+}

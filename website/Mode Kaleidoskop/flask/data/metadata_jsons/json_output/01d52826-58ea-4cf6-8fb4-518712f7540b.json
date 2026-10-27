@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30005",
+    "titel": "\"Evening Dress\" (Originaltitel)",
+    "Datum": "um 1813",
+    "Thema": [
+        "Dance",
+        "fashion plates",
+        "Nightlife",
+        "Modebilder",
+        "Tanz",
+        "woman",
+        "Nachtleben",
+        "Fashion",
+        "Frau",
+        "Bürgertum",
+        "Bourgeoisie",
+        "head-gear",
+        "被り物",
+        "chapelaria",
+        "Kopfbedeckung",
+        "dress, gown",
+        "copricapo",
+        "Mode",
+        "couvre-chef",
+        "(Damen-)Kleid"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/45205/510977_default.webp",
+    "id": "01d52826-58ea-4cf6-8fb4-518712f7540b",
+    "Filter": {
+        "Aehnlichkeit": 231,
+        "Farbe": [
+            135,
+            855,
+            2799,
+            4249,
+            4376,
+            6298
+        ]
+    }
+}

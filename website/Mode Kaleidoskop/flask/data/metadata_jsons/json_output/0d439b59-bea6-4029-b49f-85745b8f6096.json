@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31846",
+    "titel": "Modebild: Zwei Figuren, Herrenreitmoden",
+    "Datum": "1838",
+    "Thema": [
+        "fashion plates",
+        "Mann",
+        "被り物",
+        "Dandy, Beau, Geck",
+        "coat",
+        "Jacke, Mantel",
+        "dandy, beau",
+        "man",
+        "Mode",
+        "Modebilder",
+        "head-gear",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/56081/510747_default.webp",
+    "id": "0d439b59-bea6-4029-b49f-85745b8f6096",
+    "Filter": {
+        "Aehnlichkeit": 271,
+        "Farbe": [
+            2347,
+            4051,
+            7022,
+            9483,
+            9699,
+            10591
+        ]
+    }
+}

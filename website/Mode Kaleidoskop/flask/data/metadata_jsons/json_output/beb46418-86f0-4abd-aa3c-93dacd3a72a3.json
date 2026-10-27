@@ -1,0 +1,47 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31752",
+    "titel": "Modebild: Zwei Figuren, Damen- und Mädchenwintermoden",
+    "Datum": "1835",
+    "Thema": [
+        "Modebilder",
+        "Jacke, Mantel",
+        "coat",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Mode",
+        "woman",
+        "fashion, clothing (+ girls' clothes)",
+        "fashion plates",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "被り物",
+        "Fashion",
+        "Bürgertum",
+        "child",
+        "Frau",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Kleidung für Mädchen",
+        "Winter",
+        "Mädchenkleid",
+        "Kind",
+        "girls dress"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55838/614785_default.webp",
+    "id": "beb46418-86f0-4abd-aa3c-93dacd3a72a3",
+    "Filter": {
+        "Aehnlichkeit": 1887,
+        "Farbe": [
+            494,
+            2068,
+            3833,
+            8625,
+            9358,
+            10176
+        ]
+    }
+}

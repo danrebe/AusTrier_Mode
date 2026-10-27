@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30486",
+    "titel": "Modebild: \"Französin mit Velourhut und Wollmantel\"",
+    "Datum": "1822",
+    "Thema": [
+        "Jacke, Mantel",
+        "被り物",
+        "coat",
+        "copricapo",
+        "chapelaria",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Bürgertum",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "Biedermeier",
+        "Fashion",
+        "Bourgeoisie",
+        "Frau",
+        "fashion plates",
+        "Modebilder",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48680/512147_default.webp",
+    "id": "1f7165a4-d15a-4f96-9f16-5c0e1249116d",
+    "Filter": {
+        "Aehnlichkeit": 198,
+        "Farbe": [
+            1107,
+            3024,
+            4598,
+            5890,
+            7443
+        ]
+    }
+}

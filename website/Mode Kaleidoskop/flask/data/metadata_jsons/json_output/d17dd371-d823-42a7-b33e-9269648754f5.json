@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30702",
+    "titel": "Modebild: Zwei Figuren, Kleider aus Gros de Naples in grün und braun mit Schinkenärmeln und Pelerinen",
+    "Datum": "1829",
+    "Thema": [
+        "Kopfbedeckung",
+        "被り物",
+        "Modebilder",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "fashion plates",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Fashion",
+        "woman",
+        "Frau",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49417/511303_default.webp",
+    "id": "d17dd371-d823-42a7-b33e-9269648754f5",
+    "Filter": {
+        "Aehnlichkeit": 133,
+        "Farbe": [
+            515,
+            2113,
+            5284,
+            5758,
+            6021,
+            6935,
+            10714
+        ]
+    }
+}

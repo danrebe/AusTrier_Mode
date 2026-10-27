@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30786",
+    "titel": "Modebild: Zwei Figuren, Kleider aus Gros de Naples mit Schinkenärmeln",
+    "Datum": "1830",
+    "Thema": [
+        "被り物",
+        "head-gear",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Mode",
+        "Kopfbedeckung",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "Modebilder",
+        "woman",
+        "Biedermeier",
+        "Fashion",
+        "Bourgeoisie",
+        "Frau",
+        "Bürgertum",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49592/512597_default.webp",
+    "id": "4b0c8097-1237-454e-a199-197920bce16a",
+    "Filter": {
+        "Aehnlichkeit": 132,
+        "Farbe": [
+            547,
+            2204,
+            3948,
+            5331
+        ]
+    }
+}

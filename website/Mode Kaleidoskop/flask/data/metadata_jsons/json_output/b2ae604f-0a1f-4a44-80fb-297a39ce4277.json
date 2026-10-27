@@ -1,0 +1,51 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31147",
+    "titel": "Modebild: Fünf Figuren, Trachten",
+    "Datum": "1842",
+    "Thema": [
+        "Öffentliche Feste und Feierlichkeiten",
+        "Mode",
+        "Frisur",
+        "hairdress",
+        "Fashion",
+        "Mann",
+        "man",
+        "Public Festivals and Celebrations",
+        "fashion plates",
+        "woman",
+        "Bourgeoisie",
+        "copricapo",
+        "Frau",
+        "Costums",
+        "Bürgertum",
+        "Bräuche",
+        "Kopfbedeckung",
+        "Verkleidung, Maskierung",
+        "Accessoires",
+        "accessories (~ clothing)",
+        "clothes for official occasions",
+        "Kleidung für offizielle Anlässe",
+        "costumes used in pageants",
+        "disguise",
+        "被り物",
+        "Modebilder",
+        "head-gear",
+        "couvre-chef",
+        "chapelaria",
+        "Kostüme für Festzüge"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53572/513055_default.webp",
+    "id": "b2ae604f-0a1f-4a44-80fb-297a39ce4277",
+    "Filter": {
+        "Aehnlichkeit": 1862,
+        "Farbe": [
+            5545,
+            5850,
+            7360,
+            8889,
+            10454,
+            10689
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30500",
+    "titel": "Modebild: \"Französin mit blauem Velourhut, blauer Robe und Ärmeln aus weißem Mousseline\"",
+    "Datum": "1823",
+    "Thema": [
+        "Mode",
+        "fashion plates",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "head-gear",
+        "被り物",
+        "Kopfbedeckung",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "Modebilder",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "Frau",
+        "Biedermeier",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48697/511207_default.webp",
+    "id": "4a0339f5-0cfe-47cd-95b9-6a3cc32bd6b2",
+    "Filter": {
+        "Aehnlichkeit": 1418,
+        "Farbe": [
+            1414,
+            8507,
+            9100,
+            9933,
+            10903,
+            10948,
+            10969
+        ]
+    }
+}

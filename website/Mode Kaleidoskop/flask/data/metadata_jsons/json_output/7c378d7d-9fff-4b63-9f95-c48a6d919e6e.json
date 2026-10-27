@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 43926",
+    "titel": "Modebild 2 Fig., Trauerkleid und Mädchenkleid",
+    "Datum": "1833",
+    "Thema": [
+        "Krankheit und Tod",
+        "woman",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Kleidung für offizielle Anlässe",
+        "Trauerkleidung",
+        "mourning dress",
+        "clothes for official occasions",
+        "Disease and Death",
+        "Frau",
+        "Fashion",
+        "Mode",
+        "fashion plates",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/1008125/1376543_default.webp",
+    "id": "7c378d7d-9fff-4b63-9f95-c48a6d919e6e",
+    "Filter": {
+        "Aehnlichkeit": 1702,
+        "Farbe": [
+            35,
+            503,
+            2088,
+            9366,
+            10184,
+            10545,
+            10641
+        ]
+    }
+}

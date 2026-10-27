@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30751",
+    "titel": "Modebild: Zwei Figuren, Gesellschaftskleider mit Stickerei, mit Blumen verziert",
+    "Datum": "1830",
+    "Thema": [
+        "couvre-chef",
+        "Mode",
+        "Kopfbedeckung",
+        "copricapo",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "fashion plates",
+        "head-gear",
+        "chapelaria",
+        "被り物",
+        "clothes for official occasions",
+        "Kleidung für offizielle Anlässe",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Bürgertum",
+        "Frau",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Fashion",
+        "Public Festivals and Celebrations",
+        "woman",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49534/511325_default.webp",
+    "id": "3ead13d1-a266-476e-8593-666777fc7af5",
+    "Filter": {
+        "Aehnlichkeit": 142,
+        "Farbe": [
+            1534,
+            3386,
+            4931,
+            5671,
+            5956,
+            6699,
+            7535
+        ]
+    }
+}

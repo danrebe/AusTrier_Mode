@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30196",
+    "titel": "Modebild: \"Dame in Hofkleid mit Diadem\"",
+    "Datum": "1809",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Modebilder",
+        "fashion plates",
+        "Kleidung für offizielle Anlässe",
+        "couvre-chef",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "chapelaria",
+        "clothes for official occasions",
+        "Höfisches Leben",
+        "Aristocracy",
+        "Adel",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Frau",
+        "woman",
+        "Mode",
+        "Court Life"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47627/1759438_default.webp",
+    "id": "9acbfcc8-4a0a-48e9-b15f-0f7205b35dee",
+    "Filter": {
+        "Aehnlichkeit": 726,
+        "Farbe": [
+            996,
+            2928,
+            6090,
+            8983
+        ]
+    }
+}

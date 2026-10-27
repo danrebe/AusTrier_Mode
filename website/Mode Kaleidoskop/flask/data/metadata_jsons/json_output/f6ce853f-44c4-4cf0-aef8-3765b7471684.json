@@ -1,0 +1,45 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31028",
+    "titel": "Modebild: Fünf Figuren, Damen- und Herrenmoden, Hüte",
+    "Datum": "1838",
+    "Thema": [
+        "被り物",
+        "Accessoires",
+        "Dandy, Beau, Geck",
+        "dandy, beau",
+        "coat",
+        "Jacke, Mantel",
+        "Modebilder",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "accessories (~ clothing)",
+        "fashion plates",
+        "Fashion",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Mode",
+        "woman",
+        "Frisur",
+        "hairdress",
+        "Frau",
+        "Mann",
+        "man"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/50990/512933_default.webp",
+    "id": "f6ce853f-44c4-4cf0-aef8-3765b7471684",
+    "Filter": {
+        "Aehnlichkeit": 51,
+        "Farbe": [
+            2684,
+            7364,
+            8279,
+            8898,
+            10463
+        ]
+    }
+}

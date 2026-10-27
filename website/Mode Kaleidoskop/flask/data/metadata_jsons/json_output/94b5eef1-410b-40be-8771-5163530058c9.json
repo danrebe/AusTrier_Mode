@@ -1,0 +1,46 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30270",
+    "titel": "Modebild: \"Dame mit italienischem Strohhut und Gazeschleier, Dame mit Saffiantäschchen\"",
+    "Datum": "1820",
+    "Thema": [
+        "Kleidung für offizielle Anlässe",
+        "clothes for official occasions",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Modebilder",
+        "fashion plates",
+        "Nachtleben",
+        "Tanz",
+        "head-gear",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "Kopfbedeckung",
+        "被り物",
+        "Fashion",
+        "Biedermeier",
+        "Bräuche",
+        "Costums",
+        "Bourgeoisie",
+        "Frau",
+        "Mode",
+        "Nightlife",
+        "woman",
+        "Dance",
+        "Bürgertum"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47852/1759512_default.webp",
+    "id": "94b5eef1-410b-40be-8771-5163530058c9",
+    "Filter": {
+        "Aehnlichkeit": 945,
+        "Farbe": [
+            1070,
+            4566,
+            6535,
+            8404,
+            9003,
+            9808
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30870",
+    "titel": "Modebild: Zwei Figuren, Ausgeh- und Morgenbesuchskleid",
+    "Datum": "1829",
+    "Thema": [
+        "Modebilder",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "fashion plates",
+        "Frau",
+        "Biedermeier",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49909/512737_default.webp",
+    "id": "a3040be3-b253-43d1-843b-0661cb019373",
+    "Filter": {
+        "Aehnlichkeit": 189,
+        "Farbe": [
+            1900,
+            3695,
+            5141,
+            5726,
+            5997,
+            6856,
+            7644
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30063",
+    "titel": "Modebild: Kleid, Hut, Fächer",
+    "Datum": "1787",
+    "Thema": [
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "被り物",
+        "Fächer",
+        "Accessoires",
+        "accessories (~ clothing)",
+        "fan",
+        "Modebilder",
+        "Fashion",
+        "Frau",
+        "Bürgertum",
+        "Bourgeoisie",
+        "woman",
+        "fashion plates",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/46973/511449_default.webp",
+    "accessoires": [
+        "Fächer"
+    ],
+    "id": "16176057-b85b-4a5d-9e02-01664b4cc21c",
+    "Filter": {
+        "Aehnlichkeit": 227,
+        "Farbe": [
+            838,
+            2783,
+            4244,
+            4360
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30101",
+    "titel": "Modebild: Brustbildchen, Hüte, Kleidungsoberteile",
+    "Datum": "1797",
+    "Thema": [
+        "Modebilder",
+        "Accessoires",
+        "accessories (~ clothing)",
+        "chapelaria",
+        "copricapo",
+        "被り物",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "fashion plates",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "Frau",
+        "woman",
+        "hairdress",
+        "Frisur",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47350/511519_default.webp",
+    "id": "f081f584-d561-4e3d-8454-7778e3912341",
+    "Filter": {
+        "Aehnlichkeit": 1991,
+        "Farbe": [
+            941,
+            2877,
+            4455,
+            11181
+        ]
+    }
+}

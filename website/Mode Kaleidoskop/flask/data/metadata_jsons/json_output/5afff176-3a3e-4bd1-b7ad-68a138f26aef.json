@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30726",
+    "titel": "Modebild: Zwei Figuren, Kleider mit Pelerinen und Schinkenärmeln",
+    "Datum": "1829",
+    "Thema": [
+        "被り物",
+        "couvre-chef",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "dress, gown",
+        "Mode",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "Modebilder",
+        "Biedermeier",
+        "Fashion",
+        "Bürgertum",
+        "Frau",
+        "Bourgeoisie",
+        "woman",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49452/512513_default.webp",
+    "id": "5afff176-3a3e-4bd1-b7ad-68a138f26aef",
+    "Filter": {
+        "Aehnlichkeit": 134,
+        "Farbe": [
+            300,
+            1528,
+            3381,
+            4925,
+            10622,
+            10706
+        ]
+    }
+}

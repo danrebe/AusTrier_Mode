@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30574",
+    "titel": "Modebild: Blumengeschmückter Kapotthut, Kleid aus Moiré",
+    "Datum": "1828",
+    "Thema": [
+        "Fashion",
+        "Biedermeier",
+        "Frau",
+        "Bourgeoisie",
+        "Bürgertum",
+        "fashion plates",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Modebilder",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49015/511241_default.webp",
+    "id": "15a510c1-50cb-4613-a052-e79e57d1e263",
+    "Filter": {
+        "Aehnlichkeit": 117,
+        "Farbe": [
+            1685,
+            3514,
+            5016,
+            5700
+        ]
+    }
+}

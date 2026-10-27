@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31566",
+    "titel": "Modebild: Drei Figuren, ein Herrenjagdanzug, zwei Herrenanzüge",
+    "Datum": "1832",
+    "Thema": [
+        "被り物",
+        "head-gear",
+        "coat",
+        "Jacke, Mantel",
+        "Modebilder",
+        "fashion plates",
+        "dandy, beau",
+        "Dandy, Beau, Geck",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Fashion",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Mann",
+        "man",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55316/614409_default.webp",
+    "id": "93c5418d-9004-4d7a-9471-503405ba2470",
+    "Filter": {
+        "Aehnlichkeit": 1780,
+        "Farbe": [
+            561,
+            2228,
+            3970,
+            6985,
+            7721,
+            9432,
+            10233
+        ]
+    }
+}

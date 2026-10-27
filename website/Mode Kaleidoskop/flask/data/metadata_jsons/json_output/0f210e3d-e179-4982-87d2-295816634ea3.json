@@ -1,0 +1,45 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31042",
+    "titel": "Modebild: Fünf Figuren, Damen- und Herrenwintermoden",
+    "Datum": "1841",
+    "Thema": [
+        "man",
+        "Fashion",
+        "Modebilder",
+        "fashion plates",
+        "Frisur",
+        "hairdress",
+        "Mann",
+        "Bourgeoisie",
+        "woman",
+        "Frau",
+        "Bürgertum",
+        "Mode",
+        "Winter",
+        "被り物",
+        "Dandy, Beau, Geck",
+        "coat",
+        "Jacke, Mantel",
+        "accessories (~ clothing)",
+        "Accessoires",
+        "dandy, beau",
+        "Kopfbedeckung",
+        "head-gear",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/51068/513485_default.webp",
+    "id": "0f210e3d-e179-4982-87d2-295816634ea3",
+    "Filter": {
+        "Aehnlichkeit": 65,
+        "Farbe": [
+            2327,
+            7758,
+            8105,
+            8691,
+            10272
+        ]
+    }
+}

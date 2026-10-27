@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31441",
+    "titel": "Modebild: Eine Figur, Wagenkleid",
+    "Datum": "1816",
+    "Thema": [
+        "Modebilder",
+        "Reisen und Tourismus",
+        "Kopfbedeckung",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "被り物",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Biedermeier",
+        "fashion plates",
+        "Fashion",
+        "Frau",
+        "Bourgeoisie",
+        "Bürgertum",
+        "woman",
+        "Mode",
+        "Travel and Tourism"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55083/513899_default.webp",
+    "id": "221943d4-9645-43b6-8edc-5ee3ab7b6482",
+    "Filter": {
+        "Aehnlichkeit": 1134,
+        "Farbe": [
+            1548,
+            3398,
+            4942,
+            6705,
+            7538
+        ]
+    }
+}

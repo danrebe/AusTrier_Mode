@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30615",
+    "titel": "Modebild: Zwei Damen in grauer und blauer Robe mit Kapotthüten",
+    "Datum": "1828",
+    "Thema": [
+        "Mode",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "couvre-chef",
+        "chapelaria",
+        "copricapo",
+        "被り物",
+        "head-gear",
+        "Kopfbedeckung",
+        "Modebilder",
+        "Frau",
+        "Biedermeier",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "woman",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49084/512345_default.webp",
+    "id": "5456e5ec-7357-4322-a9d3-e72d4c8186bb",
+    "Filter": {
+        "Aehnlichkeit": 1030,
+        "Farbe": [
+            1426,
+            3290,
+            4851,
+            9938
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31905",
+    "titel": "Modebild: Zwei Figuren, weibliche  Promenadenmoden",
+    "Datum": "1839",
+    "Thema": [
+        "Mode",
+        "couvre-chef",
+        "woman",
+        "fashion plates",
+        "Kopfbedeckung",
+        "被り物",
+        "head-gear",
+        "copricapo",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Frau",
+        "Fashion",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/56418/510831_default.webp",
+    "id": "005c1f1b-5453-4e1d-bda2-5d5879e6710e",
+    "Filter": {
+        "Aehnlichkeit": 101,
+        "Farbe": [
+            2431,
+            6054,
+            7058,
+            7279,
+            8737,
+            9528,
+            10323
+        ]
+    }
+}

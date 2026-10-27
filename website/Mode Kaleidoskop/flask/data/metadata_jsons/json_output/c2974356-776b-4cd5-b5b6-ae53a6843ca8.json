@@ -1,0 +1,42 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31474",
+    "titel": "Modebild: Zwei Figuren, Wagenkleid und Ausgehkleid",
+    "Datum": "1830",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Jacke, Mantel",
+        "coat",
+        "fashion plates",
+        "Modebilder",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Travel and Tourism",
+        "Bürgertum",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Frau",
+        "Fashion",
+        "Reisen und Tourismus",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55141/614225_default.webp",
+    "id": "c2974356-776b-4cd5-b5b6-ae53a6843ca8",
+    "Filter": {
+        "Aehnlichkeit": 1894,
+        "Farbe": [
+            1501,
+            4900,
+            5480,
+            8523,
+            10621,
+            10729
+        ]
+    }
+}

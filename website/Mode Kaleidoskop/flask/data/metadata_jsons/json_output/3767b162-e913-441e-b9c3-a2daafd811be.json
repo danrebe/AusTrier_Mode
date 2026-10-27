@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31580",
+    "titel": "Modebild: Zwei Figuren, Winterdamenmoden",
+    "Datum": "1832",
+    "Thema": [
+        "Winter",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Mode",
+        "Frau",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "woman",
+        "Modebilder",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55338/614439_default.webp",
+    "id": "3767b162-e913-441e-b9c3-a2daafd811be",
+    "Filter": {
+        "Aehnlichkeit": 584,
+        "Farbe": [
+            2267,
+            4002,
+            7002,
+            8088,
+            9453,
+            10247
+        ]
+    }
+}

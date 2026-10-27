@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30507",
+    "titel": "Modebild: \"Pariser mit Zylinder, Sakko, gestreifter Weste und gestreifter Hose\"",
+    "Datum": "1824",
+    "Thema": [
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "head-gear",
+        "Mode",
+        "Kleidung für den Unterkörper",
+        "clothing for the lower part of the body",
+        "Kopfbedeckung",
+        "被り物",
+        "Bourgeoisie",
+        "man",
+        "Biedermeier",
+        "Fashion",
+        "Bürgertum",
+        "Mann",
+        "Modebilder",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48715/512181_default.webp",
+    "id": "78f0fe45-a7f3-4a09-9c0d-f389d253cf3c",
+    "Filter": {
+        "Aehnlichkeit": 278,
+        "Farbe": [
+            400,
+            1778,
+            3596,
+            5071
+        ]
+    }
+}

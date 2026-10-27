@@ -1,0 +1,48 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31049",
+    "titel": "Modebild: Vier Gesellschaftskleider, zwei Herrenanzüge, Frisuren",
+    "Datum": "1839",
+    "Thema": [
+        "Mann",
+        "woman",
+        "Öffentliche Feste und Feierlichkeiten",
+        "hairdress",
+        "Frisur",
+        "Modebilder",
+        "man",
+        "fashion plates",
+        "Public Festivals and Celebrations",
+        "Mode",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Frau",
+        "Dandy, Beau, Geck",
+        "Kopfbedeckung",
+        "accessories (~ clothing)",
+        "Accessoires",
+        "clothes for official occasions",
+        "Kleidung für offizielle Anlässe",
+        "dandy, beau",
+        "被り物",
+        "coat",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Jacke, Mantel"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/51105/513493_default.webp",
+    "id": "0a3dbf89-c901-4580-95fb-db9284da6896",
+    "Filter": {
+        "Aehnlichkeit": 39,
+        "Farbe": [
+            2559,
+            7318,
+            7866,
+            8204,
+            8804
+        ]
+    }
+}
