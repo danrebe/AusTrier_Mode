@@ -8,15 +8,14 @@ Ergebnis:
 Aufruf:  python 07_Begriffe_zaehlen.py [eingabe.csv]
 """
 
-import os
 import csv
-import sys
 from collections import Counter
+from pathlib import Path
 
-EINGABE = "/Users/naemiburger/AusTrier_Mode/data/dataset_modebilder.csv"
-AUSGABE = os.path.join("results", "begriffe_haeufigkeit.csv")
+PROJEKT = Path(__file__).resolve().parent.parent   # = AusTrier_Mode
+EINGABE = PROJEKT / "data" / "dataset_modebilder.csv"
+AUSGABE = PROJEKT / "results" / "begriffe_haeufigkeit.csv"
 TRENNZEICHEN = ";"
-
 
 def main():
     zaehler = Counter()
@@ -34,7 +33,7 @@ def main():
             begriffe.discard("")
             zaehler.update(begriffe)  # jeder Begriff zählt pro Bild höchstens einmal
 
-    os.makedirs("results", exist_ok=True)
+    AUSGABE.parent.mkdir(parents=True, exist_ok=True)
     with open(AUSGABE, "w", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
         writer.writerow(["begriff", "anzahl", "anteil_bilder"])
