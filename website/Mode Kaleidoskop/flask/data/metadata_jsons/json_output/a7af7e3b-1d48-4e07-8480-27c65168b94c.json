@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31654",
+    "titel": "Modebild: Zwei Figuren, Herren- und Damenmoden",
+    "Datum": "1834",
+    "Thema": [
+        "coat",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Kopfbedeckung",
+        "Jacke, Mantel",
+        "Modebilder",
+        "fashion plates",
+        "copricapo",
+        "couvre-chef",
+        "chapelaria",
+        "head-gear",
+        "被り物",
+        "dandy, beau",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "Frau",
+        "woman",
+        "man",
+        "Mann",
+        "Mode",
+        "Dandy, Beau, Geck"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55423/614589_default.webp",
+    "id": "a7af7e3b-1d48-4e07-8480-27c65168b94c",
+    "Filter": {
+        "Aehnlichkeit": 528,
+        "Farbe": [
+            423,
+            1843,
+            5113,
+            6409,
+            6820,
+            9672
+        ]
+    }
+}

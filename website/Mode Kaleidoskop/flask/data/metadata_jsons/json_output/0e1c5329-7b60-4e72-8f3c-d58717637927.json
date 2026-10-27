@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30082",
+    "titel": "Modebild: Kleid, Frisur, Hut, Fächer",
+    "Datum": "1792",
+    "Thema": [
+        "copricapo",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "head-gear",
+        "woman",
+        "Frisur",
+        "chapelaria",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Mode",
+        "hairdress",
+        "Modebilder",
+        "fashion plates",
+        "被り物",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "Frau"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47288/511485_default.webp",
+    "id": "0e1c5329-7b60-4e72-8f3c-d58717637927",
+    "Filter": {
+        "Aehnlichkeit": 218,
+        "Farbe": [
+            969,
+            2902,
+            4483,
+            9769,
+            10520
+        ]
+    }
+}

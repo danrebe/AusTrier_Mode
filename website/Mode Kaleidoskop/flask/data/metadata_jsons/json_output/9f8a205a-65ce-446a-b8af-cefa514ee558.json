@@ -1,0 +1,52 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31280",
+    "titel": "Modebild: Fünf Figuren, Damenmoden (Alltagskleider und Ballkleider)",
+    "Datum": "1846",
+    "Thema": [
+        "Mode",
+        "woman",
+        "hairdress",
+        "Nightlife",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Public Festivals and Celebrations",
+        "Nachtleben",
+        "Tanz",
+        "Frisur",
+        "Ballkleid",
+        "fashion plates",
+        "Modebilder",
+        "dress, gown: ball gown",
+        "couvre-chef",
+        "chapelaria",
+        "copricapo",
+        "head-gear",
+        "Accessoires",
+        "Kopfbedeckung",
+        "被り物",
+        "clothes for official occasions",
+        "accessories (~ clothing)",
+        "Kleidung für offizielle Anlässe",
+        "Fashion",
+        "Dance",
+        "Bürgertum",
+        "Bräuche",
+        "Frau",
+        "Costums",
+        "Bourgeoisie"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53973/513741_default.webp",
+    "id": "9f8a205a-65ce-446a-b8af-cefa514ee558",
+    "Filter": {
+        "Aehnlichkeit": 1112,
+        "Farbe": [
+            2319,
+            5581,
+            6046,
+            7251,
+            7756,
+            8687,
+            9696
+        ]
+    }
+}

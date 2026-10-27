@@ -1,0 +1,34 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31341",
+    "titel": "Modebild: Zwei Figuren, Pariser Sommerkleider,",
+    "Datum": "1806",
+    "Thema": [
+        "dress, gown",
+        "Modebilder",
+        "copricapo",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "chapelaria",
+        "(Damen-)Kleid",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "Mode",
+        "Frau",
+        "woman",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54177/513795_default.webp",
+    "id": "f3625482-c273-4979-9729-c503048132d5",
+    "Filter": {
+        "Aehnlichkeit": 1416,
+        "Farbe": [
+            1178,
+            3082,
+            4649
+        ]
+    }
+}

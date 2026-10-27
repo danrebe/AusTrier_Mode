@@ -1,0 +1,42 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30011",
+    "titel": "\"Evening Dress\" (Originaltitel)",
+    "Datum": "1829",
+    "Thema": [
+        "fashion plates",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Mode",
+        "chapelaria",
+        "Nightlife",
+        "Modebilder",
+        "Kopfbedeckung",
+        "copricapo",
+        "Nachtleben",
+        "head-gear",
+        "couvre-chef",
+        "被り物",
+        "Dance",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Fashion",
+        "Tanz",
+        "woman",
+        "Frau"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/45211/510989_default.webp",
+    "id": "76058a1c-db5d-4c72-beb8-2ea63a8c1d05",
+    "Filter": {
+        "Aehnlichkeit": 1678,
+        "Farbe": [
+            1873,
+            3670,
+            5126,
+            8592,
+            10101,
+            10527
+        ]
+    }
+}

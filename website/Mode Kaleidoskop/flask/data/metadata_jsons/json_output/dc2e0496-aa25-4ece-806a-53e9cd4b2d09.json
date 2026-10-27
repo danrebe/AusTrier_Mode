@@ -1,0 +1,42 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30374",
+    "titel": "Modebild: \"Französische Dame mit Federhaube und großer Toilette\"",
+    "Datum": "1813",
+    "Thema": [
+        "Modebilder",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "Schal",
+        "neck-gear ~ clothing",
+        "被り物",
+        "fashion plates",
+        "Biedermeier",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "Mode",
+        "Frau",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48345/511971_default.webp",
+    "accessoires": [
+        "Schal"
+    ],
+    "id": "dc2e0496-aa25-4ece-806a-53e9cd4b2d09",
+    "Filter": {
+        "Aehnlichkeit": 23,
+        "Farbe": [
+            3118,
+            6126,
+            8452,
+            9058,
+            9867
+        ]
+    }
+}

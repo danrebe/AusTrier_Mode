@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30704",
+    "titel": "Modebild: Zwei Figuren, Kapotthüte, Redingoten mit Schinkenärmeln und Jockeys",
+    "Datum": "1829",
+    "Thema": [
+        "Modebilder",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "copricapo",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "chapelaria",
+        "Mode",
+        "fashion plates",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Frau",
+        "Biedermeier",
+        "Fashion",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49419/512481_default.webp",
+    "id": "45581490-be90-4fe0-ac0f-16c0eb01cf63",
+    "Filter": {
+        "Aehnlichkeit": 478,
+        "Farbe": [
+            2118,
+            3875,
+            5288,
+            7689
+        ]
+    }
+}

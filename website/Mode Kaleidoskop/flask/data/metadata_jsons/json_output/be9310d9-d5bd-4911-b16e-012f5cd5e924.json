@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30721",
+    "titel": "Modebild: Zwei Figuren, rosa und blaues Satinkleid, weiße Schinkenärmeln",
+    "Datum": "1829",
+    "Thema": [
+        "fashion plates",
+        "Modebilder",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "head-gear",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "Kopfbedeckung",
+        "被り物",
+        "Biedermeier",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Frau",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49439/512505_default.webp",
+    "id": "be9310d9-d5bd-4911-b16e-012f5cd5e924",
+    "Filter": {
+        "Aehnlichkeit": 410,
+        "Farbe": [
+            296,
+            1521,
+            3376,
+            4918,
+            11112
+        ]
+    }
+}

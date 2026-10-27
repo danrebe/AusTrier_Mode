@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30088",
+    "titel": "Modebild: \"Junge, deutsche Dame in Frühlings-Promenade-Rock\"",
+    "Datum": "1794",
+    "Thema": [
+        "Modebilder",
+        "fashion plates",
+        "copricapo",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "chapelaria",
+        "(Damen-)Kleid",
+        "Bourgeoisie",
+        "Fashion",
+        "Bürgertum",
+        "Frau",
+        "woman",
+        "Mode",
+        "dress, gown"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47309/511497_default.webp",
+    "id": "cbc08a58-e673-426f-a200-debb514f6049",
+    "Filter": {
+        "Aehnlichkeit": 225,
+        "Farbe": [
+            866,
+            2810,
+            4253,
+            4387,
+            8959,
+            9633
+        ]
+    }
+}

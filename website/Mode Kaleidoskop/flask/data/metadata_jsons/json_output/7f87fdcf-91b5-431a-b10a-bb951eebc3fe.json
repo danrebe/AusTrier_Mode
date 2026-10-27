@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31450",
+    "titel": "Modebild: Zwei Figuren, Morgen- und Promenadenkleid",
+    "Datum": "1829",
+    "Thema": [
+        "woman",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "chapelaria",
+        "被り物",
+        "copricapo",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "Modebilder",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Fashion",
+        "Bürgertum",
+        "Frau",
+        "fashion plates",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55098/513355_default.webp",
+    "id": "7f87fdcf-91b5-431a-b10a-bb951eebc3fe",
+    "Filter": {
+        "Aehnlichkeit": 671,
+        "Farbe": [
+            434,
+            1887,
+            3683,
+            5132,
+            8595,
+            10109
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30305",
+    "titel": "Modebild: \"Französinnen mit Kappen, geschmückt mit Marabutfedern und einem Paradiesvogel\"",
+    "Datum": "1824",
+    "Thema": [
+        "fashion plates",
+        "Modebilder",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "woman",
+        "Bürgertum",
+        "Biedermeier",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48121/511861_default.webp",
+    "id": "21769803-590f-48e6-af93-3bdb050da2df",
+    "Filter": {
+        "Aehnlichkeit": 393,
+        "Farbe": [
+            376,
+            1740,
+            3559,
+            5043
+        ]
+    }
+}

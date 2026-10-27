@@ -1,0 +1,46 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31451",
+    "titel": "Modebild: Drei Figuren, Promenadenkleid, Kinderkleid und Abendkleid",
+    "Datum": "1829",
+    "Thema": [
+        "Modebilder",
+        "fashion plates",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "woman",
+        "Mädchenkleid",
+        "fashion, clothing (+ girls' clothes)",
+        "Kleidung für Mädchen",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Kind",
+        "Fashion",
+        "Frau",
+        "Biedermeier",
+        "child",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Nightlife",
+        "girls dress",
+        "Mode",
+        "Nachtleben"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55100/513357_default.webp",
+    "id": "bedcd882-4e7c-4688-96d4-0555de394f15",
+    "Filter": {
+        "Aehnlichkeit": 1372,
+        "Farbe": [
+            1885,
+            3681,
+            5131,
+            5724,
+            6850,
+            10108
+        ]
+    }
+}

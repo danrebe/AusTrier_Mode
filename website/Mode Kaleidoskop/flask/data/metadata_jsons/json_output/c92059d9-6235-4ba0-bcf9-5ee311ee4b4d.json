@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31032",
+    "titel": "Modebild: Fünf Figuren, Damenmoden, Frisuren, Hüte",
+    "Datum": "1838",
+    "Thema": [
+        "被り物",
+        "Accessoires",
+        "accessories (~ clothing)",
+        "chapelaria",
+        "fashion plates",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Mode",
+        "Modebilder",
+        "Frau",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Frisur",
+        "woman",
+        "hairdress"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/51017/512937_default.webp",
+    "id": "c92059d9-6235-4ba0-bcf9-5ee311ee4b4d",
+    "Filter": {
+        "Aehnlichkeit": 68,
+        "Farbe": [
+            2613,
+            5839,
+            7335,
+            7896,
+            8849,
+            10425,
+            10962
+        ]
+    }
+}

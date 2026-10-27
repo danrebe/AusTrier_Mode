@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30614",
+    "titel": "Modebild: Zwei Damen in weißen Organdykleidern mit Pelerinenkragen",
+    "Datum": "1828",
+    "Thema": [
+        "被り物",
+        "couvre-chef",
+        "(Damen-)Kleid",
+        "fashion plates",
+        "Modebilder",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "chapelaria",
+        "woman",
+        "dress, gown",
+        "Biedermeier",
+        "Frau",
+        "Bourgeoisie",
+        "Fashion",
+        "Bürgertum",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49081/511261_default.webp",
+    "id": "9a9b69df-8799-462c-8fc7-98a20a45d39e",
+    "Filter": {
+        "Aehnlichkeit": 1313,
+        "Farbe": [
+            256,
+            1424,
+            3288,
+            4849,
+            10815
+        ]
+    }
+}

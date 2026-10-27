@@ -1,0 +1,42 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31894",
+    "titel": "Modebild: Zwei Figuren, Besuchstoiletten, ein Umhang",
+    "Datum": "1839",
+    "Thema": [
+        "被り物",
+        "cape",
+        "fashion plates",
+        "Modebilder",
+        "Umhang, Cape",
+        "chapelaria",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Bourgeoisie",
+        "coat",
+        "Bürgertum",
+        "Fashion",
+        "woman",
+        "Mode",
+        "Frau",
+        "Jacke, Mantel",
+        "(Damen-)Kleid",
+        "dress, gown"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/56181/510815_default.webp",
+    "id": "e1b717aa-fc0a-4515-af46-69b40915df47",
+    "Filter": {
+        "Aehnlichkeit": 724,
+        "Farbe": [
+            2416,
+            4102,
+            7047,
+            7799,
+            9517,
+            9702,
+            10319
+        ]
+    }
+}

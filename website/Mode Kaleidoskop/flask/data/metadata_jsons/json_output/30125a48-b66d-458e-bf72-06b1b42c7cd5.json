@@ -1,0 +1,49 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31084",
+    "titel": "Modebild: Damen-, Herren- und Knabenmoden",
+    "Datum": "1840",
+    "Thema": [
+        "chapelaria",
+        "Kind",
+        "couvre-chef",
+        "coat",
+        "dandy, beau",
+        "Dandy, Beau, Geck",
+        "copricapo",
+        "Mann",
+        "fashion plates",
+        "man",
+        "head-gear",
+        "Kopfbedeckung",
+        "Jacke, Mantel",
+        "被り物",
+        "accessories (~ clothing)",
+        "Accessoires",
+        "Modebilder",
+        "child",
+        "Bourgeoisie",
+        "Frau",
+        "Fashion",
+        "Bürgertum",
+        "Frisur",
+        "hairdress",
+        "fashion, clothing (+ boys' clothes)",
+        "Mode",
+        "Kleidung für Jungen",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53366/513529_default.webp",
+    "id": "30125a48-b66d-458e-bf72-06b1b42c7cd5",
+    "Filter": {
+        "Aehnlichkeit": 48,
+        "Farbe": [
+            2616,
+            5840,
+            7898,
+            8240,
+            8852,
+            10428
+        ]
+    }
+}

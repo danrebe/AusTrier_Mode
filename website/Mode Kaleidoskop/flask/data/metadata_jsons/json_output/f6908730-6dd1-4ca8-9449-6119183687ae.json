@@ -1,0 +1,48 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31559",
+    "titel": "Modebild: Zwei Figuren, Gesellschaftskleider",
+    "Datum": "1832",
+    "Thema": [
+        "Kopfbedeckung",
+        "被り物",
+        "clothes for official occasions",
+        "Kleidung für offizielle Anlässe",
+        "ハープ",
+        "copricapo",
+        "chapelaria",
+        "(Damen-)Kleid",
+        "head-gear",
+        "couvre-chef",
+        "arpa",
+        "Harfe",
+        "harp",
+        "harpa",
+        "harpe",
+        "dress, gown",
+        "Biedermeier",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "Public Festivals and Celebrations",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Frau",
+        "Modebilder",
+        "fashion plates",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55307/614395_default.webp",
+    "id": "f6908730-6dd1-4ca8-9449-6119183687ae",
+    "Filter": {
+        "Aehnlichkeit": 2001,
+        "Farbe": [
+            2209,
+            3952,
+            6974,
+            7716,
+            9424,
+            10226
+        ]
+    }
+}

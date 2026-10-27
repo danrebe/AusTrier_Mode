@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31437",
+    "titel": "Modebild: Eine Figur, Morgenausgehkleid",
+    "Datum": "1816",
+    "Thema": [
+        "(Damen-)Kleid",
+        "chapelaria",
+        "dress, gown",
+        "fashion plates",
+        "Modebilder",
+        "copricapo",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Biedermeier",
+        "Frau",
+        "Fashion",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55073/513895_default.webp",
+    "id": "b4f058d6-cdad-4afd-8528-570e520fe95a",
+    "Filter": {
+        "Aehnlichkeit": 904,
+        "Farbe": [
+            1439,
+            3303,
+            7507,
+            9105
+        ]
+    }
+}

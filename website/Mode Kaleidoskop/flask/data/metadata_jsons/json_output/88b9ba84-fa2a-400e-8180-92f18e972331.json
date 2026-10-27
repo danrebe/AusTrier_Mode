@@ -1,0 +1,52 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31268",
+    "titel": "Modebild: Sechs Figuren, Damen- und Herrenmoden, Kinderkleidung",
+    "Datum": "1845",
+    "Thema": [
+        "Mann",
+        "Mode",
+        "woman",
+        "girls dress",
+        "fashion plates",
+        "Family",
+        "Familie",
+        "child",
+        "Bourgeoisie",
+        "Fashion",
+        "Frau",
+        "Bürgertum",
+        "chapelaria",
+        "coat",
+        "Jacke, Mantel",
+        "dandy, beau",
+        "Dandy, Beau, Geck",
+        "head-gear",
+        "(Damen-)Kleid",
+        "copricapo",
+        "couvre-chef",
+        "被り物",
+        "Kopfbedeckung",
+        "fashion, clothing (+ girls' clothes)",
+        "Kind",
+        "Modebilder",
+        "man",
+        "Kleidung für Mädchen",
+        "Mädchenkleid",
+        "dress, gown"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53929/513729_default.webp",
+    "id": "88b9ba84-fa2a-400e-8180-92f18e972331",
+    "Filter": {
+        "Aehnlichkeit": 1450,
+        "Farbe": [
+            815,
+            2751,
+            5457,
+            7137,
+            7385,
+            8317,
+            10496
+        ]
+    }
+}

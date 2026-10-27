@@ -1,0 +1,52 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31252",
+    "titel": "Modebild: Fünf Figuren, Ballkleider, ein Herrenanzug",
+    "Datum": "1845",
+    "Thema": [
+        "Nightlife",
+        "woman",
+        "Mann",
+        "Nachtleben",
+        "Mode",
+        "Fashion",
+        "Frau",
+        "man",
+        "Tanz",
+        "dress, gown",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Bräuche",
+        "Costums",
+        "Dance",
+        "Bürgertum",
+        "Dandy, Beau, Geck",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Modebilder",
+        "dandy, beau",
+        "fashion plates",
+        "coat",
+        "(Damen-)Kleid",
+        "dress, gown: ball gown",
+        "Ballkleid",
+        "Jacke, Mantel"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53907/513711_default.webp",
+    "id": "f73751c8-4998-421c-b8bb-a95c6d9fecc5",
+    "Filter": {
+        "Aehnlichkeit": 1286,
+        "Farbe": [
+            801,
+            2730,
+            5443,
+            7133,
+            8310,
+            10488
+        ]
+    }
+}

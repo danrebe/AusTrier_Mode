@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30701",
+    "titel": "Modebild: Zwei Figuren, Redingoten mit Schinkenärmeln und Pelerinen",
+    "Datum": "1829",
+    "Thema": [
+        "fashion plates",
+        "Modebilder",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "woman",
+        "Mode",
+        "Frau"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49416/512477_default.webp",
+    "id": "e83cc428-b3f3-4880-a254-cf1b8d6c04ea",
+    "Filter": {
+        "Aehnlichkeit": 943,
+        "Farbe": [
+            560,
+            2226,
+            3968,
+            5345
+        ]
+    }
+}

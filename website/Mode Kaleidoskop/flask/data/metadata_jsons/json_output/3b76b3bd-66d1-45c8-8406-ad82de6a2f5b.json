@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31910",
+    "titel": "Modebild: Zwei Figuren, Gesellschaftskleid, Besuchskleid",
+    "Datum": "1839",
+    "Thema": [
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "copricapo",
+        "dress, gown",
+        "clothes for official occasions",
+        "Kleidung für offizielle Anlässe",
+        "Public Festivals and Celebrations",
+        "Mode",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Bürgertum",
+        "Fashion",
+        "Frau",
+        "Bourgeoisie",
+        "woman",
+        "Modebilder",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/56427/510837_default.webp",
+    "id": "3b76b3bd-66d1-45c8-8406-ad82de6a2f5b",
+    "Filter": {
+        "Aehnlichkeit": 1374,
+        "Farbe": [
+            613,
+            2346,
+            4050,
+            9482
+        ]
+    }
+}

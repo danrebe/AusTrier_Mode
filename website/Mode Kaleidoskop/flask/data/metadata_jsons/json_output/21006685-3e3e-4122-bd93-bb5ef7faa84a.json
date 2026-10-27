@@ -1,0 +1,47 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30920",
+    "titel": "Modebild: Zwei Figuren, Ballkleid, altdeutsches Kleid",
+    "Datum": "1816",
+    "Thema": [
+        "被り物",
+        "Ballkleid",
+        "dress, gown: ball gown",
+        "couvre-chef",
+        "Nightlife",
+        "Modebilder",
+        "Tanz",
+        "woman",
+        "Kopfbedeckung",
+        "head-gear",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "copricapo",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Frau",
+        "Fashion",
+        "Bräuche",
+        "Dance",
+        "Nachtleben",
+        "Mode",
+        "fashion plates",
+        "Costums"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/50049/513365_default.webp",
+    "id": "21006685-3e3e-4122-bd93-bb5ef7faa84a",
+    "Filter": {
+        "Aehnlichkeit": 1038,
+        "Farbe": [
+            1161,
+            3069,
+            5897,
+            6112,
+            6560,
+            7457,
+            9033
+        ]
+    }
+}

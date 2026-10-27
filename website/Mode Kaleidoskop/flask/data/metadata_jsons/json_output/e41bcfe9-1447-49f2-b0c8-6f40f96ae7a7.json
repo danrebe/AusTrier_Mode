@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30136",
+    "titel": "Modebild: \"Dame in großer Toilette\"",
+    "Datum": "1804",
+    "Thema": [
+        "fashion plates",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "neck-gear ~ clothing",
+        "Schal",
+        "Bourgeoisie",
+        "Modebilder",
+        "Fashion",
+        "Bürgertum",
+        "Frau",
+        "woman",
+        "Mode",
+        "(Damen-)Kleid",
+        "dress, gown"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47461/511581_default.webp",
+    "accessoires": [
+        "Schal"
+    ],
+    "id": "e41bcfe9-1447-49f2-b0c8-6f40f96ae7a7",
+    "Filter": {
+        "Aehnlichkeit": 323,
+        "Farbe": [
+            930,
+            2868,
+            5872,
+            6084,
+            6477,
+            8968,
+            9757
+        ]
+    }
+}

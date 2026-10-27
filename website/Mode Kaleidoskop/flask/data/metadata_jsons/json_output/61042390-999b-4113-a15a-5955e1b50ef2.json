@@ -1,0 +1,47 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31502",
+    "titel": "Modebild: Drei Figuren, Damen- und Kindermoden",
+    "Datum": "1831",
+    "Thema": [
+        "(Damen-)Kleid",
+        "girls dress",
+        "dress, gown",
+        "woman",
+        "Mädchenkleid",
+        "fashion, clothing (+ girls' clothes)",
+        "Modebilder",
+        "fashion plates",
+        "copricapo",
+        "Kopfbedeckung",
+        "被り物",
+        "chapelaria",
+        "head-gear",
+        "couvre-chef",
+        "Kind",
+        "Biedermeier",
+        "Bürgertum",
+        "Fashion",
+        "child",
+        "Frau",
+        "Bourgeoisie",
+        "Mode",
+        "Kleidung für Jungen",
+        "fashion, clothing (+ boys' clothes)",
+        "Kleidung für Mädchen"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55220/614281_default.webp",
+    "id": "61042390-999b-4113-a15a-5955e1b50ef2",
+    "Filter": {
+        "Aehnlichkeit": 1588,
+        "Farbe": [
+            276,
+            3334,
+            5661,
+            5948,
+            6670,
+            7518,
+            9119
+        ]
+    }
+}

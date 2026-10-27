@@ -1,0 +1,46 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30210",
+    "titel": "Modebild: \"Zwei Pariserinnen in großer Toilette mit Halbturban und Zopffrisur\"",
+    "Datum": "1811",
+    "Thema": [
+        "Kopfbedeckung",
+        "被り物",
+        "chapelaria",
+        "head-gear: turban",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Kopfbedeckung: Turban",
+        "Schal",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "neck-gear ~ clothing",
+        "Fashion",
+        "Bürgertum",
+        "Frau",
+        "Bourgeoisie",
+        "Frisur",
+        "fashion plates",
+        "woman",
+        "hairdress",
+        "Modebilder",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47649/1759452_default.webp",
+    "accessoires": [
+        "Schal"
+    ],
+    "id": "3930338a-a2a7-477f-85f8-542649689ba2",
+    "Filter": {
+        "Aehnlichkeit": 469,
+        "Farbe": [
+            1326,
+            3203,
+            4761,
+            5571,
+            5927,
+            6144
+        ]
+    }
+}

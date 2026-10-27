@@ -1,0 +1,45 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31497",
+    "titel": "Modebild: Zwei Figuren, Damen- und Kindermoden",
+    "Datum": "1831",
+    "Thema": [
+        "Modebilder",
+        "fashion plates",
+        "chapelaria",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Kind",
+        "girls dress",
+        "woman",
+        "被り物",
+        "Kopfbedeckung",
+        "copricapo",
+        "head-gear",
+        "couvre-chef",
+        "Kleidung für Mädchen",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Frau",
+        "Fashion",
+        "Bürgertum",
+        "child",
+        "fashion, clothing (+ girls' clothes)",
+        "Mode",
+        "Mädchenkleid"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55191/614271_default.webp",
+    "id": "9e5af907-366b-40e6-81c0-74fb610c4c68",
+    "Filter": {
+        "Aehnlichkeit": 551,
+        "Farbe": [
+            1459,
+            3321,
+            5946,
+            6664,
+            7517,
+            8517,
+            9112
+        ]
+    }
+}

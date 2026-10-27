@@ -1,0 +1,44 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31845",
+    "titel": "Modebild: Zwei Figuren, Damen- und Mädchenkleid",
+    "Datum": "1838",
+    "Thema": [
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Modebilder",
+        "fashion plates",
+        "Kind",
+        "girls dress",
+        "Mädchenkleid",
+        "couvre-chef",
+        "head-gear",
+        "copricapo",
+        "chapelaria",
+        "Kopfbedeckung",
+        "被り物",
+        "woman",
+        "Mode",
+        "Frau",
+        "Fashion",
+        "Biedermeier",
+        "child",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Kleidung für Mädchen",
+        "fashion, clothing (+ girls' clothes)"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/56080/510639_default.webp",
+    "id": "8bfd0a74-4735-4aa7-89b2-29f25cfc4a0b",
+    "Filter": {
+        "Aehnlichkeit": 1755,
+        "Farbe": [
+            2446,
+            4115,
+            7066,
+            8143,
+            9537,
+            10328
+        ]
+    }
+}

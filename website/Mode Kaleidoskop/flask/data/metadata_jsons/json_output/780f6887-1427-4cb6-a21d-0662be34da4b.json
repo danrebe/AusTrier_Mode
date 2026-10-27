@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30159",
+    "titel": "Modebild: \"Zwei Damen mit Strohhut und Linon-Aufsatz\"",
+    "Datum": "1801",
+    "Thema": [
+        "Modebilder",
+        "被り物",
+        "Kopfbedeckung",
+        "chapelaria",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "woman",
+        "Mode",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47518/511619_default.webp",
+    "id": "780f6887-1427-4cb6-a21d-0662be34da4b",
+    "Filter": {
+        "Aehnlichkeit": 404,
+        "Farbe": [
+            1254,
+            3147,
+            6602,
+            9069,
+            9638,
+            9877
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30346",
+    "titel": "Modebild: \"Pariserin mit Turban und großer Toilette\"",
+    "Datum": "1806",
+    "Thema": [
+        "couvre-chef",
+        "head-gear",
+        "woman",
+        "Kopfbedeckung",
+        "被り物",
+        "chapelaria",
+        "copricapo",
+        "head-gear: turban",
+        "Kopfbedeckung: Turban",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Bourgeoisie",
+        "Fashion",
+        "Frau",
+        "Bürgertum",
+        "fashion plates",
+        "Mode",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48249/511927_default.webp",
+    "id": "2ba8fd82-2613-45b5-9945-978efaec76db",
+    "Filter": {
+        "Aehnlichkeit": 217,
+        "Farbe": [
+            1186,
+            3089,
+            4654,
+            9853
+        ]
+    }
+}

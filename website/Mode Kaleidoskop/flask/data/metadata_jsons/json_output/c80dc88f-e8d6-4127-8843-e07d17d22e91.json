@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30238",
+    "titel": "Modebild: \"Wiener Dame und Französin mit Schirmhüten\"",
+    "Datum": "1816",
+    "Thema": [
+        "fashion plates",
+        "Modebilder",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Bourgeoisie",
+        "Fashion",
+        "Biedermeier",
+        "Bürgertum",
+        "Frau",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47749/1759480_default.webp",
+    "id": "c80dc88f-e8d6-4127-8843-e07d17d22e91",
+    "Filter": {
+        "Aehnlichkeit": 471,
+        "Farbe": [
+            1396,
+            3264,
+            4824,
+            9928,
+            10618
+        ]
+    }
+}

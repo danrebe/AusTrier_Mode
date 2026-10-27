@@ -1,0 +1,53 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31128",
+    "titel": "Modebild: Neun Figuren,  Kindermoden",
+    "Datum": "1841",
+    "Thema": [
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "(Damen-)Kleid",
+        "庭",
+        "Spielen",
+        "jardim",
+        "giardino",
+        "Garten",
+        "garden",
+        "woman",
+        "Mädchenkleid",
+        "dress, gown",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "child",
+        "Frau",
+        "girls dress",
+        "fashion, clothing (+ boys' clothes)",
+        "fashion, clothing (+ girls' clothes)",
+        "Mode",
+        "Kind",
+        "Kleidung für Mädchen",
+        "jardin",
+        "Modebilder",
+        "fashion plates",
+        "Kleidung für Jungen",
+        "Playing"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53515/513033_default.webp",
+    "id": "678f1254-e3b0-4626-8795-8fd2861914b8",
+    "Filter": {
+        "Aehnlichkeit": 1623,
+        "Farbe": [
+            73,
+            2445,
+            5529,
+            5805,
+            9536,
+            10327
+        ]
+    }
+}

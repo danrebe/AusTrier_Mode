@@ -1,0 +1,44 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30163/1",
+    "titel": "Modebild: \"Dame mit Federhut und Turban\"",
+    "Datum": "1803",
+    "Thema": [
+        "dress, gown",
+        "Schal",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Kopfbedeckung",
+        "chapelaria",
+        "(Damen-)Kleid",
+        "被り物",
+        "head-gear: turban",
+        "Kopfbedeckung: Turban",
+        "neck-gear ~ clothing",
+        "Exoticism",
+        "Frau",
+        "Bürgertum",
+        "Exotismus",
+        "Fashion",
+        "Bourgeoisie",
+        "Modebilder",
+        "woman",
+        "Mode",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47522/511625_default.webp",
+    "accessoires": [
+        "Schal"
+    ],
+    "id": "3adc7129-222f-4b4c-916d-98ea09aa7edb",
+    "Filter": {
+        "Aehnlichkeit": 1224,
+        "Farbe": [
+            148,
+            890,
+            2832,
+            4410
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30598",
+    "titel": "Modebild: Zwei Damen in blauem Kleid, weiße Pelerine aus Musselin, Krawatte, Schirm, Hut",
+    "Datum": "1828",
+    "Thema": [
+        "dress, gown",
+        "Modebilder",
+        "fashion plates",
+        "Kopfbedeckung",
+        "head-gear",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "被り物",
+        "(Damen-)Kleid",
+        "Bürgertum",
+        "Fashion",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Frau",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49061/512319_default.webp",
+    "id": "de3bd363-471a-4555-83a4-ea2d00e481b5",
+    "Filter": {
+        "Aehnlichkeit": 146,
+        "Farbe": [
+            1829,
+            3637,
+            5103,
+            10082
+        ]
+    }
+}

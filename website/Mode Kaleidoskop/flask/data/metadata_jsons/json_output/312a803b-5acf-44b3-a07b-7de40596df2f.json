@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30123",
+    "titel": "Modebild: \"Dame mit Tunikakleid\"",
+    "Datum": "1802",
+    "Thema": [
+        "chapelaria",
+        "head-gear",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "woman",
+        "Kopfbedeckung",
+        "copricapo",
+        "couvre-chef",
+        "被り物",
+        "Modebilder",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "Frau",
+        "Mode",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47414/511559_default.webp",
+    "id": "312a803b-5acf-44b3-a07b-7de40596df2f",
+    "Filter": {
+        "Aehnlichkeit": 1297,
+        "Farbe": [
+            951,
+            4464,
+            6485,
+            8369,
+            8973,
+            9765
+        ]
+    }
+}

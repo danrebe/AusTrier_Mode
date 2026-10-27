@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31306",
+    "titel": "Modebild: Ein Herrenjagdanzug, vier Damenmoden",
+    "Datum": "1849",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Jacke, Mantel",
+        "Mann",
+        "woman",
+        "Mode",
+        "Dandy, Beau, Geck",
+        "dandy, beau",
+        "coat",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "Bourgeoisie",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Frau",
+        "man",
+        "Bürgertum",
+        "Fashion",
+        "fashion plates",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54041/513203_default.webp",
+    "id": "7aac30d3-322f-49c0-beba-de66d413767f",
+    "Filter": {
+        "Aehnlichkeit": 1528,
+        "Farbe": [
+            115,
+            5459,
+            7138,
+            7952,
+            10498,
+            10744
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30893",
+    "titel": "Modebild: Zwei Figuren, Opern- und Morgenkleid",
+    "Datum": "1830",
+    "Thema": [
+        "Kopfbedeckung",
+        "被り物",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Opera",
+        "Theater",
+        "Theatre",
+        "woman",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "clothes for official occasions",
+        "Kleidung für offizielle Anlässe",
+        "Mode",
+        "Bürgertum",
+        "Biedermeier",
+        "Frau",
+        "Bourgeoisie",
+        "Fashion",
+        "Nachtleben",
+        "Oper",
+        "Nightlife",
+        "Modebilder",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49990/512783_default.webp",
+    "id": "91b1ddbe-36bc-4ad8-a7e6-f4242d1b4b16",
+    "Filter": {
+        "Aehnlichkeit": 923,
+        "Farbe": [
+            2003,
+            5210,
+            6004,
+            6234,
+            6890,
+            7660,
+            8616
+        ]
+    }
+}

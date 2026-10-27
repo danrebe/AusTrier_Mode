@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30194",
+    "titel": "Modebild: \"Dame und Herr in Pariser Anzügen\"",
+    "Datum": "1809",
+    "Thema": [
+        "chapelaria",
+        "Dandy, Beau, Geck",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "dandy, beau",
+        "coat",
+        "Jacke, Mantel",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "被り物",
+        "Kopfbedeckung",
+        "Frau",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "woman",
+        "Mann",
+        "Modebilder",
+        "Mode",
+        "man",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47622/1759436_default.webp",
+    "id": "8babe2ee-593f-4aad-a492-36c7f75baa4d",
+    "Filter": {
+        "Aehnlichkeit": 1753,
+        "Farbe": [
+            169,
+            994,
+            2927,
+            4505
+        ]
+    }
+}

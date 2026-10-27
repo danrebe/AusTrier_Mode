@@ -1,0 +1,46 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31888",
+    "titel": "Modebild: Zwei Figuren, Damen- und Herrengesellschaftskleidung",
+    "Datum": "1839",
+    "Thema": [
+        "copricapo",
+        "Kleidung für offizielle Anlässe",
+        "Jacke, Mantel",
+        "fashion plates",
+        "coat",
+        "Modebilder",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "chapelaria",
+        "clothes for official occasions",
+        "Public Festivals and Celebrations",
+        "Dandy, Beau, Geck",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "Mode",
+        "man",
+        "Frau",
+        "Mann",
+        "dandy, beau",
+        "Öffentliche Feste und Feierlichkeiten",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/56167/510807_default.webp",
+    "id": "f6cd7991-05e7-4017-b558-966a7aea0b5c",
+    "Filter": {
+        "Aehnlichkeit": 1612,
+        "Farbe": [
+            2310,
+            4032,
+            8098,
+            9472,
+            10261
+        ]
+    }
+}

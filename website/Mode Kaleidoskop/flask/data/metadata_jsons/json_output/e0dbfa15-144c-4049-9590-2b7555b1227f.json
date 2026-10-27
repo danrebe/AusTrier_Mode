@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30065/2",
+    "titel": "Modebild: (doppelt): Kleid, Hut, Fächer",
+    "Datum": "1787",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Modebilder",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "Mode",
+        "woman",
+        "Frau",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/46977/511455_default.webp",
+    "id": "e0dbfa15-144c-4049-9590-2b7555b1227f",
+    "Filter": {
+        "Aehnlichkeit": 713,
+        "Farbe": [
+            845,
+            2790,
+            4367,
+            8338,
+            9729
+        ]
+    }
+}

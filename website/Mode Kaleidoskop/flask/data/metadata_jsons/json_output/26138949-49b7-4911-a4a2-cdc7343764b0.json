@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31613",
+    "titel": "Modebild: Zwei Figuren, Promenadenkleider",
+    "Datum": "1833",
+    "Thema": [
+        "Mode",
+        "couvre-chef",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "copricapo",
+        "woman",
+        "Bürgertum",
+        "Frau",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Fashion",
+        "fashion plates",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55382/614507_default.webp",
+    "id": "26138949-49b7-4911-a4a2-cdc7343764b0",
+    "Filter": {
+        "Aehnlichkeit": 625,
+        "Farbe": [
+            1659,
+            3492,
+            6753,
+            7580,
+            9191
+        ]
+    }
+}

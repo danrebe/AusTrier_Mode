@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30278",
+    "titel": "Modebild: \"Französin mit Hut und Marabutfedern, Wienerin mit Kleid aus Gazebrillant\"",
+    "Datum": "1820",
+    "Thema": [
+        "couvre-chef",
+        "Kleidung für offizielle Anlässe",
+        "clothes for official occasions",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Tanz",
+        "woman",
+        "Modebilder",
+        "chapelaria",
+        "copricapo",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "fashion plates",
+        "Biedermeier",
+        "Bürgertum",
+        "Frau",
+        "Dance",
+        "Fashion",
+        "Bourgeoisie",
+        "Nachtleben",
+        "Nightlife",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47881/1759520_default.webp",
+    "id": "79442a98-1a91-4402-b2ea-fca25c9df484",
+    "Filter": {
+        "Aehnlichkeit": 780,
+        "Farbe": [
+            1088,
+            3007,
+            4582,
+            9820,
+            10521
+        ]
+    }
+}

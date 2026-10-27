@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30262",
+    "titel": "Modebild: \"Sitzende Engländerin in Abendtoilette\"",
+    "Datum": "1816",
+    "Thema": [
+        "chapelaria",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "fashion plates",
+        "Modebilder",
+        "woman",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Nachtleben",
+        "Biedermeier",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Mode",
+        "Nightlife"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47836/1759504_default.webp",
+    "id": "cc387d95-5bde-448a-98a6-05a774573298",
+    "Filter": {
+        "Aehnlichkeit": 1921,
+        "Farbe": [
+            278,
+            1477,
+            3337,
+            4888
+        ]
+    }
+}

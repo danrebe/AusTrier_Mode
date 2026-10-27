@@ -1,0 +1,42 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30179",
+    "titel": "Modebild: \"Dame mit Schal und Rosendiadem\"",
+    "Datum": "1803",
+    "Thema": [
+        "head-gear",
+        "Kopfbedeckung",
+        "(Damen-)Kleid",
+        "被り物",
+        "neck-gear ~ clothing",
+        "Schal",
+        "dress, gown",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Frau",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "woman",
+        "Modebilder",
+        "fashion plates",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47557/1759421_default.webp",
+    "accessoires": [
+        "Schal"
+    ],
+    "id": "7a11b498-e87f-4553-9033-8d78a87e84a0",
+    "Filter": {
+        "Aehnlichkeit": 208,
+        "Farbe": [
+            896,
+            2838,
+            4416,
+            5593,
+            5868,
+            7405
+        ]
+    }
+}

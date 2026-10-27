@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30560",
+    "titel": "Modebild: Zwei Pariserinnen in dekolletierter graubrauner und weißer Robe mit Puffärmeln",
+    "Datum": "1828",
+    "Thema": [
+        "fashion plates",
+        "Modebilder",
+        "(Damen-)Kleid",
+        "Kopfbedeckung",
+        "dress, gown",
+        "被り物",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "woman",
+        "Mode",
+        "Bourgeoisie",
+        "Fashion",
+        "Frau",
+        "Biedermeier",
+        "Bürgertum"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48959/512263_default.webp",
+    "id": "31906189-6fa9-4e24-9998-8ef560efdfb4",
+    "Filter": {
+        "Aehnlichkeit": 1304,
+        "Farbe": [
+            384,
+            1752,
+            3571,
+            5051
+        ]
+    }
+}

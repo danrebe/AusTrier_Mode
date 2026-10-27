@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30714",
+    "titel": "Modebild: Zwei Figuren, weiße Organdykleider mit Schinkenärmeln, weiße Kreuzbandschuhe",
+    "Datum": "1829",
+    "Thema": [
+        "被り物",
+        "chapelaria",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "fashion plates",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Mode",
+        "Modebilder",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Biedermeier",
+        "Frau",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49429/512495_default.webp",
+    "id": "5f4fd4a5-ac79-4f9e-98a0-bc651257d973",
+    "Filter": {
+        "Aehnlichkeit": 1576,
+        "Farbe": [
+            1398,
+            3266,
+            4826,
+            7500,
+            9929
+        ]
+    }
+}

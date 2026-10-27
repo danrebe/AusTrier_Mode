@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31316",
+    "titel": "Modebild: Sechs Figuren, Herrenmoden",
+    "Datum": "1852",
+    "Thema": [
+        "Dandy, Beau, Geck",
+        "dandy, beau",
+        "Jacke, Mantel",
+        "Modebilder",
+        "Mann",
+        "Mode",
+        "man",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "chapelaria",
+        "被り物",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "fashion plates",
+        "coat"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54077/513777_default.webp",
+    "id": "c46b429f-cc45-4316-bc50-03a54cb089e2",
+    "Filter": {
+        "Aehnlichkeit": 1898,
+        "Farbe": [
+            123,
+            2765,
+            7963,
+            8944,
+            10505
+        ]
+    }
+}

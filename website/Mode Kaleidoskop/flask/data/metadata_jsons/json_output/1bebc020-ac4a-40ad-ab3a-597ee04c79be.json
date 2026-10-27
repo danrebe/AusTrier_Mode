@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30885",
+    "titel": "Modebild: Zwei Figuren, Morgen- und Abendkleid",
+    "Datum": "1830",
+    "Thema": [
+        "fashion plates",
+        "被り物",
+        "Fashion",
+        "Frau",
+        "Modebilder",
+        "Kopfbedeckung",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Mode",
+        "woman",
+        "Nightlife",
+        "Nachtleben",
+        "Bürgertum",
+        "Biedermeier",
+        "Bourgeoisie"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49974/512767_default.webp",
+    "id": "1bebc020-ac4a-40ad-ab3a-597ee04c79be",
+    "Filter": {
+        "Aehnlichkeit": 186,
+        "Farbe": [
+            2017,
+            4346,
+            5218,
+            8618,
+            10158,
+            10914,
+            10955
+        ]
+    }
+}

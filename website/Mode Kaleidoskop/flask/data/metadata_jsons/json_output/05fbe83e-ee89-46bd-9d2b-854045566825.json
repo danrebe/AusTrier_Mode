@@ -1,0 +1,46 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30203",
+    "titel": "Modebild: \"Pariserin im Ballkleid vor einer Pforte\"",
+    "Datum": "1810",
+    "Thema": [
+        "Kleidung für offizielle Anlässe",
+        "(Damen-)Kleid",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "Ballkleid",
+        "dress, gown: ball gown",
+        "Tanz",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "dress, gown",
+        "clothes for official occasions",
+        "Fashion",
+        "Bürgertum",
+        "Bräuche",
+        "Costums",
+        "Frau",
+        "Bourgeoisie",
+        "Dance",
+        "fashion plates",
+        "Mode",
+        "woman",
+        "Nachtleben",
+        "Nightlife",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47634/1759445_default.webp",
+    "id": "05fbe83e-ee89-46bd-9d2b-854045566825",
+    "Filter": {
+        "Aehnlichkeit": 484,
+        "Farbe": [
+            1061,
+            2987,
+            4562,
+            6096,
+            9802
+        ]
+    }
+}

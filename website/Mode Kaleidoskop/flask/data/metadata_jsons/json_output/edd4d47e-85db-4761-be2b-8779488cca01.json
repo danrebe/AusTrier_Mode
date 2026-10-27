@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30461",
+    "titel": "Modebild: \"Pariserin mit breitkrempigem Hut und Spitzentuch, Perkalekleid und Schirm\"",
+    "Datum": "1822",
+    "Thema": [
+        "被り物",
+        "couvre-chef",
+        "fashion plates",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Modebilder",
+        "Kopfbedeckung",
+        "chapelaria",
+        "copricapo",
+        "head-gear",
+        "Bürgertum",
+        "Biedermeier",
+        "Fashion",
+        "Bourgeoisie",
+        "Frau",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48609/512107_default.webp",
+    "id": "edd4d47e-85db-4761-be2b-8779488cca01",
+    "Filter": {
+        "Aehnlichkeit": 26,
+        "Farbe": [
+            172,
+            1004,
+            2936,
+            4514
+        ]
+    }
+}

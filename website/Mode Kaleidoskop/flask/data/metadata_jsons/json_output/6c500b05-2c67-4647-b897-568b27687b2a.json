@@ -1,0 +1,52 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31244",
+    "titel": "Modebild: Vier Damenmoden, davon ein Brautkleid",
+    "Datum": "1844",
+    "Thema": [
+        "Bräuche",
+        "fashion plates",
+        "Public Festivals and Celebrations",
+        "Mode",
+        "Fashion",
+        "Costums",
+        "Frau",
+        "Bürgertum",
+        "Modebilder",
+        "Bourgeoisie",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Jacke, Mantel",
+        "Kleidung für spezielle Zwecke (Brautmode)",
+        "clothes for official occasions",
+        "Kleidung für offizielle Anlässe",
+        "Schmuck, Juwelen",
+        "ornaments, jewels",
+        "coat",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "woman",
+        "Öffentliche Feste und Feierlichkeiten"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53898/513141_default.webp",
+    "accessoires": [
+        "Schmuck, Juwelen"
+    ],
+    "id": "6c500b05-2c67-4647-b897-568b27687b2a",
+    "Filter": {
+        "Aehnlichkeit": 1650,
+        "Farbe": [
+            4192,
+            5849,
+            7351,
+            7911,
+            8258,
+            8878,
+            10444
+        ]
+    }
+}

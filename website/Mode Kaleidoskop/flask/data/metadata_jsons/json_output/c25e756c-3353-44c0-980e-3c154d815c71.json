@@ -1,0 +1,45 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30823",
+    "titel": "Modebild: Zwei Figuren, Galakleider",
+    "Datum": "1800",
+    "Thema": [
+        "Kleidung für offizielle Anlässe",
+        "Kopfbedeckung",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "fashion plates",
+        "Modebilder",
+        "Public Festivals and Celebrations",
+        "clothes for official occasions",
+        "被り物",
+        "head-gear",
+        "couvre-chef",
+        "chapelaria",
+        "copricapo",
+        "Nachtleben",
+        "Bourgeoisie",
+        "Dance",
+        "Fashion",
+        "Bürgertum",
+        "Frau",
+        "Mode",
+        "Tanz",
+        "Nightlife",
+        "Öffentliche Feste und Feierlichkeiten",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49726/512643_default.webp",
+    "id": "c25e756c-3353-44c0-980e-3c154d815c71",
+    "Filter": {
+        "Aehnlichkeit": 1082,
+        "Farbe": [
+            1202,
+            3100,
+            4668,
+            6576,
+            7166,
+            7979
+        ]
+    }
+}

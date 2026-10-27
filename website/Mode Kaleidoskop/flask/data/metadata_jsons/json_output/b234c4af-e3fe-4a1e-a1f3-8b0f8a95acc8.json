@@ -1,0 +1,48 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30432",
+    "titel": "Modebild: \"Pariserin mit Perlen im Haar und Ballkleid\"",
+    "Datum": "1822",
+    "Thema": [
+        "Kopfbedeckung",
+        "被り物",
+        "Modebilder",
+        "fashion plates",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "dress, gown: ball gown",
+        "Ballkleid",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "clothes for official occasions",
+        "chapelaria",
+        "Kleidung für offizielle Anlässe",
+        "Fashion",
+        "Tanz",
+        "Nachtleben",
+        "Biedermeier",
+        "Bräuche",
+        "Dance",
+        "Costums",
+        "Bourgeoisie",
+        "Frau",
+        "Bürgertum",
+        "Nightlife",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48560/512063_default.webp",
+    "id": "b234c4af-e3fe-4a1e-a1f3-8b0f8a95acc8",
+    "Filter": {
+        "Aehnlichkeit": 855,
+        "Farbe": [
+            386,
+            1754,
+            3574,
+            5053,
+            5711,
+            11130
+        ]
+    }
+}

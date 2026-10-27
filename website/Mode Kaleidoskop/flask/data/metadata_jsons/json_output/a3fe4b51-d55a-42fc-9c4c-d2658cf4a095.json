@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31769",
+    "titel": "Modebild: Zwei Figuren, Besuchstoilette, eine mit Umhang",
+    "Datum": "1836",
+    "Thema": [
+        "Modebilder",
+        "fashion plates",
+        "Umhang, Cape",
+        "cape",
+        "head-gear",
+        "被り物",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "(Damen-)Kleid",
+        "Bürgertum",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "woman",
+        "Mode",
+        "dress, gown"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55860/614819_default.webp",
+    "id": "a3fe4b51-d55a-42fc-9c4c-d2658cf4a095",
+    "Filter": {
+        "Aehnlichkeit": 1197,
+        "Farbe": [
+            686,
+            2501,
+            4136,
+            7838,
+            9565,
+            10897
+        ]
+    }
+}

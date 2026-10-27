@@ -1,0 +1,53 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31066",
+    "titel": "Modebild: Drei Damenmoden, ein Herrenreitanzug, ein Herrenanzug",
+    "Datum": "1839",
+    "Thema": [
+        "cheval",
+        "horse",
+        "馬",
+        "cavallo",
+        "Pferd",
+        "Dandy, Beau, Geck",
+        "dandy, beau",
+        "coat",
+        "Jacke, Mantel",
+        "Modebilder",
+        "chapelaria",
+        "cavalo",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Bourgeoisie",
+        "man",
+        "Mode",
+        "Mann",
+        "Frau",
+        "Fashion",
+        "fashion plates",
+        "Bürgertum",
+        "Animals",
+        "Sport",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Tiere",
+        "Sports",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/51163/513511_default.webp",
+    "id": "e4e8b01d-6acb-45a2-bcde-16f7fb4680ea",
+    "Filter": {
+        "Aehnlichkeit": 1975,
+        "Farbe": [
+            709,
+            2554,
+            4164,
+            8202,
+            8798,
+            10390
+        ]
+    }
+}

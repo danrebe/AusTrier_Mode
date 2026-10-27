@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30037",
+    "titel": "Modebild: \"Morning Dress- Walking Dress\"",
+    "Datum": "1829",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "fashion plates",
+        "Modebilder",
+        "Kopfbedeckung",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "被り物",
+        "Biedermeier",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "woman",
+        "Mode",
+        "Frau"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/46861/511405_default.webp",
+    "id": "d9dd045e-060f-4825-bfd7-3e13aab97a8a",
+    "Filter": {
+        "Aehnlichkeit": 1040,
+        "Farbe": [
+            1996,
+            5203,
+            7658,
+            8614,
+            10864,
+            11148
+        ]
+    }
+}

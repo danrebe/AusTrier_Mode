@@ -1,0 +1,45 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31090",
+    "titel": "Modebild: Modekupfer, Damen- und Kindermoden",
+    "Datum": "1840",
+    "Thema": [
+        "copricapo",
+        "chapelaria",
+        "head-gear",
+        "fashion, clothing (+ boys' clothes)",
+        "Mode",
+        "Kleidung für Jungen",
+        "Modebilder",
+        "fashion plates",
+        "woman",
+        "Mädchenkleid",
+        "couvre-chef",
+        "Accessoires",
+        "Kopfbedeckung",
+        "被り物",
+        "accessories (~ clothing)",
+        "Bourgeoisie",
+        "Kleidung für Mädchen",
+        "child",
+        "Bürgertum",
+        "Frau",
+        "Fashion",
+        "hairdress",
+        "fashion, clothing (+ girls' clothes)",
+        "Kind",
+        "girls dress",
+        "Frisur"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53401/513535_default.webp",
+    "id": "77b7d5aa-6f4d-4f38-b6ff-a5d567c5f53a",
+    "Filter": {
+        "Aehnlichkeit": 1681,
+        "Farbe": [
+            775,
+            2676,
+            8274,
+            9610
+        ]
+    }
+}

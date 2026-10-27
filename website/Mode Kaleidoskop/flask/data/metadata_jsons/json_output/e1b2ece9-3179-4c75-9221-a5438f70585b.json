@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31777",
+    "titel": "Modebild: Zwei Figuren, Hauskleider",
+    "Datum": "1836",
+    "Thema": [
+        "Klavier",
+        "pianoforte",
+        "couvre-chef",
+        "chapelaria",
+        "copricapo",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Frau",
+        "woman",
+        "Mode",
+        "fashion plates",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55873/614835_default.webp",
+    "id": "e1b2ece9-3179-4c75-9221-a5438f70585b",
+    "Filter": {
+        "Aehnlichkeit": 1967,
+        "Farbe": [
+            680,
+            2489,
+            7084,
+            7296,
+            7832,
+            8765,
+            9561
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30447",
+    "titel": "Modebild: \"Französin mit italienischem Strohhut, Schirm und Perkalkleid\"",
+    "Datum": "1822",
+    "Thema": [
+        "Modebilder",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Frau",
+        "fashion plates",
+        "woman",
+        "Mode",
+        "Fashion",
+        "Kopfbedeckung",
+        "被り物",
+        "couvre-chef",
+        "chapelaria",
+        "copricapo",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "head-gear"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48575/512085_default.webp",
+    "id": "1a2557fd-a6f0-4b61-b4c3-3d99f9575560",
+    "Filter": {
+        "Aehnlichkeit": 11,
+        "Farbe": [
+            1680,
+            6761,
+            7584,
+            8552,
+            9201
+        ]
+    }
+}

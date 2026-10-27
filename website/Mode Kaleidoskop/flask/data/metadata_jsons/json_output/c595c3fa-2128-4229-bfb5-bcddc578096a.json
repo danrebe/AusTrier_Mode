@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31457",
+    "titel": "Modebild: Drei Figuren, Ausgeh- und Dinnerkleid, Fulldress",
+    "Datum": "1830",
+    "Thema": [
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Modebilder",
+        "fashion plates",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Nightlife",
+        "Biedermeier",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Frau",
+        "Fashion",
+        "Mode",
+        "Nachtleben",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55115/513917_default.webp",
+    "id": "c595c3fa-2128-4229-bfb5-bcddc578096a",
+    "Filter": {
+        "Aehnlichkeit": 1901,
+        "Farbe": [
+            1580,
+            3425,
+            4962,
+            7999,
+            9992,
+            10730
+        ]
+    }
+}

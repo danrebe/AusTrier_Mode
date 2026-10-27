@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30402",
+    "titel": "Modebild: \"Pariser Dame mit Crepe-Hut, Umhangtuch, Promenadenkleid und Gürtelband\"",
+    "Datum": "1819",
+    "Thema": [
+        "Kopfbedeckung",
+        "couvre-chef",
+        "Modebilder",
+        "fashion plates",
+        "Umhang, Cape",
+        "(Damen-)Kleid",
+        "cape",
+        "head-gear",
+        "被り物",
+        "copricapo",
+        "chapelaria",
+        "dress, gown",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Biedermeier",
+        "Fashion",
+        "Mode",
+        "Frau",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48475/512015_default.webp",
+    "id": "df3d997b-6344-4413-962c-fcbad5b2867a",
+    "Filter": {
+        "Aehnlichkeit": 1961,
+        "Farbe": [
+            1200,
+            3098,
+            4666,
+            5623,
+            6327
+        ]
+    }
+}

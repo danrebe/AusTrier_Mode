@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31409",
+    "titel": "Modebild: Eine Figur, Nachmittagskleid",
+    "Datum": "1815",
+    "Thema": [
+        "Modebilder",
+        "Kopfbedeckung",
+        "head-gear",
+        "fashion plates",
+        "(Damen-)Kleid",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "被り物",
+        "Biedermeier",
+        "dress, gown",
+        "Frau",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55019/513313_default.webp",
+    "id": "a8e8c403-43b7-4ed5-b39d-c98b3d635294",
+    "Filter": {
+        "Aehnlichkeit": 905,
+        "Farbe": [
+            1340,
+            4772,
+            5929,
+            6338,
+            6636,
+            7488,
+            8489
+        ]
+    }
+}

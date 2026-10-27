@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30513",
+    "titel": "Modebild: \"Pariserin mit Hut und grünem Band, Schirm, Bluse und rotem Rock\"",
+    "Datum": "1825",
+    "Thema": [
+        "fashion plates",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "head-gear",
+        "copricapo",
+        "被り物",
+        "couvre-chef",
+        "Kopfbedeckung",
+        "Bourgeoisie",
+        "Modebilder",
+        "Biedermeier",
+        "Bürgertum",
+        "Fashion",
+        "Frau",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48732/511213_default.webp",
+    "id": "ab288098-feba-4ef3-a907-2eace06d0aeb",
+    "Filter": {
+        "Aehnlichkeit": 1121,
+        "Farbe": [
+            1668,
+            3500,
+            5009,
+            5493,
+            10026,
+            10540,
+            10576
+        ]
+    }
+}

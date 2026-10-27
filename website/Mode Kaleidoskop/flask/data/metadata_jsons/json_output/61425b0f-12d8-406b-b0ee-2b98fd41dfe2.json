@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31531",
+    "titel": "Modebild: Zwei Figuren, Maskenkostüme",
+    "Datum": "1832",
+    "Thema": [
+        "woman",
+        "Mode",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "被り物",
+        "copricapo",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "chapelaria",
+        "Theatre",
+        "Frau",
+        "Bürgertum",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Fashion",
+        "Theater",
+        "fashion plates",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55259/614339_default.webp",
+    "id": "61425b0f-12d8-406b-b0ee-2b98fd41dfe2",
+    "Filter": {
+        "Aehnlichkeit": 1589,
+        "Farbe": [
+            530,
+            2156,
+            3903,
+            5513,
+            9397
+        ]
+    }
+}

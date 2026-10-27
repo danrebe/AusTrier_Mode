@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30250",
+    "titel": "Modebild: \"Acht Hüte aus Frankreich, Österreich und England\"",
+    "Datum": "1816",
+    "Thema": [
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Frisur",
+        "hairdress",
+        "Mode",
+        "couvre-chef",
+        "Accessoires",
+        "accessories (~ clothing)",
+        "copricapo",
+        "chapelaria",
+        "woman",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Fashion",
+        "Bürgertum",
+        "Frau",
+        "fashion plates",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47761/1759492_default.webp",
+    "id": "5896664e-758b-4869-874a-a82fa4b44f58",
+    "Filter": {
+        "Aehnlichkeit": 1547,
+        "Farbe": [
+            1452,
+            3315,
+            4871,
+            6660,
+            9945
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31948",
+    "titel": "Modebild: Vier Figuren, Herren- und Knabenmoden",
+    "Datum": "1840",
+    "Thema": [
+        "dandy, beau",
+        "Dandy, Beau, Geck",
+        "Modebilder",
+        "fashion plates",
+        "coat",
+        "Jacke, Mantel",
+        "copricapo",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "chapelaria",
+        "Bürgertum",
+        "Bourgeoisie",
+        "child",
+        "Fashion",
+        "Mode",
+        "man",
+        "Kleidung für Jungen",
+        "fashion, clothing (+ boys' clothes)",
+        "Kind",
+        "Mann"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/56509/510699_default.webp",
+    "id": "fc1dc95c-114e-442a-b996-2db74100dc76",
+    "Filter": {
+        "Aehnlichkeit": 2015,
+        "Farbe": [
+            106,
+            770,
+            2666,
+            4199,
+            5430
+        ]
+    }
+}

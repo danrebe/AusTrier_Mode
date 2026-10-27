@@ -1,0 +1,47 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31688",
+    "titel": "Modebild: Zwei Figuren, weiblichen und männlichen  Hausanzug (Maler, Malerin)",
+    "Datum": "1834",
+    "Thema": [
+        "イーゼル",
+        "被り物",
+        "chevalet",
+        "easel",
+        "Staffelei",
+        "cavalete",
+        "cavalletto",
+        "dress, gown",
+        "Kopfbedeckung",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "(Damen-)Kleid",
+        "Biedermeier",
+        "Fashion",
+        "Frau",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Modebilder",
+        "man",
+        "fashion plates",
+        "Mann",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55457/614657_default.webp",
+    "id": "84f19968-4e54-437a-8d40-5fc5fafd07fe",
+    "Filter": {
+        "Aehnlichkeit": 1410,
+        "Farbe": [
+            1793,
+            6407,
+            6803,
+            7209,
+            7617,
+            8575,
+            9250
+        ]
+    }
+}

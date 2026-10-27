@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30158",
+    "titel": "Modebild: \"Zwei Damen mit Kopfputz und Sonnenschirm\"",
+    "Datum": "1801",
+    "Thema": [
+        "fashion plates",
+        "dress, gown",
+        "Modebilder",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "(Damen-)Kleid",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Frau",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47517/511617_default.webp",
+    "id": "accca00d-9c28-45a2-be52-f29806198630",
+    "Filter": {
+        "Aehnlichkeit": 468,
+        "Farbe": [
+            1253,
+            3146,
+            5909,
+            6601,
+            7474,
+            9068
+        ]
+    }
+}

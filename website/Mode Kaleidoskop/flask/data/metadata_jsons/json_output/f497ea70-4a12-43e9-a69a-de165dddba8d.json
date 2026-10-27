@@ -1,0 +1,45 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31922",
+    "titel": "Modebild: Drei Figuren, Damen- und Herrenabendmoden, Promenadenherrenanzug",
+    "Datum": "1839",
+    "Thema": [
+        "Modebilder",
+        "Dandy, Beau, Geck",
+        "dandy, beau",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "coat",
+        "Jacke, Mantel",
+        "fashion plates",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "couvre-chef",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "woman",
+        "Mode",
+        "Frau",
+        "Nightlife",
+        "Nachtleben",
+        "man",
+        "Mann"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/56468/510855_default.webp",
+    "id": "f497ea70-4a12-43e9-a69a-de165dddba8d",
+    "Filter": {
+        "Aehnlichkeit": 718,
+        "Farbe": [
+            670,
+            2471,
+            4126,
+            9550,
+            11003,
+            11175
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30566",
+    "titel": "Modebild: Zwei Damen mit schwarzen Samthüten, in Wollkleidern",
+    "Datum": "1828",
+    "Thema": [
+        "woman",
+        "Mode",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "被り物",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "Biedermeier",
+        "Frau",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "Modebilder",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48989/511237_default.webp",
+    "id": "49584823-cabf-4cd0-84a5-cdea1df2f067",
+    "Filter": {
+        "Aehnlichkeit": 493,
+        "Farbe": [
+            1767,
+            3587,
+            5063,
+            7613,
+            10060,
+            10984
+        ]
+    }
+}

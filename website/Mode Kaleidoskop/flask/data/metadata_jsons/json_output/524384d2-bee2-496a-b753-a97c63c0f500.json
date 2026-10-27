@@ -1,0 +1,44 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31662",
+    "titel": "Modebild: Drei Figuren, Damen- und Mädchenmoden",
+    "Datum": "1834",
+    "Thema": [
+        "head-gear",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Kind",
+        "fashion, clothing (+ girls' clothes)",
+        "Kleidung für Mädchen",
+        "girls dress",
+        "woman",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Kopfbedeckung",
+        "被り物",
+        "Fashion",
+        "Bourgeoisie",
+        "child",
+        "Frau",
+        "Bürgertum",
+        "Mode",
+        "fashion plates",
+        "Modebilder",
+        "Mädchenkleid"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55431/614605_default.webp",
+    "id": "524384d2-bee2-496a-b753-a97c63c0f500",
+    "Filter": {
+        "Aehnlichkeit": 1512,
+        "Farbe": [
+            20,
+            1822,
+            5717,
+            5983,
+            6814,
+            9259,
+            10078
+        ]
+    }
+}

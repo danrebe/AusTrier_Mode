@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31364",
+    "titel": "Modebild: Zwei Figuren, Morgen- und Nachmittagsspazierkleid",
+    "Datum": "1807",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Kopfbedeckung",
+        "被り物",
+        "Mode",
+        "fashion plates",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "woman",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54926/513265_default.webp",
+    "id": "bc163a78-3310-46ed-947f-a3808133c884",
+    "Filter": {
+        "Aehnlichkeit": 941,
+        "Farbe": [
+            959,
+            2892,
+            4274,
+            4471,
+            8373
+        ]
+    }
+}

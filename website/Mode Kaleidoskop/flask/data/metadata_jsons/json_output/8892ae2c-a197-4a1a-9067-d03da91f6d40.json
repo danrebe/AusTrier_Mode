@@ -1,0 +1,42 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31314",
+    "titel": "Modebild: Fünf Figuren, Damen- und Herrenmoden",
+    "Datum": "1852",
+    "Thema": [
+        "dandy, beau",
+        "被り物",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "dress, gown",
+        "Dandy, Beau, Geck",
+        "Jacke, Mantel",
+        "coat",
+        "(Damen-)Kleid",
+        "Kopfbedeckung",
+        "woman",
+        "Mode",
+        "Fashion",
+        "Bourgeoisie",
+        "Frau",
+        "Bürgertum",
+        "Mann",
+        "man",
+        "fashion plates",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54071/513211_default.webp",
+    "id": "8892ae2c-a197-4a1a-9067-d03da91f6d40",
+    "Filter": {
+        "Aehnlichkeit": 1746,
+        "Farbe": [
+            127,
+            2779,
+            7972,
+            8954,
+            10511
+        ]
+    }
+}

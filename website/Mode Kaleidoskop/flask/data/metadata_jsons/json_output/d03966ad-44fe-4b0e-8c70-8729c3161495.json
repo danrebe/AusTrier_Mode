@@ -1,0 +1,46 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30982",
+    "titel": "Modebild: Fünf Figuren, Damen- und Herrenmoden, Hüte und Frisuren",
+    "Datum": "1836",
+    "Thema": [
+        "couvre-chef",
+        "copricapo",
+        "Kopfbedeckung",
+        "Modebilder",
+        "fashion plates",
+        "Jacke, Mantel",
+        "coat",
+        "head-gear",
+        "被り物",
+        "Accessoires",
+        "chapelaria",
+        "accessories (~ clothing)",
+        "Dandy, Beau, Geck",
+        "dandy, beau",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "Mann",
+        "hairdress",
+        "man",
+        "Frisur",
+        "Frau",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/50218/512887_default.webp",
+    "id": "d03966ad-44fe-4b0e-8c70-8729c3161495",
+    "Filter": {
+        "Aehnlichkeit": 1929,
+        "Farbe": [
+            1722,
+            3546,
+            6780,
+            8025,
+            9222,
+            10046,
+            10598
+        ]
+    }
+}

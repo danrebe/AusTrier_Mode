@@ -1,0 +1,51 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31097",
+    "titel": "Modebild: Ein Jagdanzug, zwei Damen- zwei Kindermoden",
+    "Datum": "1840",
+    "Thema": [
+        "Kopfbedeckung",
+        "Sports",
+        "Mann",
+        "Mode",
+        "Modebilder",
+        "fashion plates",
+        "Kind",
+        "Kleidung für Mädchen",
+        "fashion, clothing (+ girls' clothes)",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "被り物",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Sport",
+        "Frau",
+        "Bourgeoisie",
+        "Familie",
+        "Fashion",
+        "child",
+        "Family",
+        "Bürgertum",
+        "man",
+        "woman",
+        "Kleidung für Jungen",
+        "fashion, clothing (+ boys' clothes)",
+        "Mädchenkleid",
+        "girls dress"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53429/513541_default.webp",
+    "id": "26fd3fe3-5bb8-41ba-8333-d33a0ecd623e",
+    "Filter": {
+        "Aehnlichkeit": 1086,
+        "Farbe": [
+            98,
+            2602,
+            5538,
+            7116,
+            9599,
+            10418
+        ]
+    }
+}

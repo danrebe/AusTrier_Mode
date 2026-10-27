@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30576",
+    "titel": "Modebild: Dame mit blumen- und spitzengeschmücktem Satinhut, in blauer Robe",
+    "Datum": "1828",
+    "Thema": [
+        "woman",
+        "Mode",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Frau",
+        "Biedermeier",
+        "Modebilder",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49019/512287_default.webp",
+    "id": "27e4697b-8dc1-4f79-80c8-664976ca6356",
+    "Filter": {
+        "Aehnlichkeit": 118,
+        "Farbe": [
+            350,
+            1688,
+            3518,
+            5019
+        ]
+    }
+}

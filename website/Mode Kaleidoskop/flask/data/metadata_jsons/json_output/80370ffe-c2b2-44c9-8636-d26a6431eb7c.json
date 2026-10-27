@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31534",
+    "titel": "Modebild: Zwei Figuren, Gesellschaftskleider (blau, weiß)",
+    "Datum": "1832",
+    "Thema": [
+        "被り物",
+        "Kleidung für offizielle Anlässe",
+        "clothes for official occasions",
+        "chapelaria",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Public Festivals and Celebrations",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Bürgertum",
+        "Biedermeier",
+        "Fashion",
+        "Frau",
+        "Bourgeoisie",
+        "fashion plates",
+        "Mode",
+        "woman",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55264/614345_default.webp",
+    "id": "80370ffe-c2b2-44c9-8636-d26a6431eb7c",
+    "Filter": {
+        "Aehnlichkeit": 108,
+        "Farbe": [
+            532,
+            2160,
+            3907,
+            9399
+        ]
+    }
+}

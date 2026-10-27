@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31212",
+    "titel": "Modebild: Fünf Herrenmoden",
+    "Datum": "1844",
+    "Thema": [
+        "Kopfbedeckung",
+        "Mode",
+        "fashion plates",
+        "man",
+        "dandy, beau",
+        "Jacke, Mantel",
+        "coat",
+        "Dandy, Beau, Geck",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "被り物",
+        "Modebilder",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "Mann"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53857/513667_default.webp",
+    "id": "3cc5f648-1047-4633-8cb6-35177bd95820",
+    "Filter": {
+        "Aehnlichkeit": 755,
+        "Farbe": [
+            676,
+            2485,
+            5810,
+            7292,
+            8163,
+            8759,
+            10354
+        ]
+    }
+}

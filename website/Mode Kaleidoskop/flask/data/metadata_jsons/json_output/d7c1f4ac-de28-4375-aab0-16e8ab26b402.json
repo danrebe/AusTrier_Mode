@@ -1,0 +1,35 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30109",
+    "titel": "Modebild: \"Junge, deutsche Dame in Morgentoilette\"",
+    "Datum": "1799",
+    "Thema": [
+        "Modebilder",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "copricapo",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "fashion plates",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "Frau",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47376/511535_default.webp",
+    "id": "d7c1f4ac-de28-4375-aab0-16e8ab26b402",
+    "Filter": {
+        "Aehnlichkeit": 254,
+        "Farbe": [
+            1166,
+            3073,
+            4296,
+            4639
+        ]
+    }
+}

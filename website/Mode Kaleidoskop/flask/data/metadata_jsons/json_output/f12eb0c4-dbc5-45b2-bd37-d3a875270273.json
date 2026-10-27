@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30078",
+    "titel": "Modebild: \"Weibliche  Hauben- und Haartrachten\"",
+    "Datum": "1790",
+    "Thema": [
+        "被り物",
+        "copricapo",
+        "couvre-chef",
+        "Modebilder",
+        "fashion plates",
+        "head-gear",
+        "Kopfbedeckung",
+        "chapelaria",
+        "(Damen-)Kleid",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Frau",
+        "Mode",
+        "woman",
+        "dress, gown"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47272/511477_default.webp",
+    "id": "f12eb0c4-dbc5-45b2-bd37-d3a875270273",
+    "Filter": {
+        "Aehnlichkeit": 1477,
+        "Farbe": [
+            144,
+            877,
+            2821,
+            4257,
+            4397
+        ]
+    }
+}

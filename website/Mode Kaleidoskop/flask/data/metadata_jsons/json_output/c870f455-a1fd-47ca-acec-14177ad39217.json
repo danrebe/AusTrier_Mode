@@ -1,0 +1,48 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31282",
+    "titel": "Modebild: Fünf Figuren, Damen und Herrengesellschaftskleidung",
+    "Datum": "1846",
+    "Thema": [
+        "Bürgertum",
+        "accessories (~ clothing)",
+        "dandy, beau",
+        "Dandy, Beau, Geck",
+        "coat",
+        "Jacke, Mantel",
+        "被り物",
+        "Kopfbedeckung",
+        "clothes for official occasions",
+        "Accessoires",
+        "fashion plates",
+        "Kleidung für offizielle Anlässe",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Frau",
+        "man",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Mann",
+        "Mode",
+        "Fashion",
+        "Bourgeoisie",
+        "woman",
+        "hairdress",
+        "Public Festivals and Celebrations",
+        "Frisur",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53976/513743_default.webp",
+    "id": "c870f455-a1fd-47ca-acec-14177ad39217",
+    "Filter": {
+        "Aehnlichkeit": 1404,
+        "Farbe": [
+            2324,
+            7757,
+            8103,
+            8689,
+            10270
+        ]
+    }
+}

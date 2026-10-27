@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30130",
+    "titel": "Modebild: \"Junge Dame mit großem Schmuck\"",
+    "Datum": "1804",
+    "Thema": [
+        "fashion plates",
+        "Modebilder",
+        "被り物",
+        "couvre-chef",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "chapelaria",
+        "dress, gown",
+        "woman",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Mode",
+        "Frau",
+        "(Damen-)Kleid"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47442/511571_default.webp",
+    "id": "d19acde5-9c0c-465f-897d-746670287d33",
+    "Filter": {
+        "Aehnlichkeit": 321,
+        "Farbe": [
+            923,
+            6083,
+            8363,
+            8967,
+            9754
+        ]
+    }
+}

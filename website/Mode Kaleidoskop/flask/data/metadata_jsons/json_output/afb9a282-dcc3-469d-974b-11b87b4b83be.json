@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31358",
+    "titel": "Modebild: London Fashions, Zwei Figuren, Ausgeh- und Abendkleid August",
+    "Datum": "1807",
+    "Thema": [
+        "Modebilder",
+        "fashion plates",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Mode",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Frau",
+        "Fashion",
+        "Nightlife",
+        "Nachtleben",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54260/513817_default.webp",
+    "id": "afb9a282-dcc3-469d-974b-11b87b4b83be",
+    "Filter": {
+        "Aehnlichkeit": 1853,
+        "Farbe": [
+            1294,
+            3179,
+            4316,
+            4735,
+            8471
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30307",
+    "titel": "Modebild: \"Pariserin mit Musslinüberkleid, Pariser mit schottischer Halsbinde\"",
+    "Datum": "1824",
+    "Thema": [
+        "chapelaria",
+        "copricapo",
+        "fashion plates",
+        "Modebilder",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "woman",
+        "Frau",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "Biedermeier",
+        "man",
+        "Mode",
+        "Mann"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48128/511867_default.webp",
+    "id": "fac0aa9a-0644-4db9-a8e9-1a55f01eb166",
+    "Filter": {
+        "Aehnlichkeit": 799,
+        "Farbe": [
+            1643,
+            3479,
+            4993,
+            7572
+        ]
+    }
+}

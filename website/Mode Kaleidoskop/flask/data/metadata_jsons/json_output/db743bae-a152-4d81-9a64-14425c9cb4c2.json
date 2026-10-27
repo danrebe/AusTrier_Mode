@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30180",
+    "titel": "Modebild: \"Pariser Damen mit Mantel, Schal, Agraffe und Schleier\"",
+    "Datum": "1803",
+    "Thema": [
+        "dress, gown",
+        "coat",
+        "Jacke, Mantel",
+        "couvre-chef",
+        "chapelaria",
+        "copricapo",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "fashion plates",
+        "(Damen-)Kleid",
+        "Bourgeoisie",
+        "Fashion",
+        "Bürgertum",
+        "woman",
+        "Mode",
+        "Modebilder",
+        "Frau"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47559/1759422_default.webp",
+    "id": "db743bae-a152-4d81-9a64-14425c9cb4c2",
+    "Filter": {
+        "Aehnlichkeit": 676,
+        "Farbe": [
+            906,
+            2847,
+            4425,
+            7146,
+            7406,
+            8358
+        ]
+    }
+}

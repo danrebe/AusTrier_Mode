@@ -1,0 +1,50 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31087",
+    "titel": "Modebild: Ein Herrenanzug, vier Damenmoden, Schal, Schürze, Hüte",
+    "Datum": "1840",
+    "Thema": [
+        "Schal",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Modebilder",
+        "fashion plates",
+        "Jacke, Mantel",
+        "coat",
+        "neck-gear ~ clothing",
+        "被り物",
+        "Kopfbedeckung",
+        "Accessoires",
+        "accessories (~ clothing)",
+        "head-gear",
+        "man",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Mode",
+        "Frisur",
+        "hairdress",
+        "Frau",
+        "Mann",
+        "woman",
+        "dandy, beau",
+        "Dandy, Beau, Geck"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53392/512993_default.webp",
+    "accessoires": [
+        "Schal"
+    ],
+    "id": "fe19e693-48a9-4292-a1d5-1f5f47536c2e",
+    "Filter": {
+        "Aehnlichkeit": 1608,
+        "Farbe": [
+            2681,
+            5854,
+            7362,
+            8278,
+            8896,
+            10461
+        ]
+    }
+}

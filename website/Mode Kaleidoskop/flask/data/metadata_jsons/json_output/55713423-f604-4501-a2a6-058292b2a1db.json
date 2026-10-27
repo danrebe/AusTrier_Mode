@@ -1,0 +1,46 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31903",
+    "titel": "Modebild: Drei Figuren, Damenkleider mit Umhängen, Knabenanzug",
+    "Datum": "1839",
+    "Thema": [
+        "Umhang, Cape",
+        "Jacke, Mantel",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "cape",
+        "coat",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "fashion, clothing (+ boys' clothes)",
+        "Mode",
+        "Bürgertum",
+        "child",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "Modebilder",
+        "Kind",
+        "woman",
+        "Kleidung für Jungen",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/56414/510673_default.webp",
+    "id": "55713423-f604-4501-a2a6-058292b2a1db",
+    "Filter": {
+        "Aehnlichkeit": 1155,
+        "Farbe": [
+            2428,
+            6053,
+            6444,
+            7055,
+            7278,
+            8137,
+            9525
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30105",
+    "titel": "Modebild: \"weibliche  Hauben- und Haarmoden\"",
+    "Datum": "1798",
+    "Thema": [
+        "dress, gown",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Bürgertum",
+        "Modebilder",
+        "Mode",
+        "Frau",
+        "Bourgeoisie",
+        "Fashion",
+        "woman",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47365/511035_default.webp",
+    "id": "55acf637-1652-4c78-b54b-c508566ae9f9",
+    "Filter": {
+        "Aehnlichkeit": 1534,
+        "Farbe": [
+            1011,
+            2943,
+            4521,
+            9784
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30445",
+    "titel": "Modebild: \"Französische Dame mit festlicher Frisur in einem Buche lesend\"",
+    "Datum": "1822",
+    "Thema": [
+        "couvre-chef",
+        "copricapo",
+        "被り物",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Modebilder",
+        "fashion plates",
+        "head-gear",
+        "Kopfbedeckung",
+        "chapelaria",
+        "clothes for official occasions",
+        "Kleidung für offizielle Anlässe",
+        "Public Festivals and Celebrations",
+        "Biedermeier",
+        "Fashion",
+        "Frau",
+        "Bourgeoisie",
+        "Bürgertum",
+        "woman",
+        "Mode",
+        "Frisur",
+        "hairdress",
+        "Öffentliche Feste und Feierlichkeiten"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48573/512083_default.webp",
+    "id": "c84658fa-0e60-4fe9-ab19-b8b0c839ddf7",
+    "Filter": {
+        "Aehnlichkeit": 6,
+        "Farbe": [
+            1780,
+            3598,
+            5072,
+            6189,
+            10063
+        ]
+    }
+}

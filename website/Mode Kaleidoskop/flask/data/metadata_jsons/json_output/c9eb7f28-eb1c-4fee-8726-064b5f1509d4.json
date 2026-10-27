@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31508",
+    "titel": "Modebild: Zwei Figuren, Hauskleider",
+    "Datum": "1831",
+    "Thema": [
+        "chapelaria",
+        "Kopfbedeckung",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Modebilder",
+        "fashion plates",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "被り物",
+        "Biedermeier",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Frau",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55226/614293_default.webp",
+    "id": "c9eb7f28-eb1c-4fee-8726-064b5f1509d4",
+    "Filter": {
+        "Aehnlichkeit": 1915,
+        "Farbe": [
+            288,
+            1492,
+            3349,
+            7522,
+            9129,
+            11015
+        ]
+    }
+}

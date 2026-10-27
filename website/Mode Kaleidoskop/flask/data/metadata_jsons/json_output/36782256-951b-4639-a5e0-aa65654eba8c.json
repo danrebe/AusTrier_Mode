@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31455",
+    "titel": "Modebild: Eine Figur, Morgenbesuchskleid",
+    "Datum": "1829",
+    "Thema": [
+        "fashion plates",
+        "被り物",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "dress, gown",
+        "head-gear",
+        "(Damen-)Kleid",
+        "Kopfbedeckung",
+        "Biedermeier",
+        "Modebilder",
+        "Bourgeoisie",
+        "Frau",
+        "Bürgertum",
+        "woman",
+        "Mode",
+        "Fashion"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55110/513915_default.webp",
+    "id": "36782256-951b-4639-a5e0-aa65654eba8c",
+    "Filter": {
+        "Aehnlichkeit": 991,
+        "Farbe": [
+            1568,
+            3414,
+            4954,
+            5483,
+            5680,
+            6712
+        ]
+    }
+}

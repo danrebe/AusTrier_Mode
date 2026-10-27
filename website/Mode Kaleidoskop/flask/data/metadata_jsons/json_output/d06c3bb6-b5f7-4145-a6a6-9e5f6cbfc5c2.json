@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30859",
+    "titel": "Modebild: Zwei Figuren, London Dresses for January",
+    "Datum": "1811",
+    "Thema": [
+        "dress, gown",
+        "(Damen-)Kleid",
+        "head-gear",
+        "被り物",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Mode",
+        "Modebilder",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "fashion plates",
+        "woman",
+        "Frau"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49845/512715_default.webp",
+    "id": "d06c3bb6-b5f7-4145-a6a6-9e5f6cbfc5c2",
+    "Filter": {
+        "Aehnlichkeit": 1931,
+        "Farbe": [
+            1344,
+            3218,
+            4776,
+            9911,
+            10806
+        ]
+    }
+}

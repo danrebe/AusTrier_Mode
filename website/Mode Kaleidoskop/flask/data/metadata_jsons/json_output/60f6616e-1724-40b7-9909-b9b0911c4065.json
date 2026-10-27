@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31996",
+    "titel": "Modebild: Sechs Figuren, weibliche  Hut- und Haubenmoden",
+    "Datum": "1841",
+    "Thema": [
+        "fashion plates",
+        "woman",
+        "chapelaria",
+        "Accessoires",
+        "accessories (~ clothing)",
+        "被り物",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "copricapo",
+        "Modebilder",
+        "Frau",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "Frisur",
+        "hairdress",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/57167/510961_default.webp",
+    "id": "60f6616e-1724-40b7-9909-b9b0911c4065",
+    "Filter": {
+        "Aehnlichkeit": 1584,
+        "Farbe": [
+            644,
+            2410,
+            4096,
+            5404,
+            11062
+        ]
+    }
+}

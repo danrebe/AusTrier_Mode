@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31920",
+    "titel": "Modebild: Zwei Figuren, Damenmoden",
+    "Datum": "1839",
+    "Thema": [
+        "Modebilder",
+        "Jacke, Mantel",
+        "coat",
+        "copricapo",
+        "被り物",
+        "head-gear",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "chapelaria",
+        "Mode",
+        "dress, gown",
+        "fashion plates",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "Frau",
+        "woman",
+        "(Damen-)Kleid"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/56466/510683_default.webp",
+    "id": "d147e95c-1576-4879-a364-3d3d0ab4cdc8",
+    "Filter": {
+        "Aehnlichkeit": 1932,
+        "Farbe": [
+            624,
+            2372,
+            4064,
+            7031,
+            9492,
+            10297
+        ]
+    }
+}

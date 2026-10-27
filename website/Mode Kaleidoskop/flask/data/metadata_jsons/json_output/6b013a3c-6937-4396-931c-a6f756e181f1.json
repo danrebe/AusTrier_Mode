@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30778",
+    "titel": "Modebild: Zwei Figuren, Tüllkleider, mit Spitze verziert",
+    "Datum": "1830",
+    "Thema": [
+        "Modebilder",
+        "fashion plates",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "head-gear",
+        "被り物",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Mode",
+        "Biedermeier",
+        "Bürgertum",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49577/512589_default.webp",
+    "id": "6b013a3c-6937-4396-931c-a6f756e181f1",
+    "Filter": {
+        "Aehnlichkeit": 1101,
+        "Farbe": [
+            2110,
+            3869,
+            5282,
+            6364,
+            8635
+        ]
+    }
+}

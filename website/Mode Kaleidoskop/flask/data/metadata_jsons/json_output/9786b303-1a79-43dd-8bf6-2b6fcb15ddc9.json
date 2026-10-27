@@ -1,0 +1,35 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31917",
+    "titel": "Modebild: Zwei Figuren, Haus- und Besuchskleid",
+    "Datum": "1839",
+    "Thema": [
+        "Modebilder",
+        "fashion plates",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Frau",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/56434/510847_default.webp",
+    "id": "9786b303-1a79-43dd-8bf6-2b6fcb15ddc9",
+    "Filter": {
+        "Aehnlichkeit": 587,
+        "Farbe": [
+            621,
+            2361,
+            4060,
+            5394
+        ]
+    }
+}

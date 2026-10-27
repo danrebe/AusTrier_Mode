@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30100",
+    "titel": "Modebild: \"Junge Dame in Wintertracht\"",
+    "Datum": "1797",
+    "Thema": [
+        "Modebilder",
+        "fashion plates",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Winter",
+        "Bürgertum",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47347/511517_default.webp",
+    "id": "9acdb43e-0a4c-4396-a160-e1965693fbbd",
+    "Filter": {
+        "Aehnlichkeit": 714,
+        "Farbe": [
+            939,
+            2876,
+            4453,
+            10769
+        ]
+    }
+}

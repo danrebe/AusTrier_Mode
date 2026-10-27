@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30296",
+    "titel": "Modebild: \"Dame mit Gazehut, Herr mit Strohhut und Halsbinde\"",
+    "Datum": "1823",
+    "Thema": [
+        "copricapo",
+        "couvre-chef",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "man",
+        "chapelaria",
+        "Jacke, Mantel",
+        "coat",
+        "dandy, beau",
+        "Dandy, Beau, Geck",
+        "Biedermeier",
+        "Fashion",
+        "Bourgeoisie",
+        "Frau",
+        "Bürgertum",
+        "Mode",
+        "Mann",
+        "woman",
+        "Modebilder",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47940/511845_default.webp",
+    "id": "2cc0ec82-cbaa-4bd7-8a09-6daa82cdb175",
+    "Filter": {
+        "Aehnlichkeit": 776,
+        "Farbe": [
+            1293,
+            3178,
+            4734,
+            6140,
+            9894
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "56060/69",
+    "titel": "Elise Bach, verheiratete von Singer",
+    "Datum": "um 1851-1900",
+    "Thema": [
+        "historische Personen (Porträts und Szenen aus dem Leben) - BB - Frau",
+        "historical events and situations; historical persons",
+        "Frau",
+        "Fashion",
+        "Mode",
+        "woman",
+        "portrait",
+        "Porträt",
+        "fashion plates",
+        "Modebilder",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "historical persons (portraits and scenes from the life) - BB - woman",
+        "historische Ereignisse und Situationen; historische Personen"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/404427/676077_default.webp",
+    "id": "975067a3-93b8-42b8-98df-714667eb1b02",
+    "Filter": {
+        "Aehnlichkeit": 1785,
+        "Farbe": [
+            593,
+            2301,
+            6045,
+            7009,
+            7753,
+            8096
+        ]
+    }
+}

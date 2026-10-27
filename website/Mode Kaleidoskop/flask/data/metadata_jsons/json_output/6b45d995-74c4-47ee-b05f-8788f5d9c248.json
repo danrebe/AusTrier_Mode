@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30424",
+    "titel": "Modebild: \"Französin mit Federnhut und Merinokleid, besetzt mit Chinchilla\"",
+    "Datum": "1822",
+    "Thema": [
+        "woman",
+        "Mode",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "copricapo",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "Bürgertum",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Frau",
+        "fashion plates",
+        "Modebilder",
+        "Fashion"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48532/511175_default.webp",
+    "id": "6b45d995-74c4-47ee-b05f-8788f5d9c248",
+    "Filter": {
+        "Aehnlichkeit": 1648,
+        "Farbe": [
+            1231,
+            3125,
+            4684,
+            5566,
+            6592
+        ]
+    }
+}

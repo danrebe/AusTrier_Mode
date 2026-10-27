@@ -1,0 +1,42 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30302/2",
+    "titel": "Modebild: \"Pariserinnen im Blusenkleid und Perkalkleid mit Spitzenschärpe\"",
+    "Datum": "1823",
+    "Thema": [
+        "dress, gown",
+        "(Damen-)Kleid",
+        "neck-gear ~ clothing",
+        "Schal",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "fashion plates",
+        "Mode",
+        "Frau",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "woman",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48112/511857_default.webp",
+    "accessoires": [
+        "Schal"
+    ],
+    "id": "6e76f032-5682-4acc-851b-7accc3ca5f4b",
+    "Filter": {
+        "Aehnlichkeit": 391,
+        "Farbe": [
+            1369,
+            3238,
+            4798,
+            9918,
+            10808
+        ]
+    }
+}

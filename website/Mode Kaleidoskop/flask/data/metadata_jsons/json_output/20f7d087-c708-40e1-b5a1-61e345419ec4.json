@@ -1,0 +1,42 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30350",
+    "titel": "Modebild: \"Französische Dame mit ländlichem Hut und roter Schärpe\"",
+    "Datum": "1806",
+    "Thema": [
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Schal",
+        "neck-gear ~ clothing",
+        "fashion plates",
+        "Bourgeoisie",
+        "Fashion",
+        "Frau",
+        "Bürgertum",
+        "woman",
+        "Modebilder",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48260/511933_default.webp",
+    "accessoires": [
+        "Schal"
+    ],
+    "id": "20f7d087-c708-40e1-b5a1-61e345419ec4",
+    "Filter": {
+        "Aehnlichkeit": 658,
+        "Farbe": [
+            1195,
+            3095,
+            4304,
+            4661,
+            5900,
+            6117
+        ]
+    }
+}

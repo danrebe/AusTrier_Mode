@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30386",
+    "titel": "Modebild: \"Pariserin mit Plissé-Pelerine und Hut\"",
+    "Datum": "1817",
+    "Thema": [
+        "dress, gown",
+        "Modebilder",
+        "fashion plates",
+        "couvre-chef",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "chapelaria",
+        "Biedermeier",
+        "(Damen-)Kleid",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "woman",
+        "Frau",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48369/511159_default.webp",
+    "id": "e92d99e8-b5a1-4071-8eb1-614b41e6358e",
+    "Filter": {
+        "Aehnlichkeit": 300,
+        "Farbe": [
+            1338,
+            3213,
+            4771,
+            8488,
+            9090,
+            9908
+        ]
+    }
+}

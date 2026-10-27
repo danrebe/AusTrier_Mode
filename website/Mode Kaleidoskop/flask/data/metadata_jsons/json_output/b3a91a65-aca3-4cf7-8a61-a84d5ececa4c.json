@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31878",
+    "titel": "Modebild: Zwei Figuren, Damen- und Herrenmoden",
+    "Datum": "1838",
+    "Thema": [
+        "Jacke, Mantel",
+        "coat",
+        "fashion plates",
+        "Modebilder",
+        "dandy, beau",
+        "Dandy, Beau, Geck",
+        "head-gear",
+        "被り物",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Fashion",
+        "dress, gown",
+        "Frau",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Bürgertum",
+        "Mode",
+        "(Damen-)Kleid",
+        "man",
+        "Mann",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/56156/510793_default.webp",
+    "id": "b3a91a65-aca3-4cf7-8a61-a84d5ececa4c",
+    "Filter": {
+        "Aehnlichkeit": 1444,
+        "Farbe": [
+            2520,
+            4151,
+            8181,
+            9582,
+            10670
+        ]
+    }
+}

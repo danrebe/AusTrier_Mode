@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31411",
+    "titel": "Modebild: Eine Figur, Morgenkleid",
+    "Datum": "1815",
+    "Thema": [
+        "Modebilder",
+        "fashion plates",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "head-gear",
+        "被り物",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Fashion",
+        "Biedermeier",
+        "Frau",
+        "Bourgeoisie",
+        "woman",
+        "Mode",
+        "Bürgertum"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55021/513315_default.webp",
+    "id": "c50c669c-8ff4-48de-ada1-1bc924681c04",
+    "Filter": {
+        "Aehnlichkeit": 1900,
+        "Farbe": [
+            1283,
+            3170,
+            4727,
+            6332,
+            8468,
+            9889
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30420",
+    "titel": "Modebild: \"Französische Dame mit festl. Frisur und großer (Ball)-Toilette\"",
+    "Datum": "1822",
+    "Thema": [
+        "Ballkleid",
+        "dress, gown: ball gown",
+        "Modebilder",
+        "fashion plates",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Frisur",
+        "woman",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Tanz",
+        "head-gear",
+        "被り物",
+        "Kopfbedeckung",
+        "Kleidung für offizielle Anlässe",
+        "clothes for official occasions",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Fashion",
+        "Bräuche",
+        "Bürgertum",
+        "Dance",
+        "Biedermeier",
+        "Frau",
+        "Costums",
+        "Bourgeoisie",
+        "hairdress",
+        "Public Festivals and Celebrations",
+        "Mode",
+        "Nachtleben",
+        "Nightlife"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48525/512043_default.webp",
+    "id": "c803ca45-1de7-4e1c-8ec3-0dd69081d76e",
+    "Filter": {
+        "Aehnlichkeit": 1162,
+        "Farbe": [
+            1733,
+            3557,
+            5704,
+            6785,
+            7601,
+            9228,
+            11127
+        ]
+    }
+}

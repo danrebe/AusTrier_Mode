@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30873",
+    "titel": "Modebild: Zwei Figuren, Haus- und Ausgehkleid",
+    "Datum": "1829",
+    "Thema": [
+        "Bourgeoisie",
+        "Modebilder",
+        "Mode",
+        "woman",
+        "fashion plates",
+        "dress, gown",
+        "Fashion",
+        "Bürgertum",
+        "Frau",
+        "Biedermeier",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49916/512743_default.webp",
+    "id": "14e46a32-11eb-4b1a-8cae-3d84e51d94c6",
+    "Filter": {
+        "Aehnlichkeit": 194,
+        "Farbe": [
+            464,
+            1981,
+            3762,
+            5193,
+            6224,
+            10863
+        ]
+    }
+}

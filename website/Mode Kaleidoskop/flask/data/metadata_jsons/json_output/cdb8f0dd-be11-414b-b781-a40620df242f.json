@@ -1,0 +1,42 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31149",
+    "titel": "Modebild: Sechs Figuren, Herren- und Knabenanzüge",
+    "Datum": "1842",
+    "Thema": [
+        "couvre-chef",
+        "Jacke, Mantel",
+        "Dandy, Beau, Geck",
+        "dandy, beau",
+        "fashion plates",
+        "Modebilder",
+        "被り物",
+        "copricapo",
+        "chapelaria",
+        "head-gear",
+        "Kopfbedeckung",
+        "Mann",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "child",
+        "fashion, clothing (+ boys' clothes)",
+        "man",
+        "coat",
+        "Kleidung für Jungen",
+        "Mode",
+        "Kind"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53575/513597_default.webp",
+    "id": "cdb8f0dd-be11-414b-b781-a40620df242f",
+    "Filter": {
+        "Aehnlichkeit": 750,
+        "Farbe": [
+            2528,
+            5820,
+            7849,
+            8188,
+            8782
+        ]
+    }
+}

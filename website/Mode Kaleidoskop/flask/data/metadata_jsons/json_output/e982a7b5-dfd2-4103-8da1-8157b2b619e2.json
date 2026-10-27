@@ -1,0 +1,46 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31648",
+    "titel": "Modebild: Zwei Figuren, Ballkleider",
+    "Datum": "1834",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Ballkleid",
+        "dress, gown: ball gown",
+        "Modebilder",
+        "fashion plates",
+        "woman",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Frau",
+        "Costums",
+        "Fashion",
+        "Biedermeier",
+        "Bürgertum",
+        "Bräuche",
+        "Dance",
+        "Bourgeoisie",
+        "Nachtleben",
+        "Nightlife",
+        "Tanz",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55417/614577_default.webp",
+    "id": "e982a7b5-dfd2-4103-8da1-8157b2b619e2",
+    "Filter": {
+        "Aehnlichkeit": 698,
+        "Farbe": [
+            1942,
+            3731,
+            6867,
+            8052,
+            9313,
+            10129
+        ]
+    }
+}

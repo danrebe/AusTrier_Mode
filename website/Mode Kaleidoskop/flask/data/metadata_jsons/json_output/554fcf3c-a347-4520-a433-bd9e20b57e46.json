@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30401",
+    "titel": "Modebild: \"Französin mit violettem, blumengeschmücktem Gazehut, Promenadenanzug, Schirm und schwarzen Schuhen\"",
+    "Datum": "1819",
+    "Thema": [
+        "copricapo",
+        "dress, gown",
+        "被り物",
+        "chapelaria",
+        "(Damen-)Kleid",
+        "woman",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "Modebilder",
+        "fashion plates",
+        "Bourgeoisie",
+        "Frau",
+        "Biedermeier",
+        "Fashion",
+        "Bürgertum",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48470/511165_default.webp",
+    "id": "554fcf3c-a347-4520-a433-bd9e20b57e46",
+    "Filter": {
+        "Aehnlichkeit": 1525,
+        "Farbe": [
+            211,
+            1196,
+            3096,
+            4662
+        ]
+    }
+}

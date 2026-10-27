@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31884",
+    "titel": "Modebild: Sieben  weibliche  Haarmoden (Georg Reinhardt - bürgerlicher Damenfriseur, Goldschmiedg. Nr.624)",
+    "Datum": "1839",
+    "Thema": [
+        "Frau",
+        "hairdress",
+        "Frisur",
+        "woman",
+        "Mode",
+        "fashion plates",
+        "Modebilder",
+        "accessories (~ clothing)",
+        "Accessoires",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Body and Beauty Care",
+        "Fashion",
+        "Körper- und Schönheitspflege"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/56163/745559_default.webp",
+    "id": "f7ff630e-34a5-4a58-8a97-961606193214",
+    "Filter": {
+        "Aehnlichkeit": 1709,
+        "Farbe": [
+            48,
+            2300,
+            4025,
+            7250,
+            8685,
+            11039,
+            11068
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30177",
+    "titel": "Modebild: \"Zwei Damen in englischer Mode mit Kopfputz und Hut\"",
+    "Datum": "1802",
+    "Thema": [
+        "Kopfbedeckung",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "被り物",
+        "woman",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Mode",
+        "Modebilder",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "Frau",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47550/1759419_default.webp",
+    "id": "6ba353ab-bfdc-4076-9203-c35faeffb424",
+    "Filter": {
+        "Aehnlichkeit": 532,
+        "Farbe": [
+            957,
+            2890,
+            4469,
+            6306,
+            10555
+        ]
+    }
+}

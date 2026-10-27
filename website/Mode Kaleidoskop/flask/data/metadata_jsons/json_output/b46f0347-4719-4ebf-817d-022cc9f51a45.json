@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31727",
+    "titel": "Modebild: Zwei Figuren, Morgenkleider",
+    "Datum": "1835",
+    "Thema": [
+        "fashion plates",
+        "Modebilder",
+        "被り物",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "(Damen-)Kleid",
+        "Bourgeoisie",
+        "Fashion",
+        "Frau",
+        "Bürgertum",
+        "Mode",
+        "woman",
+        "dress, gown"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55800/614735_default.webp",
+    "id": "b46f0347-4719-4ebf-817d-022cc9f51a45",
+    "Filter": {
+        "Aehnlichkeit": 1385,
+        "Farbe": [
+            2231,
+            3974,
+            6035,
+            6987,
+            7722,
+            8660,
+            9435
+        ]
+    }
+}

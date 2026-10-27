@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31784",
+    "titel": "Modebild: Zwei Figuren, Damenkleider mit langer pelzverbrämter Stola",
+    "Datum": "1836",
+    "Thema": [
+        "(Damen-)Kleid",
+        "copricapo",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "chapelaria",
+        "couvre-chef",
+        "neck-gear ~ clothing",
+        "Schal",
+        "Modebilder",
+        "dress, gown",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Frau",
+        "woman",
+        "Mode",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55886/510533_default.webp",
+    "accessoires": [
+        "Schal"
+    ],
+    "id": "4af5bb63-b414-42d1-8379-9cf0bfe110be",
+    "Filter": {
+        "Aehnlichkeit": 1486,
+        "Farbe": [
+            2409,
+            4095,
+            7046,
+            8132,
+            9514,
+            10317,
+            10735
+        ]
+    }
+}

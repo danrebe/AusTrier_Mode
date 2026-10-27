@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30858",
+    "titel": "Modebild: Zwei Figuren, London Dresses for October",
+    "Datum": "1810",
+    "Thema": [
+        "dress, gown",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "fashion plates",
+        "woman",
+        "Fashion",
+        "Bourgeoisie",
+        "Frau",
+        "Bürgertum",
+        "Modebilder",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49841/512713_default.webp",
+    "id": "793deb43-df1f-491a-96f6-23284cc8737a",
+    "Filter": {
+        "Aehnlichkeit": 1685,
+        "Farbe": [
+            1167,
+            4640,
+            6320,
+            6562,
+            8436,
+            9846
+        ]
+    }
+}

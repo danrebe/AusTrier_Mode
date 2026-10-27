@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30705",
+    "titel": "Modebild: Zwei Figuren, weiße Organdykleider mit Schinkenärmeln",
+    "Datum": "1829",
+    "Thema": [
+        "chapelaria",
+        "dress, gown",
+        "Mode",
+        "fashion plates",
+        "Modebilder",
+        "couvre-chef",
+        "copricapo",
+        "(Damen-)Kleid",
+        "Bourgeoisie",
+        "woman",
+        "Fashion",
+        "Frau",
+        "Biedermeier",
+        "Bürgertum",
+        "Kopfbedeckung",
+        "head-gear",
+        "被り物"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49420/512483_default.webp",
+    "id": "10c9196c-8c3b-47fc-b8d0-a9e89549c69b",
+    "Filter": {
+        "Aehnlichkeit": 176,
+        "Farbe": [
+            2122,
+            3878,
+            5290,
+            7691,
+            8637
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30243",
+    "titel": "Modebild: \"Engländerin mit Haarschmuck, Wienerin mit Blumenhut\"",
+    "Datum": "1816",
+    "Thema": [
+        "Modebilder",
+        "fashion plates",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Fashion",
+        "Frau",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Bürgertum",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47754/1759485_default.webp",
+    "id": "9c3b2b50-18ee-43c4-bc4a-f037a4978887",
+    "Filter": {
+        "Aehnlichkeit": 342,
+        "Farbe": [
+            1404,
+            3272,
+            4832,
+            9932
+        ]
+    }
+}

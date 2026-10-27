@@ -1,0 +1,48 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30345",
+    "titel": "Modebild: \"Tanzende Pariserin mit Velourleibchen und Ballanzug\"",
+    "Datum": "1806",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Ballkleid",
+        "dress, gown: ball gown",
+        "Modebilder",
+        "fashion plates",
+        "Nachtleben",
+        "Mode",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Costums",
+        "Frau",
+        "Bürgertum",
+        "Dance",
+        "Bräuche",
+        "Bourgeoisie",
+        "Fashion",
+        "Nightlife",
+        "Public Festivals and Celebrations",
+        "Tanz",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48246/511925_default.webp",
+    "id": "ad9bfa2b-50fb-47cb-b93b-89d0cccaa0d6",
+    "Filter": {
+        "Aehnlichkeit": 326,
+        "Farbe": [
+            1184,
+            5899,
+            6322,
+            6568,
+            7461,
+            8442,
+            9041
+        ]
+    }
+}

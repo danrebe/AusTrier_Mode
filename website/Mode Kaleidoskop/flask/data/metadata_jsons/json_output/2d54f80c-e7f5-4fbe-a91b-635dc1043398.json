@@ -1,0 +1,45 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31196",
+    "titel": "Modebild: Fünf Figuren, Damen- und Herrenmoden",
+    "Datum": "1843",
+    "Thema": [
+        "Mann",
+        "man",
+        "woman",
+        "fashion plates",
+        "hairdress",
+        "Modebilder",
+        "Frisur",
+        "Mode",
+        "Frau",
+        "Bourgeoisie",
+        "Fashion",
+        "Bürgertum",
+        "Dandy, Beau, Geck",
+        "accessories (~ clothing)",
+        "Accessoires",
+        "Jacke, Mantel",
+        "coat",
+        "dandy, beau",
+        "被り物",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53835/513649_default.webp",
+    "id": "2d54f80c-e7f5-4fbe-a91b-635dc1043398",
+    "Filter": {
+        "Aehnlichkeit": 1267,
+        "Farbe": [
+            750,
+            2638,
+            7345,
+            8252,
+            8869,
+            10440
+        ]
+    }
+}

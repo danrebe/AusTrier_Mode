@@ -1,0 +1,48 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30006",
+    "titel": "Modebild: \"Ball Dress\"",
+    "Datum": "um 1826",
+    "Thema": [
+        "dress, gown",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "dress, gown: ball gown",
+        "couvre-chef",
+        "woman",
+        "copricapo",
+        "被り物",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Nightlife",
+        "Mode",
+        "Kopfbedeckung",
+        "clothes for official occasions",
+        "Kleidung für offizielle Anlässe",
+        "head-gear",
+        "Ballkleid",
+        "Biedermeier",
+        "Dance",
+        "Costums",
+        "Fashion",
+        "Bräuche",
+        "Frau",
+        "Bürgertum",
+        "fashion plates",
+        "Modebilder",
+        "Nachtleben",
+        "Tanz",
+        "Public Festivals and Celebrations",
+        "Bourgeoisie"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/45206/510979_default.webp",
+    "id": "33b34e2c-ce80-4e37-9d8e-d82b376b3b98",
+    "Filter": {
+        "Aehnlichkeit": 1322,
+        "Farbe": [
+            1100,
+            3019,
+            4592,
+            11184
+        ]
+    }
+}

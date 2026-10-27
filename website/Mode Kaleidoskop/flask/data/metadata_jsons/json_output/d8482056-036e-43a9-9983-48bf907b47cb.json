@@ -1,0 +1,49 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30423",
+    "titel": "Modebild: \"Französin mit Blumen im Haar (sowie Perlen) und am Ballkleid\"",
+    "Datum": "1822",
+    "Thema": [
+        "被り物",
+        "dress, gown: ball gown",
+        "Ballkleid",
+        "fashion plates",
+        "Modebilder",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Tanz",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Kleidung für offizielle Anlässe",
+        "clothes for official occasions",
+        "Frau",
+        "Costums",
+        "Fashion",
+        "Biedermeier",
+        "Dance",
+        "Bräuche",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Nachtleben",
+        "Nightlife",
+        "Öffentliche Feste und Feierlichkeiten",
+        "woman",
+        "Public Festivals and Celebrations",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48531/512049_default.webp",
+    "id": "d8482056-036e-43a9-9983-48bf907b47cb",
+    "Filter": {
+        "Aehnlichkeit": 1015,
+        "Farbe": [
+            1640,
+            3476,
+            8548,
+            9185,
+            10015
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30000",
+    "titel": "Modebild, \"Fashionable Dresses in the Rooms at Weymouth\"; 1774; Kupferstich",
+    "Datum": "1774",
+    "Thema": [
+        "被り物",
+        "Kopfbedeckung",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Modebilder",
+        "fashion plates",
+        "couvre-chef",
+        "Fashion",
+        "chapelaria",
+        "copricapo",
+        "head-gear",
+        "Court Life",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Frau",
+        "woman",
+        "Höfisches Leben",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/45199/510969_default.webp",
+    "id": "50449664-fddf-43fb-9b30-74427bb72d34",
+    "Filter": {
+        "Aehnlichkeit": 1503,
+        "Farbe": [
+            853,
+            4374,
+            6468,
+            8340,
+            9731
+        ]
+    }
+}

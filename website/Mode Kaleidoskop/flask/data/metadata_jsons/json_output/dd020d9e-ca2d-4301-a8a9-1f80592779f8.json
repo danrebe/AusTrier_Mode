@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31510",
+    "titel": "Modebild: Zwei Figuren, weibliche  Sommermoden",
+    "Datum": "1831",
+    "Thema": [
+        "Modebilder",
+        "fashion plates",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Kopfbedeckung",
+        "被り物",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "woman",
+        "Frau",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55228/614297_default.webp",
+    "id": "dd020d9e-ca2d-4301-a8a9-1f80592779f8",
+    "Filter": {
+        "Aehnlichkeit": 106,
+        "Farbe": [
+            1497,
+            5951,
+            6166,
+            6686,
+            7990,
+            9131,
+            9964
+        ]
+    }
+}

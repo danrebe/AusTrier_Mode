@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30485",
+    "titel": "Modebild: \"Pariserin mit schwarzem Maraboutfedernhut, gleichfärbiger Robe und rotem Schal\"",
+    "Datum": "1822",
+    "Thema": [
+        "copricapo",
+        "(Damen-)Kleid",
+        "Modebilder",
+        "couvre-chef",
+        "被り物",
+        "head-gear",
+        "Kopfbedeckung",
+        "chapelaria",
+        "neck-gear ~ clothing",
+        "Schal",
+        "fashion plates",
+        "dress, gown",
+        "Biedermeier",
+        "Fashion",
+        "Frau",
+        "Bürgertum",
+        "Bourgeoisie",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48659/511201_default.webp",
+    "accessoires": [
+        "Schal"
+    ],
+    "id": "caf7495b-182d-491a-a9fc-2c954cb014cd",
+    "Filter": {
+        "Aehnlichkeit": 1575,
+        "Farbe": [
+            1214,
+            3111,
+            4676,
+            5473
+        ]
+    }
+}

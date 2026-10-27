@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30126",
+    "titel": "Modebild: \"Dame in Kleid nach schweizer Geschmack\"",
+    "Datum": "1802",
+    "Thema": [
+        "Modebilder",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "head-gear",
+        "被り物",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "fashion plates",
+        "Frau",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47420/511563_default.webp",
+    "id": "c3b3f2b0-ce7c-47c8-8ed9-70c0dbf62af9",
+    "Filter": {
+        "Aehnlichkeit": 322,
+        "Farbe": [
+            913,
+            2852,
+            4431,
+            6082,
+            9746
+        ]
+    }
+}

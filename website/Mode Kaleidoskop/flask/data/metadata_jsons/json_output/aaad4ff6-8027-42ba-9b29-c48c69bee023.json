@@ -1,0 +1,52 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30155",
+    "titel": "Modebild: \"Zwei Damen in arkadischer Balltoilette und im Promenadenanzug mit Muff\"",
+    "Datum": "1801",
+    "Thema": [
+        "Accessoires",
+        "Ballkleid",
+        "chapelaria",
+        "copricapo",
+        "Modebilder",
+        "fashion plates",
+        "dress, gown: ball gown",
+        "neck-gear ~ clothing",
+        "Schal",
+        "couvre-chef",
+        "accessories (~ clothing)",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "Nachtleben",
+        "Bürgertum",
+        "Frau",
+        "Bourgeoisie",
+        "Fashion",
+        "Dance",
+        "Bräuche",
+        "Costums",
+        "Öffentliche Feste und Feierlichkeiten",
+        "woman",
+        "Public Festivals and Celebrations",
+        "Mode",
+        "Tanz",
+        "Nightlife"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47514/511613_default.webp",
+    "accessoires": [
+        "Schal"
+    ],
+    "id": "aaad4ff6-8027-42ba-9b29-c48c69bee023",
+    "Filter": {
+        "Aehnlichkeit": 680,
+        "Farbe": [
+            1249,
+            3144,
+            6131,
+            6599,
+            7472,
+            9066
+        ]
+    }
+}

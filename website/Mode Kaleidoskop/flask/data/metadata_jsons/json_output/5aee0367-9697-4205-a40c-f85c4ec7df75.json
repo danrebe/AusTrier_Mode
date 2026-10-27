@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30152",
+    "titel": "Modebild: \"Zwei Damen in pelzverbrähmtem Übermantel und in türkischem Kostüm\"",
+    "Datum": "1800",
+    "Thema": [
+        "被り物",
+        "copricapo",
+        "Jacke, Mantel",
+        "dress, gown",
+        "coat",
+        "(Damen-)Kleid",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "chapelaria",
+        "Mode",
+        "Fashion",
+        "Bürgertum",
+        "Frau",
+        "Exoticism",
+        "Bourgeoisie",
+        "Exotismus",
+        "fashion plates",
+        "Modebilder",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47511/511055_default.webp",
+    "id": "5aee0367-9697-4205-a40c-f85c4ec7df75",
+    "Filter": {
+        "Aehnlichkeit": 866,
+        "Farbe": [
+            1022,
+            2954,
+            6515,
+            7426,
+            8988,
+            10798
+        ]
+    }
+}

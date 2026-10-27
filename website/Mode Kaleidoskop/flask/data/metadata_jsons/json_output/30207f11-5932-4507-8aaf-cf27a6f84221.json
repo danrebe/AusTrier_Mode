@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31655",
+    "titel": "Modebild: Bett mit Baldachin",
+    "Datum": "1834",
+    "Thema": [
+        "Baldachin",
+        "天蓋, 金襴",
+        "baldacchino, pensilina",
+        "Living",
+        "Wohnen",
+        "furniture and household effects",
+        "Modebilder",
+        "canopy, baldachin",
+        "Möbel und Hausrat",
+        "dais, baldaquin",
+        "Biedermeier",
+        "Bürgertum",
+        "Bourgeoisie",
+        "dossel, baldaquino",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55424/614591_default.webp",
+    "id": "30207f11-5932-4507-8aaf-cf27a6f84221",
+    "Filter": {
+        "Aehnlichkeit": 1282,
+        "Farbe": [
+            1851,
+            5117,
+            5720,
+            5988,
+            6824,
+            7629,
+            9649
+        ]
+    }
+}

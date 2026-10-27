@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31945",
+    "titel": "Modebild: Drei Figuren, Herrenmoden",
+    "Datum": "1840",
+    "Thema": [
+        "head-gear",
+        "Dandy, Beau, Geck",
+        "coat",
+        "Jacke, Mantel",
+        "copricapo",
+        "被り物",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "chapelaria",
+        "dandy, beau",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "Mode",
+        "man",
+        "Modebilder",
+        "fashion plates",
+        "Mann"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/56505/510887_default.webp",
+    "id": "7bf570e1-6941-41e2-a3e1-e96829911aee",
+    "Filter": {
+        "Aehnlichkeit": 452,
+        "Farbe": [
+            113,
+            810,
+            2745,
+            4237,
+            5454
+        ]
+    }
+}

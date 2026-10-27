@@ -1,0 +1,46 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30368",
+    "titel": "Modebild: \"Französische Dame mit geschmückter Frisur und blumenverziertem Ballkleid\"",
+    "Datum": "1811",
+    "Thema": [
+        "dress, gown: ball gown",
+        "Ballkleid",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Modebilder",
+        "fashion plates",
+        "Mode",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "chapelaria",
+        "copricapo",
+        "Frau",
+        "Bürgertum",
+        "Fashion",
+        "Dance",
+        "Bourgeoisie",
+        "Costums",
+        "Bräuche",
+        "Nachtleben",
+        "hairdress",
+        "Nightlife",
+        "woman",
+        "Frisur",
+        "Tanz"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48320/511961_default.webp",
+    "id": "d3615429-f3d7-4072-8bda-580a2c3b8396",
+    "Filter": {
+        "Aehnlichkeit": 1938,
+        "Farbe": [
+            1332,
+            3208,
+            4320,
+            4767,
+            8486
+        ]
+    }
+}

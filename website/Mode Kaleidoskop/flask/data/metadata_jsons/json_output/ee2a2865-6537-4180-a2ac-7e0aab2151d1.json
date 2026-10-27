@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30689",
+    "titel": "Modebild: Zwei Figuren, Kapotthüte, Kleider aus Gros de Naples mit Schinkenärmeln",
+    "Datum": "1829",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "fashion plates",
+        "Modebilder",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Fashion",
+        "Bürgertum",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Mode",
+        "Frau",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49385/512459_default.webp",
+    "id": "ee2a2865-6537-4180-a2ac-7e0aab2151d1",
+    "Filter": {
+        "Aehnlichkeit": 1733,
+        "Farbe": [
+            501,
+            2086,
+            3848,
+            5268,
+            10879
+        ]
+    }
+}

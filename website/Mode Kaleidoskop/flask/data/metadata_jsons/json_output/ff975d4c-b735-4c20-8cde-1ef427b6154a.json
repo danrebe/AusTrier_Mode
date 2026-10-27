@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30840",
+    "titel": "Modebild: Zwei Figuren, Abendkleider",
+    "Datum": "1802",
+    "Thema": [
+        "fashion plates",
+        "chapelaria",
+        "head-gear",
+        "Modebilder",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "copricapo",
+        "couvre-chef",
+        "Kopfbedeckung",
+        "被り物",
+        "woman",
+        "Dance",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Tanz",
+        "Frau",
+        "Mode",
+        "Nightlife",
+        "Nachtleben"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49771/512677_default.webp",
+    "id": "ff975d4c-b735-4c20-8cde-1ef427b6154a",
+    "Filter": {
+        "Aehnlichkeit": 1128,
+        "Farbe": [
+            985,
+            4497,
+            6311,
+            6500,
+            7155,
+            8384
+        ]
+    }
+}

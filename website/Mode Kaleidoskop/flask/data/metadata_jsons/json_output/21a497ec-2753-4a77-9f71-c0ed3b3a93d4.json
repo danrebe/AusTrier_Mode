@@ -1,0 +1,45 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30850",
+    "titel": "Modebild: Zwei Figuren, Morgen- und Galakleid",
+    "Datum": "1806",
+    "Thema": [
+        "head-gear",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "Kleidung für offizielle Anlässe",
+        "被り物",
+        "woman",
+        "Nightlife",
+        "Nachtleben",
+        "copricapo",
+        "chapelaria",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "clothes for official occasions",
+        "fashion plates",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Frau",
+        "Dance",
+        "Fashion",
+        "Tanz",
+        "Modebilder",
+        "Mode",
+        "Public Festivals and Celebrations",
+        "Öffentliche Feste und Feierlichkeiten"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49806/512697_default.webp",
+    "id": "21a497ec-2753-4a77-9f71-c0ed3b3a93d4",
+    "Filter": {
+        "Aehnlichkeit": 1125,
+        "Farbe": [
+            1281,
+            3169,
+            4725,
+            5634,
+            6612,
+            7981
+        ]
+    }
+}

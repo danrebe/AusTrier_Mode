@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30129",
+    "titel": "Modebild: \"Dame im Negligée\"",
+    "Datum": "1803",
+    "Thema": [
+        "Modebilder",
+        "fashion plates",
+        "(Damen-)Kleid",
+        "head-gear",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "Schal",
+        "neck-gear ~ clothing",
+        "Kopfbedeckung",
+        "被り物",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Mode",
+        "woman",
+        "Frau",
+        "dress, gown"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47440/511569_default.webp",
+    "accessoires": [
+        "Schal"
+    ],
+    "id": "f8ca06f2-2327-471a-bdd6-a6c68499f330",
+    "Filter": {
+        "Aehnlichkeit": 858,
+        "Farbe": [
+            902,
+            2843,
+            4421,
+            5869,
+            6294,
+            8356,
+            10517
+        ]
+    }
+}

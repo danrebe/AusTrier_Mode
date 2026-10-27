@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31640",
+    "titel": "Modebild: Zwei Figuren, Damenmäntel",
+    "Datum": "1833",
+    "Thema": [
+        "chapelaria",
+        "coat",
+        "(Damen-)Kleid",
+        "Jacke, Mantel",
+        "dress, gown",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Mode",
+        "Fashion",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Frau",
+        "Bürgertum",
+        "woman",
+        "fashion plates",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55409/614561_default.webp",
+    "id": "901b4b4f-19e9-4bda-922a-a6f926d29aa0",
+    "Filter": {
+        "Aehnlichkeit": 1424,
+        "Farbe": [
+            1615,
+            3455,
+            7562,
+            9171
+        ]
+    }
+}

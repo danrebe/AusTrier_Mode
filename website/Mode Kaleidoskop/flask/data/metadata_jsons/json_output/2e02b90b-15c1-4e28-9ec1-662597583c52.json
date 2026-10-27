@@ -1,0 +1,47 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30331",
+    "titel": "Modebild: \"Französin mit Crepphut und Atlaskleid, Franzose im Frühlingsanzug vom Longchampfest\"",
+    "Datum": "1831",
+    "Thema": [
+        "copricapo",
+        "Public Festivals and Celebrations",
+        "chapelaria",
+        "Dandy, Beau, Geck",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "dandy, beau",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "clothes for official occasions",
+        "Kleidung für offizielle Anlässe",
+        "Mode",
+        "Bürgertum",
+        "Fashion",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Frau",
+        "Modebilder",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Mann",
+        "woman",
+        "fashion plates",
+        "man"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48205/511903_default.webp",
+    "id": "2e02b90b-15c1-4e28-9ec1-662597583c52",
+    "Filter": {
+        "Aehnlichkeit": 1278,
+        "Farbe": [
+            290,
+            1506,
+            3361,
+            4903,
+            5665,
+            11110,
+            11189
+        ]
+    }
+}

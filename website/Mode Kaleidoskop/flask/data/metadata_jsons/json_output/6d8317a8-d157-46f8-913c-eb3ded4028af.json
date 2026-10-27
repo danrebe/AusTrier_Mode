@@ -1,0 +1,32 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30597",
+    "titel": "Modebild: Sechs weibliche  Hutmoden",
+    "Datum": "1828",
+    "Thema": [
+        "Mode",
+        "fashion plates",
+        "copricapo",
+        "couvre-chef",
+        "Biedermeier",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "Modebilder",
+        "Bourgeoisie",
+        "Fashion",
+        "Bürgertum"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49060/511253_default.webp",
+    "id": "6d8317a8-d157-46f8-913c-eb3ded4028af",
+    "Filter": {
+        "Aehnlichkeit": 958,
+        "Farbe": [
+            420,
+            1833,
+            3639,
+            5105
+        ]
+    }
+}

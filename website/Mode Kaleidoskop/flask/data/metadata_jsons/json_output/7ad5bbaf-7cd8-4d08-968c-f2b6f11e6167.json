@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30939",
+    "titel": "Modebild: Drei Figuren, Damenmoden",
+    "Datum": "1817",
+    "Thema": [
+        "Mode",
+        "woman",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "fashion plates",
+        "Fashion",
+        "Biedermeier",
+        "Bürgertum",
+        "Frau",
+        "Bourgeoisie",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/50107/512855_default.webp",
+    "id": "7ad5bbaf-7cd8-4d08-968c-f2b6f11e6167",
+    "Filter": {
+        "Aehnlichkeit": 1097,
+        "Farbe": [
+            920,
+            2859,
+            6475,
+            8965,
+            9752
+        ]
+    }
+}

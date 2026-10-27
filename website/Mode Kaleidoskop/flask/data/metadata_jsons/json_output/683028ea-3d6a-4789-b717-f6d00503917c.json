@@ -1,0 +1,44 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30342",
+    "titel": "Modebild: \"Dame mit chinesischer Frisur\"",
+    "Datum": "1805",
+    "Thema": [
+        "couvre-chef",
+        "Kopfbedeckung",
+        "neck-gear ~ clothing",
+        "Schal",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "head-gear",
+        "copricapo",
+        "chapelaria",
+        "被り物",
+        "hairdress",
+        "Fashion",
+        "Bourgeoisie",
+        "Frau",
+        "Bürgertum",
+        "Mode",
+        "Modebilder",
+        "Frisur",
+        "woman",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48238/511921_default.webp",
+    "accessoires": [
+        "Schal"
+    ],
+    "id": "683028ea-3d6a-4789-b717-f6d00503917c",
+    "Filter": {
+        "Aehnlichkeit": 20,
+        "Farbe": [
+            207,
+            1174,
+            3079,
+            4645,
+            8439,
+            9852
+        ]
+    }
+}

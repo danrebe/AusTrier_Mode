@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30783",
+    "titel": "Modebild: Zwei Figuren, Musselinkleider, Stickerei nach griechischem Muster",
+    "Datum": "1830",
+    "Thema": [
+        "Modebilder",
+        "Mode",
+        "head-gear",
+        "被り物",
+        "copricapo",
+        "Kopfbedeckung",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "couvre-chef",
+        "chapelaria",
+        "woman",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Frau",
+        "Fashion",
+        "Bürgertum",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49588/511349_default.webp",
+    "id": "34eaeead-e1ee-4f31-a63d-b9edb959b6a8",
+    "Filter": {
+        "Aehnlichkeit": 1324,
+        "Farbe": [
+            552,
+            2213,
+            3956,
+            5337,
+            10887
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30131",
+    "titel": "Modebild: \"Junge Dame im Hemdkleid\"",
+    "Datum": "1804",
+    "Thema": [
+        "dress, gown",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Frau",
+        "Mode",
+        "Bourgeoisie",
+        "Fashion",
+        "Bürgertum",
+        "woman",
+        "fashion plates",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47446/511573_default.webp",
+    "id": "21953419-6cd7-4c99-a62e-76f8d4e0cd2f",
+    "Filter": {
+        "Aehnlichkeit": 1118,
+        "Farbe": [
+            925,
+            2863,
+            4441,
+            8364,
+            9756
+        ]
+    }
+}

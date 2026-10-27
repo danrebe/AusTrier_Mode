@@ -1,0 +1,42 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30061",
+    "titel": "Modebild: \"Kindermoden\"",
+    "Datum": "1787",
+    "Thema": [
+        "被り物",
+        "fashion plates",
+        "Modebilder",
+        "Mädchenkleid",
+        "girls dress",
+        "fashion, clothing (+ boys' clothes)",
+        "Kleidung für Jungen",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "Bourgeoisie",
+        "Bürgertum",
+        "child",
+        "Fashion",
+        "Kind",
+        "Kleidung für Mädchen",
+        "Mode",
+        "fashion, clothing (+ girls' clothes)"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/46971/511445_default.webp",
+    "id": "9c5816e2-183e-4b17-be22-d878af741db9",
+    "Filter": {
+        "Aehnlichkeit": 1802,
+        "Farbe": [
+            836,
+            4358,
+            5589,
+            6295,
+            7144,
+            8335,
+            10514
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31393",
+    "titel": "Modebild: Eine Figur, Morgenspaziergehkleid",
+    "Datum": "1814",
+    "Thema": [
+        "dress, gown",
+        "被り物",
+        "Kopfbedeckung",
+        "Biedermeier",
+        "(Damen-)Kleid",
+        "woman",
+        "Mode",
+        "Modebilder",
+        "fashion plates",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "Frau",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54990/513295_default.webp",
+    "id": "0dd56cd8-d452-42a3-9977-683ecca48956",
+    "Filter": {
+        "Aehnlichkeit": 818,
+        "Farbe": [
+            1377,
+            3246,
+            4806,
+            5573,
+            5644,
+            8500
+        ]
+    }
+}

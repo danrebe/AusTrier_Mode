@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30829",
+    "titel": "Modebild: Zwei Figuren, Nachmittagskleider",
+    "Datum": "1801",
+    "Thema": [
+        "fashion plates",
+        "Modebilder",
+        "chapelaria",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "copricapo",
+        "Mode",
+        "(Damen-)Kleid",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Frau",
+        "woman",
+        "dress, gown"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49733/512655_default.webp",
+    "id": "d44fdd89-5d6d-476d-bc79-98e7bb936dcf",
+    "Filter": {
+        "Aehnlichkeit": 1080,
+        "Farbe": [
+            1361,
+            4322,
+            4790,
+            6646,
+            7493,
+            8498,
+            10616
+        ]
+    }
+}

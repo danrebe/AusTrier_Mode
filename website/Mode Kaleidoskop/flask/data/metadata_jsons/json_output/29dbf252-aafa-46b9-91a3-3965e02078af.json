@@ -1,0 +1,45 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30157",
+    "titel": "Modebild: \"Dame in Gesellschaftskleid- Kopfbedeckungen\"",
+    "Datum": "1801",
+    "Thema": [
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "dress, gown",
+        "neck-gear ~ clothing",
+        "Schal",
+        "Kleidung für offizielle Anlässe",
+        "clothes for official occasions",
+        "(Damen-)Kleid",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Public Festivals and Celebrations",
+        "woman",
+        "Modebilder",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Mode",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47516/511057_default.webp",
+    "accessoires": [
+        "Schal"
+    ],
+    "id": "29dbf252-aafa-46b9-91a3-3965e02078af",
+    "Filter": {
+        "Aehnlichkeit": 1241,
+        "Farbe": [
+            1252,
+            6133,
+            6600,
+            7473,
+            9067
+        ]
+    }
+}

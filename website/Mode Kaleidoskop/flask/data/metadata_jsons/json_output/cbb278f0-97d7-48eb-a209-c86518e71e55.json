@@ -1,0 +1,48 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30117/1",
+    "titel": "Modebild: \"Dame im Ballanzug\"",
+    "Datum": "1800",
+    "Thema": [
+        "couvre-chef",
+        "Modebilder",
+        "fashion plates",
+        "dress, gown: ball gown",
+        "Ballkleid",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "copricapo",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "chapelaria",
+        "clothes for official occasions",
+        "Kleidung für offizielle Anlässe",
+        "Mode",
+        "Tanz",
+        "Costums",
+        "Bräuche",
+        "Frau",
+        "Dance",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "Öffentliche Feste und Feierlichkeiten",
+        "woman",
+        "Nachtleben",
+        "Public Festivals and Celebrations",
+        "Nightlife"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47403/511039_default.webp",
+    "id": "cbb278f0-97d7-48eb-a209-c86518e71e55",
+    "Filter": {
+        "Aehnlichkeit": 206,
+        "Farbe": [
+            1077,
+            6538,
+            8409,
+            9006,
+            9813
+        ]
+    }
+}

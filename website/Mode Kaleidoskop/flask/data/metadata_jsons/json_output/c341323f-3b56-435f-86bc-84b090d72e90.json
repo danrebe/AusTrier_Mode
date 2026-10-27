@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30911",
+    "titel": "Modebild: Eine Figur, Damenmode",
+    "Datum": "1812",
+    "Thema": [
+        "(Damen-)Kleid",
+        "fashion plates",
+        "Modebilder",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Bürgertum",
+        "Fashion",
+        "Frau",
+        "Bourgeoisie",
+        "Mode",
+        "dress, gown",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/50033/512819_default.webp",
+    "id": "c341323f-3b56-435f-86bc-84b090d72e90",
+    "Filter": {
+        "Aehnlichkeit": 730,
+        "Farbe": [
+            1189,
+            4656,
+            6115,
+            6571,
+            8443,
+            9854
+        ]
+    }
+}

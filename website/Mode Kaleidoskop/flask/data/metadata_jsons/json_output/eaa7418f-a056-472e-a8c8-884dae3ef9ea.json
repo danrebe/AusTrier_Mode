@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30240",
+    "titel": "Modebild: \"Engländerin auf einer Bank Tee trinkend\"",
+    "Datum": "1816",
+    "Thema": [
+        "Modebilder",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "copricapo",
+        "chapelaria",
+        "Mode",
+        "fashion plates",
+        "Bürgertum",
+        "Fashion",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Frau",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47751/1759482_default.webp",
+    "id": "eaa7418f-a056-472e-a8c8-884dae3ef9ea",
+    "Filter": {
+        "Aehnlichkeit": 1230,
+        "Farbe": [
+            1513,
+            3368,
+            4910,
+            7529,
+            8524
+        ]
+    }
+}

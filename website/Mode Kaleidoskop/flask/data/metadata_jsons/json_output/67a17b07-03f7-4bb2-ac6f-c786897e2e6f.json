@@ -1,0 +1,53 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31299",
+    "titel": "Modebild: Fünf Figuren, Damen-, Herren- und Kindermoden",
+    "Datum": "1849",
+    "Thema": [
+        "Jacke, Mantel",
+        "coat",
+        "Umhang, Cape",
+        "cape",
+        "Dandy, Beau, Geck",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Mode",
+        "Kleidung für Mädchen",
+        "dandy, beau",
+        "couvre-chef",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "chapelaria",
+        "Bourgeoisie",
+        "man",
+        "fashion, clothing (+ girls' clothes)",
+        "Fashion",
+        "Bürgertum",
+        "Frau",
+        "Familie",
+        "Family",
+        "child",
+        "Mädchenkleid",
+        "fashion plates",
+        "girls dress",
+        "Modebilder",
+        "woman",
+        "Mann",
+        "Kind"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54011/513761_default.webp",
+    "id": "67a17b07-03f7-4bb2-ac6f-c786897e2e6f",
+    "Filter": {
+        "Aehnlichkeit": 88,
+        "Farbe": [
+            824,
+            2766,
+            7964,
+            8324,
+            8945,
+            10694
+        ]
+    }
+}

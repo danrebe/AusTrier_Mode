@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30794",
+    "titel": "Modebild: Zwei Figuren, Redingote, Musselinkleid",
+    "Datum": "1830",
+    "Thema": [
+        "fashion plates",
+        "woman",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "head-gear",
+        "被り物",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Mode",
+        "Biedermeier",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "Frau",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49600/512607_default.webp",
+    "id": "89bf69d7-2b08-4606-949f-953f4c22f74e",
+    "Filter": {
+        "Aehnlichkeit": 480,
+        "Farbe": [
+            2185,
+            3931,
+            5319,
+            6259,
+            10219
+        ]
+    }
+}

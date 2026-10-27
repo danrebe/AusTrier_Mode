@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30930",
+    "titel": "Modebild: Zwei Figuren, englische Damenmoden",
+    "Datum": "1816",
+    "Thema": [
+        "fashion plates",
+        "Modebilder",
+        "chapelaria",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "couvre-chef",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "woman",
+        "Bourgeoisie",
+        "Fashion",
+        "Frau",
+        "Biedermeier",
+        "Bürgertum",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/50081/513151_default.webp",
+    "id": "c5e5191d-6a6e-4981-a07b-d76f6b6c94c7",
+    "Filter": {
+        "Aehnlichkeit": 1902,
+        "Farbe": [
+            1150,
+            3060,
+            9027,
+            9840
+        ]
+    }
+}

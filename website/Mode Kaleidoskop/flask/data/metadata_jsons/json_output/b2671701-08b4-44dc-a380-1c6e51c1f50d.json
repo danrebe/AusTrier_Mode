@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31330",
+    "titel": "Modebild: Zwei Figuren, Damenmoden",
+    "Datum": "um 1800",
+    "Thema": [
+        "Modebilder",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "couvre-chef",
+        "Kopfbedeckung",
+        "head-gear",
+        "被り物",
+        "copricapo",
+        "chapelaria",
+        "woman",
+        "fashion plates",
+        "Frau",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54116/513235_default.webp",
+    "id": "b2671701-08b4-44dc-a380-1c6e51c1f50d",
+    "Filter": {
+        "Aehnlichkeit": 1857,
+        "Farbe": [
+            847,
+            2792,
+            4369,
+            6078,
+            6466,
+            7145
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31553",
+    "titel": "Modebild: Drei Figuren, Kinderkleider (weiblich)",
+    "Datum": "1832",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "woman",
+        "fashion plates",
+        "Modebilder",
+        "girls dress",
+        "fashion, clothing (+ girls' clothes)",
+        "Kind",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "child",
+        "Mädchenkleid",
+        "Frau",
+        "Bourgeoisie",
+        "Fashion",
+        "Biedermeier",
+        "Bürgertum",
+        "Kleidung für Mädchen",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55296/614383_default.webp",
+    "id": "856c11ed-5d85-45ae-8efa-3e9231dbc9ac",
+    "Filter": {
+        "Aehnlichkeit": 1737,
+        "Farbe": [
+            2190,
+            5767,
+            6968,
+            7710,
+            8653,
+            9417,
+            11168
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31729",
+    "titel": "Modebild: Zwei Figuren, Damenmoden",
+    "Datum": "1835",
+    "Thema": [
+        "Mode",
+        "Kopfbedeckung",
+        "被り物",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Bourgeoisie",
+        "Modebilder",
+        "Biedermeier",
+        "Bürgertum",
+        "Fashion",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55802/614739_default.webp",
+    "id": "7389c3dc-ea61-4eef-9499-2056ed899953",
+    "Filter": {
+        "Aehnlichkeit": 1293,
+        "Farbe": [
+            2111,
+            6934,
+            9376,
+            10192
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31875",
+    "titel": "Modebild: Zwei Figuren, weibliche  Wintermoden",
+    "Datum": "1838",
+    "Thema": [
+        "被り物",
+        "copricapo",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "woman",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "chapelaria",
+        "Fashion",
+        "Mode",
+        "fashion plates",
+        "Bourgeoisie",
+        "Frau",
+        "Bürgertum",
+        "Winter",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/56153/510657_default.webp",
+    "id": "7c8c1b56-a9dd-4d35-8be7-f8d91f98ceb1",
+    "Filter": {
+        "Aehnlichkeit": 1010,
+        "Farbe": [
+            2482,
+            7082,
+            7824,
+            8161,
+            9558,
+            10352
+        ]
+    }
+}

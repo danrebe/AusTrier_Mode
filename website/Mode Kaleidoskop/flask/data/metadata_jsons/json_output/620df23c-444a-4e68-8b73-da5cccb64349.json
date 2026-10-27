@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30029",
+    "titel": "Modebild: \"Morning Visiting Costume\"",
+    "Datum": "1829",
+    "Thema": [
+        "被り物",
+        "couvre-chef",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "woman",
+        "Mode",
+        "Kopfbedeckung",
+        "head-gear",
+        "chapelaria",
+        "copricapo",
+        "Modebilder",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Biedermeier",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/46838/511391_default.webp",
+    "id": "620df23c-444a-4e68-8b73-da5cccb64349",
+    "Filter": {
+        "Aehnlichkeit": 1602,
+        "Farbe": [
+            1983,
+            3764,
+            5195,
+            6360,
+            10774
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31220",
+    "titel": "Modebild: Fünf Figuren, Damenmoden, Brautkleid",
+    "Datum": "1844",
+    "Thema": [
+        "被り物",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "Kleidung für spezielle Zwecke (Brautmode)",
+        "clothes for official occasions",
+        "Kleidung für offizielle Anlässe",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "Bräuche",
+        "Frau",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Costums",
+        "Fashion",
+        "Modebilder",
+        "woman",
+        "Mode",
+        "fashion plates",
+        "dress, gown"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53865/513675_default.webp",
+    "id": "78d8d1f7-d11a-4f84-b7ac-517d8274850e",
+    "Filter": {
+        "Aehnlichkeit": 315,
+        "Farbe": [
+            679,
+            6452,
+            7294,
+            7829,
+            8762,
+            9709,
+            10721
+        ]
+    }
+}

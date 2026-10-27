@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31603",
+    "titel": "Modebild: Zwei Figuren, Damenmoden, Hüte",
+    "Datum": "1833",
+    "Thema": [
+        "fashion plates",
+        "Mode",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Fashion",
+        "woman",
+        "Biedermeier",
+        "Frau",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55372/614487_default.webp",
+    "id": "8d557a5d-e15b-418e-9176-1250e389e25f",
+    "Filter": {
+        "Aehnlichkeit": 1760,
+        "Farbe": [
+            1787,
+            3604,
+            5076,
+            8034,
+            10066
+        ]
+    }
+}

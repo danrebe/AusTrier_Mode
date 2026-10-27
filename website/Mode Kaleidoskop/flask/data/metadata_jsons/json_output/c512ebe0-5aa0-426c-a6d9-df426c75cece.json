@@ -1,0 +1,49 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31106",
+    "titel": "Modebild: Sechs Figuren, Damen-, Herren- und Kindermoden",
+    "Datum": "1841",
+    "Thema": [
+        "被り物",
+        "Jacke, Mantel",
+        "chapelaria",
+        "fashion plates",
+        "Modebilder",
+        "dandy, beau",
+        "coat",
+        "Dandy, Beau, Geck",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Accessoires",
+        "accessories (~ clothing)",
+        "Frisur",
+        "Bürgertum",
+        "child",
+        "Bourgeoisie",
+        "Frau",
+        "Fashion",
+        "man",
+        "Mode",
+        "woman",
+        "Kind",
+        "hairdress",
+        "Mann",
+        "fashion, clothing (+ boys' clothes)",
+        "Kleidung für Jungen"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53452/513551_default.webp",
+    "id": "c512ebe0-5aa0-426c-a6d9-df426c75cece",
+    "Filter": {
+        "Aehnlichkeit": 165,
+        "Farbe": [
+            2375,
+            7265,
+            7784,
+            8117,
+            8719,
+            10300
+        ]
+    }
+}

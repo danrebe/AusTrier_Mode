@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31481",
+    "titel": "Modebild: Eine Figur, Damenmode",
+    "Datum": "um 1810",
+    "Thema": [
+        "woman",
+        "Modebilder",
+        "Kopfbedeckung",
+        "被り物",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Frau",
+        "fashion plates",
+        "Biedermeier",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55154/614239_default.webp",
+    "id": "34b42f3f-6472-4167-a085-88c22b1a8c18",
+    "Filter": {
+        "Aehnlichkeit": 232,
+        "Farbe": [
+            878,
+            4398,
+            6081,
+            6470,
+            8348,
+            9736
+        ]
+    }
+}

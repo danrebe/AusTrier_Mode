@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30056",
+    "titel": "Modebild: \"Haar und Häubchenmoden\"",
+    "Datum": "1786",
+    "Thema": [
+        "fashion plates",
+        "couvre-chef",
+        "accessories (~ clothing)",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "chapelaria",
+        "Accessoires",
+        "woman",
+        "Modebilder",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "hairdress",
+        "Frisur",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/46954/511437_default.webp",
+    "id": "939ffdc8-bd6a-4fdc-9488-c7003abca703",
+    "Filter": {
+        "Aehnlichkeit": 1479,
+        "Farbe": [
+            145,
+            880,
+            2823,
+            4400,
+            6300
+        ]
+    }
+}

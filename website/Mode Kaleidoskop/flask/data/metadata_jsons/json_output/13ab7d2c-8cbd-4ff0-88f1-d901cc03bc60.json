@@ -1,0 +1,32 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31423",
+    "titel": "Modebild: Sechs Pariser Hüte",
+    "Datum": "1816",
+    "Thema": [
+        "Kopfbedeckung",
+        "被り物",
+        "copricapo",
+        "Modebilder",
+        "fashion plates",
+        "Mode",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Biedermeier",
+        "chapelaria",
+        "couvre-chef",
+        "head-gear"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55037/513327_default.webp",
+    "id": "13ab7d2c-8cbd-4ff0-88f1-d901cc03bc60",
+    "Filter": {
+        "Aehnlichkeit": 946,
+        "Farbe": [
+            1208,
+            3106,
+            4673,
+            8448
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30451",
+    "titel": "Modebild: \"Franzose mit Zylinder, Anzug mit Metallknöpfen, Stock und Stiefletten\"",
+    "Datum": "1822",
+    "Thema": [
+        "chapelaria",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "fashion plates",
+        "Modebilder",
+        "Dandy, Beau, Geck",
+        "dandy, beau",
+        "被り物",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "Fashion",
+        "Frau",
+        "Biedermeier",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Mann",
+        "woman",
+        "man",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48591/511187_default.webp",
+    "id": "c7aa5d4c-369b-4533-a7ea-f0abb27f1aea",
+    "Filter": {
+        "Aehnlichkeit": 1420,
+        "Farbe": [
+            1155,
+            3065,
+            4635,
+            7454
+        ]
+    }
+}

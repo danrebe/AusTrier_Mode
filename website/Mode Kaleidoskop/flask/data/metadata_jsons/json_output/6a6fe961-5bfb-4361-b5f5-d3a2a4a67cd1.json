@@ -1,0 +1,47 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31313",
+    "titel": "Modebild: Drei Damenmoden, vier Kindermoden",
+    "Datum": "1852",
+    "Thema": [
+        "fashion, clothing (+ girls' clothes)",
+        "woman",
+        "Mädchenkleid",
+        "Kind",
+        "girls dress",
+        "Modebilder",
+        "fashion plates",
+        "head-gear",
+        "Bürgertum",
+        "Kleidung für Mädchen",
+        "Frau",
+        "child",
+        "Fashion",
+        "Bourgeoisie",
+        "coat",
+        "Kopfbedeckung",
+        "被り物",
+        "Mode",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "fashion, clothing (+ boys' clothes)",
+        "Jacke, Mantel",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Kleidung für Jungen"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54069/513775_default.webp",
+    "id": "6a6fe961-5bfb-4361-b5f5-d3a2a4a67cd1",
+    "Filter": {
+        "Aehnlichkeit": 1641,
+        "Farbe": [
+            2764,
+            5462,
+            7141,
+            7391,
+            7962,
+            8323
+        ]
+    }
+}

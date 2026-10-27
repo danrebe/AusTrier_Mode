@@ -1,0 +1,42 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30739",
+    "titel": "Modebild: Zwei Figuren, Gesellschaftskleider verziert mit Blumen",
+    "Datum": "1830",
+    "Thema": [
+        "fashion plates",
+        "Modebilder",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "head-gear",
+        "被り物",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Kleidung für offizielle Anlässe",
+        "clothes for official occasions",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Biedermeier",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Public Festivals and Celebrations",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49479/512533_default.webp",
+    "id": "fd6315cf-369d-4df6-95d9-70749b610854",
+    "Filter": {
+        "Aehnlichkeit": 143,
+        "Farbe": [
+            1520,
+            3375,
+            4917,
+            5954,
+            6694,
+            9973
+        ]
+    }
+}

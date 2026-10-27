@@ -1,0 +1,42 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30017",
+    "titel": "Modebild: \"Parisian Evening Dress for March 1829\"",
+    "Datum": "1829",
+    "Thema": [
+        "head-gear",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Modebilder",
+        "fashion plates",
+        "Tanz",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "Kopfbedeckung",
+        "被り物",
+        "Nightlife",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Dance",
+        "Fashion",
+        "Bürgertum",
+        "Frau",
+        "woman",
+        "Mode",
+        "Nachtleben"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/45217/511001_default.webp",
+    "id": "da86466a-2aee-47de-879e-65874b1ab378",
+    "Filter": {
+        "Aehnlichkeit": 1897,
+        "Farbe": [
+            1966,
+            3749,
+            5183,
+            6222,
+            8607,
+            10139
+        ]
+    }
+}

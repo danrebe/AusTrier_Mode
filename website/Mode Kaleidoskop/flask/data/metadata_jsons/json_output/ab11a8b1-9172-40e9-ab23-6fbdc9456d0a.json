@@ -1,0 +1,44 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30968",
+    "titel": "Modebild: Vier Figuren, Herren- und Damenmoden",
+    "Datum": "1826",
+    "Thema": [
+        "fashion plates",
+        "Modebilder",
+        "dandy, beau",
+        "Jacke, Mantel",
+        "Dandy, Beau, Geck",
+        "coat",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "被り物",
+        "Kopfbedeckung",
+        "chapelaria",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Biedermeier",
+        "Fashion",
+        "Bürgertum",
+        "Frau",
+        "Bourgeoisie",
+        "Mann",
+        "woman",
+        "man",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/50185/513407_default.webp",
+    "id": "ab11a8b1-9172-40e9-ab23-6fbdc9456d0a",
+    "Filter": {
+        "Aehnlichkeit": 1845,
+        "Farbe": [
+            310,
+            3417,
+            7997,
+            9149,
+            10835,
+            10949
+        ]
+    }
+}

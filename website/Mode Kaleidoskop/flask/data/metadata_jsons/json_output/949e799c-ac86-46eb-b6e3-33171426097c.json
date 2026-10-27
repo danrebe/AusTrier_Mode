@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30580",
+    "titel": "Modebild: Dame mit Hut aus Gros de Naples und grün-schwarz gestreiftem Kleid",
+    "Datum": "1828",
+    "Thema": [
+        "copricapo",
+        "dress, gown",
+        "Modebilder",
+        "fashion plates",
+        "chapelaria",
+        "head-gear",
+        "couvre-chef",
+        "被り物",
+        "Kopfbedeckung",
+        "(Damen-)Kleid",
+        "Frau",
+        "Biedermeier",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49030/512293_default.webp",
+    "id": "949e799c-ac86-46eb-b6e3-33171426097c",
+    "Filter": {
+        "Aehnlichkeit": 137,
+        "Farbe": [
+            1795,
+            3610,
+            5081,
+            9670,
+            10068
+        ]
+    }
+}

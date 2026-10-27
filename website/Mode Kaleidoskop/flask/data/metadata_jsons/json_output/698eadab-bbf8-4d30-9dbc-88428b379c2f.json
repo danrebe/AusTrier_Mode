@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30607",
+    "titel": "Modebild: Zwei Damen in weißen Musselinkleidern, weiße Kreuzbandschuhe",
+    "Datum": "1828",
+    "Thema": [
+        "woman",
+        "Mode",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "被り物",
+        "copricapo",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "fashion plates",
+        "Biedermeier",
+        "Bürgertum",
+        "Frau",
+        "Bourgeoisie",
+        "Fashion",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49070/512333_default.webp",
+    "id": "698eadab-bbf8-4d30-9dbc-88428b379c2f",
+    "Filter": {
+        "Aehnlichkeit": 1633,
+        "Farbe": [
+            1936,
+            3725,
+            4337,
+            5166,
+            6357
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30734",
+    "titel": "Modebild: Zwei Figuren, Kapotthüte, Redingoten, Pelzboa, Pantalons",
+    "Datum": "1829",
+    "Thema": [
+        "Kopfbedeckung",
+        "被り物",
+        "dress, gown",
+        "head-gear",
+        "woman",
+        "Kind",
+        "Mode",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "(Damen-)Kleid",
+        "Frau",
+        "Modebilder",
+        "Bürgertum",
+        "Biedermeier",
+        "Fashion",
+        "Bourgeoisie",
+        "child",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49469/512525_default.webp",
+    "id": "3b621295-0083-4ae3-9282-e6b4e6ddb328",
+    "Filter": {
+        "Aehnlichkeit": 1371,
+        "Farbe": [
+            1539,
+            3391,
+            4936,
+            5672,
+            7994
+        ]
+    }
+}

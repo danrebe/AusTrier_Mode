@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30276",
+    "titel": "Modebild: \"Pariserinnen in Spencern und weißen Handschuhen\"",
+    "Datum": "1820",
+    "Thema": [
+        "head-gear",
+        "Kopfbedeckung",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "fashion plates",
+        "Modebilder",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "被り物",
+        "man",
+        "Fashion",
+        "Frau",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Mode",
+        "Biedermeier",
+        "woman",
+        "Mann"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47878/1759518_default.webp",
+    "id": "5c159d31-cc47-453a-86e8-5053283e4e7e",
+    "Filter": {
+        "Aehnlichkeit": 1567,
+        "Farbe": [
+            178,
+            1020,
+            2952,
+            4529,
+            6514
+        ]
+    }
+}

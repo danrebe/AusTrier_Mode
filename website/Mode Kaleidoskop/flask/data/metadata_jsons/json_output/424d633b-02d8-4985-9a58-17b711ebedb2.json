@@ -1,0 +1,35 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30110",
+    "titel": "Modebild: \"Dame im Morgenanzug\"",
+    "Datum": "1799",
+    "Thema": [
+        "dress, gown",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "被り物",
+        "Kopfbedeckung",
+        "Mode",
+        "fashion plates",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Frau",
+        "Modebilder",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47379/511537_default.webp",
+    "id": "424d633b-02d8-4985-9a58-17b711ebedb2",
+    "Filter": {
+        "Aehnlichkeit": 255,
+        "Farbe": [
+            1165,
+            4295,
+            4638,
+            8435
+        ]
+    }
+}

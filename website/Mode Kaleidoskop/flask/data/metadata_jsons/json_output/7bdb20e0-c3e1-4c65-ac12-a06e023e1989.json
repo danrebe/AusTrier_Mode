@@ -1,0 +1,48 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31552",
+    "titel": "Modebild: Zwei Figuren, Ball- und Promenadenkleid",
+    "Datum": "1832",
+    "Thema": [
+        "dress, gown: ball gown",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Ballkleid",
+        "Modebilder",
+        "fashion plates",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Mode",
+        "copricapo",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "chapelaria",
+        "Nightlife",
+        "Fashion",
+        "Public Festivals and Celebrations",
+        "Frau",
+        "Dance",
+        "Bräuche",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Costums",
+        "Bürgertum",
+        "Tanz",
+        "woman",
+        "Nachtleben"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55292/614381_default.webp",
+    "id": "7bdb20e0-c3e1-4c65-ac12-a06e023e1989",
+    "Filter": {
+        "Aehnlichkeit": 1072,
+        "Farbe": [
+            2186,
+            3932,
+            5766,
+            6966,
+            9414,
+            10220
+        ]
+    }
+}

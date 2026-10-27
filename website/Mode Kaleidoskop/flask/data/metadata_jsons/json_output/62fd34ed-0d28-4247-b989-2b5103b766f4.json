@@ -1,0 +1,46 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31029",
+    "titel": "Modebild: Eine Figur, Kindermode",
+    "Datum": "1838",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Kind",
+        "Kleidung für Mädchen",
+        "woman",
+        "fashion, clothing (+ girls' clothes)",
+        "Mode",
+        "fashion plates",
+        "head-gear",
+        "被り物",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "girls dress",
+        "Modebilder",
+        "Bourgeoisie",
+        "Frau",
+        "child",
+        "Bürgertum",
+        "Fashion",
+        "fashion, clothing (+ boys' clothes)",
+        "Mädchenkleid",
+        "Kleidung für Jungen"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/50994/513471_default.webp",
+    "id": "62fd34ed-0d28-4247-b989-2b5103b766f4",
+    "Filter": {
+        "Aehnlichkeit": 1607,
+        "Farbe": [
+            737,
+            2617,
+            4179,
+            5841,
+            7899,
+            9600,
+            10429
+        ]
+    }
+}

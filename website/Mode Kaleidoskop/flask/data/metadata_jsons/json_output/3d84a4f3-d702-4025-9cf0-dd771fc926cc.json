@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30353",
+    "titel": "Modebild: \"Französin mit Strohhut, rotem Halstuch und Veilchenstrauß\"",
+    "Datum": "1807",
+    "Thema": [
+        "Kopfbedeckung",
+        "copricapo",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "被り物",
+        "head-gear",
+        "couvre-chef",
+        "chapelaria",
+        "Fashion",
+        "woman",
+        "fashion plates",
+        "Bourgeoisie",
+        "Frau",
+        "Bürgertum",
+        "Modebilder",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48270/511145_default.webp",
+    "id": "3d84a4f3-d702-4025-9cf0-dd771fc926cc",
+    "Filter": {
+        "Aehnlichkeit": 1120,
+        "Farbe": [
+            1302,
+            3185,
+            4743,
+            5921,
+            7482,
+            8475
+        ]
+    }
+}

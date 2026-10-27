@@ -1,0 +1,42 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31989",
+    "titel": "Modebild: Drei Figuren, Herren- und Damenmoden",
+    "Datum": "1841",
+    "Thema": [
+        "(Damen-)Kleid",
+        "Dandy, Beau, Geck",
+        "Jacke, Mantel",
+        "coat",
+        "chapelaria",
+        "dandy, beau",
+        "fashion plates",
+        "copricapo",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "Frau",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "Mode",
+        "Mann",
+        "dress, gown",
+        "Modebilder",
+        "woman",
+        "man"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/57088/510951_default.webp",
+    "id": "cacb6e3a-c8a6-47e1-922a-e37410965408",
+    "Filter": {
+        "Aehnlichkeit": 1655,
+        "Farbe": [
+            46,
+            590,
+            2295,
+            4021,
+            5374
+        ]
+    }
+}

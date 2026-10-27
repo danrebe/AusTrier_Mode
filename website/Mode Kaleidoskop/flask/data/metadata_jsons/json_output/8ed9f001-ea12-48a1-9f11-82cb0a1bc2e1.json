@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30094",
+    "titel": "Modebild: \"Weibliche Haar- und Haubentrachten\"",
+    "Datum": "1795",
+    "Thema": [
+        "dress, gown",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Mode",
+        "Frau",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "fashion plates",
+        "Modebilder",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47334/511507_default.webp",
+    "id": "8ed9f001-ea12-48a1-9f11-82cb0a1bc2e1",
+    "Filter": {
+        "Aehnlichkeit": 1768,
+        "Farbe": [
+            151,
+            898,
+            2840,
+            4418,
+            8962
+        ]
+    }
+}

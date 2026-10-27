@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30465",
+    "titel": "Modebild: \"Pariserin mit Hut, Mantelkleid, Tasche, Schirm und Gürtel\"",
+    "Datum": "1822",
+    "Thema": [
+        "copricapo",
+        "dress, gown",
+        "Modebilder",
+        "(Damen-)Kleid",
+        "coat",
+        "Jacke, Mantel",
+        "couvre-chef",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "chapelaria",
+        "fashion plates",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Frau",
+        "Biedermeier",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48614/511193_default.webp",
+    "id": "ae0bb6cc-73fb-4ff5-a01d-44f1705cc95c",
+    "Filter": {
+        "Aehnlichkeit": 196,
+        "Farbe": [
+            213,
+            1221,
+            3116,
+            4679,
+            10979
+        ]
+    }
+}

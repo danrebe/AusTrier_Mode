@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31866",
+    "titel": "Modebild: Eine Figur, Damenmode",
+    "Datum": "1838",
+    "Thema": [
+        "(Damen-)Kleid",
+        "Modebilder",
+        "fashion plates",
+        "copricapo",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "chapelaria",
+        "dress, gown",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Frau",
+        "Fashion",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/56131/510775_default.webp",
+    "id": "b44bd217-b396-4ded-9e94-8ea0a9107923",
+    "Filter": {
+        "Aehnlichkeit": 1348,
+        "Farbe": [
+            2384,
+            4074,
+            5798,
+            7036,
+            9501,
+            10303
+        ]
+    }
+}

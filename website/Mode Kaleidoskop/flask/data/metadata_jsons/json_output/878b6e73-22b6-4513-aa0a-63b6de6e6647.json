@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31828",
+    "titel": "Modebild: Zwei Figuren, Damenübermäntel",
+    "Datum": "1837",
+    "Thema": [
+        "coat",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Modebilder",
+        "Jacke, Mantel",
+        "Bürgertum",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "fashion plates",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/56056/510623_default.webp",
+    "id": "878b6e73-22b6-4513-aa0a-63b6de6e6647",
+    "Filter": {
+        "Aehnlichkeit": 1696,
+        "Farbe": [
+            1984,
+            3765,
+            8056,
+            9332,
+            10146,
+            10635
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30435",
+    "titel": "Modebild: \"Pariser Dame mit Turban, Schmuck und weißem Satinkleid\"",
+    "Datum": "1822",
+    "Thema": [
+        "Kopfbedeckung: Turban",
+        "Modebilder",
+        "fashion plates",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear: turban",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Frau",
+        "Fashion",
+        "Bürgertum",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48563/512067_default.webp",
+    "id": "ba5a9cfd-a1a1-4a57-8647-7464997fa650",
+    "Filter": {
+        "Aehnlichkeit": 5,
+        "Farbe": [
+            1760,
+            3580,
+            5058,
+            7610
+        ]
+    }
+}

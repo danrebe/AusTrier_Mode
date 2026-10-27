@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30330",
+    "titel": "Modebild: \"Pariserin mit Blumengirlande im Haar, Pariserin in Satinrobe, Pariser im Reitanzug\"",
+    "Datum": "1829",
+    "Thema": [
+        "Modebilder",
+        "fashion plates",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "woman",
+        "Mode",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Frau",
+        "Fashion",
+        "Mann",
+        "man"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48203/511901_default.webp",
+    "id": "cdd41f39-ec02-4495-8f7c-89a79d68cf33",
+    "Filter": {
+        "Aehnlichkeit": 1924,
+        "Farbe": [
+            312,
+            1576,
+            4960,
+            5681,
+            6714,
+            10748
+        ]
+    }
+}

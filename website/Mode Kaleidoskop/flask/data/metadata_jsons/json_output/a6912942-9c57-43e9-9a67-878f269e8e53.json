@@ -1,0 +1,51 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31007",
+    "titel": "Modebild: Sechs Figuren, Damen-, Herren- und Kindermoden, Muster",
+    "Datum": "1837",
+    "Thema": [
+        "Dandy, Beau, Geck",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Modebilder",
+        "coat",
+        "Jacke, Mantel",
+        "fashion plates",
+        "dandy, beau",
+        "woman",
+        "man",
+        "couvre-chef",
+        "chapelaria",
+        "copricapo",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "Bürgertum",
+        "Mann",
+        "Familie",
+        "Family",
+        "child",
+        "Frau",
+        "Bourgeoisie",
+        "Fashion",
+        "Kleidung für Mädchen",
+        "Mode",
+        "girls dress",
+        "Kind",
+        "Mädchenkleid",
+        "fashion, clothing (+ girls' clothes)"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/50913/513449_default.webp",
+    "id": "a6912942-9c57-43e9-9a67-878f269e8e53",
+    "Filter": {
+        "Aehnlichkeit": 1828,
+        "Farbe": [
+            2276,
+            4008,
+            8090,
+            9458,
+            10250,
+            10734
+        ]
+    }
+}

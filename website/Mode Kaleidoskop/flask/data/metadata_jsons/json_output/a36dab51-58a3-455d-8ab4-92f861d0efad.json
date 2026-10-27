@@ -1,0 +1,42 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31519",
+    "titel": "Modebild: Zwei Figuren, Damenkleid und Umhang",
+    "Datum": "1831",
+    "Thema": [
+        "couvre-chef",
+        "coat",
+        "Jacke, Mantel",
+        "Umhang, Cape",
+        "cape",
+        "fashion plates",
+        "Modebilder",
+        "chapelaria",
+        "copricapo",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Fashion",
+        "Biedermeier",
+        "Bürgertum",
+        "Frau",
+        "Bourgeoisie",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55240/614315_default.webp",
+    "id": "a36dab51-58a3-455d-8ab4-92f861d0efad",
+    "Filter": {
+        "Aehnlichkeit": 1425,
+        "Farbe": [
+            1607,
+            3448,
+            6732,
+            7193,
+            7560,
+            9166
+        ]
+    }
+}

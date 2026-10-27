@@ -1,0 +1,35 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30132",
+    "titel": "Modebild: \"Dame im Morgenpromenadenanzug\"",
+    "Datum": "1804",
+    "Thema": [
+        "Modebilder",
+        "fashion plates",
+        "copricapo",
+        "被り物",
+        "chapelaria",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "dress, gown",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Frau",
+        "woman",
+        "Mode",
+        "(Damen-)Kleid"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47449/511575_default.webp",
+    "id": "97a6ad41-2b57-445a-acb7-bb515744251e",
+    "Filter": {
+        "Aehnlichkeit": 216,
+        "Farbe": [
+            924,
+            2862,
+            4440,
+            9755
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30454",
+    "titel": "Modebild: \"Pariserin mit italienischem Strohhut in der Hand und aufgespanntem Schirm\"",
+    "Datum": "1822",
+    "Thema": [
+        "Mode",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "copricapo",
+        "被り物",
+        "chapelaria",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "Bürgertum",
+        "woman",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Frau",
+        "Fashion",
+        "fashion plates",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48594/512097_default.webp",
+    "id": "6bc052e1-3e2b-49a4-98ad-fcc506b59d82",
+    "Filter": {
+        "Aehnlichkeit": 1234,
+        "Farbe": [
+            407,
+            1794,
+            3609,
+            5080
+        ]
+    }
+}

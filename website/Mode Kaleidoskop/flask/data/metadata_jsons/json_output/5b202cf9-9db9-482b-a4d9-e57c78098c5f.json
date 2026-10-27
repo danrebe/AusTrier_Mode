@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31415",
+    "titel": "Modebild: Eine Figur, Abendkleid, kolorierter Kupferstich",
+    "Datum": "1815",
+    "Thema": [
+        "woman",
+        "Nightlife",
+        "Nachtleben",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "copricapo",
+        "chapelaria",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Modebilder",
+        "Mode",
+        "Biedermeier",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "Frau",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55025/513319_default.webp",
+    "id": "5b202cf9-9db9-482b-a4d9-e57c78098c5f",
+    "Filter": {
+        "Aehnlichkeit": 1553,
+        "Farbe": [
+            1280,
+            3168,
+            4723,
+            7477
+        ]
+    }
+}

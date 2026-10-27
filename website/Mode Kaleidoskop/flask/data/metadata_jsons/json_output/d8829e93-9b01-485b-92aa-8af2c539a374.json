@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31400",
+    "titel": "Modebild: Eine Figur, Pariser Damenmode",
+    "Datum": "1815",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "fashion plates",
+        "Modebilder",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Biedermeier",
+        "Mode",
+        "woman",
+        "Frau"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55001/513303_default.webp",
+    "id": "d8829e93-9b01-485b-92aa-8af2c539a374",
+    "Filter": {
+        "Aehnlichkeit": 1952,
+        "Farbe": [
+            1343,
+            3217,
+            4775,
+            5641,
+            6639,
+            11075
+        ]
+    }
+}

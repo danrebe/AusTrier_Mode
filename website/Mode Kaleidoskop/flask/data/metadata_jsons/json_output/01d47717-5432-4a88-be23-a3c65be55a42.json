@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30761",
+    "titel": "Modebild: Zwei Figuren, Kleider aus Gros de Berlin",
+    "Datum": "1830",
+    "Thema": [
+        "Biedermeier",
+        "(Damen-)Kleid",
+        "copricapo",
+        "chapelaria",
+        "Frau",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "被り物",
+        "fashion plates",
+        "Modebilder",
+        "Mode",
+        "woman",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "dress, gown"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49553/512569_default.webp",
+    "id": "01d47717-5432-4a88-be23-a3c65be55a42",
+    "Filter": {
+        "Aehnlichkeit": 178,
+        "Farbe": [
+            4001,
+            5364,
+            7001,
+            7242,
+            10717,
+            10891,
+            10921
+        ]
+    }
+}

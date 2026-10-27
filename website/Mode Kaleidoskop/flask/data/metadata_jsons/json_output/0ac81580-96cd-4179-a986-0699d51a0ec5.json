@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30071",
+    "titel": "Modebild: \"Dame in Pariser Morgenkleid\"",
+    "Datum": "1789",
+    "Thema": [
+        "被り物",
+        "Frau",
+        "Fashion",
+        "Mode",
+        "Modebilder",
+        "fashion plates",
+        "Kopfbedeckung",
+        "fan",
+        "Fächer",
+        "Accessoires",
+        "accessories (~ clothing)",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "woman",
+        "Bourgeoisie",
+        "Bürgertum"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/46983/511465_default.webp",
+    "accessoires": [
+        "Fächer"
+    ],
+    "id": "0ac81580-96cd-4179-a986-0699d51a0ec5",
+    "Filter": {
+        "Aehnlichkeit": 710,
+        "Farbe": [
+            149,
+            892,
+            2834,
+            4412,
+            9635
+        ]
+    }
+}

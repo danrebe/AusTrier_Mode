@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30431",
+    "titel": "Modebild: \"Französische Dame mit Pelzstola, Robe und Spitzenkopftuch\"",
+    "Datum": "1822",
+    "Thema": [
+        "fashion plates",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "copricapo",
+        "chapelaria",
+        "Mode",
+        "Biedermeier",
+        "Frau",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "woman",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48558/512061_default.webp",
+    "id": "352a96e4-97ee-432f-88b8-b433cdfb2828",
+    "Filter": {
+        "Aehnlichkeit": 372,
+        "Farbe": [
+            1751,
+            3570,
+            5050,
+            6351,
+            7608
+        ]
+    }
+}

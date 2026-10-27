@@ -1,0 +1,44 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31173",
+    "titel": "Modebild: Neun Frisurvorschläge, Kämme",
+    "Datum": "1842",
+    "Thema": [
+        "hair",
+        "comb, brush and other tools (care of the hair)",
+        "Frisur",
+        "Kamm, Bürste und andere Utensilien für die Haarpflege",
+        "woman",
+        "Modebilder",
+        "fashion plates",
+        "Mode",
+        "hairdress",
+        "Haar",
+        "Kopfbedeckung",
+        "被り物",
+        "Accessoires",
+        "head-gear",
+        "couvre-chef",
+        "Bourgeoisie",
+        "copricapo",
+        "accessories (~ clothing)",
+        "chapelaria",
+        "Bürgertum",
+        "Biedermeier",
+        "Fashion",
+        "Frau"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53775/745558_default.webp",
+    "id": "7e586c2b-947a-4e90-a3f5-78bf78f9fad7",
+    "Filter": {
+        "Aehnlichkeit": 1708,
+        "Farbe": [
+            80,
+            2506,
+            5465,
+            5532,
+            7091,
+            10365
+        ]
+    }
+}

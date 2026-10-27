@@ -1,0 +1,32 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31942",
+    "titel": "Modebild: Sechs Damenstrohhutmodelle",
+    "Datum": "1840",
+    "Thema": [
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Fashion",
+        "fashion plates",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Mode",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/56501/510883_default.webp",
+    "id": "f1d17577-5188-4cdb-83bc-1635323c4a94",
+    "Filter": {
+        "Aehnlichkeit": 1995,
+        "Farbe": [
+            2739,
+            4234,
+            8928,
+            9620,
+            10494
+        ]
+    }
+}

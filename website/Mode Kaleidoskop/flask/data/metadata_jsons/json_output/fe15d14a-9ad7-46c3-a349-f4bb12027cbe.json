@@ -1,0 +1,60 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30978",
+    "titel": "Modebild: Fünf Figuren, Neueste Pariser Herrenmoden",
+    "Datum": "1836",
+    "Thema": [
+        "walking-stick, staff, cane",
+        "couvre-chef",
+        "兵器",
+        "chasser, la chasse",
+        "weapons",
+        "Waffen",
+        "armi",
+        "armes",
+        "armas",
+        "Wanderstab, Spazierstock",
+        "caccia",
+        "head-gear",
+        "caça, perseguição",
+        "被り物",
+        "Kopfbedeckung",
+        "umbrella",
+        "copricapo",
+        "chapelaria",
+        "Regenschirm",
+        "Bürgertum",
+        "dandy, beau",
+        "Recreation and Leisure",
+        "Mann",
+        "Mode",
+        "man",
+        "hunting, chase",
+        "Fashion",
+        "Erholung und Freizeit",
+        "Bourgeoisie",
+        "coat",
+        "狩猟, 追跡",
+        "Jagen; die Jagd",
+        "Dandy, Beau, Geck",
+        "fashion plates",
+        "Modebilder",
+        "Jacke, Mantel"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/50209/513419_default.webp",
+    "accessoires": [
+        "Regenschirm | Wanderstab, Spazierstock"
+    ],
+    "id": "fe15d14a-9ad7-46c3-a349-f4bb12027cbe",
+    "Filter": {
+        "Aehnlichkeit": 2017,
+        "Farbe": [
+            328,
+            1632,
+            5576,
+            5688,
+            9181,
+            9662
+        ]
+    }
+}

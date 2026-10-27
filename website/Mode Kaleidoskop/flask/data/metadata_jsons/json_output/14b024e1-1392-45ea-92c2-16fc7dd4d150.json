@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30764",
+    "titel": "Modebild: Zwei Figuren, Redingoten aus Gros de Naples",
+    "Datum": "1830",
+    "Thema": [
+        "Mode",
+        "fashion plates",
+        "Modebilder",
+        "Fashion",
+        "Biedermeier",
+        "Bürgertum",
+        "Frau",
+        "Bourgeoisie",
+        "copricapo",
+        "(Damen-)Kleid",
+        "Kopfbedeckung",
+        "dress, gown",
+        "couvre-chef",
+        "head-gear",
+        "被り物",
+        "chapelaria",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49559/512573_default.webp",
+    "id": "14b024e1-1392-45ea-92c2-16fc7dd4d150",
+    "Filter": {
+        "Aehnlichkeit": 492,
+        "Farbe": [
+            574,
+            2258,
+            3996,
+            5363,
+            10890
+        ]
+    }
+}

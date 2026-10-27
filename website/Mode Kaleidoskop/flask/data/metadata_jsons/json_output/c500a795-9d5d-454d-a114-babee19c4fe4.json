@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30606",
+    "titel": "Modebild: Zwei Damen in weißen Musselinkleidern",
+    "Datum": "1828",
+    "Thema": [
+        "dress, gown",
+        "Modebilder",
+        "fashion plates",
+        "Kopfbedeckung",
+        "被り物",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "(Damen-)Kleid",
+        "Frau",
+        "Biedermeier",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49069/511257_default.webp",
+    "id": "c500a795-9d5d-454d-a114-babee19c4fe4",
+    "Filter": {
+        "Aehnlichkeit": 843,
+        "Farbe": [
+            1933,
+            3723,
+            5164,
+            10125
+        ]
+    }
+}

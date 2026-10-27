@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31990",
+    "titel": "Modebild: Drei Figuren, Damenmoden",
+    "Datum": "1841",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "couvre-chef",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "chapelaria",
+        "Modebilder",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Frau",
+        "Fashion",
+        "Mode",
+        "woman",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/57092/510953_default.webp",
+    "id": "8dc56df8-a330-4df1-9e02-4daabb3ff4c0",
+    "Filter": {
+        "Aehnlichkeit": 1453,
+        "Farbe": [
+            591,
+            2298,
+            4024,
+            5375,
+            9694,
+            10647
+        ]
+    }
+}

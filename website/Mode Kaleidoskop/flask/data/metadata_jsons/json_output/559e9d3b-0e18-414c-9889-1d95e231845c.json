@@ -1,0 +1,48 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31602",
+    "titel": "Modebild: Drei Figuren, Herrenmoden",
+    "Datum": "1833",
+    "Thema": [
+        "Pferd",
+        "馬",
+        "couvre-chef",
+        "cavallo",
+        "head-gear",
+        "Dandy, Beau, Geck",
+        "copricapo",
+        "coat",
+        "horse",
+        "cheval",
+        "cavalo",
+        "Kopfbedeckung",
+        "被り物",
+        "chapelaria",
+        "Jacke, Mantel",
+        "dandy, beau",
+        "Animals",
+        "Bürgertum",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Fashion",
+        "man",
+        "Tiere",
+        "Mode",
+        "Modebilder",
+        "fashion plates",
+        "Mann"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55371/614485_default.webp",
+    "id": "559e9d3b-0e18-414c-9889-1d95e231845c",
+    "Filter": {
+        "Aehnlichkeit": 1533,
+        "Farbe": [
+            405,
+            1790,
+            3607,
+            5078,
+            8036,
+            10067
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31767",
+    "titel": "Modebild: Drei Figuren, Damen-, Mädchen- und Knabenmoden",
+    "Datum": "1836",
+    "Thema": [
+        "(Damen-)Kleid",
+        "girls dress",
+        "dress, gown",
+        "fashion plates",
+        "Modebilder",
+        "Mädchenkleid",
+        "Kleidung für Mädchen",
+        "woman",
+        "被り物",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "fashion, clothing (+ girls' clothes)",
+        "Bürgertum",
+        "child",
+        "Bourgeoisie",
+        "Fashion",
+        "Frau",
+        "Kleidung für Jungen",
+        "fashion, clothing (+ boys' clothes)",
+        "Kind",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55858/614815_default.webp",
+    "id": "c12bfb3c-69a9-4afc-8021-d6b8fef3ce75",
+    "Filter": {
+        "Aehnlichkeit": 1892,
+        "Farbe": [
+            688,
+            2505,
+            4138,
+            7090,
+            7841,
+            9567
+        ]
+    }
+}

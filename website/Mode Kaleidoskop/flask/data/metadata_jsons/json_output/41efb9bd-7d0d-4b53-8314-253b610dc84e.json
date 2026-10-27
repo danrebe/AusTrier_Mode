@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30709",
+    "titel": "Modebild: Zwei Figuren, Baumwollkleider in gelb und weiß",
+    "Datum": "1829",
+    "Thema": [
+        "woman",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "copricapo",
+        "chapelaria",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Frau",
+        "Modebilder",
+        "fashion plates",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49424/511307_default.webp",
+    "id": "41efb9bd-7d0d-4b53-8314-253b610dc84e",
+    "Filter": {
+        "Aehnlichkeit": 1373,
+        "Farbe": [
+            1389,
+            3257,
+            4818,
+            6651,
+            10572
+        ]
+    }
+}

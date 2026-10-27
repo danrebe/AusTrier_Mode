@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31104",
+    "titel": "Modebild: Fünf Herrenmoden",
+    "Datum": "1841",
+    "Thema": [
+        "Kopfbedeckung",
+        "被り物",
+        "Accessoires",
+        "Modebilder",
+        "coat",
+        "Jacke, Mantel",
+        "fashion plates",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "accessories (~ clothing)",
+        "Bourgeoisie",
+        "dandy, beau",
+        "Fashion",
+        "Bürgertum",
+        "Mode",
+        "man",
+        "Frisur",
+        "Mann",
+        "Dandy, Beau, Geck",
+        "hairdress"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53446/513549_default.webp",
+    "id": "ce08896e-53f6-43c4-8513-b99b7e107aa0",
+    "Filter": {
+        "Aehnlichkeit": 744,
+        "Farbe": [
+            628,
+            2380,
+            4072,
+            8120,
+            9498,
+            11172
+        ]
+    }
+}

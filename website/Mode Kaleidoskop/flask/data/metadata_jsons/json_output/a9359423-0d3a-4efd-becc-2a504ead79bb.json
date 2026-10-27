@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31433",
+    "titel": "Modebild: Eine Figur, Damenreitkleid",
+    "Datum": "1816",
+    "Thema": [
+        "Kopfbedeckung",
+        "被り物",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Modebilder",
+        "fashion plates",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Biedermeier",
+        "Bürgertum",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55065/513337_default.webp",
+    "id": "a9359423-0d3a-4efd-becc-2a504ead79bb",
+    "Filter": {
+        "Aehnlichkeit": 1842,
+        "Farbe": [
+            205,
+            1139,
+            3051,
+            4625,
+            10803
+        ]
+    }
+}

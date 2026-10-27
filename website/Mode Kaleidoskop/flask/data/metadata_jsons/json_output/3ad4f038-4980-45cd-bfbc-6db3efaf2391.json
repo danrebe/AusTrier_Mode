@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30398",
+    "titel": "Modebild: \"Sechs französische Damenhüte, davon fünf  mit Blumenschmuck, einer mit Zierkordel\"",
+    "Datum": "1818",
+    "Thema": [
+        "Mode",
+        "chapelaria",
+        "head-gear",
+        "copricapo",
+        "couvre-chef",
+        "Kopfbedeckung",
+        "被り物",
+        "Accessoires",
+        "accessories (~ clothing)",
+        "Frisur",
+        "Bourgeoisie",
+        "Fashion",
+        "Biedermeier",
+        "Bürgertum",
+        "Modebilder",
+        "hairdress",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48381/512009_default.webp",
+    "id": "3ad4f038-4980-45cd-bfbc-6db3efaf2391",
+    "Filter": {
+        "Aehnlichkeit": 950,
+        "Farbe": [
+            980,
+            4281,
+            6310,
+            6498,
+            8979,
+            9772,
+            10530
+        ]
+    }
+}

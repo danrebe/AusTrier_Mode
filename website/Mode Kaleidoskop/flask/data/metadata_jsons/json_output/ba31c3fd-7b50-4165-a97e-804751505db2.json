@@ -1,0 +1,46 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30988",
+    "titel": "Modebild: Fünf Figuren, Damen- und Herrenmode",
+    "Datum": "1837",
+    "Thema": [
+        "copricapo",
+        "chapelaria",
+        "head-gear",
+        "coat",
+        "Modebilder",
+        "fashion plates",
+        "Dandy, Beau, Geck",
+        "dandy, beau",
+        "couvre-chef",
+        "Kopfbedeckung",
+        "被り物",
+        "accessories (~ clothing)",
+        "Accessoires",
+        "Frisur",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Frau",
+        "Fashion",
+        "hairdress",
+        "Mode",
+        "Jacke, Mantel",
+        "man",
+        "Mann",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/50235/512893_default.webp",
+    "id": "ba31c3fd-7b50-4165-a97e-804751505db2",
+    "Filter": {
+        "Aehnlichkeit": 57,
+        "Farbe": [
+            581,
+            2282,
+            4013,
+            7006,
+            7745,
+            9461,
+            10252
+        ]
+    }
+}

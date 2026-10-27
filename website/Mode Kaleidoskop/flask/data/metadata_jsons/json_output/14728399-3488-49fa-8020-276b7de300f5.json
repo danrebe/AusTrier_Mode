@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31401",
+    "titel": "Modebild: Eine Figur, Dinnerkleid",
+    "Datum": "1815",
+    "Thema": [
+        "Nightlife",
+        "Modebilder",
+        "fashion plates",
+        "woman",
+        "Biedermeier",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "chapelaria",
+        "Nachtleben",
+        "Mode",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "copricapo",
+        "dress, gown",
+        "(Damen-)Kleid"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55003/513857_default.webp",
+    "id": "14728399-3488-49fa-8020-276b7de300f5",
+    "Filter": {
+        "Aehnlichkeit": 900,
+        "Farbe": [
+            1115,
+            4605,
+            6107,
+            6546,
+            7446,
+            8419
+        ]
+    }
+}

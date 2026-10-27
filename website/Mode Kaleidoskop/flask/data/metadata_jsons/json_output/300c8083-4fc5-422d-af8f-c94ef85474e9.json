@@ -1,0 +1,33 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30337",
+    "titel": "Modebild: \"Junger Mann mit Knüttel und Hut\"",
+    "Datum": "1801",
+    "Thema": [
+        "Mann",
+        "chapelaria",
+        "copricapo",
+        "被り物",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "fashion plates",
+        "Bourgeoisie",
+        "Fashion",
+        "Bürgertum",
+        "Mode",
+        "man",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48211/511913_default.webp",
+    "id": "300c8083-4fc5-422d-af8f-c94ef85474e9",
+    "Filter": {
+        "Aehnlichkeit": 1280,
+        "Farbe": [
+            1327,
+            3204,
+            4762,
+            10932
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31983",
+    "titel": "Modebild: Zwei Figuren, Damenmoden, ein Umhang",
+    "Datum": "1841",
+    "Thema": [
+        "(Damen-)Kleid",
+        "Umhang, Cape",
+        "dress, gown",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "cape",
+        "Modebilder",
+        "Bürgertum",
+        "Fashion",
+        "Frau",
+        "Bourgeoisie",
+        "Mode",
+        "woman",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/57061/510943_default.webp",
+    "id": "a75b438e-142e-4aae-8e8d-2d4a0e2c50d4",
+    "Filter": {
+        "Aehnlichkeit": 1833,
+        "Farbe": [
+            767,
+            2662,
+            4196,
+            5427
+        ]
+    }
+}

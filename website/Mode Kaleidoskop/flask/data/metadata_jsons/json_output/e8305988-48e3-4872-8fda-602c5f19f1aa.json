@@ -1,0 +1,35 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30075",
+    "titel": "Modebild: Kleid, Husarenmütze, Handschuhe",
+    "Datum": "1790",
+    "Thema": [
+        "Modebilder",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "fashion plates",
+        "Bourgeoisie",
+        "Fashion",
+        "Bürgertum",
+        "Mode",
+        "woman",
+        "Frau"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/46987/511471_default.webp",
+    "id": "e8305988-48e3-4872-8fda-602c5f19f1aa",
+    "Filter": {
+        "Aehnlichkeit": 840,
+        "Farbe": [
+            143,
+            875,
+            2819,
+            4395
+        ]
+    }
+}

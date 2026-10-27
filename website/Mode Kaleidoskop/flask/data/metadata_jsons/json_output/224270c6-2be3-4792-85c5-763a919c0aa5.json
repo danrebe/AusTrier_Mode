@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30416",
+    "titel": "Modebild: \"Franzose mit Zylinder, hohem Kragen, Mantel, Stock und Halbstiefletten unter der Hose\"",
+    "Datum": "1820",
+    "Thema": [
+        "Kopfbedeckung",
+        "Jacke, Mantel",
+        "被り物",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "dandy, beau",
+        "Dandy, Beau, Geck",
+        "coat",
+        "Mann",
+        "Biedermeier",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "Modebilder",
+        "fashion plates",
+        "Mode",
+        "man"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48508/512037_default.webp",
+    "id": "224270c6-2be3-4792-85c5-763a919c0aa5",
+    "Filter": {
+        "Aehnlichkeit": 284,
+        "Farbe": [
+            1121,
+            6548,
+            7977,
+            8420,
+            9016
+        ]
+    }
+}

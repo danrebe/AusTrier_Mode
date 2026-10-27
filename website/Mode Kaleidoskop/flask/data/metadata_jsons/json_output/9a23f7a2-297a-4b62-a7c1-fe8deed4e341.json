@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31795",
+    "titel": "Modebild: Fünf Figuren, Livréen",
+    "Datum": "1837",
+    "Thema": [
+        "copricapo",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "chapelaria",
+        "(militärische) Uniformen",
+        "Accessoires",
+        "accessories (~ clothing)",
+        "(military) uniforms",
+        "Military",
+        "Bürgertum",
+        "fashion plates",
+        "Bourgeoisie",
+        "Fashion",
+        "hairdress",
+        "Frisur",
+        "Modebilder",
+        "Militär",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55909/510577_default.webp",
+    "id": "9a23f7a2-297a-4b62-a7c1-fe8deed4e341",
+    "Filter": {
+        "Aehnlichkeit": 1794,
+        "Farbe": [
+            22,
+            424,
+            1848,
+            6822,
+            8585
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30448",
+    "titel": "Modebild: \"Französische Dame mit Zopffrisur beim Anziehen\"",
+    "Datum": "1822",
+    "Thema": [
+        "hairdress",
+        "Frisur",
+        "chapelaria",
+        "fashion plates",
+        "Modebilder",
+        "woman",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Biedermeier",
+        "copricapo",
+        "Mode",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Frau",
+        "Fashion"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48576/512087_default.webp",
+    "id": "06ed5045-9ae5-45ce-beab-e0fcdea33eeb",
+    "Filter": {
+        "Aehnlichkeit": 16,
+        "Farbe": [
+            1782,
+            3599,
+            5073,
+            7616
+        ]
+    }
+}

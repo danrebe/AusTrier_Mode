@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30151",
+    "titel": "Modebild: \"Zwei Damen mit Hut und Haube\"",
+    "Datum": "1800",
+    "Thema": [
+        "dress, gown",
+        "Fashion",
+        "Modebilder",
+        "fashion plates",
+        "Kopfbedeckung",
+        "被り物",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "(Damen-)Kleid",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Mode",
+        "woman",
+        "Frau"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47510/511607_default.webp",
+    "id": "e8db987c-99ca-4583-8be2-b4085aa327a3",
+    "Filter": {
+        "Aehnlichkeit": 1982,
+        "Farbe": [
+            176,
+            1017,
+            2949,
+            8987,
+            10796
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30545",
+    "titel": "Modebild: Zwei Pariserinnen mit Hüten aus Satin und Mantillen in blau (rosa Futter) und schwarz; schwarze Kreuzbandschuhe",
+    "Datum": "1827",
+    "Thema": [
+        "Modebilder",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Kopfbedeckung",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "被り物",
+        "fashion plates",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "Biedermeier",
+        "Frau",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48879/512241_default.webp",
+    "id": "e2b6c05b-530b-453b-bc62-14f27336c505",
+    "Filter": {
+        "Aehnlichkeit": 1906,
+        "Farbe": [
+            452,
+            1930,
+            3720,
+            5163,
+            11037
+        ]
+    }
+}

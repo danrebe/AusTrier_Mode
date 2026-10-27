@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30529",
+    "titel": "Modebild: \"Zwei Französinnen mit Satinhüten und Moirékleidern\"",
+    "Datum": "1827",
+    "Thema": [
+        "woman",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "couvre-chef",
+        "chapelaria",
+        "copricapo",
+        "head-gear",
+        "Kopfbedeckung",
+        "Bourgeoisie",
+        "被り物",
+        "Mode",
+        "Frau",
+        "Biedermeier",
+        "Bürgertum",
+        "Fashion",
+        "Modebilder",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48838/512215_default.webp",
+    "id": "76289238-28e9-46c8-9b8f-7a279b89f3eb",
+    "Filter": {
+        "Aehnlichkeit": 1679,
+        "Farbe": [
+            1711,
+            3535,
+            5031,
+            5702,
+            6774,
+            10042
+        ]
+    }
+}

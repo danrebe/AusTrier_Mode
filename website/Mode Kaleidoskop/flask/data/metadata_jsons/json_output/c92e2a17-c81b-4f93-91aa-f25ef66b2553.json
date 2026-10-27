@@ -1,0 +1,48 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30222",
+    "titel": "Modebild: \"Herr im Wintermantel und Dame im Ballanzug\"",
+    "Datum": "1816",
+    "Thema": [
+        "Jacke, Mantel",
+        "Nachtleben",
+        "coat",
+        "Modebilder",
+        "dress, gown: ball gown",
+        "Ballkleid",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Nightlife",
+        "fashion plates",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "chapelaria",
+        "couvre-chef",
+        "copricapo",
+        "Winter",
+        "Frau",
+        "Bourgeoisie",
+        "Dance",
+        "Bräuche",
+        "Costums",
+        "Bürgertum",
+        "Fashion",
+        "Mode",
+        "woman",
+        "Public Festivals and Celebrations",
+        "Tanz",
+        "Öffentliche Feste und Feierlichkeiten"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47702/1759464_default.webp",
+    "id": "c92e2a17-c81b-4f93-91aa-f25ef66b2553",
+    "Filter": {
+        "Aehnlichkeit": 1910,
+        "Farbe": [
+            244,
+            1394,
+            3262,
+            4822
+        ]
+    }
+}

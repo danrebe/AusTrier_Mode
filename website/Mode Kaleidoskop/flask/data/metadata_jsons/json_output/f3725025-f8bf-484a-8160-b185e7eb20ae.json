@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30407",
+    "titel": "Modebild: \"Französin mit Velourhut, geschmückt mit Marabout-Federn, und festlicher Robe\"",
+    "Datum": "1820",
+    "Thema": [
+        "dress, gown",
+        "Kleidung für offizielle Anlässe",
+        "clothes for official occasions",
+        "couvre-chef",
+        "(Damen-)Kleid",
+        "Modebilder",
+        "fashion plates",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "copricapo",
+        "chapelaria",
+        "Biedermeier",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "woman",
+        "Frau",
+        "Mode",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Public Festivals and Celebrations"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48496/512023_default.webp",
+    "id": "f3725025-f8bf-484a-8160-b185e7eb20ae",
+    "Filter": {
+        "Aehnlichkeit": 30,
+        "Farbe": [
+            180,
+            1031,
+            2963,
+            4537
+        ]
+    }
+}

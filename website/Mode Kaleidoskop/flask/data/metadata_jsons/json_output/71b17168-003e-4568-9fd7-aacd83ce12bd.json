@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30722",
+    "titel": "Modebild: Zwei Figuren, Kapotthüte, zweifarbiges Kleid mit Schinkenärmeln",
+    "Datum": "1829",
+    "Thema": [
+        "被り物",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Modebilder",
+        "Biedermeier",
+        "woman",
+        "head-gear",
+        "chapelaria",
+        "copricapo",
+        "fashion plates",
+        "Bourgeoisie",
+        "Fashion",
+        "Bürgertum",
+        "Frau",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49440/512507_default.webp",
+    "id": "71b17168-003e-4568-9fd7-aacd83ce12bd",
+    "Filter": {
+        "Aehnlichkeit": 409,
+        "Farbe": [
+            250,
+            1411,
+            3278,
+            4839,
+            8506,
+            11033
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30798",
+    "titel": "Modebild: Zwei Figuren, Gesellschaftskleider, Verzierung: Maschen",
+    "Datum": "1830",
+    "Thema": [
+        "clothes for official occasions",
+        "copricapo",
+        "chapelaria",
+        "Modebilder",
+        "fashion plates",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Kleidung für offizielle Anlässe",
+        "Biedermeier",
+        "Fashion",
+        "Bourgeoisie",
+        "Frau",
+        "Bürgertum",
+        "Mode",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Public Festivals and Celebrations",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49604/512611_default.webp",
+    "id": "b119891e-ead9-4ba5-878a-b28af259763c",
+    "Filter": {
+        "Aehnlichkeit": 412,
+        "Farbe": [
+            2072,
+            3837,
+            5259,
+            5748,
+            6016,
+            6917,
+            10178
+        ]
+    }
+}

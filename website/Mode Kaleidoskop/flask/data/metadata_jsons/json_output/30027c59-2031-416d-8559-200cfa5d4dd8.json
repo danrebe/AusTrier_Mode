@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30478",
+    "titel": "Modebild: \"Pariserin mit Velourhut und Merinokleid\"",
+    "Datum": "1822",
+    "Thema": [
+        "被り物",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "woman",
+        "Mode",
+        "chapelaria",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Fashion",
+        "Bürgertum",
+        "Frau",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Modebilder",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48637/512135_default.webp",
+    "id": "30027c59-2031-416d-8559-200cfa5d4dd8",
+    "Filter": {
+        "Aehnlichkeit": 200,
+        "Farbe": [
+            1040,
+            2972,
+            4546,
+            6384,
+            6521,
+            7159,
+            7430
+        ]
+    }
+}

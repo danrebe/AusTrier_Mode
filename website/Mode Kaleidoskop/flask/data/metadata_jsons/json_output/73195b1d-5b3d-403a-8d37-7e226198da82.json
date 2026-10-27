@@ -1,0 +1,48 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31003",
+    "titel": "Modebild: Sechs Figuren, Damen- und Herrenmoden",
+    "Datum": "1837",
+    "Thema": [
+        "dandy, beau",
+        "chapelaria",
+        "Dandy, Beau, Geck",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Jacke, Mantel",
+        "coat",
+        "Mann",
+        "couvre-chef",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "woman",
+        "man",
+        "child",
+        "Bourgeoisie",
+        "Frau",
+        "Fashion",
+        "Bürgertum",
+        "Kleidung für Jungen",
+        "Kind",
+        "fashion plates",
+        "Modebilder",
+        "Mode",
+        "fashion, clothing (+ boys' clothes)"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/50890/513445_default.webp",
+    "id": "73195b1d-5b3d-403a-8d37-7e226198da82",
+    "Filter": {
+        "Aehnlichkeit": 513,
+        "Farbe": [
+            634,
+            2390,
+            4079,
+            7270,
+            8126,
+            8726,
+            10309
+        ]
+    }
+}

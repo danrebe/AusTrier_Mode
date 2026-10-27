@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30616",
+    "titel": "Modebild: Zwei Herren in Pantalons, Redingoten, Gilets und Krawatte",
+    "Datum": "1828",
+    "Thema": [
+        "被り物",
+        "couvre-chef",
+        "coat",
+        "Dandy, Beau, Geck",
+        "dandy, beau",
+        "Jacke, Mantel",
+        "chapelaria",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "Mann",
+        "Modebilder",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Fashion",
+        "Bürgertum",
+        "man",
+        "fashion plates",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49085/512347_default.webp",
+    "id": "5d55b28a-88b8-4efb-859c-70c3dbeb2802",
+    "Filter": {
+        "Aehnlichkeit": 646,
+        "Farbe": [
+            1430,
+            3294,
+            4855,
+            7985
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30639",
+    "titel": "Modebild: Zwei Gesellschaftskleider in rosa und weiß",
+    "Datum": "1828",
+    "Thema": [
+        "clothes for official occasions",
+        "Kleidung für offizielle Anlässe",
+        "Modebilder",
+        "fashion plates",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Frau",
+        "couvre-chef",
+        "被り物",
+        "Kopfbedeckung",
+        "chapelaria",
+        "copricapo",
+        "head-gear",
+        "Bürgertum",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Fashion",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Mode",
+        "Public Festivals and Celebrations",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49163/512381_default.webp",
+    "id": "e75693a6-087a-4d54-88f4-da7e164cdd07",
+    "Filter": {
+        "Aehnlichkeit": 157,
+        "Farbe": [
+            1469,
+            3330,
+            4883,
+            5659,
+            11107
+        ]
+    }
+}

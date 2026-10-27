@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30079",
+    "titel": "Modebild: \"Dame mit joujou de Normandie\"",
+    "Datum": "1791",
+    "Thema": [
+        "accessories (~ clothing)",
+        "Fächer",
+        "fan",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Accessoires",
+        "Frau",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "woman",
+        "Mode",
+        "fashion plates",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47283/511479_default.webp",
+    "accessoires": [
+        "Fächer"
+    ],
+    "id": "9873cfac-c46f-41c5-a901-206e3f9fc221",
+    "Filter": {
+        "Aehnlichkeit": 1786,
+        "Farbe": [
+            888,
+            2830,
+            4263,
+            4408,
+            10515
+        ]
+    }
+}

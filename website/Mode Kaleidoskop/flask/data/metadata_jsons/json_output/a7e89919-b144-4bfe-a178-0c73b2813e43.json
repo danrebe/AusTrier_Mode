@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31253",
+    "titel": "Modebild: Fünf Figuren, Damenmoden",
+    "Datum": "1845",
+    "Thema": [
+        "woman",
+        "fashion, clothing (+ boys' clothes)",
+        "Mode",
+        "Kleidung für Jungen",
+        "Frisur",
+        "hairdress",
+        "Fashion",
+        "Frau",
+        "Bourgeoisie",
+        "Bürgertum",
+        "head-gear",
+        "Accessoires",
+        "accessories (~ clothing)",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "Kopfbedeckung",
+        "被り物",
+        "Modebilder",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53909/513149_default.webp",
+    "id": "a7e89919-b144-4bfe-a178-0c73b2813e43",
+    "Filter": {
+        "Aehnlichkeit": 1836,
+        "Farbe": [
+            2671,
+            5431,
+            5546,
+            7126,
+            8272,
+            10455
+        ]
+    }
+}

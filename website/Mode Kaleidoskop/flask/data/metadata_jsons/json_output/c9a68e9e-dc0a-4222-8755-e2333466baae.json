@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30252",
+    "titel": "Modebild: \"Knabenanzug\"",
+    "Datum": "1816",
+    "Thema": [
+        "fashion plates",
+        "Modebilder",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "head-gear",
+        "copricapo",
+        "被り物",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "chapelaria",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Fashion",
+        "Frau",
+        "Bürgertum",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47811/1759494_default.webp",
+    "id": "c9a68e9e-dc0a-4222-8755-e2333466baae",
+    "Filter": {
+        "Aehnlichkeit": 1914,
+        "Farbe": [
+            1566,
+            3412,
+            4953,
+            5962,
+            7546,
+            11190
+        ]
+    }
+}

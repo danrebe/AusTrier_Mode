@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31480",
+    "titel": "Modebild: Eine Figur, Redingote",
+    "Datum": "um 1815",
+    "Thema": [
+        "fashion plates",
+        "(Damen-)Kleid",
+        "Mode",
+        "dress, gown",
+        "head-gear",
+        "被り物",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Modebilder",
+        "Frau",
+        "Biedermeier",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55152/614237_default.webp",
+    "id": "9f35c850-7641-401c-bd39-31ab7bf16044",
+    "Filter": {
+        "Aehnlichkeit": 1809,
+        "Farbe": [
+            887,
+            2829,
+            4407,
+            7402,
+            8353
+        ]
+    }
+}

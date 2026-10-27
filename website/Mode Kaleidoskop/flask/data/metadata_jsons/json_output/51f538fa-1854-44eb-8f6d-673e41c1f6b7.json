@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31449",
+    "titel": "Modebild: Zwei Figuren, Haus- und Abendkleid",
+    "Datum": "1829",
+    "Thema": [
+        "(Damen-)Kleid",
+        "Kopfbedeckung",
+        "dress, gown",
+        "chapelaria",
+        "fashion plates",
+        "Modebilder",
+        "woman",
+        "被り物",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Mode",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Biedermeier",
+        "Frau",
+        "Fashion",
+        "Nachtleben",
+        "Nightlife"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55095/513907_default.webp",
+    "id": "51f538fa-1854-44eb-8f6d-673e41c1f6b7",
+    "Filter": {
+        "Aehnlichkeit": 1511,
+        "Farbe": [
+            264,
+            1447,
+            3310,
+            4868,
+            5655,
+            6658,
+            7184
+        ]
+    }
+}

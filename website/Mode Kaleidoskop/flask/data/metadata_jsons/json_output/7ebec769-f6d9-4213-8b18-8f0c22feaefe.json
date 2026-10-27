@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30410",
+    "titel": "Modebild: \"Französin mit rosengeziertem Gazehut und morgenländischem Täschchen\"",
+    "Datum": "1820",
+    "Thema": [
+        "chapelaria",
+        "woman",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "被り物",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "Modebilder",
+        "Bürgertum",
+        "Frau",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Fashion",
+        "fashion plates",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48501/511169_default.webp",
+    "id": "7ebec769-f6d9-4213-8b18-8f0c22feaefe",
+    "Filter": {
+        "Aehnlichkeit": 302,
+        "Farbe": [
+            1098,
+            3017,
+            4590,
+            9824
+        ]
+    }
+}

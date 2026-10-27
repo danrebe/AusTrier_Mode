@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30803",
+    "titel": "Modebild: Zwei Figuren, Wollkleider mit Samtpelereine und Samtverbrämung",
+    "Datum": "1830",
+    "Thema": [
+        "woman",
+        "Modebilder",
+        "Kopfbedeckung",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "被り物",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Bürgertum",
+        "Mode",
+        "Biedermeier",
+        "Frau",
+        "Bourgeoisie",
+        "Fashion",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49662/511367_default.webp",
+    "id": "223bf07f-a6f3-4082-abcf-95ccc049b5db",
+    "Filter": {
+        "Aehnlichkeit": 1143,
+        "Farbe": [
+            2167,
+            3914,
+            5309,
+            8079,
+            10886
+        ]
+    }
+}

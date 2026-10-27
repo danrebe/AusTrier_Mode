@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30053",
+    "titel": "Modebild: Kleidung, Hut, Handschuhe",
+    "Datum": "1785-1790",
+    "Thema": [
+        "dress, gown",
+        "(Damen-)Kleid",
+        "head-gear",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "被り物",
+        "Kopfbedeckung",
+        "Modebilder",
+        "fashion plates",
+        "Frau",
+        "Bourgeoisie",
+        "Fashion",
+        "Bürgertum",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/46919/511021_default.webp",
+    "id": "a55c0c10-6b5b-4145-8ee8-ad9d7fde89f5",
+    "Filter": {
+        "Aehnlichkeit": 1825,
+        "Farbe": [
+            134,
+            854,
+            2798,
+            4248,
+            4375
+        ]
+    }
+}

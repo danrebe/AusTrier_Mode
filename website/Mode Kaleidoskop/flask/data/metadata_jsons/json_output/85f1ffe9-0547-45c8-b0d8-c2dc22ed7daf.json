@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30525",
+    "titel": "Modebild: \"Zwei Französinnen mit Federhüten, Ausgehkleidern und Schirm\"",
+    "Datum": "1827",
+    "Thema": [
+        "Modebilder",
+        "dress, gown",
+        "head-gear",
+        "(Damen-)Kleid",
+        "被り物",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "fashion plates",
+        "Fashion",
+        "Frau",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Bürgertum",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48816/512207_default.webp",
+    "id": "85f1ffe9-0547-45c8-b0d8-c2dc22ed7daf",
+    "Filter": {
+        "Aehnlichkeit": 782,
+        "Farbe": [
+            1808,
+            3621,
+            5091,
+            5980,
+            6193,
+            6806,
+            10072
+        ]
+    }
+}

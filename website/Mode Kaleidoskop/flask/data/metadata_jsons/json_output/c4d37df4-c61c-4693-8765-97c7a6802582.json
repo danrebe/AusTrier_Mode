@@ -1,0 +1,35 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30371",
+    "titel": "Modebild: \"Dame, verschleiert auf Steinblock sitzend\"",
+    "Datum": "1811",
+    "Thema": [
+        "head-gear",
+        "fashion plates",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "被り物",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Modebilder",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Frau",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48340/511967_default.webp",
+    "id": "c4d37df4-c61c-4693-8765-97c7a6802582",
+    "Filter": {
+        "Aehnlichkeit": 1075,
+        "Farbe": [
+            1272,
+            3161,
+            4315,
+            4717
+        ]
+    }
+}
