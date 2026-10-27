@@ -1,14 +1,20 @@
 
 /* GRUNDEINSTELLUNGEN */
 
+:root {
+    --background: #e1f0f4;
+    --text: #000000;
+    --highlight: #F06292;
+}
+
 * {
     box-sizing: border-box;
 }
 
 body {
     margin: 0;
-    background-color: #E0F0F5;
-    color: #dedede;
+    background-color: var(--background);
+    color: var(--text);
 
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
@@ -30,7 +36,7 @@ a {
     min-height: 108px;
     padding: 15px 24px;
 
-    border-bottom: 1px solid #484848;
+    border-bottom: 1px solid var(--text);
 }
 
 /* LOGO */
@@ -47,7 +53,7 @@ a {
 .logo-line {
     display: inline-block;
     width: clamp(15px, 12vw, 300px);
-    border-bottom: 5px solid #dedede;
+    border-bottom: 5px solid var(--highlight);
     margin-bottom: 0.15em;
 }
 
@@ -63,7 +69,7 @@ a {
 }
 
 .navigation a:hover {
-    opacity: 0.65;
+    color: var(--highlight);
 }
 
 /* HAUPTBEREICH */
@@ -71,16 +77,18 @@ a {
 .hero {
     padding: 80px 6%;
     min-height: 65vh;
-    border-bottom: 1px solid #484848;
+    border-bottom: 1px solid var(--text);
 }
 
 .eyebrow {
     font-size: 14px;
     font-weight: 600;
     letter-spacing: 2px;
-    color: #999999;
+    color: var(--highlight);
     margin-bottom: 28px;
 }
+
+/* ÜBERSCHRIFTEN */
 
 h1 {
     font-size: clamp(48px, 7vw, 110px);
@@ -88,6 +96,8 @@ h1 {
     letter-spacing: -3px;
     line-height: 1.1;
     margin: 0 0 24px;
+
+    color: var(--highlight);
 }
 
 h2 {
@@ -95,16 +105,29 @@ h2 {
     font-size: clamp(26px, 3vw, 48px);
     font-weight: 400;
     margin-bottom: 32px;
+
+    color: var(--highlight);
 }
+
+h3, h4, h5, h6 {
+    color: var(--highlight);
+}
+
+/* BESCHREIBUNG */
 
 .description {
     max-width: 650px;
     font-size: 22px;
-    color: #bdbdbd;
+    color: var(--text);
     margin-bottom: 44px;
 }
 
-/* Einzelne Wörter kursiv */
+/* HIGHLIGHTS UND KURSIVSCHRIFT */
+
+.highlight {
+    color: var(--highlight);
+}
+
 .italic {
     font-style: italic;
 }
@@ -115,16 +138,20 @@ h2 {
     display: inline-block;
 
     padding: 16px 24px;
-    border: 1px solid #777777;
+    border: 1px solid var(--text);
+
+    background-color: transparent;
+    color: var(--text);
 
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
 
-    transition: background-color 0.2s;
+    transition: color 0.2s, border-color 0.2s;
 }
 
 .button:hover {
-    background-color: #3b3b3b;
+    color: var(--highlight);
+    border-color: var(--highlight);
 }
 
 /* RESPONSIVE DESIGN */
