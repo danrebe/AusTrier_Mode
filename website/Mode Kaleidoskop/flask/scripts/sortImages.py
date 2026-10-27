@@ -1,10 +1,19 @@
-
 import json
 from pathlib import Path
 
+
+# Projektverzeichnis: eine Ebene über scripts/
+PROJEKT_DIR = Path(__file__).resolve().parent.parent
+DATA_DIR = PROJEKT_DIR / "data"
+
+
 def filter_sortieren(filter_name, input_dir):
-    config_file = Path("data/index.json")
+    config_file = DATA_DIR / "index.json"
+
+    # Relativen Eingabepfad zum Projektverzeichnis auflösen
     input_dir = Path(input_dir)
+    if not input_dir.is_absolute():
+        input_dir = PROJEKT_DIR / input_dir
 
     # 1. Alle Filterdateien einlesen
     filter_liste = []
@@ -13,7 +22,6 @@ def filter_sortieren(filter_name, input_dir):
         with datei.open("r", encoding="utf-8") as file:
             daten = json.load(file)
 
-        # Dateipfad merken, um die Datei später zu aktualisieren
         filter_liste.append((daten, datei))
 
     # 2. Nach Farbe.Wert aufsteigend sortieren
