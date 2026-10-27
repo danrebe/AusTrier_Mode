@@ -4,7 +4,7 @@
 <template>
   <main>
     <h1>Willkommen auf meiner Website!</h1>
-    <p>Das ist ein Test</p>
+    <p>Das ist ein Test bla bla</p>
   </main>
 </template>
 
