@@ -1,0 +1,18 @@
+{
+    "Type" : "Metadaten",
+    "Identifikator" : "",
+    "titel" : "",
+    "Datum" : "",
+    "Ist ein Teil von" : "",
+    "Thema" : "",
+    "Objekttyp" : ""
+}
+
+{
+    "Type" : "Filter",
+    "Identifikator" : "",
+    "Farbe" : {
+        "Tag" : "",
+        "Wert" : "<float>"
+    }
+}
