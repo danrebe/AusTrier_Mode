@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30634",
+    "titel": "Modebild: Zwei Damen in Kleidern aus Barèges in gelb und weiß mit Boa aus Marder",
+    "Datum": "1828",
+    "Thema": [
+        "(Damen-)Kleid",
+        "被り物",
+        "chapelaria",
+        "dress, gown",
+        "Mode",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Bürgertum",
+        "Modebilder",
+        "fashion plates",
+        "Biedermeier",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49149/511271_default.webp",
+    "id": "617828f8-51cb-4a1e-940b-8aadc67cde33",
+    "Filter": {
+        "Aehnlichkeit": 1595,
+        "Farbe": [
+            1572,
+            3419,
+            4957,
+            6713,
+            7548
+        ]
+    }
+}

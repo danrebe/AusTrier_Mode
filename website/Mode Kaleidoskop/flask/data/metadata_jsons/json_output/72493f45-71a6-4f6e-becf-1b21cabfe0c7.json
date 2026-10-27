@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30618",
+    "titel": "Modebild: Zwei Damen in Redingoten mit schwarzen Kreuzbandschuhen",
+    "Datum": "1828",
+    "Thema": [
+        "Modebilder",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Kopfbedeckung",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "被り物",
+        "fashion plates",
+        "Bürgertum",
+        "Fashion",
+        "Frau",
+        "Biedermeier",
+        "Bourgeoisie",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49088/511263_default.webp",
+    "id": "72493f45-71a6-4f6e-becf-1b21cabfe0c7",
+    "Filter": {
+        "Aehnlichkeit": 1060,
+        "Farbe": [
+            260,
+            1437,
+            3301,
+            4860,
+            10817
+        ]
+    }
+}

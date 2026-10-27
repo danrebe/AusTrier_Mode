@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30680",
+    "titel": "Modebild: Zwei Figuren, Herrenanzüge",
+    "Datum": "1829",
+    "Thema": [
+        "head-gear",
+        "dandy, beau",
+        "coat",
+        "Jacke, Mantel",
+        "Dandy, Beau, Geck",
+        "fashion plates",
+        "couvre-chef",
+        "Kopfbedeckung",
+        "copricapo",
+        "chapelaria",
+        "被り物",
+        "man",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Fashion",
+        "Mode",
+        "Mann",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49367/512445_default.webp",
+    "id": "7eb1caa1-dc53-4ff7-8808-95cfa4f0389c",
+    "Filter": {
+        "Aehnlichkeit": 359,
+        "Farbe": [
+            2168,
+            3915,
+            5310,
+            7704
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30464",
+    "titel": "Modebild: \"Pariser Dame mit Hut, mit Blumen und Maschen geschmückt, reich besticktem Kleid und Schirm\"",
+    "Datum": "1822",
+    "Thema": [
+        "Modebilder",
+        "Kopfbedeckung",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "被り物",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "woman",
+        "Biedermeier",
+        "Fashion",
+        "Bourgeoisie",
+        "Frau",
+        "fashion plates",
+        "Bürgertum",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48613/512113_default.webp",
+    "id": "39b9c699-0deb-4e4f-b358-2602506ddee7",
+    "Filter": {
+        "Aehnlichkeit": 14,
+        "Farbe": [
+            175,
+            1013,
+            2945,
+            4523,
+            11092
+        ]
+    }
+}

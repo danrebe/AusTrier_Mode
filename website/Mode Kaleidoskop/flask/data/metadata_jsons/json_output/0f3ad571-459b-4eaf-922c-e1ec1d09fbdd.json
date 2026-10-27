@@ -1,0 +1,47 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30229",
+    "titel": "Modebild: \"Pariser Dame im Ballanzug\"",
+    "Datum": "1816",
+    "Thema": [
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "dress, gown: ball gown",
+        "Ballkleid",
+        "Public Festivals and Celebrations",
+        "Nightlife",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Tanz",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Dance",
+        "Bürgertum",
+        "Costums",
+        "Frau",
+        "Bourgeoisie",
+        "Fashion",
+        "Bräuche",
+        "Mode",
+        "Nachtleben",
+        "fashion plates",
+        "Modebilder",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47729/1759471_default.webp",
+    "id": "0f3ad571-459b-4eaf-922c-e1ec1d09fbdd",
+    "Filter": {
+        "Aehnlichkeit": 850,
+        "Farbe": [
+            1376,
+            3245,
+            4805,
+            6151,
+            6650,
+            7182
+        ]
+    }
+}

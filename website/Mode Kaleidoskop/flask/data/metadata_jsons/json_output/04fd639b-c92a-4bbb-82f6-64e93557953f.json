@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31464",
+    "titel": "Modebild: Zwei Figuren, Abendkleider",
+    "Datum": "1830",
+    "Thema": [
+        "fashion plates",
+        "被り物",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Nachtleben",
+        "woman",
+        "Fashion",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Bürgertum",
+        "Frau",
+        "Mode",
+        "Nightlife",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55122/614205_default.webp",
+    "id": "04fd639b-c92a-4bbb-82f6-64e93557953f",
+    "Filter": {
+        "Aehnlichkeit": 427,
+        "Farbe": [
+            281,
+            1482,
+            3342,
+            4891,
+            6675,
+            9958
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30833",
+    "titel": "Modebild: Zwei Figuren, Sommermoden",
+    "Datum": "1802",
+    "Thema": [
+        "fashion plates",
+        "Modebilder",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "被り物",
+        "Bourgeoisie",
+        "dress, gown",
+        "Fashion",
+        "Frau",
+        "Bürgertum",
+        "Mode",
+        "woman",
+        "(Damen-)Kleid"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49737/512663_default.webp",
+    "id": "b8da9c41-ce1d-4cc2-9717-520253a0dfcf",
+    "Filter": {
+        "Aehnlichkeit": 1688,
+        "Farbe": [
+            987,
+            2919,
+            4499,
+            6502,
+            9775,
+            11205
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31939",
+    "titel": "Modebild: Sieben  Fig., weibliche  Hut-, Haar- und Haubenmoden",
+    "Datum": "1840",
+    "Thema": [
+        "Modebilder",
+        "fashion plates",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Accessoires",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "accessories (~ clothing)",
+        "Frisur",
+        "Frau",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "woman",
+        "Mode",
+        "hairdress"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/56495/510879_default.webp",
+    "id": "be488a77-18c8-4559-a95b-bd0c6f50e4d7",
+    "Filter": {
+        "Aehnlichkeit": 668,
+        "Farbe": [
+            802,
+            2732,
+            4228,
+            5444,
+            10489
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31616",
+    "titel": "Modebild: Drei Figuren, Damen- und Mädchenmoden",
+    "Datum": "1833",
+    "Thema": [
+        "Kopfbedeckung",
+        "girls dress",
+        "woman",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "copricapo",
+        "Kleidung für Mädchen",
+        "Modebilder",
+        "fashion plates",
+        "被り物",
+        "chapelaria",
+        "head-gear",
+        "couvre-chef",
+        "Kind",
+        "Mädchenkleid",
+        "child",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Fashion",
+        "Bürgertum",
+        "Frau",
+        "Mode",
+        "fashion, clothing (+ girls' clothes)"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55385/614513_default.webp",
+    "id": "22228e12-3ff1-40a2-b589-4d0e2864937d",
+    "Filter": {
+        "Aehnlichkeit": 1140,
+        "Farbe": [
+            1651,
+            6401,
+            6750,
+            7576,
+            8549,
+            9188,
+            10019
+        ]
+    }
+}

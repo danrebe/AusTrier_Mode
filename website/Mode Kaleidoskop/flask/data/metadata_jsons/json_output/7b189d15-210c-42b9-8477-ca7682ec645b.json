@@ -1,0 +1,35 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31991",
+    "titel": "Modebild: Zwei Figuren, Damensommermoden",
+    "Datum": "1841",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "couvre-chef",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "chapelaria",
+        "Mode",
+        "Frau",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "woman",
+        "fashion plates",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/57098/510955_default.webp",
+    "id": "7b189d15-210c-42b9-8477-ca7682ec645b",
+    "Filter": {
+        "Aehnlichkeit": 1354,
+        "Farbe": [
+            640,
+            2401,
+            4087,
+            5402
+        ]
+    }
+}

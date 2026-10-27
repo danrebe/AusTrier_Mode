@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30023",
+    "titel": "Modebild: \"Summer Recess Dress\"",
+    "Datum": "1829",
+    "Thema": [
+        "Bourgeoisie",
+        "Kopfbedeckung",
+        "被り物",
+        "dress, gown",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "(Damen-)Kleid",
+        "fashion plates",
+        "Fashion",
+        "Biedermeier",
+        "Bürgertum",
+        "Frau",
+        "Mode",
+        "woman",
+        "Modebilder",
+        "head-gear"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/45224/511013_default.webp",
+    "id": "17ccd971-e856-4145-b624-4a725f3fdaa2",
+    "Filter": {
+        "Aehnlichkeit": 990,
+        "Farbe": [
+            1890,
+            3686,
+            5134,
+            10584,
+            10853
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31900",
+    "titel": "Modebild: Zwei Figuren, Damenkleider mit Spitzenumhängen",
+    "Datum": "1839",
+    "Thema": [
+        "fashion plates",
+        "Frau",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "Kopfbedeckung",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "couvre-chef",
+        "chapelaria",
+        "被り物",
+        "head-gear",
+        "copricapo",
+        "Umhang, Cape",
+        "Modebilder",
+        "Mode",
+        "woman",
+        "coat",
+        "Jacke, Mantel",
+        "cape"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/56409/510671_default.webp",
+    "id": "41b6099c-5aa8-4460-b4c4-d2973606d3cc",
+    "Filter": {
+        "Aehnlichkeit": 757,
+        "Farbe": [
+            2329,
+            5390,
+            6278,
+            6432,
+            7014,
+            10273
+        ]
+    }
+}

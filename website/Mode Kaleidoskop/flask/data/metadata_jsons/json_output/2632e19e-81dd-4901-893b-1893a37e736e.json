@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30086",
+    "titel": "Modebild: \"Weibliche Hutmoden und Frisur à l'Elefant\"",
+    "Datum": "1793",
+    "Thema": [
+        "woman",
+        "Mode",
+        "dress, gown",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "(Damen-)Kleid",
+        "Frau",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "hairdress",
+        "Modebilder",
+        "fashion plates",
+        "Frisur"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47300/511493_default.webp",
+    "id": "2632e19e-81dd-4901-893b-1893a37e736e",
+    "Filter": {
+        "Aehnlichkeit": 729,
+        "Farbe": [
+            4381,
+            5592,
+            6299,
+            8343,
+            8957,
+            9732,
+            10607
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30204",
+    "titel": "Modebild: \"Zwei Pariserinnen mit Federkäppchen, Hermelinverbrähmung und weißen Schuhen\"",
+    "Datum": "1811",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "copricapo",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "Frau",
+        "Modebilder",
+        "fashion plates",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47635/1759446_default.webp",
+    "id": "a05f5316-596c-4b6b-8507-4418c85d71d4",
+    "Filter": {
+        "Aehnlichkeit": 1272,
+        "Farbe": [
+            1321,
+            3199,
+            4758,
+            6627,
+            7176
+        ]
+    }
+}

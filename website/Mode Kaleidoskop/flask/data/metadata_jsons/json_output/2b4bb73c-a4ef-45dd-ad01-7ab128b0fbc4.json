@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30713",
+    "titel": "Modebild: Zwei Figuren, Kleider aus Gros des Naples in flieder u.blau, Oberteil weiß mit Stickerei",
+    "Datum": "1829",
+    "Thema": [
+        "woman",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "chapelaria",
+        "Biedermeier",
+        "Mode",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "Frau",
+        "fashion plates",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49428/511309_default.webp",
+    "id": "2b4bb73c-a4ef-45dd-ad01-7ab128b0fbc4",
+    "Filter": {
+        "Aehnlichkeit": 397,
+        "Farbe": [
+            1512,
+            3367,
+            4909,
+            10982
+        ]
+    }
+}

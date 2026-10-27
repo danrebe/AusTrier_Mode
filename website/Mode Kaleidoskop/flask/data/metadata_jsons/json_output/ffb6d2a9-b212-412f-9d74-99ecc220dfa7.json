@@ -1,0 +1,34 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30077",
+    "titel": "Modebild: \"Weibliche  Haubenmoden etc\"",
+    "Datum": "1790",
+    "Thema": [
+        "fashion plates",
+        "Modebilder",
+        "被り物",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "Kopfbedeckung",
+        "head-gear",
+        "dress, gown",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "woman",
+        "Frau",
+        "Mode",
+        "(Damen-)Kleid"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47269/511475_default.webp",
+    "id": "ffb6d2a9-b212-412f-9d74-99ecc220dfa7",
+    "Filter": {
+        "Aehnlichkeit": 1478,
+        "Farbe": [
+            865,
+            2809,
+            4386
+        ]
+    }
+}

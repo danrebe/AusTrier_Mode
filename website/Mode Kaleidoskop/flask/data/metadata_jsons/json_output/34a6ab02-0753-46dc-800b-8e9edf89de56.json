@@ -1,0 +1,44 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31011",
+    "titel": "Modebild: Sechs Figuren, Damen- und Kindermoden, Kopfputz",
+    "Datum": "1838",
+    "Thema": [
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Kind",
+        "Modebilder",
+        "woman",
+        "girls dress",
+        "Mädchenkleid",
+        "fashion, clothing (+ boys' clothes)",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "fashion, clothing (+ girls' clothes)",
+        "Kleidung für Jungen",
+        "child",
+        "Fashion",
+        "Frau",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Mode",
+        "fashion plates",
+        "Kleidung für Mädchen"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/50943/513453_default.webp",
+    "id": "34a6ab02-0753-46dc-800b-8e9edf89de56",
+    "Filter": {
+        "Aehnlichkeit": 1287,
+        "Farbe": [
+            791,
+            2714,
+            8301,
+            8920,
+            10483
+        ]
+    }
+}

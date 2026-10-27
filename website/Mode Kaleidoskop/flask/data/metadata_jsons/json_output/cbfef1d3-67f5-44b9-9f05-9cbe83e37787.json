@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31086",
+    "titel": "Modebild: Damenmoden (Kleid, Hüte, Umhängtücher)",
+    "Datum": "1840",
+    "Thema": [
+        "Accessoires",
+        "copricapo",
+        "chapelaria",
+        "Umhang, Cape",
+        "fashion plates",
+        "couvre-chef",
+        "被り物",
+        "Kopfbedeckung",
+        "accessories (~ clothing)",
+        "head-gear",
+        "Modebilder",
+        "cape",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "hairdress",
+        "Frisur",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53388/513531_default.webp",
+    "id": "cbfef1d3-67f5-44b9-9f05-9cbe83e37787",
+    "Filter": {
+        "Aehnlichkeit": 1919,
+        "Farbe": [
+            777,
+            2682,
+            4205,
+            7924,
+            9611
+        ]
+    }
+}

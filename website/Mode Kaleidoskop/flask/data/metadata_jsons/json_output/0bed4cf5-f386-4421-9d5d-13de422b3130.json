@@ -1,0 +1,46 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31921",
+    "titel": "Modebild: Drei Figuren, Damenkleider mit Umhängen (Abend), Herrenanzug",
+    "Datum": "1839",
+    "Thema": [
+        "(Damen-)Kleid",
+        "head-gear",
+        "chapelaria",
+        "Dandy, Beau, Geck",
+        "Kopfbedeckung",
+        "coat",
+        "couvre-chef",
+        "被り物",
+        "dress, gown",
+        "dandy, beau",
+        "Jacke, Mantel",
+        "Umhang, Cape",
+        "cape",
+        "Fashion",
+        "Mode",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Frau",
+        "Mann",
+        "Nightlife",
+        "copricapo",
+        "Nachtleben",
+        "man",
+        "fashion plates",
+        "Modebilder",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/56467/510853_default.webp",
+    "id": "0bed4cf5-f386-4421-9d5d-13de422b3130",
+    "Filter": {
+        "Aehnlichkeit": 719,
+        "Farbe": [
+            669,
+            2469,
+            4124,
+            9548,
+            11202
+        ]
+    }
+}

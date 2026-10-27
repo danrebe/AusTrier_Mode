@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30134",
+    "titel": "Modebild: \"Dame in ganzem Anzug mit rosa Schal\"",
+    "Datum": "1804",
+    "Thema": [
+        "(Damen-)Kleid",
+        "Mode",
+        "chapelaria",
+        "Schal",
+        "neck-gear ~ clothing",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "dress, gown",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "Frau",
+        "woman",
+        "fashion plates",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47454/511577_default.webp",
+    "accessoires": [
+        "Schal"
+    ],
+    "id": "f64946f1-a607-443c-99df-f27a3acb699d",
+    "Filter": {
+        "Aehnlichkeit": 324,
+        "Farbe": [
+            2907,
+            4488,
+            5601,
+            6088,
+            9771,
+            10556,
+            10612
+        ]
+    }
+}

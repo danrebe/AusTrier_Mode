@@ -1,0 +1,47 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30260",
+    "titel": "Modebild: \"Dame in Velourspencer und Satinhut, Herr im Reitanzug\"",
+    "Datum": "1816",
+    "Thema": [
+        "neck-gear ~ clothing",
+        "被り物",
+        "Schal",
+        "Modebilder",
+        "fashion plates",
+        "Dandy, Beau, Geck",
+        "Jacke, Mantel",
+        "coat",
+        "dandy, beau",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "(Damen-)Kleid",
+        "Biedermeier",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "man",
+        "Mode",
+        "dress, gown",
+        "Frau",
+        "woman",
+        "Mann"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47830/1759502_default.webp",
+    "accessoires": [
+        "Schal"
+    ],
+    "id": "de8e3b3f-8884-4717-a3fb-aecd1b821683",
+    "Filter": {
+        "Aehnlichkeit": 1754,
+        "Farbe": [
+            1583,
+            3428,
+            4965,
+            8001
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30335",
+    "titel": "Modebild: \"Bürgerin mit Velourhaube\"",
+    "Datum": "1799",
+    "Thema": [
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "被り物",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Mode",
+        "Bourgeoisie",
+        "Frau",
+        "Bürgertum",
+        "Fashion",
+        "woman",
+        "Modebilder",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48209/511909_default.webp",
+    "id": "0f03b7ba-fbf0-4094-ad18-c488ab2de313",
+    "Filter": {
+        "Aehnlichkeit": 841,
+        "Farbe": [
+            1246,
+            3141,
+            4696,
+            5475,
+            5629
+        ]
+    }
+}

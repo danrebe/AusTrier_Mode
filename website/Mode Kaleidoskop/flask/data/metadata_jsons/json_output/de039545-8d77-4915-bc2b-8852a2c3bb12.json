@@ -1,0 +1,44 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31222",
+    "titel": "Modebild: Fünf Figuren, Damen- und Kindermoden",
+    "Datum": "1844",
+    "Thema": [
+        "hairdress",
+        "Frau",
+        "Fashion",
+        "Bürgertum",
+        "child",
+        "Bourgeoisie",
+        "Kleidung für Jungen",
+        "fashion plates",
+        "Modebilder",
+        "Mode",
+        "Frisur",
+        "woman",
+        "fashion, clothing (+ boys' clothes)",
+        "Kind",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "被り物",
+        "head-gear",
+        "Kopfbedeckung",
+        "Accessoires",
+        "accessories (~ clothing)",
+        "coat",
+        "Jacke, Mantel"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53869/513677_default.webp",
+    "id": "de039545-8d77-4915-bc2b-8852a2c3bb12",
+    "Filter": {
+        "Aehnlichkeit": 504,
+        "Farbe": [
+            78,
+            2487,
+            7830,
+            8763,
+            10355
+        ]
+    }
+}

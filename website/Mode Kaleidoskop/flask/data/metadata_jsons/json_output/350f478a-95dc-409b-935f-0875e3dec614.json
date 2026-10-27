@@ -1,0 +1,44 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31728",
+    "titel": "Modebild: Drei Figuren, Herren- und Kindermoden",
+    "Datum": "1835",
+    "Thema": [
+        "Jacke, Mantel",
+        "被り物",
+        "Dandy, Beau, Geck",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "fashion, clothing (+ boys' clothes)",
+        "coat",
+        "dandy, beau",
+        "chapelaria",
+        "copricapo",
+        "Kleidung für Jungen",
+        "Kind",
+        "Bourgeoisie",
+        "child",
+        "Bürgertum",
+        "Fashion",
+        "Mann",
+        "man",
+        "fashion plates",
+        "Modebilder",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55801/614737_default.webp",
+    "id": "350f478a-95dc-409b-935f-0875e3dec614",
+    "Filter": {
+        "Aehnlichkeit": 1329,
+        "Farbe": [
+            562,
+            3972,
+            6269,
+            6986,
+            9434,
+            9689,
+            10919
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30608",
+    "titel": "Modebild: Zwei Herren in weißen Pantalons, Gilets und Krawatte",
+    "Datum": "1828",
+    "Thema": [
+        "couvre-chef",
+        "head-gear",
+        "coat",
+        "Jacke, Mantel",
+        "dandy, beau",
+        "Dandy, Beau, Geck",
+        "man",
+        "被り物",
+        "Kopfbedeckung",
+        "chapelaria",
+        "copricapo",
+        "Bürgertum",
+        "Biedermeier",
+        "Fashion",
+        "Bourgeoisie",
+        "Mode",
+        "Mann",
+        "Modebilder",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49071/512335_default.webp",
+    "id": "4b542ae1-8026-494c-a58d-07fa03fd0dcc",
+    "Filter": {
+        "Aehnlichkeit": 351,
+        "Farbe": [
+            23,
+            1863,
+            3662,
+            5123,
+            8588,
+            10093
+        ]
+    }
+}

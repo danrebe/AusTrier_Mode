@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31715",
+    "titel": "Modebild: Zwei Figuren, weiblicher  Hausanzug und Besuchstoilette",
+    "Datum": "1835",
+    "Thema": [
+        "Bürgertum",
+        "chapelaria",
+        "Mode",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "woman",
+        "Kopfbedeckung",
+        "被り物",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Fashion",
+        "Frau",
+        "fashion plates",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55775/614711_default.webp",
+    "id": "1e2db415-6430-4c6e-9f65-208b9d0c3d23",
+    "Filter": {
+        "Aehnlichkeit": 1011,
+        "Farbe": [
+            2140,
+            6251,
+            6947,
+            8645,
+            9389,
+            10199
+        ]
+    }
+}

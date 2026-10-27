@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30769",
+    "titel": "Modebild: Zwei Figuren, Redingoten aus Gros de Naples",
+    "Datum": "1830",
+    "Thema": [
+        "chapelaria",
+        "copricapo",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Modebilder",
+        "fashion plates",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Fashion",
+        "Bürgertum",
+        "Mode",
+        "Frau",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49567/511335_default.webp",
+    "id": "dfba893d-254b-4c85-8e7a-852461b26769",
+    "Filter": {
+        "Aehnlichkeit": 1591,
+        "Farbe": [
+            569,
+            2247,
+            3989,
+            5359
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31407",
+    "titel": "Modebild: Eine Figur, Ausgehkleid",
+    "Datum": "1815",
+    "Thema": [
+        "fashion plates",
+        "Modebilder",
+        "dress, gown",
+        "Kopfbedeckung",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "被り物",
+        "Mode",
+        "Biedermeier",
+        "Fashion",
+        "Frau",
+        "Bürgertum",
+        "Bourgeoisie",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55016/513311_default.webp",
+    "id": "bbf3cbd0-a75a-44b9-9b04-0da7a52925ab",
+    "Filter": {
+        "Aehnlichkeit": 1879,
+        "Farbe": [
+            1286,
+            6333,
+            6614,
+            8470,
+            9079,
+            9891
+        ]
+    }
+}

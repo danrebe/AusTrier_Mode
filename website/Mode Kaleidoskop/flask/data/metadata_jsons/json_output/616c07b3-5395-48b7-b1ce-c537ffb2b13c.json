@@ -1,0 +1,35 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30164/2",
+    "titel": "Modebild: \"Dame, Kopfputzmodelle betrachtend\"",
+    "Datum": "1803",
+    "Thema": [
+        "dress, gown",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Modebilder",
+        "Bourgeoisie",
+        "Frau",
+        "Fashion",
+        "Bürgertum",
+        "Mode",
+        "woman",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47525/511629_default.webp",
+    "id": "616c07b3-5395-48b7-b1ce-c537ffb2b13c",
+    "Filter": {
+        "Aehnlichkeit": 1593,
+        "Farbe": [
+            893,
+            2835,
+            4413,
+            9738
+        ]
+    }
+}

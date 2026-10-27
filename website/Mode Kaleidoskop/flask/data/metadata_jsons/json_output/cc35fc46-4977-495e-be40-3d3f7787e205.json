@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30459",
+    "titel": "Modebild: \"Französische Dame mit Hut, Mantelkleid, Gürtel und Buch\"",
+    "Datum": "1822",
+    "Thema": [
+        "(Damen-)Kleid",
+        "fashion plates",
+        "Modebilder",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "dress, gown",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Fashion",
+        "Bürgertum",
+        "Frau",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48607/512105_default.webp",
+    "id": "cc35fc46-4977-495e-be40-3d3f7787e205",
+    "Filter": {
+        "Aehnlichkeit": 1920,
+        "Farbe": [
+            189,
+            1067,
+            2991,
+            4564,
+            6098
+        ]
+    }
+}

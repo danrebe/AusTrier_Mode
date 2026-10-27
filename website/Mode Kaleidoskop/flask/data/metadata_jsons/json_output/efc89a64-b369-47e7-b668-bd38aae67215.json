@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30856",
+    "titel": "Modebild: Zwei Figuren, London Dresses for May",
+    "Datum": "1810",
+    "Thema": [
+        "(Damen-)Kleid",
+        "Modebilder",
+        "fashion plates",
+        "couvre-chef",
+        "head-gear",
+        "被り物",
+        "chapelaria",
+        "copricapo",
+        "Kopfbedeckung",
+        "dress, gown",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Mode",
+        "Frau",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49831/512709_default.webp",
+    "id": "efc89a64-b369-47e7-b668-bd38aae67215",
+    "Filter": {
+        "Aehnlichkeit": 1990,
+        "Farbe": [
+            1169,
+            3075,
+            4642,
+            5620,
+            5898,
+            6564,
+            9848
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30316",
+    "titel": "Modebild: \"Pariserin mit Tasche à la duchesse, Pariserin mit Bandschärpe\"",
+    "Datum": "1825",
+    "Thema": [
+        "fashion plates",
+        "(Damen-)Kleid",
+        "Frau",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Bürgertum",
+        "Mode",
+        "woman",
+        "Modebilder",
+        "copricapo",
+        "Fashion",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "dress, gown",
+        "chapelaria"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48151/511129_default.webp",
+    "id": "17353154-438a-4725-9737-1f9df1d8b17a",
+    "Filter": {
+        "Aehnlichkeit": 984,
+        "Farbe": [
+            544,
+            2197,
+            3942,
+            5325,
+            10715
+        ]
+    }
+}

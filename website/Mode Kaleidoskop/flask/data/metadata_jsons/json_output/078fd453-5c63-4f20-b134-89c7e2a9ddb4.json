@@ -1,0 +1,45 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30195",
+    "titel": "Modebild: \"Zwei Damen, ein orientalisches Seidenkleid und ein Ballkleid tragend\"",
+    "Datum": "1809",
+    "Thema": [
+        "Dance",
+        "Costums",
+        "Bräuche",
+        "Bürgertum",
+        "Fashion",
+        "woman",
+        "Modebilder",
+        "fashion plates",
+        "Nachtleben",
+        "Mode",
+        "Tanz",
+        "Nightlife",
+        "Bourgeoisie",
+        "Frau",
+        "chapelaria",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Ballkleid",
+        "dress, gown: ball gown",
+        "被り物",
+        "Kopfbedeckung",
+        "copricapo",
+        "couvre-chef",
+        "head-gear"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47624/1759437_default.webp",
+    "id": "078fd453-5c63-4f20-b134-89c7e2a9ddb4",
+    "Filter": {
+        "Aehnlichkeit": 531,
+        "Farbe": [
+            995,
+            4506,
+            6506,
+            8386,
+            8982,
+            9778
+        ]
+    }
+}

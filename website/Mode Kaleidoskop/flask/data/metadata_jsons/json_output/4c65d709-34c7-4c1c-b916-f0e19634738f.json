@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30314",
+    "titel": "Modebild: \"Pariserin mit Halskette aus Rosenperlen, Herr in Klappenkleid mit Samtkragen\"",
+    "Datum": "1825",
+    "Thema": [
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Jacke, Mantel",
+        "coat",
+        "dandy, beau",
+        "Dandy, Beau, Geck",
+        "woman",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Biedermeier",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Frau",
+        "man",
+        "Mann",
+        "Mode",
+        "fashion plates",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48142/511877_default.webp",
+    "id": "4c65d709-34c7-4c1c-b916-f0e19634738f",
+    "Filter": {
+        "Aehnlichkeit": 794,
+        "Farbe": [
+            2191,
+            3937,
+            5322,
+            8654,
+            9687
+        ]
+    }
+}

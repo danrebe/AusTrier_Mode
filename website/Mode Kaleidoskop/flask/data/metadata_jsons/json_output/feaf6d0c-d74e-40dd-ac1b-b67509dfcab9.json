@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31418/1",
+    "titel": "Modebild: Eine Figur, österreichischer Hut und Mantelkleid,",
+    "Datum": "1815",
+    "Thema": [
+        "Modebilder",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "coat",
+        "Jacke, Mantel",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "fashion plates",
+        "Fashion",
+        "Biedermeier",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Frau",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55028/513875_default.webp",
+    "id": "feaf6d0c-d74e-40dd-ac1b-b67509dfcab9",
+    "Filter": {
+        "Aehnlichkeit": 1726,
+        "Farbe": [
+            209,
+            1183,
+            3087,
+            9040
+        ]
+    }
+}

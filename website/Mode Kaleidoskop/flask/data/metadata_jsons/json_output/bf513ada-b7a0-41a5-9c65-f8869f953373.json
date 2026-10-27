@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31120",
+    "titel": "Modebild: Sechs Figuren, Damenmoden",
+    "Datum": "1841",
+    "Thema": [
+        "Modebilder",
+        "被り物",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "Accessoires",
+        "accessories (~ clothing)",
+        "Frisur",
+        "Bürgertum",
+        "Fashion",
+        "Frau",
+        "Bourgeoisie",
+        "Mode",
+        "woman",
+        "hairdress",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53504/513025_default.webp",
+    "id": "bf513ada-b7a0-41a5-9c65-f8869f953373",
+    "Filter": {
+        "Aehnlichkeit": 506,
+        "Farbe": [
+            619,
+            2358,
+            4058,
+            7260,
+            7776,
+            8708,
+            10288
+        ]
+    }
+}

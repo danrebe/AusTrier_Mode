@@ -1,0 +1,35 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30148/2",
+    "titel": "Modebild: \"Zwei Damen in einem Buche lesend\"",
+    "Datum": "1799",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Fashion",
+        "Modebilder",
+        "Frau",
+        "Bourgeoisie",
+        "Bürgertum",
+        "woman",
+        "Mode",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47507/511601_default.webp",
+    "id": "a7a406f3-3aa7-4e2a-b145-6502850e19bb",
+    "Filter": {
+        "Aehnlichkeit": 865,
+        "Farbe": [
+            1172,
+            3078,
+            4644,
+            9850
+        ]
+    }
+}

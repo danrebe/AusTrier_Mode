@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30281",
+    "titel": "Modebild: \"Wienerin mit blauem Krepphut, Französin mit italienischem Strohhut\"",
+    "Datum": "1821",
+    "Thema": [
+        "chapelaria",
+        "被り物",
+        "couvre-chef",
+        "dress, gown",
+        "fashion plates",
+        "(Damen-)Kleid",
+        "Modebilder",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "Bourgeoisie",
+        "Frau",
+        "Biedermeier",
+        "Fashion",
+        "Bürgertum",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47884/1759408_default.webp",
+    "id": "b05fbdbc-7f8c-4498-a0d9-d859d2b985dd",
+    "Filter": {
+        "Aehnlichkeit": 769,
+        "Farbe": [
+            234,
+            1366,
+            3236,
+            4795
+        ]
+    }
+}

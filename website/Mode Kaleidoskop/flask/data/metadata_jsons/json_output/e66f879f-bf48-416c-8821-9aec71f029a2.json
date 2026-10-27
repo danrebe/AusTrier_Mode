@@ -1,0 +1,50 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31210",
+    "titel": "Modebild: Fünf Damenmoden (Maskenball)",
+    "Datum": "1843",
+    "Thema": [
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Modebilder",
+        "Ballkleid",
+        "dress, gown: ball gown",
+        "Nightlife",
+        "head-gear",
+        "Öffentliche Feste und Feierlichkeiten",
+        "fashion plates",
+        "Kleidung für offizielle Anlässe",
+        "chapelaria",
+        "clothes for official occasions",
+        "被り物",
+        "Kopfbedeckung",
+        "Tanz",
+        "Bürgertum",
+        "Fashion",
+        "Dance",
+        "Bräuche",
+        "Bourgeoisie",
+        "Costums",
+        "Mode",
+        "woman",
+        "Nachtleben",
+        "Public Festivals and Celebrations",
+        "Frau",
+        "couvre-chef",
+        "copricapo"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53854/513111_default.webp",
+    "id": "e66f879f-bf48-416c-8821-9aec71f029a2",
+    "Filter": {
+        "Aehnlichkeit": 1045,
+        "Farbe": [
+            2440,
+            7064,
+            7280,
+            7813,
+            8742,
+            9705,
+            10720
+        ]
+    }
+}

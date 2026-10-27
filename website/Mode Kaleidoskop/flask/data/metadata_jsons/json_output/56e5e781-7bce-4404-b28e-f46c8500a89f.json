@@ -1,0 +1,47 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30027",
+    "titel": "Modebild: \"Ball Dress- Evening Dress\"",
+    "Datum": "1829",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "dress, gown: ball gown",
+        "Ballkleid",
+        "Mode",
+        "Tanz",
+        "Nachtleben",
+        "woman",
+        "copricapo",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "chapelaria",
+        "Dance",
+        "Costums",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Frau",
+        "Fashion",
+        "Bräuche",
+        "Nightlife",
+        "fashion plates",
+        "Modebilder",
+        "Bürgertum"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/45228/511387_default.webp",
+    "id": "56e5e781-7bce-4404-b28e-f46c8500a89f",
+    "Filter": {
+        "Aehnlichkeit": 1541,
+        "Farbe": [
+            1979,
+            5192,
+            5504,
+            9630,
+            9650,
+            11013,
+            11026
+        ]
+    }
+}

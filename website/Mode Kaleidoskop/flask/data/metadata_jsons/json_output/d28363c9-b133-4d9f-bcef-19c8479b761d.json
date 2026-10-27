@@ -1,0 +1,47 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31980",
+    "titel": "Modebild: Zwei Figuren,  weibliche  Faschingskostüme",
+    "Datum": "1841",
+    "Thema": [
+        "clothes for official occasions",
+        "chapelaria",
+        "Verkleidung, Maskierung",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "copricapo",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "disguise",
+        "Kostüme für Festzüge",
+        "costumes used in pageants",
+        "Kleidung für offizielle Anlässe",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Modebilder",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Costums",
+        "Bräuche",
+        "Mode",
+        "Public Festivals and Celebrations",
+        "fashion plates",
+        "Frau",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/57038/510717_default.webp",
+    "id": "d28363c9-b133-4d9f-bcef-19c8479b761d",
+    "Filter": {
+        "Aehnlichkeit": 1935,
+        "Farbe": [
+            2659,
+            4195,
+            5426,
+            8266,
+            8883,
+            10448
+        ]
+    }
+}

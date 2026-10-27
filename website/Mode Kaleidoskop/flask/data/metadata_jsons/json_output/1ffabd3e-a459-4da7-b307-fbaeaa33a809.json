@@ -1,0 +1,48 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30408",
+    "titel": "Modebild: \"Pariser Dame mit Ballfrisur und Schmuck sowie Crepe-Robe\"",
+    "Datum": "1820",
+    "Thema": [
+        "Öffentliche Feste und Feierlichkeiten",
+        "Modebilder",
+        "Tanz",
+        "Mode",
+        "fashion plates",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "Dance",
+        "couvre-chef",
+        "hairdress",
+        "Frisur",
+        "Nightlife",
+        "Nachtleben",
+        "woman",
+        "Public Festivals and Celebrations",
+        "Frau",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Costums",
+        "Bräuche",
+        "Fashion",
+        "Bürgertum",
+        "copricapo",
+        "Ballkleid",
+        "dress, gown: ball gown",
+        "(Damen-)Kleid",
+        "dress, gown"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48497/512025_default.webp",
+    "id": "1ffabd3e-a459-4da7-b307-fbaeaa33a809",
+    "Filter": {
+        "Aehnlichkeit": 820,
+        "Farbe": [
+            1091,
+            3010,
+            4585,
+            5469
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30524",
+    "titel": "Modebild: \"Zwei Pariserinnen mit Hauben, geschmückt mit Blüten und Bändern, sowie Sommermänteln\"",
+    "Datum": "1827",
+    "Thema": [
+        "head-gear",
+        "chapelaria",
+        "coat",
+        "Jacke, Mantel",
+        "Modebilder",
+        "fashion plates",
+        "(Damen-)Kleid",
+        "Kopfbedeckung",
+        "被り物",
+        "couvre-chef",
+        "copricapo",
+        "Biedermeier",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Frau",
+        "Fashion",
+        "woman",
+        "Mode",
+        "dress, gown"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48812/511219_default.webp",
+    "id": "c20f59b3-43d6-4e40-9e7e-7258c8428495",
+    "Filter": {
+        "Aehnlichkeit": 386,
+        "Farbe": [
+            2239,
+            4353,
+            5354,
+            6271,
+            8663
+        ]
+    }
+}

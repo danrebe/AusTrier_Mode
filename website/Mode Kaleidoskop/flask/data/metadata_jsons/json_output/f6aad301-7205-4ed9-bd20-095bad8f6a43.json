@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30539",
+    "titel": "Modebild: Zwei Herren mit Redingoten in blau und braun, Gilet in gelb und Pantalons in grau",
+    "Datum": "1827",
+    "Thema": [
+        "chapelaria",
+        "dandy, beau",
+        "Dandy, Beau, Geck",
+        "fashion plates",
+        "Modebilder",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Bürgertum",
+        "coat",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Fashion",
+        "man",
+        "Jacke, Mantel",
+        "Mann",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48863/511223_default.webp",
+    "id": "f6aad301-7205-4ed9-bd20-095bad8f6a43",
+    "Filter": {
+        "Aehnlichkeit": 640,
+        "Farbe": [
+            2235,
+            3978,
+            5351,
+            7724,
+            8661
+        ]
+    }
+}

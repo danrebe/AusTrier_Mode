@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30817",
+    "titel": "Modebild: Zwei Figuren, Musselinkleider",
+    "Datum": "1833",
+    "Thema": [
+        "(Damen-)Kleid",
+        "Modebilder",
+        "fashion plates",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "被り物",
+        "dress, gown",
+        "Fashion",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Mode",
+        "woman",
+        "Frau"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49695/512631_default.webp",
+    "id": "ef19a644-02a5-400b-9794-07cbcfeb9268",
+    "Filter": {
+        "Aehnlichkeit": 1989,
+        "Farbe": [
+            357,
+            1702,
+            3529,
+            5028,
+            10037
+        ]
+    }
+}

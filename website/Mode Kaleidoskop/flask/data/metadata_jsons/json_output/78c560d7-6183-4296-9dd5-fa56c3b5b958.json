@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30442",
+    "titel": "Modebild: \"Französische Dame mit Blumenhut und Sommerkleid\"",
+    "Datum": "1822",
+    "Thema": [
+        "Modebilder",
+        "fashion plates",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Kopfbedeckung",
+        "被り物",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Bürgertum",
+        "Frau",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Fashion",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48570/511183_default.webp",
+    "id": "78c560d7-6183-4296-9dd5-fa56c3b5b958",
+    "Filter": {
+        "Aehnlichkeit": 853,
+        "Farbe": [
+            1226,
+            3121,
+            4682,
+            5625,
+            5905,
+            6590,
+            7467
+        ]
+    }
+}

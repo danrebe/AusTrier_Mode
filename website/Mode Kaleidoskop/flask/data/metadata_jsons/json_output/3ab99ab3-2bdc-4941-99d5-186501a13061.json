@@ -1,0 +1,25 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31641",
+    "titel": "Modebild: Neun Herrenkrawatten",
+    "Datum": "1833",
+    "Thema": [
+        "fashion plates",
+        "Modebilder",
+        "Mode",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55410/614563_default.webp",
+    "id": "3ab99ab3-2bdc-4941-99d5-186501a13061",
+    "Filter": {
+        "Aehnlichkeit": 1364,
+        "Farbe": [
+            322,
+            1611,
+            3452,
+            9168
+        ]
+    }
+}

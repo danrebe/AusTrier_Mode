@@ -1,0 +1,47 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30880",
+    "titel": "Modebild: Zwei Figuren, Ball- und Dinnerkleid",
+    "Datum": "1830",
+    "Thema": [
+        "dress, gown: ball gown",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Ballkleid",
+        "Öffentliche Feste und Feierlichkeiten",
+        "被り物",
+        "Public Festivals and Celebrations",
+        "Tanz",
+        "Nachtleben",
+        "Nightlife",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "Mode",
+        "Biedermeier",
+        "Bürgertum",
+        "Costums",
+        "Bräuche",
+        "Fashion",
+        "Dance",
+        "Frau",
+        "woman",
+        "Modebilder",
+        "fashion plates",
+        "Bourgeoisie"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49943/512757_default.webp",
+    "id": "9187261e-0664-4c26-b9f6-e93aacc889c8",
+    "Filter": {
+        "Aehnlichkeit": 1031,
+        "Farbe": [
+            527,
+            2148,
+            3895,
+            5300,
+            8648
+        ]
+    }
+}

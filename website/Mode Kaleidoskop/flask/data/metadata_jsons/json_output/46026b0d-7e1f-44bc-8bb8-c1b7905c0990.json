@@ -1,0 +1,44 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30773",
+    "titel": "Modebild: Zwei Figuren, weiße Musselinkleider, Schals",
+    "Datum": "1830",
+    "Thema": [
+        "head-gear",
+        "Kopfbedeckung",
+        "copricapo",
+        "couvre-chef",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "neck-gear ~ clothing",
+        "Schal",
+        "被り物",
+        "woman",
+        "Mode",
+        "Bourgeoisie",
+        "Frau",
+        "Biedermeier",
+        "Fashion",
+        "Bürgertum",
+        "Modebilder",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49571/511339_default.webp",
+    "accessoires": [
+        "Schal"
+    ],
+    "id": "46026b0d-7e1f-44bc-8bb8-c1b7905c0990",
+    "Filter": {
+        "Aehnlichkeit": 1461,
+        "Farbe": [
+            2238,
+            3981,
+            4352,
+            5353,
+            5771,
+            8662,
+            10235
+        ]
+    }
+}

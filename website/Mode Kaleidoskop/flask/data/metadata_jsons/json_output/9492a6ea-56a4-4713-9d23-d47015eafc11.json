@@ -1,0 +1,45 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30977",
+    "titel": "Modebild: Fünf Figuren, Damen- und Kindermoden, Hüte und Frisuren",
+    "Datum": "1836",
+    "Thema": [
+        "Accessoires",
+        "copricapo",
+        "chapelaria",
+        "Modebilder",
+        "fashion plates",
+        "hairdress",
+        "woman",
+        "Frisur",
+        "accessories (~ clothing)",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Frau",
+        "Mädchenkleid",
+        "child",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Mode",
+        "Kind",
+        "girls dress",
+        "fashion, clothing (+ girls' clothes)",
+        "Kleidung für Mädchen"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/50207/512883_default.webp",
+    "id": "9492a6ea-56a4-4713-9d23-d47015eafc11",
+    "Filter": {
+        "Aehnlichkeit": 1456,
+        "Farbe": [
+            329,
+            1634,
+            5689,
+            7566,
+            9183,
+            10012
+        ]
+    }
+}

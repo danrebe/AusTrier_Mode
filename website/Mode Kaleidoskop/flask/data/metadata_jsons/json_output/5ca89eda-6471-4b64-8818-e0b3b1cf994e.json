@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30839",
+    "titel": "Modebild: Zwei Figuren, Morgenkleider",
+    "Datum": "1802",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "chapelaria",
+        "couvre-chef",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "fashion plates",
+        "woman",
+        "Bürgertum",
+        "Frau",
+        "Bourgeoisie",
+        "Fashion",
+        "Mode",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49769/512675_default.webp",
+    "id": "5ca89eda-6471-4b64-8818-e0b3b1cf994e",
+    "Filter": {
+        "Aehnlichkeit": 1508,
+        "Farbe": [
+            938,
+            2875,
+            4452,
+            5874,
+            6480
+        ]
+    }
+}

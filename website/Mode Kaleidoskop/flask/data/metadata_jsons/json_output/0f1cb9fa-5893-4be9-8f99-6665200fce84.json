@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31585",
+    "titel": "Modebild: Acht Figuren, weibliche  Haar-, Hauben- und Lingeriemoden",
+    "Datum": "1833",
+    "Thema": [
+        "accessories (~ clothing)",
+        "Modebilder",
+        "Mode",
+        "Frisur",
+        "hairdress",
+        "woman",
+        "chapelaria",
+        "couvre-chef",
+        "copricapo",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Accessoires",
+        "fashion plates",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Frau"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55343/614449_default.webp",
+    "id": "0f1cb9fa-5893-4be9-8f99-6665200fce84",
+    "Filter": {
+        "Aehnlichkeit": 845,
+        "Farbe": [
+            448,
+            1921,
+            3711,
+            9303
+        ]
+    }
+}

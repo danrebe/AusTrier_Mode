@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30396",
+    "titel": "Modebild: \"Pariserin mit Spencer, Schirm und Crepehut\"",
+    "Datum": "1818",
+    "Thema": [
+        "woman",
+        "Mode",
+        "(Damen-)Kleid",
+        "copricapo",
+        "dress, gown",
+        "chapelaria",
+        "couvre-chef",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "fashion plates",
+        "Modebilder",
+        "Biedermeier",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "Frau"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48379/511163_default.webp",
+    "id": "424b0f07-5544-4f26-8674-b89af245ebb8",
+    "Filter": {
+        "Aehnlichkeit": 1427,
+        "Farbe": [
+            934,
+            6478,
+            8366,
+            8969,
+            9759
+        ]
+    }
+}

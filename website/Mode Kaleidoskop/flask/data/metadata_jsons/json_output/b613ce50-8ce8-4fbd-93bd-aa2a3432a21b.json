@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30125",
+    "titel": "Modebild: \"Dame im Morgenüberrock\"",
+    "Datum": "1802",
+    "Thema": [
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Kopfbedeckung",
+        "被り物",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "fashion plates",
+        "Bourgeoisie",
+        "Fashion",
+        "Frau",
+        "Bürgertum",
+        "Mode",
+        "woman",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47417/511043_default.webp",
+    "id": "b613ce50-8ce8-4fbd-93bd-aa2a3432a21b",
+    "Filter": {
+        "Aehnlichkeit": 1020,
+        "Farbe": [
+            956,
+            2889,
+            4468,
+            7974,
+            8372,
+            10519
+        ]
+    }
+}

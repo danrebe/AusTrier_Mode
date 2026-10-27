@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31952",
+    "titel": "Modebild: Zwei Figuren, Damenmoden",
+    "Datum": "1840",
+    "Thema": [
+        "Modebilder",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "head-gear",
+        "被り物",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "fashion plates",
+        "Bourgeoisie",
+        "Fashion",
+        "Bürgertum",
+        "Frau",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/56514/510701_default.webp",
+    "id": "d8d94b51-313e-4293-904c-b0196efdcccd",
+    "Filter": {
+        "Aehnlichkeit": 1953,
+        "Farbe": [
+            2393,
+            4082,
+            5399,
+            8727,
+            10312,
+            11173
+        ]
+    }
+}

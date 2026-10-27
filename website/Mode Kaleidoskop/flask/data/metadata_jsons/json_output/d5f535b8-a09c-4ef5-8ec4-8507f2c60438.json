@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30667",
+    "titel": "Modebild: Zwei Figuren, Samthüte, blaue Samtkleider mit Schinkenärmeln",
+    "Datum": "1829",
+    "Thema": [
+        "fashion plates",
+        "(Damen-)Kleid",
+        "Modebilder",
+        "couvre-chef",
+        "chapelaria",
+        "copricapo",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "dress, gown",
+        "Fashion",
+        "Bürgertum",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Mode",
+        "woman",
+        "Frau"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49332/512423_default.webp",
+    "id": "d5f535b8-a09c-4ef5-8ec4-8507f2c60438",
+    "Filter": {
+        "Aehnlichkeit": 1947,
+        "Farbe": [
+            479,
+            2036,
+            5231,
+            5742,
+            8622,
+            11153
+        ]
+    }
+}

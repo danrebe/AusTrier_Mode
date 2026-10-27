@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31746",
+    "titel": "Modebild: Zwei Figuren, Damenmäntel",
+    "Datum": "1835",
+    "Thema": [
+        "chapelaria",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Jacke, Mantel",
+        "coat",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Winter",
+        "Fashion",
+        "Bourgeoisie",
+        "Frau",
+        "Bürgertum",
+        "Modebilder",
+        "woman",
+        "Mode",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55832/614773_default.webp",
+    "id": "420ef9ea-6689-4853-b617-c82e3ed8dc2c",
+    "Filter": {
+        "Aehnlichkeit": 1423,
+        "Farbe": [
+            4347,
+            6241,
+            6921,
+            7227,
+            9362,
+            10181,
+            10544
+        ]
+    }
+}

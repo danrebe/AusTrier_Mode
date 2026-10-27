@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30900",
+    "titel": "Modebild: Zwei Figuren, Herren- und Damenmode",
+    "Datum": "1802",
+    "Thema": [
+        "couvre-chef",
+        "Dandy, Beau, Geck",
+        "dandy, beau",
+        "coat",
+        "Jacke, Mantel",
+        "dress, gown",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "chapelaria",
+        "Mann",
+        "(Damen-)Kleid",
+        "Fashion",
+        "Frau",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Mode",
+        "man",
+        "fashion plates",
+        "Modebilder",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/50013/512797_default.webp",
+    "id": "7e756ada-6ca1-428c-9609-e62e838b11a6",
+    "Filter": {
+        "Aehnlichkeit": 793,
+        "Farbe": [
+            157,
+            936,
+            2873,
+            4450
+        ]
+    }
+}

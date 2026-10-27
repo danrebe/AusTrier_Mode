@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31584",
+    "titel": "Modebild: Zwei Figuren, Damenmoden für den Winter",
+    "Datum": "1833",
+    "Thema": [
+        "fashion plates",
+        "Modebilder",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "couvre-chef",
+        "head-gear",
+        "被り物",
+        "Kopfbedeckung",
+        "copricapo",
+        "chapelaria",
+        "woman",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Frau",
+        "Fashion",
+        "Mode",
+        "Winter"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55342/614447_default.webp",
+    "id": "c2aecab7-4506-445e-9c47-99aa7aea1834",
+    "Filter": {
+        "Aehnlichkeit": 585,
+        "Farbe": [
+            2008,
+            3785,
+            5505,
+            9338,
+            10154
+        ]
+    }
+}

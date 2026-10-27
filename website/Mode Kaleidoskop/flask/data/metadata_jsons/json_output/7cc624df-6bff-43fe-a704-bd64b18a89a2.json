@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30866",
+    "titel": "Modebild: Zwei Figuren, Dinner- und Ausgehkleid",
+    "Datum": "1829",
+    "Thema": [
+        "被り物",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "woman",
+        "Modebilder",
+        "fashion plates",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Fashion",
+        "Nachtleben",
+        "Frau",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Bürgertum",
+        "Mode",
+        "Nightlife"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49892/512729_default.webp",
+    "id": "7cc624df-6bff-43fe-a704-bd64b18a89a2",
+    "Filter": {
+        "Aehnlichkeit": 183,
+        "Farbe": [
+            440,
+            1905,
+            3698,
+            5146
+        ]
+    }
+}

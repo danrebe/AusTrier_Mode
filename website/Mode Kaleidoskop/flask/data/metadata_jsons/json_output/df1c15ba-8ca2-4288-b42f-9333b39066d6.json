@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30199",
+    "titel": "Modebild: \"Pariserin in Kosakenanzug\"",
+    "Datum": "1809",
+    "Thema": [
+        "head-gear",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "被り物",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Modebilder",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "woman",
+        "Frau",
+        "Mode",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47630/1759441_default.webp",
+    "id": "df1c15ba-8ca2-4288-b42f-9333b39066d6",
+    "Filter": {
+        "Aehnlichkeit": 290,
+        "Farbe": [
+            1068,
+            2992,
+            4289,
+            4565,
+            9806
+        ]
+    }
+}

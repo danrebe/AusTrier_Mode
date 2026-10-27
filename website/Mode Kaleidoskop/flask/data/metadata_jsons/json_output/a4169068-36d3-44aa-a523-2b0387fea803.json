@@ -1,0 +1,45 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30687",
+    "titel": "Modebild: Zwei Figuren, weißes Brautkleid",
+    "Datum": "1829",
+    "Thema": [
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "fashion plates",
+        "Modebilder",
+        "Kopfbedeckung",
+        "clothes for official occasions",
+        "Kleidung für spezielle Zwecke (Brautmode)",
+        "被り物",
+        "Kleidung für offizielle Anlässe",
+        "Fashion",
+        "Bourgeoisie",
+        "Bräuche",
+        "Biedermeier",
+        "Costums",
+        "Bürgertum",
+        "Public Festivals and Celebrations",
+        "woman",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Mode",
+        "Frau"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49383/512455_default.webp",
+    "id": "a4169068-36d3-44aa-a523-2b0387fea803",
+    "Filter": {
+        "Aehnlichkeit": 944,
+        "Farbe": [
+            2184,
+            3930,
+            5318,
+            8652,
+            9413,
+            10218
+        ]
+    }
+}

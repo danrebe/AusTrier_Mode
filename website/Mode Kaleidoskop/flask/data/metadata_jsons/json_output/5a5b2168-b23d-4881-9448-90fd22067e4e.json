@@ -1,0 +1,49 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31038",
+    "titel": "Modebild: Sechs Figuren, Damen-, Herren- und Knabenmoden, Frisuren, Hüte, Krägen",
+    "Datum": "1838",
+    "Thema": [
+        "被り物",
+        "Kopfbedeckung",
+        "dandy, beau",
+        "Dandy, Beau, Geck",
+        "Jacke, Mantel",
+        "coat",
+        "Mann",
+        "Mode",
+        "fashion plates",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "accessories (~ clothing)",
+        "Accessoires",
+        "man",
+        "Bourgeoisie",
+        "Frau",
+        "Bürgertum",
+        "child",
+        "Fashion",
+        "Modebilder",
+        "woman",
+        "hairdress",
+        "Kleidung für Jungen",
+        "fashion, clothing (+ boys' clothes)",
+        "Kind",
+        "Frisur"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/51062/513481_default.webp",
+    "id": "5a5b2168-b23d-4881-9448-90fd22067e4e",
+    "Filter": {
+        "Aehnlichkeit": 72,
+        "Farbe": [
+            733,
+            2610,
+            7334,
+            7894,
+            8237,
+            8846
+        ]
+    }
+}

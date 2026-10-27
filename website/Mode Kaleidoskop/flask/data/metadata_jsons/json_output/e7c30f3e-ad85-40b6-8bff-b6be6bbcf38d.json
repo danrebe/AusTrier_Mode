@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30754",
+    "titel": "Modebild: Zwei Figuren, Samthüte, Satinkleider",
+    "Datum": "1830",
+    "Thema": [
+        "head-gear",
+        "Modebilder",
+        "fashion plates",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "被り物",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Mode",
+        "Fashion",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Bürgertum",
+        "woman",
+        "Frau"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49543/512559_default.webp",
+    "id": "e7c30f3e-ad85-40b6-8bff-b6be6bbcf38d",
+    "Filter": {
+        "Aehnlichkeit": 1978,
+        "Farbe": [
+            293,
+            1511,
+            3366,
+            4908,
+            5666,
+            6691,
+            11111
+        ]
+    }
+}

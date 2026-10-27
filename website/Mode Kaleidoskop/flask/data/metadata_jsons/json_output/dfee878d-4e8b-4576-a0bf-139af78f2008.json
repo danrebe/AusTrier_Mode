@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 32000",
+    "titel": "Modebild : 2 Fig., Damenmoden",
+    "Datum": "1841",
+    "Thema": [
+        "(Damen-)Kleid",
+        "Umhang, Cape",
+        "Modebilder",
+        "fashion plates",
+        "被り物",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "Kopfbedeckung",
+        "head-gear",
+        "cape",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Mode",
+        "woman",
+        "Frau",
+        "dress, gown"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/57194/510967_default.webp",
+    "id": "dfee878d-4e8b-4576-a0bf-139af78f2008",
+    "Filter": {
+        "Aehnlichkeit": 1585,
+        "Farbe": [
+            2323,
+            4043,
+            5387,
+            10269,
+            10781
+        ]
+    }
+}

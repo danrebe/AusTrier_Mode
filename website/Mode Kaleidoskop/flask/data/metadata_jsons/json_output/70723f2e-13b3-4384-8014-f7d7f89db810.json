@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30469",
+    "titel": "Modebild: \"Pariser Dame mit Sommerhut, Halskrause und Gürtelband\"",
+    "Datum": "1822",
+    "Thema": [
+        "Mode",
+        "Modebilder",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "copricapo",
+        "被り物",
+        "chapelaria",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "Bürgertum",
+        "fashion plates",
+        "Frau",
+        "Biedermeier",
+        "Fashion",
+        "Bourgeoisie",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48620/512121_default.webp",
+    "id": "70723f2e-13b3-4384-8014-f7d7f89db810",
+    "Filter": {
+        "Aehnlichkeit": 1666,
+        "Farbe": [
+            1085,
+            3005,
+            4580,
+            6539,
+            9817
+        ]
+    }
+}

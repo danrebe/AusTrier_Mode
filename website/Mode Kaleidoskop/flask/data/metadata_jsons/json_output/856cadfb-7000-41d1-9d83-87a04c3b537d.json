@@ -1,0 +1,42 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30881",
+    "titel": "Modebild: Zwei Figuren, Dinner- und Wagenkleid",
+    "Datum": "1830",
+    "Thema": [
+        "Modebilder",
+        "Travel and Tourism",
+        "fashion plates",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Nightlife",
+        "woman",
+        "Fashion",
+        "Frau",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Biedermeier",
+        "Reisen und Tourismus",
+        "Mode",
+        "Nachtleben"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49947/512759_default.webp",
+    "id": "856cadfb-7000-41d1-9d83-87a04c3b537d",
+    "Filter": {
+        "Aehnlichkeit": 1328,
+        "Farbe": [
+            476,
+            2033,
+            3804,
+            5228,
+            5741,
+            6904
+        ]
+    }
+}

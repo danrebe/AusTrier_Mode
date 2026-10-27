@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30552",
+    "titel": "Modebild: Zwei Damen: eine in grauem Wollkleid mit Boa, die andere mit kariertem Cape - beide mit schwarzen Samthüten",
+    "Datum": "1828",
+    "Thema": [
+        "dress, gown",
+        "(Damen-)Kleid",
+        "fashion plates",
+        "Modebilder",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "Frau",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48938/512251_default.webp",
+    "id": "e280dba9-74c8-4fb8-8cb7-94960d2afc1c",
+    "Filter": {
+        "Aehnlichkeit": 1969,
+        "Farbe": [
+            1638,
+            3474,
+            4989,
+            5489
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31205",
+    "titel": "Modebild: Vier Damenmoden, ein Herrenhausmantel",
+    "Datum": "1843",
+    "Thema": [
+        "Jacke, Mantel",
+        "Kopfbedeckung",
+        "copricapo",
+        "(Damen-)Kleid",
+        "被り物",
+        "head-gear",
+        "coat",
+        "Bürgertum",
+        "dress, gown",
+        "couvre-chef",
+        "chapelaria",
+        "Fashion",
+        "Mode",
+        "Modebilder",
+        "Frau",
+        "woman",
+        "Mann",
+        "fashion plates",
+        "man",
+        "Bourgeoisie"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53848/513659_default.webp",
+    "id": "be1790c4-cb5b-4c61-b260-e329727ed66b",
+    "Filter": {
+        "Aehnlichkeit": 1829,
+        "Farbe": [
+            2645,
+            7909,
+            8875,
+            9722,
+            10443
+        ]
+    }
+}

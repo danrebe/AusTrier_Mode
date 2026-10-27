@@ -1,0 +1,35 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31340",
+    "titel": "Modebild: Zwei Figuren, Damenmoden, London Fashions",
+    "Datum": "1806",
+    "Thema": [
+        "fashion plates",
+        "(Damen-)Kleid",
+        "Modebilder",
+        "Kopfbedeckung",
+        "被り物",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "dress, gown",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "Frau",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54175/513245_default.webp",
+    "id": "b6dbb912-d550-4836-b921-3bd441025d9e",
+    "Filter": {
+        "Aehnlichkeit": 1165,
+        "Farbe": [
+            1263,
+            3154,
+            4708,
+            9882
+        ]
+    }
+}

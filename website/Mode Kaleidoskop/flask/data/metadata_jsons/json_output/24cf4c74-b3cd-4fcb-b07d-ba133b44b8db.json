@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30557",
+    "titel": "Modebild: Zwei Pariserinnen mit Kopfputz in weißer und rosa Robe mit Puffärmelchen, weiße Kreuzbandschuhe",
+    "Datum": "1828",
+    "Thema": [
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Mode",
+        "woman",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "被り物",
+        "Kopfbedeckung",
+        "Modebilder",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "Frau",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48953/512259_default.webp",
+    "id": "24cf4c74-b3cd-4fcb-b07d-ba133b44b8db",
+    "Filter": {
+        "Aehnlichkeit": 1056,
+        "Farbe": [
+            380,
+            1746,
+            3566,
+            5047,
+            8570,
+            11128
+        ]
+    }
+}

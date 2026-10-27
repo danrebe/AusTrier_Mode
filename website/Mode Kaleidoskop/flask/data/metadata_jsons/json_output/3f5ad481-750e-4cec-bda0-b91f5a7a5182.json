@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31390",
+    "titel": "Modebild: Eine Figur, Badekleid",
+    "Datum": "1814",
+    "Thema": [
+        "被り物",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "woman",
+        "fashion plates",
+        "Mode",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Recreation and Leisure",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Erholung und Freizeit",
+        "Fashion",
+        "Frau",
+        "Bürgertum",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54985/513847_default.webp",
+    "id": "3f5ad481-750e-4cec-bda0-b91f5a7a5182",
+    "Filter": {
+        "Aehnlichkeit": 1407,
+        "Farbe": [
+            1044,
+            2974,
+            4550,
+            6524,
+            9797
+        ]
+    }
+}

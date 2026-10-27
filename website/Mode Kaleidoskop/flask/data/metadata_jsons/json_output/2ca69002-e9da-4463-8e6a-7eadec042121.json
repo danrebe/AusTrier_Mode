@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30387",
+    "titel": "Modebild: \"Französische Dame mit Mousselinekappe\"",
+    "Datum": "1817",
+    "Thema": [
+        "Modebilder",
+        "(Damen-)Kleid",
+        "couvre-chef",
+        "copricapo",
+        "head-gear",
+        "dress, gown",
+        "Kopfbedeckung",
+        "被り物",
+        "chapelaria",
+        "woman",
+        "Frau",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Bürgertum",
+        "Fashion",
+        "Mode",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48370/511991_default.webp",
+    "id": "2ca69002-e9da-4463-8e6a-7eadec042121",
+    "Filter": {
+        "Aehnlichkeit": 22,
+        "Farbe": [
+            1282,
+            4726,
+            8467,
+            9077,
+            9888
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30242",
+    "titel": "Modebild: \"Zwei Pariserinnen in Perkal-Roben und Halskrausen\"",
+    "Datum": "1816",
+    "Thema": [
+        "被り物",
+        "woman",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Mode",
+        "head-gear",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "fashion plates",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Frau",
+        "Biedermeier",
+        "Fashion",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47753/1759484_default.webp",
+    "id": "7d4f30fd-420f-4ce4-8c07-a0307a3e122d",
+    "Filter": {
+        "Aehnlichkeit": 348,
+        "Farbe": [
+            1516,
+            3371,
+            4326,
+            4913
+        ]
+    }
+}

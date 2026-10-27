@@ -1,0 +1,45 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31589",
+    "titel": "Modebild: Zwei Figuren, männlicher  Morgen- und Ballanzug",
+    "Datum": "1833",
+    "Thema": [
+        "(Damen-)Kleid",
+        "Modebilder",
+        "fashion plates",
+        "Tanz",
+        "被り物",
+        "Öffentliche Feste und Feierlichkeiten",
+        "woman",
+        "Mode",
+        "dress, gown",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Nachtleben",
+        "Frau",
+        "Fashion",
+        "Bräuche",
+        "Biedermeier",
+        "Costums",
+        "Dance",
+        "Bürgertum",
+        "Nightlife",
+        "Public Festivals and Celebrations",
+        "Bourgeoisie"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55350/614457_default.webp",
+    "id": "f28a93c7-4a60-462b-bfee-4de400dc43c1",
+    "Filter": {
+        "Aehnlichkeit": 1445,
+        "Farbe": [
+            1929,
+            3719,
+            8050,
+            9308,
+            10124
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31554",
+    "titel": "Modebild: Vier Figuren, weibliche  Hutmoden",
+    "Datum": "1832",
+    "Thema": [
+        "woman",
+        "couvre-chef",
+        "chapelaria",
+        "被り物",
+        "copricapo",
+        "head-gear",
+        "Kopfbedeckung",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "fashion plates",
+        "Modebilder",
+        "Mode",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Frau",
+        "Fashion"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55298/614385_default.webp",
+    "id": "2fbbe195-4d54-4971-9ad7-fed706bf9dcc",
+    "Filter": {
+        "Aehnlichkeit": 666,
+        "Farbe": [
+            2094,
+            3854,
+            6927,
+            7685,
+            9368,
+            10185
+        ]
+    }
+}

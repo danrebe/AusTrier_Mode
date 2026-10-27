@@ -1,0 +1,51 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30310",
+    "titel": "Modebild: \"Pariserin in Ballkleid aus Tüll, Pariser in Tuchmantel mit Perlmutterknöpfen\"",
+    "Datum": "1825",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Jacke, Mantel",
+        "coat",
+        "Modebilder",
+        "fashion plates",
+        "dress, gown: ball gown",
+        "Nachtleben",
+        "man",
+        "Ballkleid",
+        "被り物",
+        "chapelaria",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Bräuche",
+        "Frau",
+        "Biedermeier",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Dance",
+        "Costums",
+        "Fashion",
+        "Mann",
+        "Nightlife",
+        "Mode",
+        "woman",
+        "Tanz"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48134/511871_default.webp",
+    "id": "f6de49ae-e2d9-41bd-abca-11f00a8e6f03",
+    "Filter": {
+        "Aehnlichkeit": 1152,
+        "Farbe": [
+            497,
+            2078,
+            4348,
+            5262,
+            5749,
+            6242,
+            6922
+        ]
+    }
+}

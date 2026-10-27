@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31372",
+    "titel": "Modebild: Eine Figur, Vittoria Fete Dress",
+    "Datum": "1813",
+    "Thema": [
+        "chapelaria",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "fashion plates",
+        "woman",
+        "Bourgeoisie",
+        "Fashion",
+        "Bürgertum",
+        "Frau",
+        "Modebilder",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54947/513273_default.webp",
+    "id": "327de92e-14bc-4a1a-a94f-0b264ce40413",
+    "Filter": {
+        "Aehnlichkeit": 839,
+        "Farbe": [
+            992,
+            2924,
+            5879,
+            7419,
+            8981
+        ]
+    }
+}

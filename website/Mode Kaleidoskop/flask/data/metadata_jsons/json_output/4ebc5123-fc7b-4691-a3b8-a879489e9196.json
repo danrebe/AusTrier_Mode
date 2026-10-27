@@ -1,0 +1,44 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30446",
+    "titel": "Modebild: \"Französische Dame mit Federhut, roter Toilette und schwarzem Spitzenumhang\"",
+    "Datum": "1822",
+    "Thema": [
+        "被り物",
+        "Schal",
+        "neck-gear ~ clothing",
+        "cape",
+        "Umhang, Cape",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "Frau",
+        "Biedermeier",
+        "woman",
+        "Mode",
+        "Modebilder",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48574/511185_default.webp",
+    "accessoires": [
+        "Schal"
+    ],
+    "id": "4ebc5123-fc7b-4691-a3b8-a879489e9196",
+    "Filter": {
+        "Aehnlichkeit": 1499,
+        "Farbe": [
+            1225,
+            3120,
+            4681,
+            5474,
+            5624
+        ]
+    }
+}

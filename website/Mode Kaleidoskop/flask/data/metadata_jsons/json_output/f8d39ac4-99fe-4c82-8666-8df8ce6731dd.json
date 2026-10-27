@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30301",
+    "titel": "Modebild: \"Pariserinnen mit Schärpe, Schal und Federhüten\"",
+    "Datum": "1823",
+    "Thema": [
+        "copricapo",
+        "chapelaria",
+        "couvre-chef",
+        "Accessoires",
+        "accessories (~ clothing)",
+        "neck-gear ~ clothing",
+        "Schal",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Modebilder",
+        "fashion plates",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "Mode",
+        "woman",
+        "Frau"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48101/511121_default.webp",
+    "accessoires": [
+        "Schal"
+    ],
+    "id": "f8d39ac4-99fe-4c82-8666-8df8ce6731dd",
+    "Filter": {
+        "Aehnlichkeit": 630,
+        "Farbe": [
+            1299,
+            3183,
+            4740,
+            5637,
+            7481,
+            8472
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31402",
+    "titel": "Modebild: Eine Figur, Full Dress für Theater, Oper,",
+    "Datum": "1815",
+    "Thema": [
+        "dress, gown",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "Modebilder",
+        "fashion plates",
+        "Opera",
+        "Oper",
+        "Mode",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "woman",
+        "Theatre",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Biedermeier",
+        "Frau",
+        "Fashion",
+        "Theater",
+        "Nachtleben",
+        "Nightlife"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55004/513305_default.webp",
+    "id": "bc616913-99d4-4d90-b471-20ddcd2dce61",
+    "Filter": {
+        "Aehnlichkeit": 1136,
+        "Farbe": [
+            1341,
+            5476,
+            5640,
+            6637,
+            8491,
+            9092
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30479",
+    "titel": "Modebild: \"Pariserin mit Blumenhut, Modellkleid und blauem Umhang mit Fransen\"",
+    "Datum": "1822",
+    "Thema": [
+        "被り物",
+        "copricapo",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Umhang, Cape",
+        "cape",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "chapelaria",
+        "woman",
+        "Fashion",
+        "Bourgeoisie",
+        "Frau",
+        "Biedermeier",
+        "Bürgertum",
+        "Mode",
+        "fashion plates",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48639/512137_default.webp",
+    "id": "7c6d2e84-7305-4e73-9bc2-61e32191142d",
+    "Filter": {
+        "Aehnlichkeit": 199,
+        "Farbe": [
+            184,
+            1042,
+            4548,
+            10770,
+            11044,
+            11096
+        ]
+    }
+}

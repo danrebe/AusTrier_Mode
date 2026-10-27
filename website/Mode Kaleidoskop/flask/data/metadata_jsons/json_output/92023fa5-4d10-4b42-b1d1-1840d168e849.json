@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31689",
+    "titel": "Modebild: Zwei Figuren, Herrenüberröcke",
+    "Datum": "1834",
+    "Thema": [
+        "Dandy, Beau, Geck",
+        "dandy, beau",
+        "Jacke, Mantel",
+        "coat",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Modebilder",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "man",
+        "Mann",
+        "Mode",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55458/614659_default.webp",
+    "id": "92023fa5-4d10-4b42-b1d1-1840d168e849",
+    "Filter": {
+        "Aehnlichkeit": 829,
+        "Farbe": [
+            404,
+            1789,
+            3606,
+            6801,
+            7207,
+            8035,
+            9248
+        ]
+    }
+}

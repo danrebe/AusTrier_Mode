@@ -1,0 +1,42 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31395",
+    "titel": "Modebild: Eine Figur, Russ. Mantel, Haube und Umhang; kolorierter Kupferstich",
+    "Datum": "1814",
+    "Thema": [
+        "copricapo",
+        "Umhang, Cape",
+        "Jacke, Mantel",
+        "fashion plates",
+        "cape",
+        "Modebilder",
+        "coat",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "chapelaria",
+        "(Damen-)Kleid",
+        "Bürgertum",
+        "Biedermeier",
+        "Frau",
+        "Bourgeoisie",
+        "Fashion",
+        "dress, gown",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54994/513297_default.webp",
+    "id": "a3dc188d-f2b3-4048-9d3d-29140b4a328f",
+    "Filter": {
+        "Aehnlichkeit": 1819,
+        "Farbe": [
+            237,
+            1375,
+            3244,
+            4804,
+            5643,
+            6649
+        ]
+    }
+}

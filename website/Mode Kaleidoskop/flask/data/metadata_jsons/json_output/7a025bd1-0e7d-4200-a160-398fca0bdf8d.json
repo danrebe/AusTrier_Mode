@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31780",
+    "titel": "Modebild: Zwei Figuren, Übermantel",
+    "Datum": "1836",
+    "Thema": [
+        "Jacke, Mantel",
+        "coat",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "couvre-chef",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "chapelaria",
+        "Fashion",
+        "Frau",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Mode",
+        "fashion plates",
+        "Modebilder",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55877/510525_default.webp",
+    "id": "7a025bd1-0e7d-4200-a160-398fca0bdf8d",
+    "Filter": {
+        "Aehnlichkeit": 1695,
+        "Farbe": [
+            2403,
+            4089,
+            6050,
+            7042,
+            8732,
+            9509,
+            10315
+        ]
+    }
+}

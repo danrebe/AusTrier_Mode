@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31490",
+    "titel": "Modebild: Zwei Figuren, weibliche  Promenadenanzug",
+    "Datum": "1831",
+    "Thema": [
+        "被り物",
+        "chapelaria",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Modebilder",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "Biedermeier",
+        "Mode",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Frau",
+        "Fashion",
+        "fashion plates",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55173/614257_default.webp",
+    "id": "65950493-56d2-4fc6-b016-2d5b5e81dc32",
+    "Filter": {
+        "Aehnlichkeit": 707,
+        "Farbe": [
+            1554,
+            5676,
+            5959,
+            6707,
+            7541,
+            9142,
+            9640
+        ]
+    }
+}

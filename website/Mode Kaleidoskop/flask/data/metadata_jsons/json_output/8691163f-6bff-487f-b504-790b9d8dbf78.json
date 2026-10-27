@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31604",
+    "titel": "Modebild: Zwei Figuren, ungarische Herrenmoden",
+    "Datum": "1833",
+    "Thema": [
+        "Modebilder",
+        "coat",
+        "Jacke, Mantel",
+        "Kopfbedeckung",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "被り物",
+        "fashion plates",
+        "Mann",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "man",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55373/614489_default.webp",
+    "id": "8691163f-6bff-487f-b504-790b9d8dbf78",
+    "Filter": {
+        "Aehnlichkeit": 1742,
+        "Farbe": [
+            1784,
+            3601,
+            6800,
+            8033,
+            9247,
+            10065,
+            10997
+        ]
+    }
+}

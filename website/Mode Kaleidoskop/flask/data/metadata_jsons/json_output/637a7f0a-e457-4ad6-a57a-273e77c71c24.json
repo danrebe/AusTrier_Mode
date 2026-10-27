@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30671",
+    "titel": "Modebild: Zwei Figuren, Kleider aus Gros des Indes in blau und braun mit Schinkenärmeln",
+    "Datum": "1829",
+    "Thema": [
+        "fashion plates",
+        "Modebilder",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "couvre-chef",
+        "head-gear",
+        "chapelaria",
+        "copricapo",
+        "Kopfbedeckung",
+        "被り物",
+        "woman",
+        "Bürgertum",
+        "Biedermeier",
+        "Fashion",
+        "Frau",
+        "Bourgeoisie",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49339/512429_default.webp",
+    "id": "637a7f0a-e457-4ad6-a57a-273e77c71c24",
+    "Filter": {
+        "Aehnlichkeit": 1592,
+        "Farbe": [
+            2046,
+            3815,
+            5239,
+            7676
+        ]
+    }
+}

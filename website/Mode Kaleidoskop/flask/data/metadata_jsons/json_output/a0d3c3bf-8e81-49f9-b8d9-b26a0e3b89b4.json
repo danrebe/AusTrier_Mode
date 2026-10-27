@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31050",
+    "titel": "Modebild: Fünf Figuren, Damenmoden, Frisuren",
+    "Datum": "1839",
+    "Thema": [
+        "Modebilder",
+        "fashion plates",
+        "chapelaria",
+        "couvre-chef",
+        "Accessoires",
+        "accessories (~ clothing)",
+        "copricapo",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Frau",
+        "Fashion",
+        "Mode",
+        "hairdress",
+        "Frisur",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/51110/512957_default.webp",
+    "id": "a0d3c3bf-8e81-49f9-b8d9-b26a0e3b89b4",
+    "Filter": {
+        "Aehnlichkeit": 742,
+        "Farbe": [
+            2585,
+            5831,
+            7326,
+            8220,
+            8827,
+            10407
+        ]
+    }
+}

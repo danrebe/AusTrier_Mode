@@ -1,0 +1,35 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30343",
+    "titel": "Modebild: \"Pariserin mit Tafthut und Damenanzug\"",
+    "Datum": "1805",
+    "Thema": [
+        "dress, gown",
+        "chapelaria",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Modebilder",
+        "Bürgertum",
+        "Frau",
+        "Bourgeoisie",
+        "Fashion",
+        "fashion plates",
+        "copricapo",
+        "woman",
+        "Mode",
+        "(Damen-)Kleid"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48242/511141_default.webp",
+    "id": "0229f792-b9d3-4438-a89b-ce87a76f55fa",
+    "Filter": {
+        "Aehnlichkeit": 303,
+        "Farbe": [
+            1243,
+            3138,
+            4694,
+            6129
+        ]
+    }
+}

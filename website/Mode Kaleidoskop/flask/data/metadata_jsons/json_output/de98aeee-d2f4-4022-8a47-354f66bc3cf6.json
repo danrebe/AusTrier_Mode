@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30168",
+    "titel": "Modebild: \"Zwei Damen im Promenadeanzug - Morning Dresses\"",
+    "Datum": "1797",
+    "Thema": [
+        "Modebilder",
+        "fashion plates",
+        "copricapo",
+        "chapelaria",
+        "Kopfbedeckung",
+        "被り物",
+        "head-gear",
+        "couvre-chef",
+        "Bürgertum",
+        "dress, gown",
+        "Fashion",
+        "Bourgeoisie",
+        "woman",
+        "Frau",
+        "(Damen-)Kleid",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47529/1759410_default.webp",
+    "id": "de98aeee-d2f4-4022-8a47-354f66bc3cf6",
+    "Filter": {
+        "Aehnlichkeit": 1550,
+        "Farbe": [
+            159,
+            2879,
+            8970,
+            9761,
+            10965,
+            10968
+        ]
+    }
+}

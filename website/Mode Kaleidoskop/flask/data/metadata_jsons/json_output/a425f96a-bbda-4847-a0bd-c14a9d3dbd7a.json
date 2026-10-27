@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31187",
+    "titel": "Modebild: Fünf Figuren, Gesellschaftskleider",
+    "Datum": "1843",
+    "Thema": [
+        "(Damen-)Kleid",
+        "Frau",
+        "dress, gown",
+        "Modebilder",
+        "Kopfbedeckung",
+        "被り物",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Kleidung für offizielle Anlässe",
+        "clothes for official occasions",
+        "Public Festivals and Celebrations",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "Nachtleben",
+        "woman",
+        "fashion plates",
+        "Nightlife",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53820/513639_default.webp",
+    "id": "a425f96a-bbda-4847-a0bd-c14a9d3dbd7a",
+    "Filter": {
+        "Aehnlichkeit": 1820,
+        "Farbe": [
+            2702,
+            4213,
+            7129,
+            8294,
+            9615,
+            10473
+        ]
+    }
+}

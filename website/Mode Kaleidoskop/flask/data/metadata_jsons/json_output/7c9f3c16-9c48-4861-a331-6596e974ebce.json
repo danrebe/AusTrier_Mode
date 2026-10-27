@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30855",
+    "titel": "Modebild: Zwei Figuren, London Dresses",
+    "Datum": "1810",
+    "Thema": [
+        "fashion plates",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Kopfbedeckung",
+        "被り物",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Mode",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Modebilder",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49826/512707_default.webp",
+    "id": "7c9f3c16-9c48-4861-a331-6596e974ebce",
+    "Filter": {
+        "Aehnlichkeit": 1079,
+        "Farbe": [
+            1171,
+            3077,
+            4643,
+            5472,
+            5621,
+            8437
+        ]
+    }
+}

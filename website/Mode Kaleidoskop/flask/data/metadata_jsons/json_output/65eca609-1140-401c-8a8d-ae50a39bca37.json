@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30247",
+    "titel": "Modebild: \"Zwei Französinnen mit italienischem Strohhut und Satinhut samt Federn\"",
+    "Datum": "1816",
+    "Thema": [
+        "woman",
+        "Mode",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "fashion plates",
+        "Bürgertum",
+        "Frau",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Fashion",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47758/1759489_default.webp",
+    "id": "65eca609-1140-401c-8a8d-ae50a39bca37",
+    "Filter": {
+        "Aehnlichkeit": 339,
+        "Farbe": [
+            1522,
+            3377,
+            4327,
+            4919
+        ]
+    }
+}

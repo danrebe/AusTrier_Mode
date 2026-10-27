@@ -1,0 +1,44 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31191",
+    "titel": "Modebild: Fünf Figuren, Damen- und Kindermoden",
+    "Datum": "1843",
+    "Thema": [
+        "copricapo",
+        "chapelaria",
+        "被り物",
+        "Modebilder",
+        "fashion plates",
+        "Frisur",
+        "accessories (~ clothing)",
+        "hairdress",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "Accessoires",
+        "Kind",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "Frau",
+        "child",
+        "Mode",
+        "fashion, clothing (+ boys' clothes)",
+        "woman",
+        "Kleidung für Jungen"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53828/513643_default.webp",
+    "id": "a772cb5d-73a9-4f98-8501-9418405c372d",
+    "Filter": {
+        "Aehnlichkeit": 1834,
+        "Farbe": [
+            789,
+            2709,
+            4217,
+            7373,
+            8297,
+            8915,
+            10479
+        ]
+    }
+}

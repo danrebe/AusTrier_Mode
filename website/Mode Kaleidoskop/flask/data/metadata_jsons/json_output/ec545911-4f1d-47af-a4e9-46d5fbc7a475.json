@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30363",
+    "titel": "Modebild: \"Französische Dame mit Plisseekleid und Sonnenschirm\"",
+    "Datum": "1810",
+    "Thema": [
+        "(Damen-)Kleid",
+        "fashion plates",
+        "Modebilder",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "woman",
+        "Mode",
+        "Frau",
+        "dress, gown"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48307/511953_default.webp",
+    "id": "ec545911-4f1d-47af-a4e9-46d5fbc7a475",
+    "Filter": {
+        "Aehnlichkeit": 1985,
+        "Farbe": [
+            1009,
+            6511,
+            7424,
+            8986,
+            10531,
+            10558,
+            11053
+        ]
+    }
+}

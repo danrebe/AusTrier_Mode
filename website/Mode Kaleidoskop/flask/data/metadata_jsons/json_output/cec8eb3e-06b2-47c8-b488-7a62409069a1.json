@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30819",
+    "titel": "Modebild: Zwei Figuren, Hauskleider",
+    "Datum": "1799",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Modebilder",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "fashion plates",
+        "Frau",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49700/512635_default.webp",
+    "id": "cec8eb3e-06b2-47c8-b488-7a62409069a1",
+    "Filter": {
+        "Aehnlichkeit": 1269,
+        "Farbe": [
+            1274,
+            3163,
+            4719,
+            5912,
+            6135,
+            6609,
+            9885
+        ]
+    }
+}

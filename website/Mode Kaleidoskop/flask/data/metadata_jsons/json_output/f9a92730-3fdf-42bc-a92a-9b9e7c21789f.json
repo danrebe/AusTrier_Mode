@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30019",
+    "titel": "Modebild: \"Walking Dress\"",
+    "Datum": "1829",
+    "Thema": [
+        "Modebilder",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "copricapo",
+        "chapelaria",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "fashion plates",
+        "Bourgeoisie",
+        "Fashion",
+        "Bürgertum",
+        "Biedermeier",
+        "Mode",
+        "woman",
+        "Frau"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/45220/511005_default.webp",
+    "id": "f9a92730-3fdf-42bc-a92a-9b9e7c21789f",
+    "Filter": {
+        "Aehnlichkeit": 1677,
+        "Farbe": [
+            1883,
+            3679,
+            5130,
+            6207,
+            6848,
+            11196
+        ]
+    }
+}

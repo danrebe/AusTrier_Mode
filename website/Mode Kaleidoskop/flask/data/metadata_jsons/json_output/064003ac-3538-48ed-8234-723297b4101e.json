@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31484",
+    "titel": "Modebild: Zwei Figuren, Morgenkleid und Ausgehkleid",
+    "Datum": "um 1834",
+    "Thema": [
+        "Mode",
+        "woman",
+        "Modebilder",
+        "fashion plates",
+        "Fashion",
+        "Bürgertum",
+        "Frau",
+        "Bourgeoisie",
+        "copricapo",
+        "chapelaria",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "被り物",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55157/614245_default.webp",
+    "id": "064003ac-3538-48ed-8234-723297b4101e",
+    "Filter": {
+        "Aehnlichkeit": 489,
+        "Farbe": [
+            186,
+            1049,
+            5609,
+            6527,
+            8993,
+            9799,
+            11097
+        ]
+    }
+}

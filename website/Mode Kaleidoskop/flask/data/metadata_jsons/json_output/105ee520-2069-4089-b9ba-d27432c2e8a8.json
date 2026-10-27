@@ -1,0 +1,49 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31216",
+    "titel": "Modebild: Ein Herrenanzug, vier Gesellschaftskleider",
+    "Datum": "1844",
+    "Thema": [
+        "Frisur",
+        "hairdress",
+        "fashion plates",
+        "Mann",
+        "Public Festivals and Celebrations",
+        "dandy, beau",
+        "woman",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Modebilder",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "Frau",
+        "chapelaria",
+        "Accessoires",
+        "accessories (~ clothing)",
+        "Kleidung für offizielle Anlässe",
+        "clothes for official occasions",
+        "coat",
+        "Jacke, Mantel",
+        "copricapo",
+        "man",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Dandy, Beau, Geck",
+        "couvre-chef",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53861/513671_default.webp",
+    "id": "105ee520-2069-4089-b9ba-d27432c2e8a8",
+    "Filter": {
+        "Aehnlichkeit": 872,
+        "Farbe": [
+            695,
+            2526,
+            4155,
+            8186,
+            8780,
+            10374
+        ]
+    }
+}

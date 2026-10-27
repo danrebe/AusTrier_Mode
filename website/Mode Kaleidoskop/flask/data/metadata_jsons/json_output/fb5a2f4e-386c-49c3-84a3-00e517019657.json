@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30517",
+    "titel": "Modebild: \"Franzosen mit Zylinder, Mantel, englischen Krawatten, türkischen Hosen und Stöckchen\"",
+    "Datum": "1826",
+    "Thema": [
+        "coat",
+        "fashion plates",
+        "Modebilder",
+        "dandy, beau",
+        "Dandy, Beau, Geck",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Jacke, Mantel",
+        "Biedermeier",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "man",
+        "Mode",
+        "Mann"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48748/512195_default.webp",
+    "id": "fb5a2f4e-386c-49c3-84a3-00e517019657",
+    "Filter": {
+        "Aehnlichkeit": 1344,
+        "Farbe": [
+            33,
+            478,
+            2035,
+            3806,
+            5230
+        ]
+    }
+}

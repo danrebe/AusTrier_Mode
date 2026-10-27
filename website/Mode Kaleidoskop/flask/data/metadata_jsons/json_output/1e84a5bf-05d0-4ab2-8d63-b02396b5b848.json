@@ -1,0 +1,45 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30150",
+    "titel": "Modebild: \"Zwei Damen in Ballkleidern\"",
+    "Datum": "1799",
+    "Thema": [
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "dress, gown: ball gown",
+        "couvre-chef",
+        "woman",
+        "Mode",
+        "Tanz",
+        "被り物",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "dress, gown",
+        "Ballkleid",
+        "Bourgeoisie",
+        "Bräuche",
+        "Costums",
+        "Fashion",
+        "Dance",
+        "Frau",
+        "Bürgertum",
+        "Nightlife",
+        "Modebilder",
+        "fashion plates",
+        "Nachtleben"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47509/511605_default.webp",
+    "id": "1e84a5bf-05d0-4ab2-8d63-b02396b5b848",
+    "Filter": {
+        "Aehnlichkeit": 681,
+        "Farbe": [
+            1175,
+            4298,
+            4646,
+            5622,
+            6113,
+            6566
+        ]
+    }
+}

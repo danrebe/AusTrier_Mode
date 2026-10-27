@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31569",
+    "titel": "Modebild: Zwei Figuren, Damenmoden für d. Herbst",
+    "Datum": "1832",
+    "Thema": [
+        "chapelaria",
+        "copricapo",
+        "Modebilder",
+        "fashion plates",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "couvre-chef",
+        "head-gear",
+        "被り物",
+        "Kopfbedeckung",
+        "Biedermeier",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "Frau",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55320/614415_default.webp",
+    "id": "c20e25f3-825e-4aab-9270-284f72ea0d24",
+    "Filter": {
+        "Aehnlichkeit": 582,
+        "Farbe": [
+            2243,
+            3984,
+            5773,
+            6989,
+            9438,
+            10236
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31955",
+    "titel": "Modebild: Drei Figuren, Herrenmoden (ein Jagdanzug)",
+    "Datum": "1840",
+    "Thema": [
+        "chapelaria",
+        "fashion plates",
+        "Jacke, Mantel",
+        "coat",
+        "Dandy, Beau, Geck",
+        "dandy, beau",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Modebilder",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Erholung und Freizeit",
+        "man",
+        "Mode",
+        "Mann",
+        "Recreation and Leisure"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/56517/510703_default.webp",
+    "id": "d3779909-d841-4e36-84e6-0d527d36a913",
+    "Filter": {
+        "Aehnlichkeit": 267,
+        "Farbe": [
+            45,
+            588,
+            2292,
+            4019,
+            5372
+        ]
+    }
+}

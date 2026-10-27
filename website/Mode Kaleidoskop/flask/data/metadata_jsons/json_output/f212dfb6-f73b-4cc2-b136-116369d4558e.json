@@ -1,0 +1,53 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31194",
+    "titel": "Modebild: Sechs Figuren, Damen-, Herren- und Kindermoden",
+    "Datum": "1843",
+    "Thema": [
+        "Mädchenkleid",
+        "hairdress",
+        "woman",
+        "Frisur",
+        "Mode",
+        "girls dress",
+        "fashion, clothing (+ girls' clothes)",
+        "Kleidung für Mädchen",
+        "Mann",
+        "Family",
+        "Fashion",
+        "Familie",
+        "child",
+        "man",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Frau",
+        "fashion plates",
+        "Kind",
+        "Dandy, Beau, Geck",
+        "dandy, beau",
+        "Jacke, Mantel",
+        "coat",
+        "Modebilder",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "chapelaria",
+        "copricapo",
+        "Accessoires",
+        "accessories (~ clothing)"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53832/513647_default.webp",
+    "id": "f212dfb6-f73b-4cc2-b136-116369d4558e",
+    "Filter": {
+        "Aehnlichkeit": 930,
+        "Farbe": [
+            2712,
+            4218,
+            8299,
+            8918,
+            10481,
+            10944
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31874",
+    "titel": "Modebild: Zwei Figuren, Damenmoden für den Herbst",
+    "Datum": "1838",
+    "Thema": [
+        "(Damen-)Kleid",
+        "head-gear",
+        "coat",
+        "Jacke, Mantel",
+        "couvre-chef",
+        "被り物",
+        "Kopfbedeckung",
+        "copricapo",
+        "chapelaria",
+        "dress, gown",
+        "Fashion",
+        "Frau",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Mode",
+        "woman",
+        "fashion plates",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/56151/510787_default.webp",
+    "id": "9b4f9c06-701e-4802-8d72-d5ab96c8e146",
+    "Filter": {
+        "Aehnlichkeit": 1798,
+        "Farbe": [
+            2518,
+            4148,
+            6287,
+            8180,
+            9579,
+            10669,
+            11176
+        ]
+    }
+}

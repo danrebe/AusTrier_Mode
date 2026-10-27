@@ -1,0 +1,44 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30007",
+    "titel": "\"Dinner Dress\" (Originaltitel)",
+    "Datum": "um 1826",
+    "Thema": [
+        "(Damen-)Kleid",
+        "chapelaria",
+        "copricapo",
+        "被り物",
+        "Kleidung für offizielle Anlässe",
+        "Nightlife",
+        "dress, gown",
+        "Public Festivals and Celebrations",
+        "Mode",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "head-gear",
+        "clothes for official occasions",
+        "Frau",
+        "Bürgertum",
+        "Biedermeier",
+        "woman",
+        "Fashion",
+        "Bourgeoisie",
+        "fashion plates",
+        "Modebilder",
+        "Nachtleben",
+        "Öffentliche Feste und Feierlichkeiten"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/45207/510981_default.webp",
+    "id": "83bb323e-4025-4f46-b53d-40511ea433e3",
+    "Filter": {
+        "Aehnlichkeit": 1728,
+        "Farbe": [
+            1103,
+            4594,
+            8417,
+            9825,
+            10801,
+            11206
+        ]
+    }
+}

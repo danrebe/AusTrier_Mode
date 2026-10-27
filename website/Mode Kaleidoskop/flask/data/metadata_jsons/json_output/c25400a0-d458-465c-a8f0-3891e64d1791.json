@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31199",
+    "titel": "Modebild: Vier Herrenanzüge, ein Damenreitanzug",
+    "Datum": "1843",
+    "Thema": [
+        "Modebilder",
+        "chapelaria",
+        "Jacke, Mantel",
+        "coat",
+        "Mode",
+        "man",
+        "Mann",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "copricapo",
+        "被り物",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "dandy, beau",
+        "Dandy, Beau, Geck",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53842/513101_default.webp",
+    "id": "c25400a0-d458-465c-a8f0-3891e64d1791",
+    "Filter": {
+        "Aehnlichkeit": 749,
+        "Farbe": [
+            620,
+            2359,
+            7777,
+            8112,
+            8709
+        ]
+    }
+}

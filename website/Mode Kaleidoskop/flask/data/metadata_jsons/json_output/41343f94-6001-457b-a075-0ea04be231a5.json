@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31119",
+    "titel": "Modebild: Vier Damenmoden, zwei Knabenanzüge",
+    "Datum": "1841",
+    "Thema": [
+        "Frisur",
+        "fashion plates",
+        "Kind",
+        "woman",
+        "Mode",
+        "Kleidung für Jungen",
+        "fashion, clothing (+ boys' clothes)",
+        "accessories (~ clothing)",
+        "hairdress",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "child",
+        "Frau",
+        "couvre-chef",
+        "Modebilder",
+        "chapelaria",
+        "copricapo",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Accessoires"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53503/513565_default.webp",
+    "id": "41343f94-6001-457b-a075-0ea04be231a5",
+    "Filter": {
+        "Aehnlichkeit": 60,
+        "Farbe": [
+            55,
+            2337,
+            5791,
+            7767,
+            8697,
+            10278
+        ]
+    }
+}

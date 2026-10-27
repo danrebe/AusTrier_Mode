@@ -1,0 +1,49 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31714",
+    "titel": "Modebild: Zwei Figuren, Damen- und Herrentrauermoden",
+    "Datum": "1835",
+    "Thema": [
+        "mourning dress",
+        "clothes for official occasions",
+        "Kleidung für offizielle Anlässe",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Jacke, Mantel",
+        "coat",
+        "Trauerkleidung",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "被り物",
+        "Kopfbedeckung",
+        "Bürgertum",
+        "Mann",
+        "Fashion",
+        "Costums",
+        "Disease and Death",
+        "Bräuche",
+        "Bourgeoisie",
+        "Frau",
+        "man",
+        "Krankheit und Tod",
+        "Mode",
+        "Modebilder",
+        "fashion plates",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55774/614709_default.webp",
+    "id": "5f31eaac-ab8b-4100-a9b1-a77d6d0f8420",
+    "Filter": {
+        "Aehnlichkeit": 816,
+        "Farbe": [
+            2260,
+            3998,
+            6996,
+            7240,
+            8086,
+            9449
+        ]
+    }
+}

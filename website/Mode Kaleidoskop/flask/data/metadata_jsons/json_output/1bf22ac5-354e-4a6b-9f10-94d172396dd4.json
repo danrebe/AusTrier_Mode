@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31374",
+    "titel": "Modebild: Zwei Figuren, Morgen- und Dinnerkleid",
+    "Datum": "1813",
+    "Thema": [
+        "fashion plates",
+        "Nachtleben",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "被り物",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "copricapo",
+        "chapelaria",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "woman",
+        "Mode",
+        "Modebilder",
+        "Nightlife"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54954/513275_default.webp",
+    "id": "1bf22ac5-354e-4a6b-9f10-94d172396dd4",
+    "Filter": {
+        "Aehnlichkeit": 1039,
+        "Farbe": [
+            1056,
+            2982,
+            4557,
+            6531,
+            7436
+        ]
+    }
+}

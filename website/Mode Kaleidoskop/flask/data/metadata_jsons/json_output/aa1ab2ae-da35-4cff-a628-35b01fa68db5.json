@@ -1,0 +1,48 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31243",
+    "titel": "Modebild: Fünf Figuren, vier Damenmoden (ein Brautkleid), ein Herrenanzug",
+    "Datum": "1844",
+    "Thema": [
+        "Bourgeoisie",
+        "Bräuche",
+        "Frau",
+        "Costums",
+        "Bürgertum",
+        "Fashion",
+        "woman",
+        "被り物",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "Kleidung für spezielle Zwecke (Brautmode)",
+        "copricapo",
+        "man",
+        "chapelaria",
+        "Jacke, Mantel",
+        "coat",
+        "Modebilder",
+        "fashion plates",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Mann",
+        "Frisur",
+        "hairdress",
+        "Public Festivals and Celebrations",
+        "Mode",
+        "clothes for official occasions",
+        "Kleidung für offizielle Anlässe",
+        "Accessoires",
+        "accessories (~ clothing)"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53897/513701_default.webp",
+    "id": "aa1ab2ae-da35-4cff-a628-35b01fa68db5",
+    "Filter": {
+        "Aehnlichkeit": 1469,
+        "Farbe": [
+            2544,
+            8196,
+            8793,
+            10385
+        ]
+    }
+}

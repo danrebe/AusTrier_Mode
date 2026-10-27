@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31485",
+    "titel": "Modebild: Zwei Figuren, Wagenkleid und Ausgehkleid",
+    "Datum": "um 1834",
+    "Thema": [
+        "woman",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "couvre-chef",
+        "被り物",
+        "copricapo",
+        "head-gear",
+        "Kopfbedeckung",
+        "chapelaria",
+        "fashion plates",
+        "Modebilder",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Frau",
+        "Travel and Tourism",
+        "Reisen und Tourismus",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55159/614247_default.webp",
+    "id": "4c370844-ae6c-42ae-86c8-f0f65124368b",
+    "Filter": {
+        "Aehnlichkeit": 1173,
+        "Farbe": [
+            1051,
+            2979,
+            5610,
+            6528,
+            7434,
+            8994,
+            11098
+        ]
+    }
+}

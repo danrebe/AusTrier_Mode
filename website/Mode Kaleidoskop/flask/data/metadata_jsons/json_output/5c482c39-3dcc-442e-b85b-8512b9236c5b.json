@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30473",
+    "titel": "Modebild: \"Französische Dame mit Blumenhut, weißer Perkalerobe und roter Schärpe\"",
+    "Datum": "1822",
+    "Thema": [
+        "woman",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "被り物",
+        "chapelaria",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Modebilder",
+        "Frau",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "Biedermeier",
+        "fashion plates",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48628/512127_default.webp",
+    "id": "5c482c39-3dcc-442e-b85b-8512b9236c5b",
+    "Filter": {
+        "Aehnlichkeit": 1340,
+        "Farbe": [
+            1092,
+            3011,
+            4586,
+            5888,
+            8415
+        ]
+    }
+}

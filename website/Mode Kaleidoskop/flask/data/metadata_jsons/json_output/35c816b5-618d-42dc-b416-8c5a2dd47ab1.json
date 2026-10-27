@@ -1,0 +1,47 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31320",
+    "titel": "Modebild: Fünf Figuren, Damen- und Herrenmoden (2 Gesellschaftskleider)",
+    "Datum": "1853",
+    "Thema": [
+        "dandy, beau",
+        "(Damen-)Kleid",
+        "被り物",
+        "chapelaria",
+        "Kopfbedeckung",
+        "copricapo",
+        "Mann",
+        "couvre-chef",
+        "Dandy, Beau, Geck",
+        "coat",
+        "Jacke, Mantel",
+        "dress, gown",
+        "clothes for official occasions",
+        "Kleidung für offizielle Anlässe",
+        "Modebilder",
+        "Public Festivals and Celebrations",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Bürgertum",
+        "Frau",
+        "Bourgeoisie",
+        "Fashion",
+        "man",
+        "head-gear",
+        "fashion plates",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54091/513221_default.webp",
+    "id": "35c816b5-618d-42dc-b416-8c5a2dd47ab1",
+    "Filter": {
+        "Aehnlichkeit": 87,
+        "Farbe": [
+            828,
+            2772,
+            7969,
+            8329,
+            8950,
+            10508
+        ]
+    }
+}

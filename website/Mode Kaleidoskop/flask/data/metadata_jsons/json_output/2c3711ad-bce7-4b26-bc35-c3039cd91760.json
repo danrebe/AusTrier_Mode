@@ -1,0 +1,44 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31762",
+    "titel": "Modebild: Zwei Figuren, Herrenanzüge  (Bedientenuniform)",
+    "Datum": "1836",
+    "Thema": [
+        "Dandy, Beau, Geck",
+        "dandy, beau",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "coat",
+        "Jacke, Mantel",
+        "chapelaria",
+        "couvre-chef",
+        "copricapo",
+        "(militärische) Uniformen",
+        "(military) uniforms",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Mann",
+        "Modebilder",
+        "fashion plates",
+        "Militär",
+        "Mode",
+        "man",
+        "Military"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55852/614805_default.webp",
+    "id": "2c3711ad-bce7-4b26-bc35-c3039cd91760",
+    "Filter": {
+        "Aehnlichkeit": 274,
+        "Farbe": [
+            691,
+            2511,
+            5818,
+            6060,
+            7094,
+            7843,
+            9571
+        ]
+    }
+}

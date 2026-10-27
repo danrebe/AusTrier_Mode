@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30599",
+    "titel": "Modebild: Zwei weiße Organdykleider, blauer und rosa Schal, weiße Hüte mit blauen und rosa Federn sowie Schleifen verziert",
+    "Datum": "1828",
+    "Thema": [
+        "Modebilder",
+        "fashion plates",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Schal",
+        "neck-gear ~ clothing",
+        "被り物",
+        "Kopfbedeckung",
+        "dress, gown",
+        "Frau",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Biedermeier",
+        "Fashion",
+        "(Damen-)Kleid",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49062/512321_default.webp",
+    "accessoires": [
+        "Schal"
+    ],
+    "id": "c5504ec3-fbb4-4e9b-93fa-0cb01fb9d0a9",
+    "Filter": {
+        "Aehnlichkeit": 1757,
+        "Farbe": [
+            421,
+            1835,
+            3641,
+            5107
+        ]
+    }
+}

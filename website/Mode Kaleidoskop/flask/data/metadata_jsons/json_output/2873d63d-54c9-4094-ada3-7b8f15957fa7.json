@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31428",
+    "titel": "Modebild: Eine Figur, Sächsisch- Coburg'sches Kleid",
+    "Datum": "1816",
+    "Thema": [
+        "woman",
+        "Kopfbedeckung",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "被り物",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Modebilder",
+        "Fashion",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Bürgertum",
+        "Frau",
+        "fashion plates",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55055/513887_default.webp",
+    "id": "2873d63d-54c9-4094-ada3-7b8f15957fa7",
+    "Filter": {
+        "Aehnlichkeit": 1219,
+        "Farbe": [
+            1427,
+            3291,
+            4852,
+            5942,
+            6156,
+            6653,
+            7504
+        ]
+    }
+}

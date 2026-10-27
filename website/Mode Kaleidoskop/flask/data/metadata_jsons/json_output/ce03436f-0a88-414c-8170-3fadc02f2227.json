@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30730",
+    "titel": "Modebild: Zwei Figuren, Redingoten aus Gros de la Chine",
+    "Datum": "1829",
+    "Thema": [
+        "被り物",
+        "dress, gown",
+        "fashion plates",
+        "Modebilder",
+        "chapelaria",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "(Damen-)Kleid",
+        "Biedermeier",
+        "Frau",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49461/512519_default.webp",
+    "id": "ce03436f-0a88-414c-8170-3fadc02f2227",
+    "Filter": {
+        "Aehnlichkeit": 967,
+        "Farbe": [
+            1425,
+            3289,
+            4850,
+            9937,
+            10995
+        ]
+    }
+}

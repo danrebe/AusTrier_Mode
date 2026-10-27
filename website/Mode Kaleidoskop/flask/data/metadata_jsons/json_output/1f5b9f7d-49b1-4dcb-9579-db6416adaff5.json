@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30280",
+    "titel": "Modebild: \"Französin mit Caschmirschärpe, Französin mit Mantille aus Zwirntüll\"",
+    "Datum": "1821",
+    "Thema": [
+        "Fashion",
+        "copricapo",
+        "woman",
+        "Mode",
+        "Modebilder",
+        "fashion plates",
+        "Biedermeier",
+        "chapelaria",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Frau",
+        "被り物",
+        "neck-gear ~ clothing",
+        "Schal",
+        "Accessoires",
+        "accessories (~ clothing)",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47883/1759407_default.webp",
+    "accessoires": [
+        "Schal"
+    ],
+    "id": "1f5b9f7d-49b1-4dcb-9579-db6416adaff5",
+    "Filter": {
+        "Aehnlichkeit": 870,
+        "Farbe": [
+            1305,
+            3187,
+            4746,
+            5569
+        ]
+    }
+}

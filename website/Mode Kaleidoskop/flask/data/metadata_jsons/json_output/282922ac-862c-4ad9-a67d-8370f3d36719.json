@@ -1,0 +1,45 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31533",
+    "titel": "Modebild: Zwei Figuren, Gesellschaftskleider",
+    "Datum": "1832",
+    "Thema": [
+        "Kopfbedeckung",
+        "被り物",
+        "chapelaria",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Kopfbedeckung: Turban",
+        "head-gear: turban",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "clothes for official occasions",
+        "Kleidung für offizielle Anlässe",
+        "woman",
+        "Biedermeier",
+        "Frau",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Public Festivals and Celebrations",
+        "fashion plates",
+        "Mode",
+        "Modebilder",
+        "Öffentliche Feste und Feierlichkeiten"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55263/614343_default.webp",
+    "id": "282922ac-862c-4ad9-a67d-8370f3d36719",
+    "Filter": {
+        "Aehnlichkeit": 620,
+        "Farbe": [
+            2158,
+            3905,
+            5763,
+            6953,
+            8077,
+            9398,
+            10204
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30323",
+    "titel": "Modebild: \"Pariserin mit Barett à l' Jpsilanti Pariser mit Castorhut und Überkleid\"",
+    "Datum": "1826",
+    "Thema": [
+        "dress, gown",
+        "Kopfbedeckung",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "(Damen-)Kleid",
+        "Biedermeier",
+        "Fashion",
+        "fashion plates",
+        "Frau",
+        "Bürgertum",
+        "Mode",
+        "Modebilder",
+        "man",
+        "Mann",
+        "woman",
+        "被り物",
+        "Bourgeoisie"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48178/511891_default.webp",
+    "id": "0cbec109-7c60-4c0b-898f-805adef01503",
+    "Filter": {
+        "Aehnlichkeit": 775,
+        "Farbe": [
+            430,
+            1879,
+            3675,
+            5128,
+            10583
+        ]
+    }
+}

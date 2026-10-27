@@ -1,0 +1,47 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31526",
+    "titel": "Modebild: Zwei Figuren, Pariser Ballkleider",
+    "Datum": "1832",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "fashion plates",
+        "Modebilder",
+        "Ballkleid",
+        "dress, gown: ball gown",
+        "Nachtleben",
+        "Nightlife",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "woman",
+        "Bourgeoisie",
+        "Fashion",
+        "Bürgertum",
+        "Costums",
+        "Bräuche",
+        "Frau",
+        "Dance",
+        "Biedermeier",
+        "Mode",
+        "Tanz"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55252/614329_default.webp",
+    "id": "aec31480-7fc1-4c0c-a6c6-e74bf8049100",
+    "Filter": {
+        "Aehnlichkeit": 546,
+        "Farbe": [
+            2027,
+            6419,
+            6901,
+            7670,
+            8621,
+            9347,
+            10161
+        ]
+    }
+}

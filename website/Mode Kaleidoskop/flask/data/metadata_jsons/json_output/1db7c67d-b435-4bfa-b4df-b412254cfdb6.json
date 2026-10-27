@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30104",
+    "titel": "Modebild: \"Dame in einer Chemise (englisches Hemdkleid)\"",
+    "Datum": "1798",
+    "Thema": [
+        "chapelaria",
+        "Kopfbedeckung",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "被り物",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Bourgeoisie",
+        "Mode",
+        "woman",
+        "Modebilder",
+        "fashion plates",
+        "Frau",
+        "Fashion",
+        "Bürgertum"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47362/511525_default.webp",
+    "id": "1db7c67d-b435-4bfa-b4df-b412254cfdb6",
+    "Filter": {
+        "Aehnlichkeit": 1048,
+        "Farbe": [
+            2940,
+            4283,
+            4518,
+            6381,
+            8390
+        ]
+    }
+}

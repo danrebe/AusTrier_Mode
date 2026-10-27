@@ -1,0 +1,45 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30235",
+    "titel": "Modebild: \"Londoner Dame im Gesellschaftsanzug auf einer Bank\"",
+    "Datum": "1816",
+    "Thema": [
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "clothes for official occasions",
+        "(Damen-)Kleid",
+        "Modebilder",
+        "fashion plates",
+        "dress, gown",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Kleidung für offizielle Anlässe",
+        "Schal",
+        "neck-gear ~ clothing",
+        "Fashion",
+        "Frau",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Public Festivals and Celebrations",
+        "Öffentliche Feste und Feierlichkeiten",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47745/1759477_default.webp",
+    "accessoires": [
+        "Schal"
+    ],
+    "id": "b60f0581-d0be-4f3f-b763-46a94bf3ed14",
+    "Filter": {
+        "Aehnlichkeit": 1232,
+        "Farbe": [
+            1386,
+            3254,
+            4815,
+            9924
+        ]
+    }
+}

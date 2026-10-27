@@ -1,0 +1,48 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31094",
+    "titel": "Modebild: Brautkleid, Gesellschaftskleider",
+    "Datum": "1840",
+    "Thema": [
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Kleidung für spezielle Zwecke (Brautmode)",
+        "Modebilder",
+        "clothes for official occasions",
+        "fashion plates",
+        "chapelaria",
+        "accessories (~ clothing)",
+        "Accessoires",
+        "Kleidung für offizielle Anlässe",
+        "Mode",
+        "Tanz",
+        "Bräuche",
+        "Bourgeoisie",
+        "Dance",
+        "Costums",
+        "Bürgertum",
+        "Fashion",
+        "Public Festivals and Celebrations",
+        "Frau",
+        "hairdress",
+        "Frisur",
+        "Öffentliche Feste und Feierlichkeiten",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53410/513539_default.webp",
+    "id": "f43a3dc0-d29b-4a05-8ba3-cddf869f380e",
+    "Filter": {
+        "Aehnlichkeit": 1360,
+        "Farbe": [
+            2669,
+            4200,
+            7919,
+            8270,
+            9606,
+            10453
+        ]
+    }
+}

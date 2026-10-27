@@ -1,0 +1,44 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31269",
+    "titel": "Modebild: Fünf Figuren, Damen- und Herrenmoden",
+    "Datum": "1845",
+    "Thema": [
+        "copricapo",
+        "Jacke, Mantel",
+        "dandy, beau",
+        "Dandy, Beau, Geck",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "coat",
+        "fashion plates",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "woman",
+        "Biedermeier",
+        "Bürgertum",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "man",
+        "Mode",
+        "Mann",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53931/513167_default.webp",
+    "id": "75cf99fc-89c4-4496-87e3-cacb493a6e96",
+    "Filter": {
+        "Aehnlichkeit": 873,
+        "Farbe": [
+            2600,
+            7330,
+            7889,
+            8229,
+            8840,
+            10416
+        ]
+    }
+}

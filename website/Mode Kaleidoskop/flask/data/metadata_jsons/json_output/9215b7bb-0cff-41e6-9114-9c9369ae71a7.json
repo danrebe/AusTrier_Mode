@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30360",
+    "titel": "Modebild: \"Pariserin mit Kappe und Wintermantel aus gleichem Material\"",
+    "Datum": "1809",
+    "Thema": [
+        "被り物",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "fashion plates",
+        "Modebilder",
+        "head-gear",
+        "coat",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "Kopfbedeckung",
+        "Jacke, Mantel",
+        "Fashion",
+        "Bourgeoisie",
+        "Frau",
+        "Bürgertum",
+        "Mode",
+        "Winter",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48290/511949_default.webp",
+    "id": "9215b7bb-0cff-41e6-9114-9c9369ae71a7",
+    "Filter": {
+        "Aehnlichkeit": 1013,
+        "Farbe": [
+            179,
+            1030,
+            2962,
+            4536,
+            5605,
+            6518,
+            11094
+        ]
+    }
+}

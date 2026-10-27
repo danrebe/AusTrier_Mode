@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30655",
+    "titel": "Modebild: Zwei Gesellschaftskleider aus Crepe in blau und weiß, Saum verziert",
+    "Datum": "1829",
+    "Thema": [
+        "Kleidung für offizielle Anlässe",
+        "copricapo",
+        "chapelaria",
+        "dress, gown",
+        "fashion plates",
+        "Modebilder",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "clothes for official occasions",
+        "Mode",
+        "(Damen-)Kleid",
+        "Frau",
+        "Bürgertum",
+        "Biedermeier",
+        "Fashion",
+        "Bourgeoisie",
+        "woman",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Public Festivals and Celebrations"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49302/512405_default.webp",
+    "id": "bf1dbc66-8ac2-4b90-ae1b-5b5a9396f965",
+    "Filter": {
+        "Aehnlichkeit": 1888,
+        "Farbe": [
+            1922,
+            3712,
+            5160,
+            10120,
+            10858
+        ]
+    }
+}

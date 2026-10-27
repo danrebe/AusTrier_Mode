@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31365",
+    "titel": "Modebild: Zwei Figuren, Damenmoden",
+    "Datum": "1807",
+    "Thema": [
+        "Jacke, Mantel",
+        "coat",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Fashion",
+        "Frau",
+        "Bürgertum",
+        "Bourgeoisie",
+        "woman",
+        "fashion plates",
+        "Mode",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54930/513823_default.webp",
+    "id": "798f4743-f44a-4104-a8b7-ec511a36b9f9",
+    "Filter": {
+        "Aehnlichkeit": 1689,
+        "Farbe": [
+            1362,
+            3232,
+            4791,
+            5642,
+            6647,
+            7494,
+            11103
+        ]
+    }
+}

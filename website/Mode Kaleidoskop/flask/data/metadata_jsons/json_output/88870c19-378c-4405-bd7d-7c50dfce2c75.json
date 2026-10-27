@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30592",
+    "titel": "Modebild: Zwei Damen mit Kapotthüten und Kleidern in grün und rosa",
+    "Datum": "1828",
+    "Thema": [
+        "Mode",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "couvre-chef",
+        "chapelaria",
+        "copricapo",
+        "woman",
+        "Bourgeoisie",
+        "Frau",
+        "Fashion",
+        "Biedermeier",
+        "Bürgertum",
+        "fashion plates",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49055/512311_default.webp",
+    "id": "88870c19-378c-4405-bd7d-7c50dfce2c75",
+    "Filter": {
+        "Aehnlichkeit": 126,
+        "Farbe": [
+            416,
+            1816,
+            3626,
+            5097,
+            6196,
+            10627,
+            11134
+        ]
+    }
+}

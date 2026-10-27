@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30482",
+    "titel": "Modebild: \"Pariserin mit Maraboutfedernhut, großer Toilette, Schmuck und Fächer\"",
+    "Datum": "1822",
+    "Thema": [
+        "woman",
+        "Bourgeoisie",
+        "Bürgertum",
+        "fashion plates",
+        "Modebilder",
+        "Mode",
+        "Biedermeier",
+        "Frau",
+        "Fashion",
+        "head-gear",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "Kopfbedeckung",
+        "被り物"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48650/512141_default.webp",
+    "id": "03e4ab54-3881-43cb-8095-d6a1de1ac26c",
+    "Filter": {
+        "Aehnlichkeit": 371,
+        "Farbe": [
+            195,
+            1104,
+            3022,
+            4595
+        ]
+    }
+}

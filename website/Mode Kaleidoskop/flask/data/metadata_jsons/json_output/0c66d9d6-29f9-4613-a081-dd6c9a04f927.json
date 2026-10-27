@@ -1,0 +1,48 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30851",
+    "titel": "Modebild: Zwei Figuren, Ausgeh- und Galakleid",
+    "Datum": "1806",
+    "Thema": [
+        "Nachtleben",
+        "Fashion",
+        "Frau",
+        "Dance",
+        "Bourgeoisie",
+        "Bürgertum",
+        "copricapo",
+        "被り物",
+        "chapelaria",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "Mann",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Kleidung für offizielle Anlässe",
+        "clothes for official occasions",
+        "woman",
+        "man",
+        "Public Festivals and Celebrations",
+        "Tanz",
+        "fashion plates",
+        "Modebilder",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Nightlife",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49815/512699_default.webp",
+    "id": "0c66d9d6-29f9-4613-a081-dd6c9a04f927",
+    "Filter": {
+        "Aehnlichkeit": 759,
+        "Farbe": [
+            4724,
+            5915,
+            6138,
+            6611,
+            8466,
+            9887,
+            10535
+        ]
+    }
+}

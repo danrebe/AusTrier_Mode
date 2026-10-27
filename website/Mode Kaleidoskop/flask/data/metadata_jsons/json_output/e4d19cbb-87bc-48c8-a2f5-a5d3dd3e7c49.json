@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30326",
+    "titel": "Modebild: \"Französin in Musslinbluse, Franzose mit grauem Zylinder\"",
+    "Datum": "1827",
+    "Thema": [
+        "copricapo",
+        "Dandy, Beau, Geck",
+        "dandy, beau",
+        "fashion plates",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Modebilder",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "Mode",
+        "Frau",
+        "man",
+        "woman",
+        "Mann"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48192/511895_default.webp",
+    "id": "e4d19cbb-87bc-48c8-a2f5-a5d3dd3e7c49",
+    "Filter": {
+        "Aehnlichkeit": 522,
+        "Farbe": [
+            337,
+            1658,
+            3491,
+            5003
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31072",
+    "titel": "Modebild: Sechs Figuren, Damen- und Kindermoden, Hüte, Frisuren",
+    "Datum": "1840",
+    "Thema": [
+        "copricapo",
+        "chapelaria",
+        "Modebilder",
+        "Frisur",
+        "fashion plates",
+        "fashion, clothing (+ girls' clothes)",
+        "Kind",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Accessoires",
+        "accessories (~ clothing)",
+        "Kleidung für Mädchen",
+        "Bürgertum",
+        "Fashion",
+        "child",
+        "Bourgeoisie",
+        "Frau",
+        "Mädchenkleid",
+        "hairdress",
+        "woman",
+        "Mode",
+        "girls dress"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/51180/513517_default.webp",
+    "id": "8d6d7244-26fa-4f79-9e11-1a4aab34621e",
+    "Filter": {
+        "Aehnlichkeit": 161,
+        "Farbe": [
+            2634,
+            5543,
+            5845,
+            8865,
+            10438
+        ]
+    }
+}

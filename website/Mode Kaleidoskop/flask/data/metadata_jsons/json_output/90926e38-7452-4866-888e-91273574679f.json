@@ -1,0 +1,29 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30521",
+    "titel": "Modebild: \"Zwei Pariserinnen mit Festfrisuren, Tanzkleidern, Handschuhen und Fächern\"",
+    "Datum": "1827",
+    "Thema": [
+        "Public Festivals and Celebrations",
+        "Öffentliche Feste und Feierlichkeiten",
+        "fashion plates",
+        "Modebilder",
+        "clothes for official occasions",
+        "Kleidung für offizielle Anlässe",
+        "hairdress",
+        "Frisur",
+        "Mode",
+        "Fashion"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48766/512201_default.webp",
+    "id": "90926e38-7452-4866-888e-91273574679f",
+    "Filter": {
+        "Aehnlichkeit": 783,
+        "Farbe": [
+            355,
+            1700,
+            3528,
+            5026
+        ]
+    }
+}

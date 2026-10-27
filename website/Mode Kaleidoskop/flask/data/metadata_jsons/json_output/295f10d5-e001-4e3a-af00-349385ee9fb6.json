@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30480",
+    "titel": "Modebild: \"Französische Dame mit Federhut, Robe, gelbem Umhang und Lorgnon\"",
+    "Datum": "1822",
+    "Thema": [
+        "dress, gown",
+        "cape",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "Umhang, Cape",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "Modebilder",
+        "woman",
+        "Biedermeier",
+        "Frau",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "fashion plates",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48645/512139_default.webp",
+    "id": "295f10d5-e001-4e3a-af00-349385ee9fb6",
+    "Filter": {
+        "Aehnlichkeit": 309,
+        "Farbe": [
+            1043,
+            2973,
+            4549,
+            5607,
+            6523,
+            7432
+        ]
+    }
+}

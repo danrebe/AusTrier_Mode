@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30679",
+    "titel": "Modebild: Zwei Figuren, weiße Kleider verziert mit Fransen und Stickerei",
+    "Datum": "1829",
+    "Thema": [
+        "Modebilder",
+        "fashion plates",
+        "(Damen-)Kleid",
+        "head-gear",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "Kopfbedeckung",
+        "被り物",
+        "woman",
+        "Biedermeier",
+        "dress, gown",
+        "Fashion",
+        "Frau",
+        "Bourgeoisie",
+        "Mode",
+        "Bürgertum"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49365/512443_default.webp",
+    "id": "c4ce847a-24c2-402a-9d1c-9fa864681426",
+    "Filter": {
+        "Aehnlichkeit": 1314,
+        "Farbe": [
+            535,
+            2166,
+            3913,
+            5308,
+            8649
+        ]
+    }
+}

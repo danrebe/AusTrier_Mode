@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31562",
+    "titel": "Modebild: Drei Figuren, weibliche  Sommermoden",
+    "Datum": "1832",
+    "Thema": [
+        "fashion plates",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "chapelaria",
+        "couvre-chef",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "Biedermeier",
+        "Modebilder",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "Frau",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55312/614401_default.webp",
+    "id": "7832bc25-6634-4dfc-9291-aa5a25ee0e1d",
+    "Filter": {
+        "Aehnlichkeit": 1684,
+        "Farbe": [
+            554,
+            2217,
+            3960,
+            6266,
+            6977,
+            7718,
+            9427
+        ]
+    }
+}

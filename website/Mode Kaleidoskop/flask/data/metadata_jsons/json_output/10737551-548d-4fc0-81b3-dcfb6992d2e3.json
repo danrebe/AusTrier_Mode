@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30635",
+    "titel": "Modebild: Zwei Damen in blauer und grauer Redingote aus Satin mit Boa aus Marder",
+    "Datum": "1828",
+    "Thema": [
+        "被り物",
+        "head-gear",
+        "dress, gown",
+        "Kopfbedeckung",
+        "(Damen-)Kleid",
+        "couvre-chef",
+        "copricapo",
+        "Modebilder",
+        "Biedermeier",
+        "fashion plates",
+        "Mode",
+        "woman",
+        "chapelaria",
+        "Bürgertum",
+        "Frau",
+        "Bourgeoisie",
+        "Fashion"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49151/512375_default.webp",
+    "id": "10737551-548d-4fc0-81b3-dcfb6992d2e3",
+    "Filter": {
+        "Aehnlichkeit": 136,
+        "Farbe": [
+            269,
+            1460,
+            3322,
+            4877,
+            7986,
+            10821
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31096",
+    "titel": "Modebild: Damen-, Herren- und Hutmoden",
+    "Datum": "1840",
+    "Thema": [
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "Jacke, Mantel",
+        "couvre-chef",
+        "chapelaria",
+        "Dandy, Beau, Geck",
+        "dandy, beau",
+        "man",
+        "coat",
+        "copricapo",
+        "Accessoires",
+        "accessories (~ clothing)",
+        "Bürgertum",
+        "Fashion",
+        "Frau",
+        "Bourgeoisie",
+        "Mode",
+        "hairdress",
+        "Frisur",
+        "Mann",
+        "fashion plates",
+        "woman",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53417/513003_default.webp",
+    "id": "3760e8ef-3ca2-4edd-8867-369a5b72e585",
+    "Filter": {
+        "Aehnlichkeit": 163,
+        "Farbe": [
+            732,
+            2605,
+            7332,
+            7891,
+            8233,
+            8843
+        ]
+    }
+}

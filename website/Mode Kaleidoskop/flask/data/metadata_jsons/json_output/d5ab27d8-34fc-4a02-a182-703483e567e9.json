@@ -1,0 +1,53 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31088",
+    "titel": "Modebild: Damen-, Herren- und Kindermoden, Frisuren",
+    "Datum": "1840",
+    "Thema": [
+        "fashion plates",
+        "Modebilder",
+        "dandy, beau",
+        "Dandy, Beau, Geck",
+        "coat",
+        "Jacke, Mantel",
+        "Kleidung für Mädchen",
+        "Kind",
+        "Mann",
+        "copricapo",
+        "accessories (~ clothing)",
+        "head-gear",
+        "couvre-chef",
+        "chapelaria",
+        "Accessoires",
+        "Kopfbedeckung",
+        "被り物",
+        "Bürgertum",
+        "Mädchenkleid",
+        "fashion, clothing (+ girls' clothes)",
+        "Fashion",
+        "Familie",
+        "Family",
+        "Bourgeoisie",
+        "child",
+        "woman",
+        "hairdress",
+        "Frisur",
+        "Mode",
+        "girls dress",
+        "Frau",
+        "man"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53395/513533_default.webp",
+    "id": "d5ab27d8-34fc-4a02-a182-703483e567e9",
+    "Filter": {
+        "Aehnlichkeit": 54,
+        "Farbe": [
+            2678,
+            5853,
+            7923,
+            8276,
+            8893,
+            10458
+        ]
+    }
+}

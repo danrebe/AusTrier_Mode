@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30763",
+    "titel": "Modebild: Zwei Figuren, Reitkleider",
+    "Datum": "1830",
+    "Thema": [
+        "woman",
+        "Biedermeier",
+        "Sports",
+        "fashion plates",
+        "Modebilder",
+        "Sport",
+        "Recreation and Leisure",
+        "Kopfbedeckung",
+        "Mode",
+        "couvre-chef",
+        "chapelaria",
+        "copricapo",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "被り物",
+        "head-gear",
+        "Erholung und Freizeit",
+        "Fashion",
+        "Bürgertum",
+        "Frau",
+        "Bourgeoisie"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49557/512571_default.webp",
+    "id": "182c5ac7-c257-4291-96b6-04ae64707e4f",
+    "Filter": {
+        "Aehnlichkeit": 1005,
+        "Farbe": [
+            2141,
+            3891,
+            5297,
+            7696,
+            10546
+        ]
+    }
+}

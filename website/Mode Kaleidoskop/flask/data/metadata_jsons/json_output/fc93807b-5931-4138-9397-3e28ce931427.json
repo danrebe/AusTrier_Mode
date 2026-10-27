@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31757",
+    "titel": "Modebild: Drei Figuren, Herren- und Knabenmoden",
+    "Datum": "1836",
+    "Thema": [
+        "Modebilder",
+        "fashion plates",
+        "dandy, beau",
+        "Dandy, Beau, Geck",
+        "coat",
+        "Jacke, Mantel",
+        "被り物",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "copricapo",
+        "chapelaria",
+        "Fashion",
+        "child",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Mann",
+        "Kind",
+        "man",
+        "fashion, clothing (+ boys' clothes)",
+        "Kleidung für Jungen",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55845/614795_default.webp",
+    "id": "fc93807b-5931-4138-9397-3e28ce931427",
+    "Filter": {
+        "Aehnlichkeit": 2016,
+        "Farbe": [
+            81,
+            2513,
+            4142,
+            7096,
+            7844,
+            9573
+        ]
+    }
+}

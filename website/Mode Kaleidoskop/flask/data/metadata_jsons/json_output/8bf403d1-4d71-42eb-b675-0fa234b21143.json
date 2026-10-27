@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31361",
+    "titel": "Modebild: Zwei Figuren, Herbstmoden (Ausgehkleider)",
+    "Datum": "1807",
+    "Thema": [
+        "Kopfbedeckung",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "被り物",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "woman",
+        "Mode",
+        "Frau",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Modebilder",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54266/513261_default.webp",
+    "id": "8bf403d1-4d71-42eb-b675-0fa234b21143",
+    "Filter": {
+        "Aehnlichkeit": 435,
+        "Farbe": [
+            914,
+            2853,
+            4269,
+            4432,
+            8360
+        ]
+    }
+}

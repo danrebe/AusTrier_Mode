@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30625",
+    "titel": "Modebild: Zwei Damen in Redingoten aus Gros des Indes mit Kapotthüten und Krawatten",
+    "Datum": "1828",
+    "Thema": [
+        "fashion plates",
+        "Modebilder",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "couvre-chef",
+        "被り物",
+        "copricapo",
+        "Kopfbedeckung",
+        "head-gear",
+        "chapelaria",
+        "woman",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Fashion",
+        "Bürgertum",
+        "Frau",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49118/512361_default.webp",
+    "id": "494bd447-b40d-41d2-8682-af3c822179bf",
+    "Filter": {
+        "Aehnlichkeit": 474,
+        "Farbe": [
+            333,
+            1652,
+            3486,
+            4999,
+            10708,
+            10838,
+            10972
+        ]
+    }
+}

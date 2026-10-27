@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31697",
+    "titel": "Modebild: Sieben  weibliche  Hut- und Haarmoden",
+    "Datum": "1834",
+    "Thema": [
+        "copricapo",
+        "Modebilder",
+        "fashion plates",
+        "couvre-chef",
+        "Accessoires",
+        "accessories (~ clothing)",
+        "chapelaria",
+        "Kopfbedeckung",
+        "head-gear",
+        "被り物",
+        "Mode",
+        "Biedermeier",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Frisur",
+        "Frau",
+        "hairdress",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55466/614675_default.webp",
+    "id": "e0e836d4-759f-414f-a26e-6555593d38d3",
+    "Filter": {
+        "Aehnlichkeit": 665,
+        "Farbe": [
+            342,
+            1675,
+            6759,
+            7582,
+            9198,
+            10840
+        ]
+    }
+}

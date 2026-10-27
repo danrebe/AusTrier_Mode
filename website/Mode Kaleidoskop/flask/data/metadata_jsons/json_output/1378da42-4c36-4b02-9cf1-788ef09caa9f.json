@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30824",
+    "titel": "Modebild: Zwei Figuren, Nachmitagskleider",
+    "Datum": "1800",
+    "Thema": [
+        "Bourgeoisie",
+        "Frau",
+        "Fashion",
+        "Bürgertum",
+        "被り物",
+        "couvre-chef",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "chapelaria",
+        "copricapo",
+        "head-gear",
+        "Kopfbedeckung",
+        "Modebilder",
+        "fashion plates",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49727/512645_default.webp",
+    "id": "1378da42-4c36-4b02-9cf1-788ef09caa9f",
+    "Filter": {
+        "Aehnlichkeit": 936,
+        "Farbe": [
+            1199,
+            3097,
+            4665,
+            5902,
+            6118,
+            6575,
+            9858
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30643",
+    "titel": "Modebild: Zwei Damen in blauem und weißem Kleid, Saum reich verziert",
+    "Datum": "1828",
+    "Thema": [
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "被り物",
+        "chapelaria",
+        "Mode",
+        "Kopfbedeckung",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "woman",
+        "Frau",
+        "Biedermeier",
+        "Bürgertum",
+        "Fashion",
+        "fashion plates",
+        "Modebilder",
+        "Bourgeoisie"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49189/512387_default.webp",
+    "id": "33fe4ec1-fa64-40b1-a585-8f991ce8851b",
+    "Filter": {
+        "Aehnlichkeit": 1100,
+        "Farbe": [
+            279,
+            1479,
+            3339,
+            4889,
+            5662
+        ]
+    }
+}

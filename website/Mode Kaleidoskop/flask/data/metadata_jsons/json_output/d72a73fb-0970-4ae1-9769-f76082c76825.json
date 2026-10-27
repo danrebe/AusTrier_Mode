@@ -1,0 +1,44 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31520",
+    "titel": "Modebild: Zwei Figuren, Damen- und Kinderkleid",
+    "Datum": "1832",
+    "Thema": [
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Modebilder",
+        "fashion plates",
+        "Mode",
+        "woman",
+        "fashion, clothing (+ girls' clothes)",
+        "head-gear",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "Kopfbedeckung",
+        "被り物",
+        "Kleidung für Mädchen",
+        "child",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Biedermeier",
+        "girls dress",
+        "Frau",
+        "Mädchenkleid",
+        "Kind"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55241/614317_default.webp",
+    "id": "d72a73fb-0970-4ae1-9769-f76082c76825",
+    "Filter": {
+        "Aehnlichkeit": 624,
+        "Farbe": [
+            1923,
+            3713,
+            6862,
+            7647,
+            9304,
+            10121
+        ]
+    }
+}

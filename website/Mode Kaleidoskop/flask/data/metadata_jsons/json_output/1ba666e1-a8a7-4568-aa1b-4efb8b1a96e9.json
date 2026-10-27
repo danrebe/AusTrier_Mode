@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30776",
+    "titel": "Modebild: Zwei Figuren, Kapotthüte, Kleider mit Schinkenärmeln und Jockeys",
+    "Datum": "1830",
+    "Thema": [
+        "Bürgertum",
+        "Modebilder",
+        "Mode",
+        "woman",
+        "fashion plates",
+        "(Damen-)Kleid",
+        "被り物",
+        "Fashion",
+        "Frau",
+        "Bourgeoisie",
+        "Biedermeier",
+        "chapelaria",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "dress, gown"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49574/511343_default.webp",
+    "id": "1ba666e1-a8a7-4568-aa1b-4efb8b1a96e9",
+    "Filter": {
+        "Aehnlichkeit": 1029,
+        "Farbe": [
+            563,
+            2230,
+            3973,
+            5347,
+            6270
+        ]
+    }
+}

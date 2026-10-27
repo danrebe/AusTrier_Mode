@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30218",
+    "titel": "Modebild: \"Zwei Pariserinnen mit englischem Hut und Zopffrisur\"",
+    "Datum": "1814",
+    "Thema": [
+        "Mode",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "couvre-chef",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "chapelaria",
+        "Modebilder",
+        "Frisur",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "Frau",
+        "fashion plates",
+        "hairdress",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47686/1759460_default.webp",
+    "id": "7c11ab50-bc0d-4673-ac4c-f7f6aa1cf698",
+    "Filter": {
+        "Aehnlichkeit": 632,
+        "Farbe": [
+            1024,
+            2957,
+            4532,
+            9791
+        ]
+    }
+}

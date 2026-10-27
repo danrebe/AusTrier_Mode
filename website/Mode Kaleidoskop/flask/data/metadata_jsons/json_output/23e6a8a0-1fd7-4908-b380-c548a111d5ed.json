@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31359",
+    "titel": "Modebild: Abendspaziergangskleider",
+    "Datum": "1807",
+    "Thema": [
+        "woman",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "被り物",
+        "Modebilder",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "Nightlife",
+        "Frau",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Mode",
+        "fashion plates",
+        "Nachtleben"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54262/513259_default.webp",
+    "id": "23e6a8a0-1fd7-4908-b380-c548a111d5ed",
+    "Filter": {
+        "Aehnlichkeit": 434,
+        "Farbe": [
+            961,
+            2894,
+            4473,
+            9766
+        ]
+    }
+}

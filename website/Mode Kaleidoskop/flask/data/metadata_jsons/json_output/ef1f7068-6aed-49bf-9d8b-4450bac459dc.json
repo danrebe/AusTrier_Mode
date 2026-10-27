@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30113",
+    "titel": "Modebild: \"Junge Dame in Winterpromenadeanzug\"",
+    "Datum": "1800",
+    "Thema": [
+        "chapelaria",
+        "head-gear",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "fashion plates",
+        "Modebilder",
+        "copricapo",
+        "couvre-chef",
+        "Kopfbedeckung",
+        "被り物",
+        "Winter",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "woman",
+        "Frau",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47387/511541_default.webp",
+    "id": "ef1f7068-6aed-49bf-9d8b-4450bac459dc",
+    "Filter": {
+        "Aehnlichkeit": 1021,
+        "Farbe": [
+            1002,
+            2934,
+            4512,
+            6509,
+            8985,
+            9781
+        ]
+    }
+}

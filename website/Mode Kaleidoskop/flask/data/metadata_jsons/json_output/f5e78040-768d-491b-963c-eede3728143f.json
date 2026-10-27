@@ -1,0 +1,46 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31151",
+    "titel": "Modebild: Sechs Figuren, Damen- und Herrenmoden",
+    "Datum": "1842",
+    "Thema": [
+        "couvre-chef",
+        "coat",
+        "dandy, beau",
+        "Dandy, Beau, Geck",
+        "Jacke, Mantel",
+        "Modebilder",
+        "chapelaria",
+        "copricapo",
+        "head-gear",
+        "Accessoires",
+        "accessories (~ clothing)",
+        "被り物",
+        "Kopfbedeckung",
+        "Bourgeoisie",
+        "hairdress",
+        "Fashion",
+        "Bürgertum",
+        "Mann",
+        "Frau",
+        "Mode",
+        "Frisur",
+        "man",
+        "woman",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53585/513599_default.webp",
+    "id": "f5e78040-768d-491b-963c-eede3728143f",
+    "Filter": {
+        "Aehnlichkeit": 173,
+        "Farbe": [
+            79,
+            2488,
+            5531,
+            7295,
+            7831,
+            8764,
+            10722
+        ]
+    }
+}

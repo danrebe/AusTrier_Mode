@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31414",
+    "titel": "Modebild: Eine Figur, Ausgehkleid für d. Herbst, kolorierter Kupferstich",
+    "Datum": "1815",
+    "Thema": [
+        "woman",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "copricapo",
+        "chapelaria",
+        "被り物",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "Modebilder",
+        "Bürgertum",
+        "Biedermeier",
+        "Frau",
+        "Bourgeoisie",
+        "Fashion",
+        "Mode",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55024/513871_default.webp",
+    "id": "5fb1a7c2-b4aa-45ab-91bc-d9ff9d7fc003",
+    "Filter": {
+        "Aehnlichkeit": 245,
+        "Farbe": [
+            208,
+            1182,
+            3086,
+            4653,
+            8441
+        ]
+    }
+}

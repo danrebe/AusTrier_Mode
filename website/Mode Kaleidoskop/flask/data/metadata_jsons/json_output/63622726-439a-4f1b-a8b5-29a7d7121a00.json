@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30087",
+    "titel": "Modebild: \"Junge, deutsche Dame mit Modeneuheiten\"",
+    "Datum": "1793",
+    "Thema": [
+        "dress, gown",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "copricapo",
+        "head-gear",
+        "couvre-chef",
+        "Bürgertum",
+        "Modebilder",
+        "Fashion",
+        "Frau",
+        "Bourgeoisie",
+        "woman",
+        "Mode",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47306/511495_default.webp",
+    "id": "63622726-439a-4f1b-a8b5-29a7d7121a00",
+    "Filter": {
+        "Aehnlichkeit": 35,
+        "Farbe": [
+            860,
+            2804,
+            4252,
+            4382,
+            8344
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31349",
+    "titel": "Modebild: Zwei Figuren, Pariser Morgenausgeh- und Ballkleid",
+    "Datum": "1807",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Modebilder",
+        "fashion plates",
+        "dress, gown: ball gown",
+        "Ballkleid",
+        "Frau",
+        "copricapo",
+        "chapelaria",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Tanz",
+        "Biedermeier",
+        "Bräuche",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "Dance",
+        "Costums",
+        "Nightlife",
+        "woman",
+        "Mode",
+        "Nachtleben"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54212/513253_default.webp",
+    "id": "ced116f5-c4cb-4fa6-a0b9-03eed00e2255",
+    "Filter": {
+        "Aehnlichkeit": 1690,
+        "Farbe": [
+            963,
+            4476,
+            5563,
+            5599,
+            6492,
+            7153,
+            8375
+        ]
+    }
+}

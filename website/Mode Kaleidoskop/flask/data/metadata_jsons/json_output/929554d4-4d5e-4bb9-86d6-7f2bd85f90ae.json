@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30669",
+    "titel": "Modebild: Zwei Figuren, Popelinekleider in blau und gelb mit weißen Schinkenärmeln",
+    "Datum": "1829",
+    "Thema": [
+        "Modebilder",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "被り物",
+        "fashion plates",
+        "Biedermeier",
+        "Fashion",
+        "Frau",
+        "Bürgertum",
+        "Bourgeoisie",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49336/512427_default.webp",
+    "id": "929554d4-4d5e-4bb9-86d6-7f2bd85f90ae",
+    "Filter": {
+        "Aehnlichkeit": 1133,
+        "Farbe": [
+            2042,
+            5236,
+            6907,
+            7674,
+            10167,
+            10872
+        ]
+    }
+}

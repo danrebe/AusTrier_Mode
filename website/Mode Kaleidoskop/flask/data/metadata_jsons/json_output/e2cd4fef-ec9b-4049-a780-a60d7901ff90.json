@@ -1,0 +1,47 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31658",
+    "titel": "Modebild: Drei Figuren, Damen- und Herren- und Kindermoden",
+    "Datum": "1834",
+    "Thema": [
+        "fashion plates",
+        "Modebilder",
+        "coat",
+        "Jacke, Mantel",
+        "dandy, beau",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Dandy, Beau, Geck",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "child",
+        "man",
+        "Frau",
+        "Mode",
+        "Kind",
+        "Mann",
+        "Kleidung für Jungen",
+        "woman",
+        "fashion, clothing (+ boys' clothes)"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55427/614597_default.webp",
+    "id": "e2cd4fef-ec9b-4049-a780-a60d7901ff90",
+    "Filter": {
+        "Aehnlichkeit": 1331,
+        "Farbe": [
+            1832,
+            6818,
+            8038,
+            9264,
+            10083,
+            10974
+        ]
+    }
+}

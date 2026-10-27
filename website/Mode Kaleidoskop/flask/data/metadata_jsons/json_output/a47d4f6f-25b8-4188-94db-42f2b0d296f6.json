@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30372",
+    "titel": "Modebild: \"Französische Dame mit Blumenhut, an Felsen gelehnt in einem Buch lesend\"",
+    "Datum": "1812",
+    "Thema": [
+        "Modebilder",
+        "fashion plates",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Mode",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "Biedermeier",
+        "Frau",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48341/511153_default.webp",
+    "id": "a47d4f6f-25b8-4188-94db-42f2b0d296f6",
+    "Filter": {
+        "Aehnlichkeit": 1821,
+        "Farbe": [
+            911,
+            4268,
+            4430,
+            6302,
+            8359
+        ]
+    }
+}

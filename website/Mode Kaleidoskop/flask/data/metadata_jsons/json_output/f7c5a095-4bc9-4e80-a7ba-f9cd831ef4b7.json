@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31360",
+    "titel": "Modebild: Zwei Figuren, Kinderkleid, Londoner Ausgehkleid",
+    "Datum": "1807",
+    "Thema": [
+        "fashion plates",
+        "Modebilder",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "woman",
+        "Frau",
+        "Biedermeier",
+        "child",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "Kind",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54263/513819_default.webp",
+    "id": "f7c5a095-4bc9-4e80-a7ba-f9cd831ef4b7",
+    "Filter": {
+        "Aehnlichkeit": 2004,
+        "Farbe": [
+            1295,
+            3180,
+            4736,
+            5568,
+            5636,
+            5919,
+            6618
+        ]
+    }
+}

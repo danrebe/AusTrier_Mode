@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30334",
+    "titel": "Modebild: \"Damenanzug aus Paris mit Umhang\"",
+    "Datum": "1798",
+    "Thema": [
+        "woman",
+        "Frau",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Kopfbedeckung",
+        "cape",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Umhang, Cape",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "被り物",
+        "Modebilder",
+        "fashion plates",
+        "Mode",
+        "Fashion"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48208/511907_default.webp",
+    "id": "1085b33e-75bc-46eb-b6d3-6f58608de312",
+    "Filter": {
+        "Aehnlichkeit": 879,
+        "Farbe": [
+            1033,
+            2965,
+            4539,
+            6519,
+            7158
+        ]
+    }
+}

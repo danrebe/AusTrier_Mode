@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30244",
+    "titel": "Modebild: \"Zwei französische Damen mit Gürteltasche und Bändern\"",
+    "Datum": "1816",
+    "Thema": [
+        "fashion plates",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "被り物",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "head-gear",
+        "copricapo",
+        "chapelaria",
+        "Modebilder",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Bürgertum",
+        "Fashion",
+        "Frau",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47755/1759486_default.webp",
+    "id": "a2396afa-5e31-4f26-a0ef-95a9ac21b6f1",
+    "Filter": {
+        "Aehnlichkeit": 1378,
+        "Farbe": [
+            1406,
+            3274,
+            4834,
+            5938,
+            7501
+        ]
+    }
+}

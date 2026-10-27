@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30052",
+    "titel": "Modebild: Kleidung, Hut, Fächer",
+    "Datum": "1785-1790",
+    "Thema": [
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Fächer",
+        "Kopfbedeckung",
+        "Accessoires",
+        "accessories (~ clothing)",
+        "fan",
+        "被り物",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Mode",
+        "fashion plates",
+        "Modebilder",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/46917/511431_default.webp",
+    "accessoires": [
+        "Fächer"
+    ],
+    "id": "b790ac50-91f1-4fe1-a97c-ba0f52325026",
+    "Filter": {
+        "Aehnlichkeit": 1049,
+        "Farbe": [
+            188,
+            1058,
+            2984,
+            4559,
+            8400
+        ]
+    }
+}

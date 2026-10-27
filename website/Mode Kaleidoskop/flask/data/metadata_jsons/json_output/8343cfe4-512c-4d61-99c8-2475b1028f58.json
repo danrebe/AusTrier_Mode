@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30322",
+    "titel": "Modebild: \"Pariserin mit Reisstrohhut und Musslinschärpe, Pariser in Barchenthose\"",
+    "Datum": "1826",
+    "Thema": [
+        "copricapo",
+        "chapelaria",
+        "head-gear",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "woman",
+        "fashion plates",
+        "couvre-chef",
+        "clothing for the lower part of the body",
+        "Kleidung für den Unterkörper",
+        "被り物",
+        "Kopfbedeckung",
+        "Biedermeier",
+        "Frau",
+        "Bourgeoisie",
+        "Fashion",
+        "Bürgertum",
+        "Modebilder",
+        "Mode",
+        "Mann",
+        "man"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48176/511889_default.webp",
+    "id": "8343cfe4-512c-4d61-99c8-2475b1028f58",
+    "Filter": {
+        "Aehnlichkeit": 777,
+        "Farbe": [
+            459,
+            1958,
+            3743,
+            5178,
+            8605
+        ]
+    }
+}

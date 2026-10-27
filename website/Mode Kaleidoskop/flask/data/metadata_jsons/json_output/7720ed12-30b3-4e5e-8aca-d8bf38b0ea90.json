@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30712",
+    "titel": "Modebild: Zwei Figuren, Kleider in rosa und blau mit weißen Schinkenärmeln und Schal",
+    "Datum": "1829",
+    "Thema": [
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "被り物",
+        "copricapo",
+        "chapelaria",
+        "Schal",
+        "neck-gear ~ clothing",
+        "Modebilder",
+        "Frau",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Fashion",
+        "Mode",
+        "woman",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49427/512493_default.webp",
+    "accessoires": [
+        "Schal"
+    ],
+    "id": "7720ed12-30b3-4e5e-8aca-d8bf38b0ea90",
+    "Filter": {
+        "Aehnlichkeit": 364,
+        "Farbe": [
+            292,
+            1509,
+            3364,
+            4906,
+            6167,
+            10826
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30438",
+    "titel": "Modebild: \"Französische Dame mit blumengeschmücktem Gazehut, rotem Halstuch und Merinokleid\"",
+    "Datum": "1822",
+    "Thema": [
+        "dress, gown",
+        "Modebilder",
+        "fashion plates",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "被り物",
+        "Kopfbedeckung",
+        "(Damen-)Kleid",
+        "Biedermeier",
+        "Frau",
+        "Bourgeoisie",
+        "Fashion",
+        "Bürgertum",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48566/511181_default.webp",
+    "id": "bcbbecdb-d065-4bfc-9bb1-0a76ea25b5a2",
+    "Filter": {
+        "Aehnlichkeit": 299,
+        "Farbe": [
+            1157,
+            3067,
+            4636,
+            7455,
+            11101
+        ]
+    }
+}

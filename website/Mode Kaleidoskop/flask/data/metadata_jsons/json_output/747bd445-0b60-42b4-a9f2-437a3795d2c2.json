@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30184",
+    "titel": "Modebild: \"Zwei Damen aus Paris mit Turban und Satinhut\"",
+    "Datum": "1806",
+    "Thema": [
+        "neck-gear ~ clothing",
+        "Schal",
+        "被り物",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Kopfbedeckung",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung: Turban",
+        "Bürgertum",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "Modebilder",
+        "fashion plates",
+        "Mode",
+        "woman",
+        "head-gear: turban"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47577/1759426_default.webp",
+    "accessoires": [
+        "Schal"
+    ],
+    "id": "747bd445-0b60-42b4-a9f2-437a3795d2c2",
+    "Filter": {
+        "Aehnlichkeit": 634,
+        "Farbe": [
+            1052,
+            2980,
+            5468,
+            6529,
+            8995
+        ]
+    }
+}

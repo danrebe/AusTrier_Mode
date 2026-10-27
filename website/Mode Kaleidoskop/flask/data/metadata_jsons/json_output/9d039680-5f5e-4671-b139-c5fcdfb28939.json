@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30315",
+    "titel": "Modebild: \"Französin mit Reisstrohhut, Franzose mit englischer Halsbinde\"",
+    "Datum": "1825",
+    "Thema": [
+        "被り物",
+        "Modebilder",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "fashion plates",
+        "Dandy, Beau, Geck",
+        "dandy, beau",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "Frau",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "man",
+        "woman",
+        "Mann",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48144/511879_default.webp",
+    "id": "9d039680-5f5e-4671-b139-c5fcdfb28939",
+    "Filter": {
+        "Aehnlichkeit": 1153,
+        "Farbe": [
+            543,
+            2195,
+            3941,
+            5324
+        ]
+    }
+}

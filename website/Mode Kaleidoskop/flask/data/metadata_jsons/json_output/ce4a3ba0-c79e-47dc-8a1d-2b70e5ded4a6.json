@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31889",
+    "titel": "Modebild: Zwei Figuren, weibliche  Hausanzüge",
+    "Datum": "1839",
+    "Thema": [
+        "couvre-chef",
+        "Modebilder",
+        "fashion plates",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "被り物",
+        "chapelaria",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Bürgertum",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/56169/510665_default.webp",
+    "id": "ce4a3ba0-c79e-47dc-8a1d-2b70e5ded4a6",
+    "Filter": {
+        "Aehnlichkeit": 836,
+        "Farbe": [
+            51,
+            601,
+            2313,
+            4035,
+            9473,
+            10264
+        ]
+    }
+}

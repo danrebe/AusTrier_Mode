@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30426",
+    "titel": "Modebild: \"Pariserin mit Maraboutfedern und Pelzkape aus Chinchilla\"",
+    "Datum": "1822",
+    "Thema": [
+        "Modebilder",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "fashion plates",
+        "couvre-chef",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "chapelaria",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Biedermeier",
+        "Fashion",
+        "woman",
+        "Frau",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48539/512053_default.webp",
+    "id": "edd47995-5e29-4e55-b93b-dfab6ab00553",
+    "Filter": {
+        "Aehnlichkeit": 1988,
+        "Farbe": [
+            1742,
+            3562,
+            5044,
+            6349,
+            8028
+        ]
+    }
+}

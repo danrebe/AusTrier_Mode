@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30536",
+    "titel": "Modebild: Zwei Pariserinnen in rosa und blauem Moirékleid",
+    "Datum": "1827",
+    "Thema": [
+        "fashion plates",
+        "couvre-chef",
+        "Modebilder",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "head-gear",
+        "被り物",
+        "Kopfbedeckung",
+        "chapelaria",
+        "copricapo",
+        "Fashion",
+        "Bürgertum",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Frau",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48856/512227_default.webp",
+    "id": "99d328e3-dda6-4666-b30d-b00a8e4764d0",
+    "Filter": {
+        "Aehnlichkeit": 1793,
+        "Farbe": [
+            1830,
+            3638,
+            5104,
+            5984,
+            6198,
+            7216
+        ]
+    }
+}

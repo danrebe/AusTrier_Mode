@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30777",
+    "titel": "Modebild: Zwei Figuren, Tüllkleider",
+    "Datum": "1830",
+    "Thema": [
+        "Kopfbedeckung",
+        "被り物",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "fashion plates",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "woman",
+        "Modebilder",
+        "Frau",
+        "Biedermeier",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49575/512587_default.webp",
+    "id": "70826fb1-8541-4216-abf1-94c05c5aeacf",
+    "Filter": {
+        "Aehnlichkeit": 152,
+        "Farbe": [
+            2229,
+            3971,
+            6034,
+            6268,
+            9433,
+            10234
+        ]
+    }
+}

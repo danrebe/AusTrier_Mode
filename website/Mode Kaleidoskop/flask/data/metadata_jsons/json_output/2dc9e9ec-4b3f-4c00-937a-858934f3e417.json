@@ -1,0 +1,42 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30846",
+    "titel": "Modebild: Zwei Figuren, Abendkleider",
+    "Datum": "1803",
+    "Thema": [
+        "Modebilder",
+        "Nachtleben",
+        "Tanz",
+        "(Damen-)Kleid",
+        "Kopfbedeckung",
+        "dress, gown",
+        "被り物",
+        "chapelaria",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "fashion plates",
+        "Dance",
+        "Fashion",
+        "Frau",
+        "Bourgeoisie",
+        "Bürgertum",
+        "woman",
+        "Nightlife",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49785/512689_default.webp",
+    "id": "2dc9e9ec-4b3f-4c00-937a-858934f3e417",
+    "Filter": {
+        "Aehnlichkeit": 1275,
+        "Farbe": [
+            917,
+            4436,
+            6304,
+            8361,
+            9636,
+            9749,
+            10529
+        ]
+    }
+}

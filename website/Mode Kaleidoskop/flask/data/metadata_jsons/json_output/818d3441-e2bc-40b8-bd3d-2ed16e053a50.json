@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30344",
+    "titel": "Modebild: \"Französische Dame mit Kopfputz und Velourmantel\"",
+    "Datum": "1806",
+    "Thema": [
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Jacke, Mantel",
+        "coat",
+        "head-gear",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "Kopfbedeckung",
+        "被り物",
+        "woman",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Frau",
+        "fashion plates",
+        "Mode",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48243/511923_default.webp",
+    "id": "818d3441-e2bc-40b8-bd3d-2ed16e053a50",
+    "Filter": {
+        "Aehnlichkeit": 1722,
+        "Farbe": [
+            1131,
+            3045,
+            4617,
+            5613,
+            5894,
+            8426
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31625",
+    "titel": "Modebild: Frisuren, Hüte, modisches Beiwerk",
+    "Datum": "1833",
+    "Thema": [
+        "head-gear",
+        "Modebilder",
+        "Kopfbedeckung",
+        "被り物",
+        "Mode",
+        "couvre-chef",
+        "chapelaria",
+        "copricapo",
+        "accessories (~ clothing)",
+        "Accessoires",
+        "hairdress",
+        "Bürgertum",
+        "Frau",
+        "Fashion",
+        "Biedermeier",
+        "Bourgeoisie",
+        "fashion plates",
+        "Frisur",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55394/614531_default.webp",
+    "id": "2170f5cb-26ba-4ded-b1cb-1ed626df7b17",
+    "Filter": {
+        "Aehnlichkeit": 1116,
+        "Farbe": [
+            375,
+            1739,
+            5707,
+            7605,
+            9232,
+            10054
+        ]
+    }
+}

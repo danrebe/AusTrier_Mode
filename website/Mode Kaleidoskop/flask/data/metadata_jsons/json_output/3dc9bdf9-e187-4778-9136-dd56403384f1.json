@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30626",
+    "titel": "Modebild: Zwei Damen in Crepe-Kleidern in blau und weiß",
+    "Datum": "1828",
+    "Thema": [
+        "woman",
+        "couvre-chef",
+        "copricapo",
+        "head-gear",
+        "被り物",
+        "Kopfbedeckung",
+        "chapelaria",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Mode",
+        "Biedermeier",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Frau",
+        "Modebilder",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49119/511267_default.webp",
+    "id": "3dc9bdf9-e187-4778-9136-dd56403384f1",
+    "Filter": {
+        "Aehnlichkeit": 463,
+        "Farbe": [
+            308,
+            1552,
+            3402,
+            4945,
+            10833
+        ]
+    }
+}

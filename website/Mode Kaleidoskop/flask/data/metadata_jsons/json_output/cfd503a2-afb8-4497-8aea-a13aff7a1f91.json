@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31434",
+    "titel": "Modebild: Eine Figur, britisches Ausgehkleid",
+    "Datum": "1816",
+    "Thema": [
+        "dress, gown",
+        "fashion plates",
+        "Modebilder",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Mode",
+        "(Damen-)Kleid",
+        "Biedermeier",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "woman",
+        "Frau"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55067/513339_default.webp",
+    "id": "cfd503a2-afb8-4497-8aea-a13aff7a1f91",
+    "Filter": {
+        "Aehnlichkeit": 1877,
+        "Farbe": [
+            1136,
+            3048,
+            4622,
+            6109,
+            9833
+        ]
+    }
+}

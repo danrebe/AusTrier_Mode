@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30102",
+    "titel": "Modebild: \"Junge, deutsche Dame im Morgenanzug\"",
+    "Datum": "1798",
+    "Thema": [
+        "copricapo",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "被り物",
+        "chapelaria",
+        "head-gear",
+        "couvre-chef",
+        "Kopfbedeckung",
+        "Fashion",
+        "fashion plates",
+        "Frau",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Mode",
+        "woman",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47352/511521_default.webp",
+    "id": "29b91621-cd53-4a07-8cd3-3849f10584ca",
+    "Filter": {
+        "Aehnlichkeit": 1238,
+        "Farbe": [
+            171,
+            1001,
+            2933,
+            4282,
+            4511
+        ]
+    }
+}

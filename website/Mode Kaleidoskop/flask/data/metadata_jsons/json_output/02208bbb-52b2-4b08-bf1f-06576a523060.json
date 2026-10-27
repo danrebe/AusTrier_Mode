@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30357",
+    "titel": "Modebild: \"Pariserin in grünem Kapuzenmantel\"",
+    "Datum": "1809",
+    "Thema": [
+        "(Damen-)Kleid",
+        "Jacke, Mantel",
+        "chapelaria",
+        "coat",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Modebilder",
+        "Frau",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "Mode",
+        "fashion plates",
+        "woman",
+        "dress, gown"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48281/511945_default.webp",
+    "id": "02208bbb-52b2-4b08-bf1f-06576a523060",
+    "Filter": {
+        "Aehnlichkeit": 293,
+        "Farbe": [
+            177,
+            1019,
+            2951,
+            4528
+        ]
+    }
+}

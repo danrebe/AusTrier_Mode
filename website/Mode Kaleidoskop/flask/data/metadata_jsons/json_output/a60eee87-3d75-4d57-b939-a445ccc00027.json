@@ -1,0 +1,42 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31203",
+    "titel": "Modebild: Vier Damenmoden, ein Herrenanzug",
+    "Datum": "1843",
+    "Thema": [
+        "coat",
+        "Bürgertum",
+        "Jacke, Mantel",
+        "fashion plates",
+        "dandy, beau",
+        "Dandy, Beau, Geck",
+        "chapelaria",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "copricapo",
+        "Mann",
+        "Bourgeoisie",
+        "Fashion",
+        "Frau",
+        "man",
+        "Mode",
+        "woman",
+        "Modebilder",
+        "dress, gown",
+        "(Damen-)Kleid"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53846/513657_default.webp",
+    "id": "a60eee87-3d75-4d57-b939-a445ccc00027",
+    "Filter": {
+        "Aehnlichkeit": 877,
+        "Farbe": [
+            754,
+            2643,
+            7347,
+            8255,
+            8874
+        ]
+    }
+}

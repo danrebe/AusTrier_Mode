@@ -1,0 +1,35 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31816",
+    "titel": "Modebild: Zwei Figuren, Kleid, Korsett",
+    "Datum": "1837",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "head-gear",
+        "被り物",
+        "chapelaria",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "copricapo",
+        "woman",
+        "fashion plates",
+        "Fashion",
+        "Frau",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Mode",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/56044/510605_default.webp",
+    "id": "c939fc2a-5b1d-472a-8ac4-bed6ce000b72",
+    "Filter": {
+        "Aehnlichkeit": 1911,
+        "Farbe": [
+            463,
+            1968,
+            3751,
+            5184
+        ]
+    }
+}

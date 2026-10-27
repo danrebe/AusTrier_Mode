@@ -1,0 +1,51 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31247",
+    "titel": "Modebild: Fünf Figuren, verschiedene Kostüme",
+    "Datum": "1844",
+    "Thema": [
+        "Mann",
+        "man",
+        "Public Festivals and Celebrations",
+        "Mode",
+        "Modebilder",
+        "woman",
+        "hairdress",
+        "Frisur",
+        "fashion plates",
+        "Frau",
+        "Bourgeoisie",
+        "Bräuche",
+        "Fashion",
+        "Costums",
+        "Bürgertum",
+        "accessories (~ clothing)",
+        "Öffentliche Feste und Feierlichkeiten",
+        "disguise",
+        "Verkleidung, Maskierung",
+        "costumes used in pageants",
+        "Accessoires",
+        "Kostüme für Festzüge",
+        "Kleidung für offizielle Anlässe",
+        "clothes for official occasions",
+        "copricapo",
+        "Kopfbedeckung",
+        "被り物",
+        "head-gear",
+        "couvre-chef",
+        "chapelaria"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53901/513705_default.webp",
+    "id": "0982cf11-c08c-494f-a133-dffcec7a8e87",
+    "Filter": {
+        "Aehnlichkeit": 650,
+        "Farbe": [
+            2509,
+            6059,
+            7304,
+            8175,
+            8777,
+            10367
+        ]
+    }
+}

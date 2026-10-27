@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31867",
+    "titel": "Modebild: Zwei Figuren, Herrenanzug, Lakaienlivrée",
+    "Datum": "1838",
+    "Thema": [
+        "coat",
+        "Jacke, Mantel",
+        "dandy, beau",
+        "Dandy, Beau, Geck",
+        "head-gear",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "Kopfbedeckung",
+        "被り物",
+        "Modebilder",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "man",
+        "Mann",
+        "Mode",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/56134/510777_default.webp",
+    "id": "ca906387-c6ad-4da7-a496-3b9cdee017ad",
+    "Filter": {
+        "Aehnlichkeit": 599,
+        "Farbe": [
+            692,
+            4144,
+            7098,
+            8177,
+            9575,
+            10926
+        ]
+    }
+}

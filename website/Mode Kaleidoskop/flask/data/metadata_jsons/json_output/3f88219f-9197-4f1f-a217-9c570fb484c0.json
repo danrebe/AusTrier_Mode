@@ -1,0 +1,51 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31019",
+    "titel": "Modebild: Sechs Figuren, Damen-, Herren- und Kindermoden, Hüte",
+    "Datum": "1838",
+    "Thema": [
+        "Dandy, Beau, Geck",
+        "Jacke, Mantel",
+        "coat",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "dandy, beau",
+        "Mädchenkleid",
+        "fashion plates",
+        "Kleidung für Mädchen",
+        "couvre-chef",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "chapelaria",
+        "Mode",
+        "Familie",
+        "Frau",
+        "child",
+        "Family",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "Kind",
+        "Modebilder",
+        "man",
+        "fashion, clothing (+ girls' clothes)",
+        "Mann",
+        "woman",
+        "girls dress"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/50966/513461_default.webp",
+    "id": "3f88219f-9197-4f1f-a217-9c570fb484c0",
+    "Filter": {
+        "Aehnlichkeit": 518,
+        "Farbe": [
+            783,
+            2698,
+            4210,
+            5586,
+            8292,
+            8909
+        ]
+    }
+}

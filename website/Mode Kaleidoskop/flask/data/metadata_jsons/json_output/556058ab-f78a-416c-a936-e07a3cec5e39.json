@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31302",
+    "titel": "Modebild: Fünf Figuren, drei Herrenanzüge, zwei Ausgehkleider",
+    "Datum": "1849",
+    "Thema": [
+        "chapelaria",
+        "dandy, beau",
+        "(Damen-)Kleid",
+        "fashion plates",
+        "Modebilder",
+        "Mann",
+        "Mode",
+        "man",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Dandy, Beau, Geck",
+        "coat",
+        "Jacke, Mantel",
+        "dress, gown",
+        "Bürgertum",
+        "Bourgeoisie",
+        "woman",
+        "Frau",
+        "Fashion"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54021/513199_default.webp",
+    "id": "556058ab-f78a-416c-a936-e07a3cec5e39",
+    "Filter": {
+        "Aehnlichkeit": 1526,
+        "Farbe": [
+            116,
+            818,
+            2755,
+            7387,
+            7954,
+            8935
+        ]
+    }
+}

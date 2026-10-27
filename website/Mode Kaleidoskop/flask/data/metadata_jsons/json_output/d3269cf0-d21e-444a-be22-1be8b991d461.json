@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30266",
+    "titel": "Modebild: \"Französische Dame mit Federhut und Krause, Wienerin im Oberkleid mit Rosenblättern\"",
+    "Datum": "1817",
+    "Thema": [
+        "被り物",
+        "copricapo",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Modebilder",
+        "fashion plates",
+        "chapelaria",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Mode",
+        "woman",
+        "Frau"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47843/1759508_default.webp",
+    "id": "d3269cf0-d21e-444a-be22-1be8b991d461",
+    "Filter": {
+        "Aehnlichkeit": 344,
+        "Farbe": [
+            1271,
+            3160,
+            4314,
+            4716,
+            6331
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30143",
+    "titel": "Modebild: \"Vier Figuren in der neuesten Wiener Sommertracht\"",
+    "Datum": "1794",
+    "Thema": [
+        "couvre-chef",
+        "fashion plates",
+        "Modebilder",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "chapelaria",
+        "dress, gown",
+        "Fashion",
+        "Bürgertum",
+        "Frau",
+        "Bourgeoisie",
+        "Mode",
+        "woman",
+        "(Damen-)Kleid"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47485/511593_default.webp",
+    "id": "b27703ea-cbaf-4a76-9b3a-3eefab70aa90",
+    "Filter": {
+        "Aehnlichkeit": 1859,
+        "Farbe": [
+            870,
+            2814,
+            4391,
+            9734
+        ]
+    }
+}

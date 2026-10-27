@@ -1,0 +1,52 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30332",
+    "titel": "Modebild: \"Pariserin zu Pferd in Reitkleid, Dame in Moirekleid, Herr mit Seidenhut\"",
+    "Datum": "1832",
+    "Thema": [
+        "Bürgertum",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Animals",
+        "dress, gown",
+        "coat",
+        "couvre-chef",
+        "dandy, beau",
+        "Dandy, Beau, Geck",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Jacke, Mantel",
+        "cavallo",
+        "馬",
+        "cavalo",
+        "Pferd",
+        "cheval",
+        "horse",
+        "Tiere",
+        "Modebilder",
+        "Mann",
+        "woman",
+        "Mode",
+        "fashion plates",
+        "man",
+        "(Damen-)Kleid",
+        "copricapo",
+        "chapelaria"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48206/511905_default.webp",
+    "id": "1105ea1d-df07-4492-8725-9483ff764498",
+    "Filter": {
+        "Aehnlichkeit": 887,
+        "Farbe": [
+            546,
+            2203,
+            3947,
+            5330,
+            6263,
+            10223
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30720",
+    "titel": "Modebild: Zwei Figuren, Satinkapotthüte, Redingoten aus Wolle",
+    "Datum": "1829",
+    "Thema": [
+        "Mode",
+        "fashion plates",
+        "Kopfbedeckung",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "被り物",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Bürgertum",
+        "Frau",
+        "Biedermeier",
+        "Fashion",
+        "Bourgeoisie",
+        "woman",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49437/511313_default.webp",
+    "id": "1028f4a2-25c1-4551-9c53-ee30e1cbdfdd",
+    "Filter": {
+        "Aehnlichkeit": 762,
+        "Farbe": [
+            1408,
+            3276,
+            4836,
+            7502
+        ]
+    }
+}

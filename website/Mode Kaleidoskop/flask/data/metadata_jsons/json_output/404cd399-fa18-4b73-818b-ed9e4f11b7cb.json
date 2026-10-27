@@ -1,0 +1,35 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30369",
+    "titel": "Modebild: \"Pariserin mit Hut und Robe auf einem Steinblock sitzend\"",
+    "Datum": "1811",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "head-gear",
+        "被り物",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Bürgertum",
+        "fashion plates",
+        "Frau",
+        "Bourgeoisie",
+        "Fashion",
+        "Mode",
+        "woman",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48323/511963_default.webp",
+    "id": "404cd399-fa18-4b73-818b-ed9e4f11b7cb",
+    "Filter": {
+        "Aehnlichkeit": 288,
+        "Farbe": [
+            1330,
+            3206,
+            4319,
+            4765
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30483",
+    "titel": "Modebild: \"Franzose mit Rauhzylinder, Weste, Mantel, Peitsche und langen Reithosen\"",
+    "Datum": "1822",
+    "Thema": [
+        "dandy, beau",
+        "chapelaria",
+        "coat",
+        "Jacke, Mantel",
+        "fashion plates",
+        "Modebilder",
+        "Dandy, Beau, Geck",
+        "Kopfbedeckung",
+        "被り物",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Mode",
+        "Sports",
+        "man",
+        "Fashion",
+        "Erholung und Freizeit",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Biedermeier",
+        "Sport",
+        "Recreation and Leisure",
+        "Mann"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48654/512143_default.webp",
+    "id": "aafda2da-0553-4b2d-89a8-8e73eac10190",
+    "Filter": {
+        "Aehnlichkeit": 283,
+        "Farbe": [
+            0,
+            1046,
+            2976,
+            4552,
+            8396
+        ]
+    }
+}

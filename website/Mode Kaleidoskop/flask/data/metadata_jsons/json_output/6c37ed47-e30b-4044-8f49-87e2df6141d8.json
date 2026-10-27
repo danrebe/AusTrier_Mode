@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30818",
+    "titel": "Modebild: Zwei Figuren, Gesellschaftskleider",
+    "Datum": "1833",
+    "Thema": [
+        "fashion plates",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "被り物",
+        "Kleidung für offizielle Anlässe",
+        "clothes for official occasions",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Bourgeoisie",
+        "Modebilder",
+        "Biedermeier",
+        "Frau",
+        "Fashion",
+        "Bürgertum",
+        "woman",
+        "Mode",
+        "Public Festivals and Celebrations",
+        "Öffentliche Feste und Feierlichkeiten"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49697/512633_default.webp",
+    "id": "6c37ed47-e30b-4044-8f49-87e2df6141d8",
+    "Filter": {
+        "Aehnlichkeit": 1649,
+        "Farbe": [
+            354,
+            1698,
+            3527,
+            5024,
+            10035
+        ]
+    }
+}

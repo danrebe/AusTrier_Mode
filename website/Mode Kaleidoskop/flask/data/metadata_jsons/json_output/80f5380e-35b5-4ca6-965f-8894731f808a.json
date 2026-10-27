@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30285",
+    "titel": "Modebild: \"Französische Dame in Samtpelerine, Herr mit Zobelmarderkragen\"",
+    "Datum": "1822",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "coat",
+        "Jacke, Mantel",
+        "Dandy, Beau, Geck",
+        "Winter",
+        "woman",
+        "Mode",
+        "dandy, beau",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Kopfbedeckung",
+        "被り物",
+        "man",
+        "Bürgertum",
+        "Fashion",
+        "Frau",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Mann",
+        "fashion plates",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47892/511817_default.webp",
+    "id": "80f5380e-35b5-4ca6-965f-8894731f808a",
+    "Filter": {
+        "Aehnlichkeit": 1150,
+        "Farbe": [
+            321,
+            1608,
+            3449,
+            4979
+        ]
+    }
+}

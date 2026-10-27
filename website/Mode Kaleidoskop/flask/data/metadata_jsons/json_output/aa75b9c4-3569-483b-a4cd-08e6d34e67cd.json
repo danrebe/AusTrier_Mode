@@ -1,0 +1,42 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31742",
+    "titel": "Modebild: Zwei Figuren, Damen- und Knabenmoden",
+    "Datum": "1835",
+    "Thema": [
+        "(Damen-)Kleid",
+        "Modebilder",
+        "fashion plates",
+        "dress, gown",
+        "copricapo",
+        "couvre-chef",
+        "被り物",
+        "head-gear",
+        "Kopfbedeckung",
+        "chapelaria",
+        "woman",
+        "Mode",
+        "Fashion",
+        "child",
+        "Bürgertum",
+        "Frau",
+        "Bourgeoisie",
+        "fashion, clothing (+ boys' clothes)",
+        "Kleidung für Jungen",
+        "Kind"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55822/614765_default.webp",
+    "id": "aa75b9c4-3569-483b-a4cd-08e6d34e67cd",
+    "Filter": {
+        "Aehnlichkeit": 815,
+        "Farbe": [
+            2192,
+            3938,
+            6030,
+            6367,
+            6969,
+            7711,
+            9418
+        ]
+    }
+}

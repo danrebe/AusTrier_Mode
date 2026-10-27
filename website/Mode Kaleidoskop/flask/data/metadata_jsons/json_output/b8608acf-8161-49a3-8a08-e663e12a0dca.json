@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31606",
+    "titel": "Modebild: Sechs Figuren, weibliche  Hutmoden",
+    "Datum": "1833",
+    "Thema": [
+        "(Damen-)Kleid",
+        "Modebilder",
+        "fashion plates",
+        "couvre-chef",
+        "Kopfbedeckung",
+        "被り物",
+        "head-gear",
+        "chapelaria",
+        "copricapo",
+        "dress, gown",
+        "Fashion",
+        "Biedermeier",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Frau",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55375/614493_default.webp",
+    "id": "b8608acf-8161-49a3-8a08-e663e12a0dca",
+    "Filter": {
+        "Aehnlichkeit": 1316,
+        "Farbe": [
+            348,
+            1683,
+            3512,
+            6763,
+            7586,
+            9203
+        ]
+    }
+}

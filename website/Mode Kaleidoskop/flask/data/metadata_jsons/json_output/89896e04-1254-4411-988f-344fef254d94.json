@@ -1,0 +1,47 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31612",
+    "titel": "Modebild: Drei Figuren, Brautkleid, Gesellschaftskleider",
+    "Datum": "1833",
+    "Thema": [
+        "Kleidung für spezielle Zwecke (Brautmode)",
+        "Kopfbedeckung",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Modebilder",
+        "couvre-chef",
+        "fashion plates",
+        "被り物",
+        "head-gear",
+        "Kleidung für offizielle Anlässe",
+        "chapelaria",
+        "clothes for official occasions",
+        "copricapo",
+        "Public Festivals and Celebrations",
+        "Nightlife",
+        "Fashion",
+        "Biedermeier",
+        "Bräuche",
+        "Bürgertum",
+        "Costums",
+        "Frau",
+        "Bourgeoisie",
+        "woman",
+        "Mode",
+        "Nachtleben",
+        "Öffentliche Feste und Feierlichkeiten"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55381/614505_default.webp",
+    "id": "89896e04-1254-4411-988f-344fef254d94",
+    "Filter": {
+        "Aehnlichkeit": 626,
+        "Farbe": [
+            392,
+            1769,
+            3589,
+            6794,
+            9241,
+            10061
+        ]
+    }
+}

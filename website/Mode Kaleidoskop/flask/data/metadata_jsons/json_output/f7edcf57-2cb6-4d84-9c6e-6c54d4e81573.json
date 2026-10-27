@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30124",
+    "titel": "Modebild: \"Junge Dame im Morgenanzug\"",
+    "Datum": "1802",
+    "Thema": [
+        "dress, gown",
+        "(Damen-)Kleid",
+        "fashion plates",
+        "copricapo",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "Bourgeoisie",
+        "Modebilder",
+        "Bürgertum",
+        "Fashion",
+        "woman",
+        "Mode",
+        "Frau"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47416/511561_default.webp",
+    "id": "f7edcf57-2cb6-4d84-9c6e-6c54d4e81573",
+    "Filter": {
+        "Aehnlichkeit": 731,
+        "Farbe": [
+            952,
+            4273,
+            4465,
+            5597,
+            6087,
+            8370
+        ]
+    }
+}

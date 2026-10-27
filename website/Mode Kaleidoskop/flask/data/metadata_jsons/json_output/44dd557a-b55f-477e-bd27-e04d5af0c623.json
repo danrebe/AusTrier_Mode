@@ -1,0 +1,35 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30362",
+    "titel": "Modebild: \"Französische Dame mit weißem Strohhut, Halskrause, weißem Kleid und Handschuhen\"",
+    "Datum": "1810",
+    "Thema": [
+        "dress, gown",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "被り物",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "fashion plates",
+        "Modebilder",
+        "Fashion",
+        "Frau",
+        "Bourgeoisie",
+        "Bürgertum",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48303/511149_default.webp",
+    "id": "44dd557a-b55f-477e-bd27-e04d5af0c623",
+    "Filter": {
+        "Aehnlichkeit": 209,
+        "Farbe": [
+            1069,
+            8403,
+            9002,
+            9807
+        ]
+    }
+}

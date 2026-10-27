@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30045",
+    "titel": "Modebild: Kleider, Frisuren, Hüte, Handschuhe",
+    "Datum": "1830",
+    "Thema": [
+        "chapelaria",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Frisur",
+        "fashion plates",
+        "woman",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Fashion",
+        "Biedermeier",
+        "Frau",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Mode",
+        "Modebilder",
+        "hairdress"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/46896/511419_default.webp",
+    "id": "807599e1-8c6d-4bfc-902a-5c9a68bc5c7b",
+    "Filter": {
+        "Aehnlichkeit": 1720,
+        "Farbe": [
+            245,
+            1399,
+            3267,
+            4827
+        ]
+    }
+}

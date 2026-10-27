@@ -1,0 +1,49 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30428",
+    "titel": "Modebild: \"Französische Dame mit Spitzenkopftuch, Umhang und festlichem Kleid\"",
+    "Datum": "1822",
+    "Thema": [
+        "Kleidung für offizielle Anlässe",
+        "clothes for official occasions",
+        "被り物",
+        "Umhang, Cape",
+        "cape",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Mode",
+        "Modebilder",
+        "Nachtleben",
+        "Public Festivals and Celebrations",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "fashion plates",
+        "Bourgeoisie",
+        "Dance",
+        "Biedermeier",
+        "Frau",
+        "Bürgertum",
+        "Fashion",
+        "Nightlife",
+        "woman",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Tanz"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48543/512057_default.webp",
+    "id": "89237f85-a9fe-423e-b1ba-70f78975fd09",
+    "Filter": {
+        "Aehnlichkeit": 1600,
+        "Farbe": [
+            1645,
+            3481,
+            4994,
+            5695,
+            6748,
+            7573,
+            11123
+        ]
+    }
+}

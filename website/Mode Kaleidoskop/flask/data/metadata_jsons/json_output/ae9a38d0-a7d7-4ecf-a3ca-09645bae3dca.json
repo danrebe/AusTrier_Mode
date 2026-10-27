@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30804",
+    "titel": "Modebild: Zwei Figuren, Satinkleider mit Marabufedern und Satinmantel",
+    "Datum": "1830",
+    "Thema": [
+        "被り物",
+        "head-gear",
+        "coat",
+        "Jacke, Mantel",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Modebilder",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Fashion",
+        "Biedermeier",
+        "Frau",
+        "Bürgertum",
+        "Bourgeoisie",
+        "woman",
+        "Mode",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49666/512617_default.webp",
+    "id": "ae9a38d0-a7d7-4ecf-a3ca-09645bae3dca",
+    "Filter": {
+        "Aehnlichkeit": 1377,
+        "Farbe": [
+            2061,
+            3829,
+            5252,
+            6911,
+            8061,
+            11154
+        ]
+    }
+}

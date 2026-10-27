@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30376",
+    "titel": "Modebild: \"Dame mit großem Hut und Handtasche\"",
+    "Datum": "1815",
+    "Thema": [
+        "bag",
+        "copricapo",
+        "Modebilder",
+        "fashion plates",
+        "Mode",
+        "chapelaria",
+        "woman",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Biedermeier",
+        "Fashion",
+        "Handtasche",
+        "accessories (~ clothing)",
+        "Accessoires",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Frau"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48350/511975_default.webp",
+    "id": "16bb7c4b-190c-4d49-b3d5-e835883a399f",
+    "Filter": {
+        "Aehnlichkeit": 287,
+        "Farbe": [
+            1188,
+            6324,
+            6570,
+            9043
+        ]
+    }
+}
