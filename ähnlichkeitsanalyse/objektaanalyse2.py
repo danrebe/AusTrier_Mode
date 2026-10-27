@@ -3,11 +3,12 @@ Findet die UUIDs aller Bilder, die eines der gesuchten Themen in thema_.1 ... th
 Ergebnis: results/uuids_nach_thema.csv (uuid, themen) - eine Zeile pro Bild
 """
 
-import os
 import csv
+from pathlib import Path
 
-EINGABE = "/Users/naemiburger/AusTrier_Mode/data/dataset_modebilder.csv"
-AUSGABE = os.path.join("results", "uuids_nach_thema.csv")
+PROJEKT = Path(__file__).resolve().parent.parent   # = AusTrier_Mode
+EINGABE = PROJEKT / "data" / "dataset_modebilder.csv"
+AUSGABE = PROJEKT / "results" / "uuids_nach_thema.csv"
 
 # Genau so geschrieben, wie die Begriffe in den Metadaten stehen
 THEMEN = [
@@ -29,7 +30,7 @@ with open(EINGABE, newline="", encoding="utf-8-sig") as f:
         if gefunden:
             treffer[zeile["uuid"]] = gefunden
 
-os.makedirs("results", exist_ok=True)
+AUSGABE.parent.mkdir(parents=True, exist_ok=True)
 with open(AUSGABE, "w", newline="", encoding="utf-8") as f:
     writer = csv.writer(f)
     writer.writerow(["uuid", "themen"])

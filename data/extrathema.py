@@ -6,9 +6,11 @@ Ergebnis: results/themen_kind_sport_verkleidung.csv mit den Spalten thema, uuid
 
 import os
 import csv
+from pathlib import Path
 
-EINGABE = "/Users/naemiburger/AusTrier_Mode/data/dataset_modebilder.csv"
-AUSGABE = os.path.join("results", "themen_kind_sport_verkleidung.csv")
+PROJEKT = Path(__file__).resolve().parent.parent   # = AusTrier_Mode
+EINGABE = PROJEKT / "data" / "dataset_modebilder.csv"
+AUSGABE = PROJEKT / "results" / "themen_kind_sport_verkleidung.csv"
 
 # Begriff in den Metadaten -> Thema in der Ergebnisdatei
 ZUORDNUNG = {
@@ -31,7 +33,7 @@ with open(EINGABE, newline="", encoding="utf-8-sig") as f:
         for thema in themen:  # Menge: jedes Bild höchstens einmal pro Thema
             treffer[thema].append(zeile["uuid"])
 
-os.makedirs("results", exist_ok=True)
+AUSGABE.parent.mkdir(parents=True, exist_ok=True)
 with open(AUSGABE, "w", newline="", encoding="utf-8") as f:
     writer = csv.writer(f)
     writer.writerow(["thema", "uuid"])

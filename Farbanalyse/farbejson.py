@@ -11,8 +11,8 @@ import json
 import sys
 import webcolors
 
-EINGABE = sys.argv[1] if len(sys.argv) > 1 else "results/farben.csv"
-AUSGABE = sys.argv[2] if len(sys.argv) > 2 else "results/farben_filter.json"
+EINGABE = sys.argv[1] if len(sys.argv) > 1 else "Farbanalyse/farben.csv"
+AUSGABE = sys.argv[2] if len(sys.argv) > 2 else "filter_jsons/farben_filter.json"
 
 
 def rgb_zu_lab(r, g, b):
