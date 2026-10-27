@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31380",
+    "titel": "Modebild: Eine Figur, Orange Boven Dinner Dress",
+    "Datum": "1814",
+    "Thema": [
+        "fashion plates",
+        "Modebilder",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "head-gear",
+        "被り物",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Frau",
+        "woman",
+        "Bürgertum",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Fashion",
+        "Mode",
+        "Nachtleben",
+        "Nightlife"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54964/513837_default.webp",
+    "id": "ffb4f461-b00f-49b9-a840-2ca0fdd7a062",
+    "Filter": {
+        "Aehnlichkeit": 903,
+        "Farbe": [
+            1093,
+            3012,
+            6541,
+            7163,
+            9009
+        ]
+    }
+}

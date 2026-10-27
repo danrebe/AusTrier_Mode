@@ -1,0 +1,44 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31175",
+    "titel": "Modebild: Sechs Figuren, Damen- und Kindermoden",
+    "Datum": "1842",
+    "Thema": [
+        "Kleidung für Jungen",
+        "child",
+        "hairdress",
+        "Mode",
+        "fashion plates",
+        "Modebilder",
+        "Frisur",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Frau",
+        "Bürgertum",
+        "Fashion",
+        "Kind",
+        "被り物",
+        "Accessoires",
+        "accessories (~ clothing)",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "copricapo",
+        "chapelaria",
+        "woman",
+        "fashion, clothing (+ boys' clothes)"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53783/513625_default.webp",
+    "id": "1c22a2fa-00ef-46df-afe6-950749be7b58",
+    "Filter": {
+        "Aehnlichkeit": 739,
+        "Farbe": [
+            690,
+            2507,
+            7093,
+            8174,
+            8776,
+            10366
+        ]
+    }
+}

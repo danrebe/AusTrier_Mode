@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31099",
+    "titel": "Modebild: Vier Damenmoden, ein Herrenhausanzug, Hüte, Frisuren",
+    "Datum": "1840",
+    "Thema": [
+        "Kopfbedeckung",
+        "被り物",
+        "Accessoires",
+        "coat",
+        "Jacke, Mantel",
+        "Mann",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "accessories (~ clothing)",
+        "woman",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Frau",
+        "Frisur",
+        "Mode",
+        "hairdress",
+        "man",
+        "fashion plates",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53435/513543_default.webp",
+    "id": "579fc911-b567-4926-bcdc-81535fd9f3ba",
+    "Filter": {
+        "Aehnlichkeit": 164,
+        "Farbe": [
+            716,
+            2568,
+            4356,
+            10398
+        ]
+    }
+}

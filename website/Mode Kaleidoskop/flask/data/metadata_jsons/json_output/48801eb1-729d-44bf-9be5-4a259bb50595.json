@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30441",
+    "titel": "Modebild: \"Pariserin mit Gazehut, Velourspencer, Perkalkleid und Schirm\"",
+    "Datum": "1822",
+    "Thema": [
+        "woman",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "couvre-chef",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "chapelaria",
+        "Modebilder",
+        "fashion plates",
+        "Biedermeier",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "Frau",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48569/512077_default.webp",
+    "id": "48801eb1-729d-44bf-9be5-4a259bb50595",
+    "Filter": {
+        "Aehnlichkeit": 12,
+        "Farbe": [
+            340,
+            1672,
+            3504,
+            8551,
+            9196
+        ]
+    }
+}

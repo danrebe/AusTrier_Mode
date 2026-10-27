@@ -1,0 +1,42 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31272",
+    "titel": "Modebild: Vier Damenmoden, ein Herrenreitanzug",
+    "Datum": "1845",
+    "Thema": [
+        "fashion plates",
+        "Modebilder",
+        "Dandy, Beau, Geck",
+        "dandy, beau",
+        "Mann",
+        "Mode",
+        "Frau",
+        "woman",
+        "man",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "Kopfbedeckung",
+        "Jacke, Mantel",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "被り物",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "coat",
+        "chapelaria"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53935/513733_default.webp",
+    "id": "d2e74dbf-ab39-48a7-a00e-46d21e04fba5",
+    "Filter": {
+        "Aehnlichkeit": 1937,
+        "Farbe": [
+            66,
+            2396,
+            7272,
+            7793,
+            8729
+        ]
+    }
+}

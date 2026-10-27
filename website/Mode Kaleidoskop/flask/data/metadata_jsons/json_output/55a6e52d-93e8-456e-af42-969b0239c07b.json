@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31039",
+    "titel": "Modebild: Drei Figuren, Reitkleid, Ausgehkleider",
+    "Datum": "1826",
+    "Thema": [
+        "fashion plates",
+        "Modebilder",
+        "woman",
+        "(Damen-)Kleid",
+        "Recreation and Leisure",
+        "dress, gown",
+        "couvre-chef",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "chapelaria",
+        "Erholung und Freizeit",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "Frau",
+        "Mode",
+        "Nightlife",
+        "Nachtleben"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/51064/512947_default.webp",
+    "id": "55a6e52d-93e8-456e-af42-969b0239c07b",
+    "Filter": {
+        "Aehnlichkeit": 1395,
+        "Farbe": [
+            1454,
+            3317,
+            6343,
+            7513,
+            9109
+        ]
+    }
+}

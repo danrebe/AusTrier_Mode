@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30349",
+    "titel": "Modebild: \"Französische Dame mit Strohhut, Kinnband und Umhang\"",
+    "Datum": "1806",
+    "Thema": [
+        "Frau",
+        "cape",
+        "Umhang, Cape",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "被り物",
+        "woman",
+        "Mode",
+        "Modebilder",
+        "fashion plates",
+        "head-gear",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "Kopfbedeckung"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48257/511931_default.webp",
+    "id": "1c32cc4b-8a08-40cc-8a2e-66356dc29cf3",
+    "Filter": {
+        "Aehnlichkeit": 327,
+        "Farbe": [
+            1133,
+            4619,
+            8428,
+            9020
+        ]
+    }
+}

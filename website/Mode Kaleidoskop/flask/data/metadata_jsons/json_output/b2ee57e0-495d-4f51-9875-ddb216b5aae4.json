@@ -1,0 +1,44 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31295",
+    "titel": "Modebild: Fünf Figuren, Gesellschaftskleidung",
+    "Datum": "1849",
+    "Thema": [
+        "Fashion",
+        "Mode",
+        "dress, gown",
+        "fashion plates",
+        "woman",
+        "Mann",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Public Festivals and Celebrations",
+        "man",
+        "Frau",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Kopfbedeckung",
+        "clothes for official occasions",
+        "Kleidung für offizielle Anlässe",
+        "copricapo",
+        "chapelaria",
+        "被り物",
+        "couvre-chef",
+        "head-gear",
+        "Modebilder",
+        "(Damen-)Kleid"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54002/513757_default.webp",
+    "id": "b2ee57e0-495d-4f51-9875-ddb216b5aae4",
+    "Filter": {
+        "Aehnlichkeit": 1863,
+        "Farbe": [
+            122,
+            5461,
+            5556,
+            7140,
+            7390,
+            7961,
+            10745
+        ]
+    }
+}

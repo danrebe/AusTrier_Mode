@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30570",
+    "titel": "Modebild: Zwei Damen mit langen weißen Handschuhen sowie Crepe-Kleider in rosa und weiß",
+    "Datum": "1828",
+    "Thema": [
+        "Modebilder",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "head-gear",
+        "couvre-chef",
+        "Kopfbedeckung",
+        "被り物",
+        "chapelaria",
+        "copricapo",
+        "Frau",
+        "fashion plates",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Fashion",
+        "Mode",
+        "woman",
+        "Bürgertum"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48999/511239_default.webp",
+    "id": "53bd219b-cadf-4c5c-860f-6a7aa40d6dc1",
+    "Filter": {
+        "Aehnlichkeit": 1059,
+        "Farbe": [
+            341,
+            1673,
+            3505,
+            5012,
+            5699,
+            11125
+        ]
+    }
+}

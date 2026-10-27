@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30439",
+    "titel": "Modebild: \"Pariserin mit Blumenhut aus Gaze, Halskrause, großem rotem Umhang und plissiertem Kleid\"",
+    "Datum": "1822",
+    "Thema": [
+        "被り物",
+        "Umhang, Cape",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "cape",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Frau",
+        "Biedermeier",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "fashion plates",
+        "woman",
+        "Mode",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48567/512073_default.webp",
+    "id": "0000799a-b3dc-416c-8249-36f668b57df2",
+    "Filter": {
+        "Aehnlichkeit": 0,
+        "Farbe": [
+            1661,
+            3494,
+            5004,
+            5491
+        ]
+    }
+}

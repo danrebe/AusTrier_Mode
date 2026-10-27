@@ -1,0 +1,51 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30508",
+    "titel": "Modebild: \"Pariserin mit geschmückter Frisur, Ballkleid und Fächer\"",
+    "Datum": "1825",
+    "Thema": [
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Kleidung für offizielle Anlässe",
+        "dress, gown: ball gown",
+        "Ballkleid",
+        "Modebilder",
+        "fashion plates",
+        "Nachtleben",
+        "Public Festivals and Celebrations",
+        "Öffentliche Feste und Feierlichkeiten",
+        "head-gear",
+        "clothes for official occasions",
+        "被り物",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Nightlife",
+        "Fashion",
+        "Dance",
+        "Bourgeoisie",
+        "Costums",
+        "Biedermeier",
+        "Bräuche",
+        "Bürgertum",
+        "woman",
+        "Frisur",
+        "Mode",
+        "Frau",
+        "Tanz",
+        "hairdress"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48717/512183_default.webp",
+    "id": "e0ec089f-3c43-4c26-bd00-7f10dc0f4a14",
+    "Filter": {
+        "Aehnlichkeit": 7,
+        "Farbe": [
+            2221,
+            3963,
+            5341,
+            6981,
+            10230
+        ]
+    }
+}

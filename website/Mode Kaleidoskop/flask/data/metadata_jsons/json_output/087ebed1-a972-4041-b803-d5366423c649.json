@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30299",
+    "titel": "Modebild: \"Französinnen mit Basthut, Krepphut, Schmuck und Umhangtuch\"",
+    "Datum": "1823",
+    "Thema": [
+        "Frau",
+        "Biedermeier",
+        "Mode",
+        "Modebilder",
+        "fashion plates",
+        "woman",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "couvre-chef",
+        "cape",
+        "Umhang, Cape",
+        "chapelaria",
+        "copricapo",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "(Damen-)Kleid",
+        "dress, gown"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47952/511849_default.webp",
+    "id": "087ebed1-a972-4041-b803-d5366423c649",
+    "Filter": {
+        "Aehnlichkeit": 629,
+        "Farbe": [
+            1360,
+            3231,
+            4789,
+            5934,
+            6645,
+            7492
+        ]
+    }
+}

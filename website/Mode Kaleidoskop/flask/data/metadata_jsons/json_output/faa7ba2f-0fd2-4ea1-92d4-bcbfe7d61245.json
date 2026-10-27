@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30749",
+    "titel": "Modebild: Zwei Figuren, Satinkleid, Satinmantel",
+    "Datum": "1830",
+    "Thema": [
+        "被り物",
+        "copricapo",
+        "coat",
+        "Jacke, Mantel",
+        "fashion plates",
+        "Modebilder",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "chapelaria",
+        "dress, gown",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "Biedermeier",
+        "Mode",
+        "Frau",
+        "woman",
+        "(Damen-)Kleid"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49531/512551_default.webp",
+    "id": "faa7ba2f-0fd2-4ea1-92d4-bcbfe7d61245",
+    "Filter": {
+        "Aehnlichkeit": 2009,
+        "Farbe": [
+            1532,
+            3384,
+            4929,
+            5670,
+            7533,
+            8526,
+            11113
+        ]
+    }
+}

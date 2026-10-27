@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30181",
+    "titel": "Modebild: \"Pariser Damen mit Hüten, Schal und Handschuhen\"",
+    "Datum": "1805",
+    "Thema": [
+        "fashion plates",
+        "woman",
+        "Mode",
+        "Modebilder",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "couvre-chef",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "copricapo",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "neck-gear ~ clothing",
+        "Schal"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47562/1759423_default.webp",
+    "accessoires": [
+        "Schal"
+    ],
+    "id": "0a568db0-e7d9-4909-b1eb-dee8d9374841",
+    "Filter": {
+        "Aehnlichkeit": 679,
+        "Farbe": [
+            1236,
+            3130,
+            4689,
+            7171,
+            10565
+        ]
+    }
+}

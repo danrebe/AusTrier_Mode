@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31345",
+    "titel": "Modebild: Drei Figuren, Pariser Moden",
+    "Datum": "1806",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "被り物",
+        "Kopfbedeckung",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Modebilder",
+        "Bürgertum",
+        "Frau",
+        "Bourgeoisie",
+        "Fashion",
+        "woman",
+        "fashion plates",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54191/513249_default.webp",
+    "id": "915c5bc3-6f9b-4ea5-ad51-3621401701cf",
+    "Filter": {
+        "Aehnlichkeit": 1774,
+        "Farbe": [
+            1261,
+            3152,
+            4706,
+            9073,
+            9881
+        ]
+    }
+}

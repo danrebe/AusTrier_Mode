@@ -1,0 +1,51 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30919",
+    "titel": "Modebild: Zwei Figuren, Ballkleid, Dame mit Übermantel",
+    "Datum": "1816",
+    "Thema": [
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Modebilder",
+        "Mode",
+        "fashion plates",
+        "Kleidung für offizielle Anlässe",
+        "dress, gown: ball gown",
+        "Ballkleid",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Jacke, Mantel",
+        "coat",
+        "clothes for official occasions",
+        "Bräuche",
+        "Bürgertum",
+        "Fashion",
+        "Dance",
+        "Costums",
+        "woman",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Frau",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Tanz",
+        "Nachtleben",
+        "Public Festivals and Celebrations",
+        "Nightlife"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/50047/513363_default.webp",
+    "id": "2bedd1b3-ce3d-45ad-ac25-421b864bf271",
+    "Filter": {
+        "Aehnlichkeit": 1248,
+        "Farbe": [
+            1162,
+            3070,
+            6561,
+            9034,
+            9843
+        ]
+    }
+}

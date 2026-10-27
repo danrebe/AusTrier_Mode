@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31435",
+    "titel": "Modebild: Eine Figur, Abendkleid",
+    "Datum": "1816",
+    "Thema": [
+        "fashion plates",
+        "Modebilder",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "copricapo",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "chapelaria",
+        "Nachtleben",
+        "Nightlife",
+        "Fashion",
+        "Bürgertum",
+        "Biedermeier",
+        "Frau",
+        "Bourgeoisie",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55068/513893_default.webp",
+    "id": "ca3a6989-cbfa-438d-a854-ab1a563f3444",
+    "Filter": {
+        "Aehnlichkeit": 235,
+        "Farbe": [
+            1436,
+            3300,
+            4324,
+            4859,
+            6342,
+            6654
+        ]
+    }
+}

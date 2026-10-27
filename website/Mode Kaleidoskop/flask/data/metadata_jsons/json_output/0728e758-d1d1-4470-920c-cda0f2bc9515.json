@@ -1,0 +1,47 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31177",
+    "titel": "Modebild: Damen-, Herren- und Kindermoden",
+    "Datum": "1842",
+    "Thema": [
+        "Familie",
+        "dress, gown",
+        "Mode",
+        "被り物",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "Jacke, Mantel",
+        "(Damen-)Kleid",
+        "Fashion",
+        "dandy, beau",
+        "chapelaria",
+        "coat",
+        "copricapo",
+        "Dandy, Beau, Geck",
+        "man",
+        "Frau",
+        "child",
+        "Bürgertum",
+        "Family",
+        "Bourgeoisie",
+        "Mann",
+        "Modebilder",
+        "fashion plates",
+        "Kind",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53786/513627_default.webp",
+    "id": "0728e758-d1d1-4470-920c-cda0f2bc9515",
+    "Filter": {
+        "Aehnlichkeit": 89,
+        "Farbe": [
+            2546,
+            7110,
+            8198,
+            8795,
+            10386,
+            10673
+        ]
+    }
+}

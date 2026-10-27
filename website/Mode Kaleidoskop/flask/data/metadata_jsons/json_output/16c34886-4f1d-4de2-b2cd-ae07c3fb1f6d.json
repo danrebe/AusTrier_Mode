@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30725",
+    "titel": "Modebild: Zwei Figuren, Crepekleider in rosa und blau, weiße Schinkenärmeln",
+    "Datum": "1829",
+    "Thema": [
+        "fashion plates",
+        "Frau",
+        "Modebilder",
+        "woman",
+        "Mode",
+        "Fashion",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Bürgertum",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "(Damen-)Kleid",
+        "dress, gown"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49444/512511_default.webp",
+    "id": "16c34886-4f1d-4de2-b2cd-ae07c3fb1f6d",
+    "Filter": {
+        "Aehnlichkeit": 368,
+        "Farbe": [
+            253,
+            1416,
+            4843,
+            5648,
+            10814,
+            11104,
+            11186
+        ]
+    }
+}

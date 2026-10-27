@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31593",
+    "titel": "Modebild: Zwei Figuren, Gesellschaftskleider",
+    "Datum": "1833",
+    "Thema": [
+        "Modebilder",
+        "fashion plates",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "head-gear",
+        "被り物",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Kleidung für offizielle Anlässe",
+        "clothes for official occasions",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Frau",
+        "Mode",
+        "Nightlife",
+        "woman",
+        "Public Festivals and Celebrations",
+        "Nachtleben"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55358/614465_default.webp",
+    "id": "f39136a3-3f76-4d9d-be28-3daaa57d73bd",
+    "Filter": {
+        "Aehnlichkeit": 105,
+        "Farbe": [
+            2032,
+            3803,
+            6903,
+            8058,
+            9350,
+            10163
+        ]
+    }
+}

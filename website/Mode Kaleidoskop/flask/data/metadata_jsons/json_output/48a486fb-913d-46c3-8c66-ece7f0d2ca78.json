@@ -1,0 +1,32 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30385",
+    "titel": "Modebild: \"Sechs Damenhüte aus Stroh, Crepe, Perkal u.a.\"",
+    "Datum": "1817",
+    "Thema": [
+        "Mode",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "fashion plates",
+        "Bürgertum",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Fashion",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48368/511989_default.webp",
+    "id": "48a486fb-913d-46c3-8c66-ece7f0d2ca78",
+    "Filter": {
+        "Aehnlichkeit": 949,
+        "Farbe": [
+            1337,
+            3212,
+            4770,
+            6634
+        ]
+    }
+}

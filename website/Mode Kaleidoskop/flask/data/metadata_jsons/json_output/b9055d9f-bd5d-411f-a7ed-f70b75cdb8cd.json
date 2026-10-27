@@ -1,0 +1,45 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31540",
+    "titel": "Modebild: Drei Figuren, Damen-, Herren- und Kinderkleidung",
+    "Datum": "1832",
+    "Thema": [
+        "coat",
+        "Jacke, Mantel",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "fashion plates",
+        "Modebilder",
+        "Kind",
+        "Kopfbedeckung",
+        "head-gear",
+        "被り物",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Biedermeier",
+        "man",
+        "Fashion",
+        "Frau",
+        "child",
+        "Mode",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Mann",
+        "woman",
+        "fashion, clothing (+ boys' clothes)",
+        "Kleidung für Jungen"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55274/614357_default.webp",
+    "id": "b9055d9f-bd5d-411f-a7ed-f70b75cdb8cd",
+    "Filter": {
+        "Aehnlichkeit": 499,
+        "Farbe": [
+            2060,
+            3828,
+            6910,
+            8060,
+            9354
+        ]
+    }
+}

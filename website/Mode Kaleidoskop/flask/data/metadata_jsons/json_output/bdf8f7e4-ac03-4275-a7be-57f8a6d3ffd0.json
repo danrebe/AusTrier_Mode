@@ -1,0 +1,33 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30380",
+    "titel": "Modebild: \"Sechs Damenhauben\" (Perkale und Mousseline)",
+    "Datum": "1816",
+    "Thema": [
+        "fashion plates",
+        "Modebilder",
+        "couvre-chef",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "chapelaria",
+        "Bürgertum",
+        "Fashion",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48358/511981_default.webp",
+    "id": "bdf8f7e4-ac03-4275-a7be-57f8a6d3ffd0",
+    "Filter": {
+        "Aehnlichkeit": 952,
+        "Farbe": [
+            1598,
+            3439,
+            4329,
+            4974,
+            8542
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30600",
+    "titel": "Modebild: Zwei Damen in blauer und weißer Redingote aus Musselin",
+    "Datum": "1828",
+    "Thema": [
+        "woman",
+        "Kopfbedeckung",
+        "被り物",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "fashion plates",
+        "Fashion",
+        "Bourgeoisie",
+        "Frau",
+        "Biedermeier",
+        "Bürgertum",
+        "Modebilder",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49063/512323_default.webp",
+    "id": "21adb144-78de-4465-b489-51be2fa81f20",
+    "Filter": {
+        "Aehnlichkeit": 461,
+        "Farbe": [
+            1837,
+            3643,
+            5108,
+            10772
+        ]
+    }
+}

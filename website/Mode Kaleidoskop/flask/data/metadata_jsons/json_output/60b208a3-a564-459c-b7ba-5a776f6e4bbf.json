@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31168",
+    "titel": "Modebild: Fünf Damenmoden, Frisuren",
+    "Datum": "1842",
+    "Thema": [
+        "woman",
+        "head-gear",
+        "Accessoires",
+        "accessories (~ clothing)",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "被り物",
+        "Kopfbedeckung",
+        "Mode",
+        "Fashion",
+        "Bürgertum",
+        "Frau",
+        "Bourgeoisie",
+        "hairdress",
+        "Modebilder",
+        "fashion plates",
+        "Frisur"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53764/513073_default.webp",
+    "id": "60b208a3-a564-459c-b7ba-5a776f6e4bbf",
+    "Filter": {
+        "Aehnlichkeit": 505,
+        "Farbe": [
+            724,
+            2592,
+            4173,
+            7884,
+            8833,
+            10412
+        ]
+    }
+}

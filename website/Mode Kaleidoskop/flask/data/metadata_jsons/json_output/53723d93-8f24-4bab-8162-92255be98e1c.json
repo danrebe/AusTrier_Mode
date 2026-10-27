@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30207",
+    "titel": "Modebild: \"Zwei Pariserinnen mit Jugendfrisur und italienischem Strohhut\"",
+    "Datum": "1811",
+    "Thema": [
+        "Modebilder",
+        "hairdress",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "被り物",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "fashion plates",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Frau",
+        "Mode",
+        "woman",
+        "Frisur"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47639/1759449_default.webp",
+    "id": "53723d93-8f24-4bab-8162-92255be98e1c",
+    "Filter": {
+        "Aehnlichkeit": 1520,
+        "Farbe": [
+            1259,
+            4704,
+            6605,
+            8460,
+            9072,
+            9879
+        ]
+    }
+}

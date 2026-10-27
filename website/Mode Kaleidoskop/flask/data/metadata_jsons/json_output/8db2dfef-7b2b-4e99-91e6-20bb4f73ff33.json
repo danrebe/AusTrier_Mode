@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31546",
+    "titel": "Modebild: Sechs Figuren, Hut- und Haubenmoden",
+    "Datum": "1832",
+    "Thema": [
+        "fashion plates",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Mode",
+        "Modebilder",
+        "Bürgertum",
+        "Fashion",
+        "Biedermeier",
+        "Frau",
+        "Bourgeoisie",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55284/614369_default.webp",
+    "id": "8db2dfef-7b2b-4e99-91e6-20bb4f73ff33",
+    "Filter": {
+        "Aehnlichkeit": 1566,
+        "Farbe": [
+            2174,
+            3919,
+            5765,
+            6029,
+            6960,
+            9407,
+            10211
+        ]
+    }
+}

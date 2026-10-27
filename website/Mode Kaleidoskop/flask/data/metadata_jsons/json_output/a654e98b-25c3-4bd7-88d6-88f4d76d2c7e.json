@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30282",
+    "titel": "Modebild: \"Französische Dame mit Samtturban und Atlasrobe, Herr in Samtmantel und Zylinder\"",
+    "Datum": "1822",
+    "Thema": [
+        "copricapo",
+        "coat",
+        "fashion plates",
+        "Jacke, Mantel",
+        "head-gear: turban",
+        "Modebilder",
+        "Kopfbedeckung: Turban",
+        "chapelaria",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Dandy, Beau, Geck",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "Mode",
+        "man",
+        "dandy, beau",
+        "Mann"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47885/1759409_default.webp",
+    "id": "a654e98b-25c3-4bd7-88d6-88f4d76d2c7e",
+    "Filter": {
+        "Aehnlichkeit": 800,
+        "Farbe": [
+            1503,
+            3358,
+            4901,
+            7991,
+            9968
+        ]
+    }
+}

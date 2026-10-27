@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30093",
+    "titel": "Modebild: \"Dame in griechischem (englischem) Costume (Hemdkleid)\"",
+    "Datum": "1795",
+    "Thema": [
+        "dress, gown",
+        "chapelaria",
+        "(Damen-)Kleid",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Mode",
+        "woman",
+        "Bourgeoisie",
+        "Frau",
+        "Fashion",
+        "Bürgertum",
+        "fashion plates",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47330/511505_default.webp",
+    "id": "7e991110-8190-4ca5-b0c2-bb1b82479924",
+    "Filter": {
+        "Aehnlichkeit": 712,
+        "Farbe": [
+            883,
+            2825,
+            4259,
+            4403,
+            8350
+        ]
+    }
+}

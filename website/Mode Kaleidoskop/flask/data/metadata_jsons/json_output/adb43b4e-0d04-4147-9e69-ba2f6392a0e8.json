@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30292/2",
+    "titel": "Modebild: \"Französinnen mit Sonnenschirmen und Sommerkleidern\"",
+    "Datum": "1822",
+    "Thema": [
+        "fashion plates",
+        "Modebilder",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Bürgertum",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Frau",
+        "Fashion",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47921/511835_default.webp",
+    "id": "adb43b4e-0d04-4147-9e69-ba2f6392a0e8",
+    "Filter": {
+        "Aehnlichkeit": 535,
+        "Farbe": [
+            1728,
+            3552,
+            5039,
+            8565,
+            10049,
+            11035
+        ]
+    }
+}

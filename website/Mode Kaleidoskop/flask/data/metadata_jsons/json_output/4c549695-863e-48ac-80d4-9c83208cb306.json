@@ -1,0 +1,44 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31113",
+    "titel": "Modebild: Gesellschaftskleider",
+    "Datum": "1841",
+    "Thema": [
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Kopfbedeckung",
+        "被り物",
+        "accessories (~ clothing)",
+        "hairdress",
+        "head-gear",
+        "clothes for official occasions",
+        "Kleidung für offizielle Anlässe",
+        "Accessoires",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Frisur",
+        "Bourgeoisie",
+        "Frau",
+        "Fashion",
+        "Bürgertum",
+        "Modebilder",
+        "Mode",
+        "woman",
+        "fashion plates",
+        "Public Festivals and Celebrations"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53474/513559_default.webp",
+    "id": "4c549695-863e-48ac-80d4-9c83208cb306",
+    "Filter": {
+        "Aehnlichkeit": 174,
+        "Farbe": [
+            651,
+            2425,
+            5527,
+            6051,
+            7277,
+            7804,
+            8735
+        ]
+    }
+}

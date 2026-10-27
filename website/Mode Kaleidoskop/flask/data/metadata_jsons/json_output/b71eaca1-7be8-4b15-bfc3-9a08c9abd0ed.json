@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30537",
+    "titel": "Modebild: Zwei Pariserinnen mit Kapotthüten und Redingoten in grau und blau",
+    "Datum": "1827",
+    "Thema": [
+        "dress, gown",
+        "(Damen-)Kleid",
+        "fashion plates",
+        "Modebilder",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Mode",
+        "Frau",
+        "Fashion",
+        "Bürgertum",
+        "Biedermeier",
+        "Bourgeoisie",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48859/512229_default.webp",
+    "id": "b71eaca1-7be8-4b15-bfc3-9a08c9abd0ed",
+    "Filter": {
+        "Aehnlichkeit": 1868,
+        "Farbe": [
+            1834,
+            3640,
+            5106,
+            10084
+        ]
+    }
+}

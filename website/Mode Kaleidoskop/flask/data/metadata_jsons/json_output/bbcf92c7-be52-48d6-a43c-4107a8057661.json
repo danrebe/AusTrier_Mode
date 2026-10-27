@@ -1,0 +1,49 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31047",
+    "titel": "Modebild: Vier Gesellschaftskleider, zwei Herrenanzüge, Kopfputz",
+    "Datum": "1839",
+    "Thema": [
+        "被り物",
+        "Accessoires",
+        "accessories (~ clothing)",
+        "couvre-chef",
+        "Jacke, Mantel",
+        "Dandy, Beau, Geck",
+        "dandy, beau",
+        "Modebilder",
+        "coat",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "chapelaria",
+        "Kleidung für offizielle Anlässe",
+        "clothes for official occasions",
+        "Mode",
+        "Frau",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "Mann",
+        "man",
+        "Public Festivals and Celebrations",
+        "fashion plates",
+        "woman",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Frisur",
+        "hairdress"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/51098/513491_default.webp",
+    "id": "bbcf92c7-be52-48d6-a43c-4107a8057661",
+    "Filter": {
+        "Aehnlichkeit": 1878,
+        "Farbe": [
+            2588,
+            6065,
+            7328,
+            8223,
+            8830,
+            10409
+        ]
+    }
+}

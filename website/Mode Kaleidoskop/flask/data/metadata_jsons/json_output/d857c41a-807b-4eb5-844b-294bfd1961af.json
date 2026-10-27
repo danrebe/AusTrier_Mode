@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31538",
+    "titel": "Modebild: Haar-, Hut- und Kragenmoden",
+    "Datum": "1832",
+    "Thema": [
+        "(Damen-)Kleid",
+        "Modebilder",
+        "fashion plates",
+        "Kopfbedeckung",
+        "被り物",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Mode",
+        "dress, gown",
+        "Biedermeier",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "woman",
+        "Frau"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55271/614353_default.webp",
+    "id": "d857c41a-807b-4eb5-844b-294bfd1961af",
+    "Filter": {
+        "Aehnlichkeit": 1951,
+        "Farbe": [
+            490,
+            2059,
+            3827,
+            5509,
+            9353,
+            10172
+        ]
+    }
+}

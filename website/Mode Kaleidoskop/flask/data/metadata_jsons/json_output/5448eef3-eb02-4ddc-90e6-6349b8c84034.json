@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31353",
+    "titel": "Modebild: Drei Figuren, Damen- und Herrenmoden",
+    "Datum": "1807",
+    "Thema": [
+        "coat",
+        "dandy, beau",
+        "Dandy, Beau, Geck",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Kopfbedeckung",
+        "被り物",
+        "Jacke, Mantel",
+        "Fashion",
+        "Frau",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Modebilder",
+        "fashion plates",
+        "Mode",
+        "woman",
+        "Mann",
+        "man"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54245/513809_default.webp",
+    "id": "5448eef3-eb02-4ddc-90e6-6349b8c84034",
+    "Filter": {
+        "Aehnlichkeit": 1522,
+        "Farbe": [
+            232,
+            1351,
+            3223,
+            4780
+        ]
+    }
+}

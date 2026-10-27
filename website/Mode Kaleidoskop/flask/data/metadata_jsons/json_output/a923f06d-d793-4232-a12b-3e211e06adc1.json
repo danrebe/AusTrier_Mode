@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30189",
+    "titel": "Modebild: \"Damen mit Pariser Haar- und Turbanmoden\"",
+    "Datum": "1808",
+    "Thema": [
+        "dress, gown",
+        "fashion plates",
+        "(Damen-)Kleid",
+        "Kopfbedeckung: Turban",
+        "head-gear: turban",
+        "Kopfbedeckung",
+        "被り物",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Mode",
+        "woman",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47615/1759431_default.webp",
+    "id": "a923f06d-d793-4232-a12b-3e211e06adc1",
+    "Filter": {
+        "Aehnlichkeit": 1841,
+        "Farbe": [
+            162,
+            971,
+            2904,
+            4485
+        ]
+    }
+}

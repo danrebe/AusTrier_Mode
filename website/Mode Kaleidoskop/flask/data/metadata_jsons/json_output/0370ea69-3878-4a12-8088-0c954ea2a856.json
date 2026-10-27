@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30404",
+    "titel": "Modebild: \"Französin mit satinbesetztem Hut, Merinospencer und Perkalrobe\"",
+    "Datum": "1819",
+    "Thema": [
+        "Kopfbedeckung",
+        "被り物",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "copricapo",
+        "chapelaria",
+        "woman",
+        "Bürgertum",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Fashion",
+        "Frau",
+        "Mode",
+        "Modebilder",
+        "fashion plates",
+        "couvre-chef",
+        "head-gear"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48481/512019_default.webp",
+    "id": "0370ea69-3878-4a12-8088-0c954ea2a856",
+    "Filter": {
+        "Aehnlichkeit": 28,
+        "Farbe": [
+            204,
+            1137,
+            3049,
+            4623
+        ]
+    }
+}

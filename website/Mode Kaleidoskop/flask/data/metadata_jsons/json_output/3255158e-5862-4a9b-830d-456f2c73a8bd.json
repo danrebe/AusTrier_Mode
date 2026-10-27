@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30706",
+    "titel": "Modebild: Zwei Figuren, Redingoten aus Gros des Naples mit Schinkenärmeln",
+    "Datum": "1829",
+    "Thema": [
+        "Kopfbedeckung",
+        "head-gear",
+        "(Damen-)Kleid",
+        "被り物",
+        "couvre-chef",
+        "woman",
+        "copricapo",
+        "chapelaria",
+        "dress, gown",
+        "Bürgertum",
+        "Mode",
+        "Frau",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Fashion",
+        "fashion plates",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49421/511305_default.webp",
+    "id": "3255158e-5862-4a9b-830d-456f2c73a8bd",
+    "Filter": {
+        "Aehnlichkeit": 398,
+        "Farbe": [
+            241,
+            1382,
+            3251,
+            4811,
+            6341
+        ]
+    }
+}

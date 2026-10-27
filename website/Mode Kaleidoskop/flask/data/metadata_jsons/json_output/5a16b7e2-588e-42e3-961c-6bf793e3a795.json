@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30364",
+    "titel": "Modebild: \"Französische Dame mit Spitzen, gesticktem Schal und Hut\"",
+    "Datum": "1810",
+    "Thema": [
+        "couvre-chef",
+        "(Damen-)Kleid",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "neck-gear ~ clothing",
+        "copricapo",
+        "chapelaria",
+        "Schal",
+        "dress, gown",
+        "Fashion",
+        "Frau",
+        "Bourgeoisie",
+        "Bürgertum",
+        "fashion plates",
+        "Modebilder",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48310/511955_default.webp",
+    "accessoires": [
+        "Schal"
+    ],
+    "id": "5a16b7e2-588e-42e3-961c-6bf793e3a795",
+    "Filter": {
+        "Aehnlichkeit": 1076,
+        "Farbe": [
+            173,
+            1005,
+            2937,
+            4515,
+            8389
+        ]
+    }
+}

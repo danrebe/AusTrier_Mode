@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31376",
+    "titel": "Modebild: Wagenkleid",
+    "Datum": "1813",
+    "Thema": [
+        "Reisen und Tourismus",
+        "woman",
+        "Mode",
+        "Travel and Tourism",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "fashion plates",
+        "Modebilder",
+        "Fashion",
+        "Bürgertum",
+        "Frau",
+        "Bourgeoisie",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54959/513277_default.webp",
+    "id": "0fa3ddb2-e0f9-4145-a26b-6afc49328ce3",
+    "Filter": {
+        "Aehnlichkeit": 857,
+        "Farbe": [
+            990,
+            2922,
+            5602,
+            5877,
+            6089,
+            7417,
+            8980
+        ]
+    }
+}

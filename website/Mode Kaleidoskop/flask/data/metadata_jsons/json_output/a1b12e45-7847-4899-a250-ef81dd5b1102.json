@@ -1,0 +1,42 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31277",
+    "titel": "Modebild: Fünf Figuren, Damenüberkleidung",
+    "Datum": "1845",
+    "Thema": [
+        "hairdress",
+        "fashion plates",
+        "Jacke, Mantel",
+        "coat",
+        "woman",
+        "Frisur",
+        "Mode",
+        "Frau",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "head-gear",
+        "Accessoires",
+        "accessories (~ clothing)",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "Kopfbedeckung",
+        "被り物",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53968/513175_default.webp",
+    "id": "a1b12e45-7847-4899-a250-ef81dd5b1102",
+    "Filter": {
+        "Aehnlichkeit": 1183,
+        "Farbe": [
+            91,
+            713,
+            2563,
+            6456,
+            8808,
+            10395,
+            10724
+        ]
+    }
+}

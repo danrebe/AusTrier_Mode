@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31691",
+    "titel": "Modebild: Zwei Figuren, Damenmäntel",
+    "Datum": "1834",
+    "Thema": [
+        "被り物",
+        "copricapo",
+        "coat",
+        "Jacke, Mantel",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Modebilder",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "chapelaria",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "Frau",
+        "Mode",
+        "Winter",
+        "fashion plates",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55460/614663_default.webp",
+    "id": "c4acb95c-0db1-4feb-a763-d404c9ec1d6a",
+    "Filter": {
+        "Aehnlichkeit": 830,
+        "Farbe": [
+            349,
+            3516,
+            6764,
+            7589,
+            9205
+        ]
+    }
+}

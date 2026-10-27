@@ -1,0 +1,44 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31396",
+    "titel": "Modebild: Eine Figur, Abend-, Theater- und Opernkleid; kolorierter Kupferstich",
+    "Datum": "1814",
+    "Thema": [
+        "dress, gown",
+        "(Damen-)Kleid",
+        "woman",
+        "Theatre",
+        "Nightlife",
+        "Oper",
+        "Theater",
+        "Opera",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Mode",
+        "Frau",
+        "Bourgeoisie",
+        "Fashion",
+        "Biedermeier",
+        "Bürgertum",
+        "Nachtleben",
+        "fashion plates",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54995/513299_default.webp",
+    "id": "7b84836f-78b7-4f90-b6ea-20b33ed92de9",
+    "Filter": {
+        "Aehnlichkeit": 1481,
+        "Farbe": [
+            1311,
+            3193,
+            4751,
+            5639,
+            6141,
+            6622
+        ]
+    }
+}

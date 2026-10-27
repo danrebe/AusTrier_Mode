@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30718",
+    "titel": "Modebild: Zwei Figuren, blaues und rotes Samtkleid verziert mit Fransen, weiße Schinkenärmeln",
+    "Datum": "1829",
+    "Thema": [
+        "被り物",
+        "couvre-chef",
+        "fashion plates",
+        "Modebilder",
+        "dress, gown",
+        "Bürgertum",
+        "(Damen-)Kleid",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "chapelaria",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Fashion",
+        "Mode",
+        "woman",
+        "Frau"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49433/512501_default.webp",
+    "id": "d907d2d5-70e0-42c3-aa06-a0f610d43203",
+    "Filter": {
+        "Aehnlichkeit": 1531,
+        "Farbe": [
+            1405,
+            3273,
+            4833,
+            10812,
+            11076
+        ]
+    }
+}

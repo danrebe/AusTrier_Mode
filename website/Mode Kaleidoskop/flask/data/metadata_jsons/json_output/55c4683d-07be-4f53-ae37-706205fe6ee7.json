@@ -1,0 +1,45 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31491",
+    "titel": "Modebild: Zwei Figuren, Brautkleid",
+    "Datum": "1831",
+    "Thema": [
+        "Kleidung für spezielle Zwecke (Brautmode)",
+        "被り物",
+        "clothes for official occasions",
+        "Kleidung für offizielle Anlässe",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "woman",
+        "fashion plates",
+        "chapelaria",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Modebilder",
+        "Frau",
+        "Costums",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Bürgertum",
+        "Bräuche",
+        "Public Festivals and Celebrations",
+        "Mode",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Fashion"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55175/614259_default.webp",
+    "id": "55c4683d-07be-4f53-ae37-706205fe6ee7",
+    "Filter": {
+        "Aehnlichkeit": 1317,
+        "Farbe": [
+            1555,
+            3403,
+            6373,
+            6708,
+            9143,
+            9983
+        ]
+    }
+}

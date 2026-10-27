@@ -1,0 +1,46 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31012",
+    "titel": "Modebild: Fünf Figuren, Herrenmoden",
+    "Datum": "1838",
+    "Thema": [
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Jacke, Mantel",
+        "dandy, beau",
+        "Dandy, Beau, Geck",
+        "coat",
+        "couvre-chef",
+        "copricapo",
+        "accessories (~ clothing)",
+        "chapelaria",
+        "Umhang, Cape",
+        "cape",
+        "Accessoires",
+        "Frisur",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "hairdress",
+        "Mann",
+        "fashion plates",
+        "Mode",
+        "man",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/50944/512917_default.webp",
+    "id": "22446199-64bf-4405-9f02-b1fdd4dc4444",
+    "Filter": {
+        "Aehnlichkeit": 748,
+        "Farbe": [
+            103,
+            2640,
+            4187,
+            5847,
+            7908,
+            8871,
+            11072
+        ]
+    }
+}

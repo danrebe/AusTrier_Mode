@@ -1,0 +1,35 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30217",
+    "titel": "Modebild: \"Damenanzug aus London mit Sessel\"",
+    "Datum": "1814",
+    "Thema": [
+        "(Damen-)Kleid",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "dress, gown",
+        "Mode",
+        "Frau",
+        "Bourgeoisie",
+        "Fashion",
+        "Bürgertum",
+        "Modebilder",
+        "fashion plates",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47682/1759459_default.webp",
+    "id": "354bce03-37a3-488d-a2db-70d8e08e93ff",
+    "Filter": {
+        "Aehnlichkeit": 1187,
+        "Farbe": [
+            1084,
+            3004,
+            4579,
+            9816
+        ]
+    }
+}

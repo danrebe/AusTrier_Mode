@@ -1,0 +1,42 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30003",
+    "titel": "Modebild: \"London Morning and Evening Dress\"",
+    "Datum": "1811",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "couvre-chef",
+        "Kopfbedeckung",
+        "head-gear",
+        "被り物",
+        "chapelaria",
+        "Mode",
+        "fashion plates",
+        "Tanz",
+        "Nightlife",
+        "Nachtleben",
+        "Modebilder",
+        "copricapo",
+        "Fashion",
+        "Bürgertum",
+        "woman",
+        "Frau",
+        "Dance",
+        "Bourgeoisie"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/45202/510973_default.webp",
+    "id": "0e4c96d1-f871-4433-8fda-7e92fe63ac4f",
+    "Filter": {
+        "Aehnlichkeit": 822,
+        "Farbe": [
+            1250,
+            4699,
+            5631,
+            6132,
+            8458,
+            10567,
+            10614
+        ]
+    }
+}

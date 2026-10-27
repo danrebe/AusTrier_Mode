@@ -1,0 +1,50 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31927",
+    "titel": "Modebild: Zwei Figuren, weibliche  Ball- und Straßenmoden",
+    "Datum": "1840",
+    "Thema": [
+        "Jacke, Mantel",
+        "coat",
+        "dress, gown: ball gown",
+        "Modebilder",
+        "fashion plates",
+        "Ballkleid",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "head-gear",
+        "被り物",
+        "Frau",
+        "Costums",
+        "Bräuche",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "Dance",
+        "Tanz",
+        "Nachtleben",
+        "Mode",
+        "woman",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Nightlife",
+        "Public Festivals and Celebrations"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/56476/510687_default.webp",
+    "id": "d622334c-85b6-476c-8946-7b0b772af33f",
+    "Filter": {
+        "Aehnlichkeit": 1948,
+        "Farbe": [
+            755,
+            2644,
+            4189,
+            9603,
+            10442,
+            10688,
+            11086
+        ]
+    }
+}

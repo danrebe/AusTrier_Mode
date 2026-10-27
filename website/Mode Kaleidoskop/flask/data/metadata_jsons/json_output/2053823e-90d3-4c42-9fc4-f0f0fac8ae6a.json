@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30484",
+    "titel": "Modebild: \"Französische Dame mit braunem Hut und gleichfärbigem Mantel, eingefaßt mit Satinbändern\"",
+    "Datum": "1822",
+    "Thema": [
+        "couvre-chef",
+        "Biedermeier",
+        "Mode",
+        "Modebilder",
+        "fashion plates",
+        "woman",
+        "(Damen-)Kleid",
+        "Bürgertum",
+        "Frau",
+        "Bourgeoisie",
+        "Fashion",
+        "Jacke, Mantel",
+        "head-gear",
+        "Kopfbedeckung",
+        "copricapo",
+        "chapelaria",
+        "coat",
+        "被り物",
+        "dress, gown"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48656/512145_default.webp",
+    "id": "2053823e-90d3-4c42-9fc4-f0f0fac8ae6a",
+    "Filter": {
+        "Aehnlichkeit": 33,
+        "Farbe": [
+            1105,
+            3023,
+            4596,
+            7442
+        ]
+    }
+}

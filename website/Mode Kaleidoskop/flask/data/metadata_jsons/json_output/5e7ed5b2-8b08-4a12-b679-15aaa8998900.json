@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31413",
+    "titel": "Modebild: Eine Figur, Kleid für Badeaufenthalt, kolorierter Kupferstich",
+    "Datum": "1815",
+    "Thema": [
+        "被り物",
+        "chapelaria",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "woman",
+        "Mode",
+        "Recreation and Leisure",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Bourgeoisie",
+        "Modebilder",
+        "Biedermeier",
+        "Erholung und Freizeit",
+        "Bürgertum",
+        "Frau",
+        "Fashion",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55023/513317_default.webp",
+    "id": "5e7ed5b2-8b08-4a12-b679-15aaa8998900",
+    "Filter": {
+        "Aehnlichkeit": 785,
+        "Farbe": [
+            1339,
+            3214,
+            6147,
+            6635,
+            9091,
+            9909,
+            10536
+        ]
+    }
+}

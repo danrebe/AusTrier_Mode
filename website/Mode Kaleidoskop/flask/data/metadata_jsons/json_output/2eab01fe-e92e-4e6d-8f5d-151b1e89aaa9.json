@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30373",
+    "titel": "Modebild: \"Pariserin mit Velourhut, Spencer und Merinokleid\"",
+    "Datum": "1812",
+    "Thema": [
+        "couvre-chef",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "copricapo",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "fashion plates",
+        "Bourgeoisie",
+        "Fashion",
+        "Frau",
+        "Bürgertum",
+        "woman",
+        "Mode",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48343/511969_default.webp",
+    "id": "2eab01fe-e92e-4e6d-8f5d-151b1e89aaa9",
+    "Filter": {
+        "Aehnlichkeit": 989,
+        "Farbe": [
+            955,
+            4467,
+            6487,
+            7150,
+            8371,
+            8975
+        ]
+    }
+}

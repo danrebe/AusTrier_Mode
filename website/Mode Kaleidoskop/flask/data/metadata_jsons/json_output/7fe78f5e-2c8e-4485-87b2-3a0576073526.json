@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30112",
+    "titel": "Modebild: Kleid, Umhang, Hut, (Haube)",
+    "Datum": "1799",
+    "Thema": [
+        "Umhang, Cape",
+        "cape",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "couvre-chef",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "chapelaria",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "fashion plates",
+        "Modebilder",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47384/511037_default.webp",
+    "id": "7fe78f5e-2c8e-4485-87b2-3a0576073526",
+    "Filter": {
+        "Aehnlichkeit": 229,
+        "Farbe": [
+            3136,
+            4692,
+            5627,
+            5907,
+            6596,
+            9874,
+            10534
+        ]
+    }
+}

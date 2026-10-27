@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31389",
+    "titel": "Modebild: Eine Figur, Russ. und Preuß. Haube und Übermantel",
+    "Datum": "1814",
+    "Thema": [
+        "(Damen-)Kleid",
+        "Jacke, Mantel",
+        "coat",
+        "woman",
+        "Modebilder",
+        "fashion plates",
+        "couvre-chef",
+        "chapelaria",
+        "copricapo",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Biedermeier",
+        "Frau",
+        "Fashion",
+        "dress, gown",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54984/513291_default.webp",
+    "id": "b1a761e0-ab25-4402-acfc-63ea8258e25a",
+    "Filter": {
+        "Aehnlichkeit": 1856,
+        "Farbe": [
+            1316,
+            3197,
+            4754,
+            9901
+        ]
+    }
+}

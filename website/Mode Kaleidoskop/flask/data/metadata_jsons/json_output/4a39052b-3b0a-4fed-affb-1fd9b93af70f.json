@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30899",
+    "titel": "Modebild: Drei Figuren,, englische Damenmoden",
+    "Datum": "1802",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "couvre-chef",
+        "head-gear",
+        "chapelaria",
+        "被り物",
+        "copricapo",
+        "Kopfbedeckung",
+        "Fashion",
+        "Modebilder",
+        "fashion plates",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Frau",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/50009/512795_default.webp",
+    "id": "4a39052b-3b0a-4fed-affb-1fd9b93af70f",
+    "Filter": {
+        "Aehnlichkeit": 916,
+        "Farbe": [
+            165,
+            981,
+            2914,
+            4493,
+            9773
+        ]
+    }
+}

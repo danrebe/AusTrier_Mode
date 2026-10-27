@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30864",
+    "titel": "Modebild: Zwei Figuren, Abend- und Wagenkleid",
+    "Datum": "1829",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "copricapo",
+        "fashion plates",
+        "Nachtleben",
+        "woman",
+        "Reisen und Tourismus",
+        "Modebilder",
+        "chapelaria",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Biedermeier",
+        "Dance",
+        "Bourgeoisie",
+        "Fashion",
+        "Bürgertum",
+        "Frau",
+        "Tanz",
+        "Mode",
+        "Travel and Tourism",
+        "Nightlife"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49885/512725_default.webp",
+    "id": "26e8fa53-d3eb-4383-bfbc-52a9c952dc11",
+    "Filter": {
+        "Aehnlichkeit": 182,
+        "Farbe": [
+            468,
+            1999,
+            3778,
+            5206,
+            6232
+        ]
+    }
+}

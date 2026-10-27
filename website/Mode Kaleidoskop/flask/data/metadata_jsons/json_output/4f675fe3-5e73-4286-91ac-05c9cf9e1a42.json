@@ -1,0 +1,42 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30185",
+    "titel": "Modebild: \"Dame mit Rosen an der Kappe\"",
+    "Datum": "1807",
+    "Thema": [
+        "dress, gown",
+        "couvre-chef",
+        "neck-gear ~ clothing",
+        "Schal",
+        "copricapo",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "(Damen-)Kleid",
+        "woman",
+        "Frau",
+        "Bourgeoisie",
+        "Fashion",
+        "Bürgertum",
+        "Modebilder",
+        "fashion plates",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47587/1759427_default.webp",
+    "accessoires": [
+        "Schal"
+    ],
+    "id": "4f675fe3-5e73-4286-91ac-05c9cf9e1a42",
+    "Filter": {
+        "Aehnlichkeit": 656,
+        "Farbe": [
+            1347,
+            3219,
+            6149,
+            9094,
+            9912,
+            10537
+        ]
+    }
+}

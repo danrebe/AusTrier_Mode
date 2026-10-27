@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30333",
+    "titel": "Modebild: \"Damenanzug aus Paris\"",
+    "Datum": "1798",
+    "Thema": [
+        "Modebilder",
+        "(Damen-)Kleid",
+        "fashion plates",
+        "dress, gown",
+        "head-gear",
+        "couvre-chef",
+        "被り物",
+        "copricapo",
+        "Kopfbedeckung",
+        "chapelaria",
+        "head-gear: turban",
+        "Bürgertum",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "woman",
+        "Mode",
+        "Kopfbedeckung: Turban"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48207/511137_default.webp",
+    "id": "abbf9b51-6d15-4792-8901-81caa514a065",
+    "Filter": {
+        "Aehnlichkeit": 880,
+        "Farbe": [
+            190,
+            1089,
+            3008,
+            4583,
+            10561
+        ]
+    }
+}

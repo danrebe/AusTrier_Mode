@@ -1,0 +1,35 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30417",
+    "titel": "Modebild: \"Sechs Damenhüte aus verschiedenen Velourarten, Bouclée und Satin\"",
+    "Datum": "1820",
+    "Thema": [
+        "Modebilder",
+        "被り物",
+        "Kopfbedeckung",
+        "copricapo",
+        "head-gear",
+        "couvre-chef",
+        "chapelaria",
+        "Mode",
+        "fashion plates",
+        "Fashion",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Bürgertum"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48509/512039_default.webp",
+    "id": "8ada6827-f6f7-423c-9c8f-ddf8b4eeaa9d",
+    "Filter": {
+        "Aehnlichkeit": 1749,
+        "Farbe": [
+            1125,
+            3039,
+            5893,
+            6549,
+            7450,
+            9017,
+            11045
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31972",
+    "titel": "Modebild: Zwei Figuren,  Damenmäntel",
+    "Datum": "1840",
+    "Thema": [
+        "chapelaria",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "coat",
+        "Jacke, Mantel",
+        "copricapo",
+        "被り物",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "Frau",
+        "Modebilder",
+        "fashion plates",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "woman",
+        "Mode",
+        "Winter"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/57013/510927_default.webp",
+    "id": "df39e7e7-1562-4e92-b310-62172e06326b",
+    "Filter": {
+        "Aehnlichkeit": 1960,
+        "Farbe": [
+            784,
+            2699,
+            4211,
+            5434,
+            11204
+        ]
+    }
+}

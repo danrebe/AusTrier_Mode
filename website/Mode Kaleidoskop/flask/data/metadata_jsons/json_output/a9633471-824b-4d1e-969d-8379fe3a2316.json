@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31385",
+    "titel": "Modebild: Eine Figur, Bourbon Hut und Mantel; kolorierter Kupferstich",
+    "Datum": "1814",
+    "Thema": [
+        "chapelaria",
+        "Jacke, Mantel",
+        "coat",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "fashion plates",
+        "copricapo",
+        "couvre-chef",
+        "被り物",
+        "head-gear",
+        "Kopfbedeckung",
+        "Fashion",
+        "Modebilder",
+        "Biedermeier",
+        "Bürgertum",
+        "Frau",
+        "Bourgeoisie",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54975/513287_default.webp",
+    "id": "a9633471-824b-4d1e-969d-8379fe3a2316",
+    "Filter": {
+        "Aehnlichkeit": 899,
+        "Farbe": [
+            1319,
+            3198,
+            4757,
+            9903
+        ]
+    }
+}

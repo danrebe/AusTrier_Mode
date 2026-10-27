@@ -1,0 +1,45 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31031",
+    "titel": "Modebild: Sechs Figuren, vier Ausgehkleider, zwei Kindermoden",
+    "Datum": "1838",
+    "Thema": [
+        "Kopfbedeckung",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Modebilder",
+        "Kleidung für Mädchen",
+        "fashion, clothing (+ girls' clothes)",
+        "fashion plates",
+        "Kind",
+        "被り物",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "child",
+        "Frau",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "fashion, clothing (+ boys' clothes)",
+        "Kleidung für Jungen",
+        "girls dress",
+        "Mädchenkleid",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/51014/513473_default.webp",
+    "id": "4dac2462-c738-4efe-9a8d-6988508d9ef0",
+    "Filter": {
+        "Aehnlichkeit": 314,
+        "Farbe": [
+            2614,
+            8239,
+            8850,
+            10426,
+            10685,
+            10699
+        ]
+    }
+}

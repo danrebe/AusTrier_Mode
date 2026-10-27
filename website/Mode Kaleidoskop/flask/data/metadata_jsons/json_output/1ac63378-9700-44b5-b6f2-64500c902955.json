@@ -1,0 +1,46 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31189",
+    "titel": "Modebild: Fünf Figuren, Damen- und Herrenmoden",
+    "Datum": "1843",
+    "Thema": [
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Dandy, Beau, Geck",
+        "dandy, beau",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "coat",
+        "Jacke, Mantel",
+        "accessories (~ clothing)",
+        "Accessoires",
+        "Mann",
+        "Bürgertum",
+        "Frau",
+        "Bourgeoisie",
+        "Fashion",
+        "man",
+        "Frisur",
+        "Mode",
+        "hairdress",
+        "Modebilder",
+        "fashion plates",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53824/513641_default.webp",
+    "id": "1ac63378-9700-44b5-b6f2-64500c902955",
+    "Filter": {
+        "Aehnlichkeit": 82,
+        "Farbe": [
+            787,
+            2706,
+            5857,
+            7130,
+            7936,
+            9617,
+            10476
+        ]
+    }
+}

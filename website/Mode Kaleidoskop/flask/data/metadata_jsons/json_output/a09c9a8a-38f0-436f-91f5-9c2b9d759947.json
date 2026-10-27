@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31183",
+    "titel": "Modebild: Fünf Damenmoden",
+    "Datum": "1843",
+    "Thema": [
+        "Mode",
+        "Fashion",
+        "Bürgertum",
+        "Frau",
+        "Bourgeoisie",
+        "Frisur",
+        "Accessoires",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Kopfbedeckung",
+        "被り物",
+        "accessories (~ clothing)",
+        "Modebilder",
+        "fashion plates",
+        "woman",
+        "hairdress"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53811/513087_default.webp",
+    "id": "a09c9a8a-38f0-436f-91f5-9c2b9d759947",
+    "Filter": {
+        "Aehnlichkeit": 1812,
+        "Farbe": [
+            671,
+            2472,
+            7290,
+            8158,
+            8757,
+            10345
+        ]
+    }
+}

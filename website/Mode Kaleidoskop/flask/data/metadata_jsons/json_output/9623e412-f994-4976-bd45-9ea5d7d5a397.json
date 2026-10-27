@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30564",
+    "titel": "Modebild: Zwei Pariserinnen, eine mit rosa Crepe-Kleid und Marabutboa, die andere in einem Wollmantel",
+    "Datum": "1828",
+    "Thema": [
+        "Modebilder",
+        "chapelaria",
+        "fashion plates",
+        "copricapo",
+        "coat",
+        "Jacke, Mantel",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "Biedermeier",
+        "dress, gown",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Frau",
+        "(Damen-)Kleid",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48975/512269_default.webp",
+    "id": "9623e412-f994-4976-bd45-9ea5d7d5a397",
+    "Filter": {
+        "Aehnlichkeit": 153,
+        "Farbe": [
+            334,
+            1653,
+            3487,
+            5000
+        ]
+    }
+}

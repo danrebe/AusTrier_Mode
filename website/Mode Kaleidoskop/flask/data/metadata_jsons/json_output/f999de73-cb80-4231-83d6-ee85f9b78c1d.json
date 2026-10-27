@@ -1,0 +1,42 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30295/2",
+    "titel": "Modebild: \"Pariserinnen mit Seidenschärpe, Federhüten und Spencer\"",
+    "Datum": "1823",
+    "Thema": [
+        "Schal",
+        "neck-gear ~ clothing",
+        "chapelaria",
+        "fashion plates",
+        "Modebilder",
+        "copricapo",
+        "couvre-chef",
+        "被り物",
+        "head-gear",
+        "Kopfbedeckung",
+        "Biedermeier",
+        "dress, gown",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "Mode",
+        "(Damen-)Kleid",
+        "Frau",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47939/511843_default.webp",
+    "accessoires": [
+        "Schal"
+    ],
+    "id": "f999de73-cb80-4231-83d6-ee85f9b78c1d",
+    "Filter": {
+        "Aehnlichkeit": 338,
+        "Farbe": [
+            1353,
+            3225,
+            4782,
+            6643,
+            9914
+        ]
+    }
+}

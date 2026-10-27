@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30135",
+    "titel": "Modebild: \"Dame in rosa Atlaskleid\"",
+    "Datum": "1804",
+    "Thema": [
+        "Modebilder",
+        "fashion plates",
+        "Kopfbedeckung: Turban",
+        "head-gear: turban",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "被り物",
+        "Kopfbedeckung",
+        "dress, gown",
+        "Frau",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Mode",
+        "woman",
+        "(Damen-)Kleid"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47456/511579_default.webp",
+    "id": "cb65482d-9197-4df8-afa5-8e23281200bd",
+    "Filter": {
+        "Aehnlichkeit": 36,
+        "Farbe": [
+            928,
+            2866,
+            4271,
+            4444,
+            5595,
+            6305
+        ]
+    }
+}

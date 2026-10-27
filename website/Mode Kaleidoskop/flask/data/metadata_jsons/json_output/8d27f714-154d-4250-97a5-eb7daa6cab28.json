@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30573",
+    "titel": "Modebild: Dame mit mit blauem Samthut und blauer Redingote",
+    "Datum": "1828",
+    "Thema": [
+        "fashion plates",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Kopfbedeckung",
+        "被り物",
+        "couvre-chef",
+        "head-gear",
+        "copricapo",
+        "chapelaria",
+        "Fashion",
+        "Modebilder",
+        "Bürgertum",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Frau",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49010/512283_default.webp",
+    "id": "8d27f714-154d-4250-97a5-eb7daa6cab28",
+    "Filter": {
+        "Aehnlichkeit": 1759,
+        "Farbe": [
+            346,
+            1681,
+            3511,
+            5015
+        ]
+    }
+}

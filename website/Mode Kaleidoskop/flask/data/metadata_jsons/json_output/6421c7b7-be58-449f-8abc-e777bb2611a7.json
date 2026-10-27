@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31426",
+    "titel": "Modebild: Eine Figur, Kleid für Dinnerpartys",
+    "Datum": "1816",
+    "Thema": [
+        "被り物",
+        "head-gear",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Nightlife",
+        "Mode",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Bürgertum",
+        "Nachtleben",
+        "woman",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Fashion",
+        "Frau",
+        "Modebilder",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55047/513885_default.webp",
+    "id": "6421c7b7-be58-449f-8abc-e777bb2611a7",
+    "Filter": {
+        "Aehnlichkeit": 898,
+        "Farbe": [
+            1423,
+            3287,
+            4848,
+            6155,
+            9936
+        ]
+    }
+}

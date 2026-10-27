@@ -1,0 +1,42 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31581",
+    "titel": "Modebild: Zwei Figuren, Abendrobe (weiblich )",
+    "Datum": "1832",
+    "Thema": [
+        "woman",
+        "Nightlife",
+        "被り物",
+        "Nachtleben",
+        "(Damen-)Kleid",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "head-gear",
+        "dress, gown",
+        "Kopfbedeckung",
+        "Kleidung für offizielle Anlässe",
+        "clothes for official occasions",
+        "Mode",
+        "Frau",
+        "Biedermeier",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "Modebilder",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55339/614441_default.webp",
+    "id": "2334eb67-4ab6-4047-bb40-f16bcfcbf9d1",
+    "Filter": {
+        "Aehnlichkeit": 544,
+        "Farbe": [
+            2269,
+            4004,
+            6275,
+            7738,
+            9454,
+            11171
+        ]
+    }
+}

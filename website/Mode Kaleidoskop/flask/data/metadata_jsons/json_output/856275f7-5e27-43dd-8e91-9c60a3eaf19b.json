@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31169",
+    "titel": "Modebild: Fünf Figuren, ein Herrenanzug, vier Damenmoden",
+    "Datum": "1842",
+    "Thema": [
+        "Fashion",
+        "被り物",
+        "Mode",
+        "Jacke, Mantel",
+        "coat",
+        "chapelaria",
+        "copricapo",
+        "accessories (~ clothing)",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "Accessoires",
+        "fashion plates",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Frau",
+        "Modebilder",
+        "woman",
+        "man",
+        "Mann",
+        "Frisur",
+        "hairdress"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53766/513619_default.webp",
+    "id": "856275f7-5e27-43dd-8e91-9c60a3eaf19b",
+    "Filter": {
+        "Aehnlichkeit": 96,
+        "Farbe": [
+            2503,
+            4137,
+            8775,
+            9711,
+            10364,
+            10698
+        ]
+    }
+}

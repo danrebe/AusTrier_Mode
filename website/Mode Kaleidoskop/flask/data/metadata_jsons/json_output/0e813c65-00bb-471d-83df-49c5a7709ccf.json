@@ -1,0 +1,35 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30206",
+    "titel": "Modebild: \"Zwei Pariser Damen in plissierten Kleidern\"",
+    "Datum": "1811",
+    "Thema": [
+        "woman",
+        "fashion plates",
+        "couvre-chef",
+        "Modebilder",
+        "Mode",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "Frau",
+        "(Damen-)Kleid",
+        "被り物",
+        "dress, gown",
+        "chapelaria",
+        "copricapo",
+        "Kopfbedeckung",
+        "head-gear"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47637/1759448_default.webp",
+    "id": "0e813c65-00bb-471d-83df-49c5a7709ccf",
+    "Filter": {
+        "Aehnlichkeit": 823,
+        "Farbe": [
+            1257,
+            3150,
+            4703,
+            9070
+        ]
+    }
+}

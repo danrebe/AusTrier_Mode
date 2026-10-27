@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30118",
+    "titel": "Modebild: \"Dame in wattiertem Negligée\"",
+    "Datum": "1801",
+    "Thema": [
+        "fashion plates",
+        "dress, gown",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "(Damen-)Kleid",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "Mode",
+        "Frau",
+        "woman",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47405/511551_default.webp",
+    "id": "e074b741-ff0e-480c-afbf-c9a1795dfec6",
+    "Filter": {
+        "Aehnlichkeit": 295,
+        "Farbe": [
+            1176,
+            3080,
+            4647,
+            7459,
+            9637
+        ]
+    }
+}

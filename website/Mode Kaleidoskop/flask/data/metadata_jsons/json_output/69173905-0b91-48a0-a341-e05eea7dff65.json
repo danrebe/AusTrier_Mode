@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30940",
+    "titel": "Modebild: Drei Figuren, Damen- und Kindermoden",
+    "Datum": "1817",
+    "Thema": [
+        "Modebilder",
+        "Kind",
+        "fashion plates",
+        "Mode",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Kopfbedeckung",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "被り物",
+        "Bourgeoisie",
+        "Biedermeier",
+        "child",
+        "Fashion",
+        "Bürgertum",
+        "Frau",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/50117/513371_default.webp",
+    "id": "69173905-0b91-48a0-a341-e05eea7dff65",
+    "Filter": {
+        "Aehnlichkeit": 1626,
+        "Farbe": [
+            916,
+            2855,
+            4434,
+            9747,
+            10789
+        ]
+    }
+}

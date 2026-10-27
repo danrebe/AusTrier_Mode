@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31462",
+    "titel": "Modebild: Zwei Figuren, Abendkleid, Fulldress",
+    "Datum": "1830",
+    "Thema": [
+        "couvre-chef",
+        "被り物",
+        "head-gear",
+        "dress, gown",
+        "woman",
+        "Nachtleben",
+        "Nightlife",
+        "Kopfbedeckung",
+        "(Damen-)Kleid",
+        "copricapo",
+        "chapelaria",
+        "Mode",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Fashion",
+        "Bürgertum",
+        "Frau",
+        "fashion plates",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55120/614201_default.webp",
+    "id": "26c90cdf-8c4c-4f6e-88e2-93515371f308",
+    "Filter": {
+        "Aehnlichkeit": 1190,
+        "Farbe": [
+            1476,
+            3336,
+            4887,
+            5949,
+            6162,
+            6671,
+            9955
+        ]
+    }
+}

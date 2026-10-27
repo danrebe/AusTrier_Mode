@@ -1,0 +1,42 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30183",
+    "titel": "Modebild: \"Französische Dame und Herr in Straßenkleidung\"",
+    "Datum": "1805",
+    "Thema": [
+        "chapelaria",
+        "coat",
+        "head-gear",
+        "dandy, beau",
+        "Dandy, Beau, Geck",
+        "dress, gown",
+        "copricapo",
+        "couvre-chef",
+        "Kopfbedeckung",
+        "被り物",
+        "Jacke, Mantel",
+        "Modebilder",
+        "(Damen-)Kleid",
+        "Fashion",
+        "Frau",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Mode",
+        "fashion plates",
+        "Mann",
+        "woman",
+        "man"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47570/1759425_default.webp",
+    "id": "2e4dfde5-34af-43ff-bef4-05e596c0f78b",
+    "Filter": {
+        "Aehnlichkeit": 791,
+        "Farbe": [
+            217,
+            1241,
+            3135,
+            4691,
+            9655
+        ]
+    }
+}

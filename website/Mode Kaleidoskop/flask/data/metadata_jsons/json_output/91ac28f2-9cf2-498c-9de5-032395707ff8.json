@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31448",
+    "titel": "Modebild: Zwei Figuren, Promenaden- und Ausgehkleid",
+    "Datum": "1829",
+    "Thema": [
+        "Modebilder",
+        "fashion plates",
+        "woman",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "couvre-chef",
+        "chapelaria",
+        "copricapo",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Fashion",
+        "Frau",
+        "Bürgertum",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55093/513353_default.webp",
+    "id": "91ac28f2-9cf2-498c-9de5-032395707ff8",
+    "Filter": {
+        "Aehnlichkeit": 672,
+        "Farbe": [
+            435,
+            1889,
+            3685,
+            5133,
+            10852
+        ]
+    }
+}

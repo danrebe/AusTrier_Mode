@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30200",
+    "titel": "Modebild: \"Zwei Damen aus Paris mit Hüten und Taschentüchern in den Händen\"",
+    "Datum": "1809",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "copricapo",
+        "chapelaria",
+        "Frau",
+        "woman",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "fashion plates",
+        "Modebilder",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47631/1759442_default.webp",
+    "id": "5bd55ba4-89a5-4c56-923b-36fa5313d893",
+    "Filter": {
+        "Aehnlichkeit": 1560,
+        "Farbe": [
+            1073,
+            2995,
+            4570,
+            9004,
+            9810
+        ]
+    }
+}

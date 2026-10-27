@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30395",
+    "titel": "Modebild: \"Französische Dame mit Crepehut und blauem Levantinekleid\"",
+    "Datum": "1818",
+    "Thema": [
+        "chapelaria",
+        "copricapo",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Mode",
+        "couvre-chef",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "Bürgertum",
+        "woman",
+        "Bourgeoisie",
+        "Frau",
+        "Biedermeier",
+        "Fashion",
+        "Modebilder",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48378/512005_default.webp",
+    "id": "69240e37-ae70-4a4f-9120-c414763fc09f",
+    "Filter": {
+        "Aehnlichkeit": 1629,
+        "Farbe": [
+            164,
+            978,
+            2912,
+            6497,
+            8382,
+            8977,
+            10993
+        ]
+    }
+}

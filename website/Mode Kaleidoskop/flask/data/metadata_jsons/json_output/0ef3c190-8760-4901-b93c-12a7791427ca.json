@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30036",
+    "titel": "Modebild: \"Dinner Dress\"",
+    "Datum": "1829",
+    "Thema": [
+        "Nightlife",
+        "Modebilder",
+        "fashion plates",
+        "woman",
+        "Mode",
+        "Kopfbedeckung",
+        "Nachtleben",
+        "dress, gown",
+        "被り物",
+        "Biedermeier",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "(Damen-)Kleid",
+        "head-gear",
+        "chapelaria",
+        "couvre-chef",
+        "copricapo"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/46859/511403_default.webp",
+    "id": "0ef3c190-8760-4901-b93c-12a7791427ca",
+    "Filter": {
+        "Aehnlichkeit": 837,
+        "Farbe": [
+            1904,
+            4336,
+            5145,
+            6212,
+            6355
+        ]
+    }
+}

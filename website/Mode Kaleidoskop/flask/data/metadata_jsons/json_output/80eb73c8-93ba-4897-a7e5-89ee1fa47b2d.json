@@ -1,0 +1,44 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30419",
+    "titel": "Modebild: \"Pariser Dame mit festlicher Frisur und weißem Gesellschaftskleid\"",
+    "Datum": "1821",
+    "Thema": [
+        "Kleidung für offizielle Anlässe",
+        "clothes for official occasions",
+        "dress, gown",
+        "被り物",
+        "(Damen-)Kleid",
+        "Mode",
+        "hairdress",
+        "Frisur",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Frau",
+        "Fashion",
+        "fashion plates",
+        "Modebilder",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Public Festivals and Celebrations",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48524/511173_default.webp",
+    "id": "80eb73c8-93ba-4897-a7e5-89ee1fa47b2d",
+    "Filter": {
+        "Aehnlichkeit": 204,
+        "Farbe": [
+            1574,
+            3421,
+            4958,
+            8536,
+            9151,
+            9990
+        ]
+    }
+}

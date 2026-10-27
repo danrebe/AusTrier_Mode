@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30811",
+    "titel": "Modebild: Zwei Figuren, Redingote aus Kaschmir, Mantel",
+    "Datum": "1830",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "coat",
+        "Jacke, Mantel",
+        "couvre-chef",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "chapelaria",
+        "fashion plates",
+        "Frau",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "woman",
+        "Modebilder",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49685/512623_default.webp",
+    "id": "614e121f-a51f-4007-9396-23457037df14",
+    "Filter": {
+        "Aehnlichkeit": 1590,
+        "Farbe": [
+            485,
+            2049,
+            3818,
+            5242,
+            10873
+        ]
+    }
+}

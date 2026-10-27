@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30532",
+    "titel": "Modebild: \"Zwei Französinnen mit Strohhüten, Spitzenoberteil, blauen Roben und Umhangtuch\"",
+    "Datum": "1827",
+    "Thema": [
+        "chapelaria",
+        "被り物",
+        "Umhang, Cape",
+        "cape",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "Modebilder",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Frau",
+        "Fashion",
+        "Mode",
+        "woman",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48844/512221_default.webp",
+    "id": "a9553e3f-3b2e-42f1-a49e-ac48b2adbbfc",
+    "Filter": {
+        "Aehnlichkeit": 1843,
+        "Farbe": [
+            364,
+            1716,
+            3540,
+            5034
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30523",
+    "titel": "Modebild: \"Zwei Französinnen mit Federhüten und Pelerinemänteln\"",
+    "Datum": "1827",
+    "Thema": [
+        "dress, gown",
+        "Modebilder",
+        "(Damen-)Kleid",
+        "fashion plates",
+        "coat",
+        "Jacke, Mantel",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Biedermeier",
+        "Frau",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48810/512205_default.webp",
+    "id": "a1cc0f83-6f59-411b-9729-07cbb889b42f",
+    "Filter": {
+        "Aehnlichkeit": 1816,
+        "Farbe": [
+            413,
+            1806,
+            3619,
+            5089,
+            6192,
+            10973,
+            10998
+        ]
+    }
+}

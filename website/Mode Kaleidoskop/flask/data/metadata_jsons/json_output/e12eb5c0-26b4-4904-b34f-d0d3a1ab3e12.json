@@ -1,0 +1,52 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31140",
+    "titel": "Modebild: Fünf Faschingskostüme",
+    "Datum": "1841",
+    "Thema": [
+        "Kostüme für Festzüge",
+        "clothes for official occasions",
+        "Kleidung für offizielle Anlässe",
+        "Accessoires",
+        "accessories (~ clothing)",
+        "被り物",
+        "Kopfbedeckung",
+        "fashion plates",
+        "Verkleidung, Maskierung",
+        "copricapo",
+        "chapelaria",
+        "costumes used in pageants",
+        "disguise",
+        "couvre-chef",
+        "head-gear",
+        "Modebilder",
+        "Bourgeoisie",
+        "Bräuche",
+        "Fashion",
+        "Costums",
+        "Bürgertum",
+        "hairdress",
+        "man",
+        "Mann",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Frau",
+        "Frisur",
+        "woman",
+        "Public Festivals and Celebrations",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53556/513587_default.webp",
+    "id": "e12eb5c0-26b4-4904-b34f-d0d3a1ab3e12",
+    "Filter": {
+        "Aehnlichkeit": 1966,
+        "Farbe": [
+            63,
+            2364,
+            5523,
+            5796,
+            7262,
+            8711,
+            10290
+        ]
+    }
+}

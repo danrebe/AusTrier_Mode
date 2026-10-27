@@ -1,0 +1,53 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31057",
+    "titel": "Modebild: Fünf Figuren, zwei Herrenanzüge, drei Ausgehkleider",
+    "Datum": "1839",
+    "Thema": [
+        "被り物",
+        "Kopfbedeckung",
+        "accessories (~ clothing)",
+        "Dandy, Beau, Geck",
+        "dandy, beau",
+        "Jacke, Mantel",
+        "coat",
+        "hairdress",
+        "Frisur",
+        "Tanz",
+        "head-gear",
+        "Öffentliche Feste und Feierlichkeiten",
+        "copricapo",
+        "couvre-chef",
+        "chapelaria",
+        "Kleidung für offizielle Anlässe",
+        "clothes for official occasions",
+        "Accessoires",
+        "man",
+        "Dance",
+        "Bourgeoisie",
+        "Fashion",
+        "Frau",
+        "Bürgertum",
+        "fashion plates",
+        "Nachtleben",
+        "Mode",
+        "woman",
+        "Nightlife",
+        "Public Festivals and Celebrations",
+        "Mann",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/51138/513501_default.webp",
+    "id": "881c6dfb-e394-428f-baf0-b7710966bf53",
+    "Filter": {
+        "Aehnlichkeit": 1201,
+        "Farbe": [
+            720,
+            2581,
+            4170,
+            7881,
+            8218,
+            8823
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30213",
+    "titel": "Modebild: \"Zwei französische Damen in Percal- und Kaschmirkleidern\"",
+    "Datum": "1812",
+    "Thema": [
+        "dress, gown",
+        "Kleidung für offizielle Anlässe",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "clothes for official occasions",
+        "Bürgertum",
+        "Mode",
+        "Fashion",
+        "Frau",
+        "fashion plates",
+        "woman",
+        "Modebilder",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "Bourgeoisie"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47661/1759455_default.webp",
+    "id": "048cf46e-de7a-41d3-bb5c-7cf018357e70",
+    "Filter": {
+        "Aehnlichkeit": 403,
+        "Farbe": [
+            949,
+            2885,
+            4462,
+            5876
+        ]
+    }
+}

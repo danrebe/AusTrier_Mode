@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31896",
+    "titel": "Modebild: Drei Figuren, Herrenmoden, ein Reitanzug",
+    "Datum": "1839",
+    "Thema": [
+        "dandy, beau",
+        "Kopfbedeckung",
+        "Mode",
+        "chapelaria",
+        "head-gear",
+        "coat",
+        "couvre-chef",
+        "Jacke, Mantel",
+        "被り物",
+        "copricapo",
+        "Dandy, Beau, Geck",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Mann",
+        "Modebilder",
+        "fashion plates",
+        "man"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/56184/510669_default.webp",
+    "id": "38d3346b-b7da-4c1d-bbf0-8bcb015eccc9",
+    "Filter": {
+        "Aehnlichkeit": 269,
+        "Farbe": [
+            70,
+            2420,
+            5408,
+            6442,
+            7049,
+            7275,
+            7802
+        ]
+    }
+}

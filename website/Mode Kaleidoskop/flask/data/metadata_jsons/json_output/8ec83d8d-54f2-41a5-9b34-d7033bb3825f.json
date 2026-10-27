@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30477",
+    "titel": "Modebild: \"Pariser Dame mit Margeritenhut, Spencer und Robe\"",
+    "Datum": "1822",
+    "Thema": [
+        "fashion plates",
+        "Mode",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "head-gear",
+        "被り物",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Frau",
+        "Modebilder",
+        "Fashion",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Bürgertum",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48636/512133_default.webp",
+    "id": "8ec83d8d-54f2-41a5-9b34-d7033bb3825f",
+    "Filter": {
+        "Aehnlichkeit": 1767,
+        "Farbe": [
+            1096,
+            3015,
+            4589,
+            7440
+        ]
+    }
+}

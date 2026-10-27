@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30906",
+    "titel": "Modebild: Drei Figuren, Sommerkleider",
+    "Datum": "1806",
+    "Thema": [
+        "dress, gown",
+        "fashion plates",
+        "Modebilder",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "(Damen-)Kleid",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Frau",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/50021/512809_default.webp",
+    "id": "f6b2bb66-95b7-487a-9ac0-ad3e4e6dcac6",
+    "Filter": {
+        "Aehnlichkeit": 917,
+        "Farbe": [
+            1334,
+            3210,
+            6146,
+            9088,
+            9907
+        ]
+    }
+}

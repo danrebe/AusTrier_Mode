@@ -1,0 +1,44 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31608",
+    "titel": "Modebild: Zwei Figuren, weiblicher  Hausanzug, Mädchenkleid",
+    "Datum": "1833",
+    "Thema": [
+        "fashion plates",
+        "Modebilder",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Kind",
+        "Mode",
+        "Mädchenkleid",
+        "copricapo",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "chapelaria",
+        "girls dress",
+        "Kleidung für Mädchen",
+        "child",
+        "Bourgeoisie",
+        "Fashion",
+        "Biedermeier",
+        "Bürgertum",
+        "Frau",
+        "woman",
+        "fashion, clothing (+ girls' clothes)"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55377/614497_default.webp",
+    "id": "b16ab8ed-d540-474f-9121-8c06c896e976",
+    "Filter": {
+        "Aehnlichkeit": 1855,
+        "Farbe": [
+            1677,
+            3508,
+            6760,
+            7583,
+            9199,
+            10028
+        ]
+    }
+}

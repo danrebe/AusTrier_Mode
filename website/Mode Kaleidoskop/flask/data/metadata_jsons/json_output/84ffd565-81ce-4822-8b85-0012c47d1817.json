@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31436",
+    "titel": "Modebild: Eine Figur, Pariser Ausgehkleid",
+    "Datum": "1816",
+    "Thema": [
+        "Mode",
+        "fashion plates",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "woman",
+        "Biedermeier",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55070/513341_default.webp",
+    "id": "84ffd565-81ce-4822-8b85-0012c47d1817",
+    "Filter": {
+        "Aehnlichkeit": 249,
+        "Farbe": [
+            1201,
+            3099,
+            4306,
+            4667,
+            8446
+        ]
+    }
+}

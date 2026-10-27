@@ -1,0 +1,45 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30436",
+    "titel": "Modebild: \"Pariserin mit Festfrisur, geschmückt mit Rosen und Myrthen sowie großer Toilette\"",
+    "Datum": "1822",
+    "Thema": [
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "woman",
+        "fashion plates",
+        "Modebilder",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "clothes for official occasions",
+        "Kleidung für offizielle Anlässe",
+        "Fashion",
+        "Biedermeier",
+        "Bürgertum",
+        "Frau",
+        "Bourgeoisie",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Public Festivals and Celebrations",
+        "Mode",
+        "hairdress",
+        "Frisur"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48564/512069_default.webp",
+    "id": "329f837e-b90f-4d0d-acfa-426ddfc412de",
+    "Filter": {
+        "Aehnlichkeit": 4,
+        "Farbe": [
+            1762,
+            3582,
+            5060,
+            5712,
+            5978,
+            6185,
+            7611
+        ]
+    }
+}

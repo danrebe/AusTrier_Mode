@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30602",
+    "titel": "Modebild: Zwei Damen in weißer und rosa Musselinrobe mit reichverzierten Hüten",
+    "Datum": "1828",
+    "Thema": [
+        "(Damen-)Kleid",
+        "fashion plates",
+        "Modebilder",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "dress, gown",
+        "Biedermeier",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49065/511255_default.webp",
+    "id": "a0dfde50-031a-4080-8911-79c6a40fe54e",
+    "Filter": {
+        "Aehnlichkeit": 481,
+        "Farbe": [
+            1840,
+            3646,
+            5111,
+            11194
+        ]
+    }
+}

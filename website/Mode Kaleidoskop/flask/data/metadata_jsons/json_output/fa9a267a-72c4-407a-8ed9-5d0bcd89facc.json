@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30649",
+    "titel": "Modebild: Zwei Damen in Crepe-Kleidern in rot und blau",
+    "Datum": "1829",
+    "Thema": [
+        "被り物",
+        "Kopfbedeckung",
+        "fashion plates",
+        "Modebilder",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "Biedermeier",
+        "woman",
+        "Mode",
+        "Frau"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49214/512397_default.webp",
+    "id": "fa9a267a-72c4-407a-8ed9-5d0bcd89facc",
+    "Filter": {
+        "Aehnlichkeit": 2008,
+        "Farbe": [
+            2002,
+            3780,
+            5209,
+            10866,
+            11079
+        ]
+    }
+}

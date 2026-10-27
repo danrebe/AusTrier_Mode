@@ -1,0 +1,42 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30591",
+    "titel": "Modebild: Zwei Damen in Kleidern aus Barèges in rosa und blau, gelber Schal",
+    "Datum": "1828",
+    "Thema": [
+        "Schal",
+        "neck-gear ~ clothing",
+        "chapelaria",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "copricapo",
+        "Modebilder",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "fashion plates",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "Biedermeier",
+        "Mode",
+        "Frau",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49054/512309_default.webp",
+    "accessoires": [
+        "Schal"
+    ],
+    "id": "e51f981e-c091-4eed-93be-e670412de784",
+    "Filter": {
+        "Aehnlichkeit": 365,
+        "Farbe": [
+            1709,
+            3533,
+            5030,
+            5701,
+            8562
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30284",
+    "titel": "Modebild: \"Pariserin vor Kanapee aus Mahagoni\"",
+    "Datum": "1822",
+    "Thema": [
+        "Modebilder",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "head-gear",
+        "被り物",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "fashion plates",
+        "Frau",
+        "Fashion",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Bürgertum",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47889/511115_default.webp",
+    "id": "bbb9be53-a1fc-407f-92e3-a5d902c3d3ee",
+    "Filter": {
+        "Aehnlichkeit": 1309,
+        "Farbe": [
+            1610,
+            3451,
+            4980,
+            10004
+        ]
+    }
+}

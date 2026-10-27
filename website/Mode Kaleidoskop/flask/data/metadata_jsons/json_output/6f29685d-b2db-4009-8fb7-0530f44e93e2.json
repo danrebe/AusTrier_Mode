@@ -1,0 +1,45 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30962",
+    "titel": "Modebild: Vier Figuren, Braut- und Gesellschaftsmoden",
+    "Datum": "1826",
+    "Thema": [
+        "fashion plates",
+        "Kleidung für offizielle Anlässe",
+        "clothes for official occasions",
+        "Kleidung für spezielle Zwecke (Brautmode)",
+        "chapelaria",
+        "copricapo",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Modebilder",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Public Festivals and Celebrations",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Biedermeier",
+        "Frau",
+        "Fashion",
+        "Bräuche",
+        "Costums",
+        "woman",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/50170/512871_default.webp",
+    "id": "6f29685d-b2db-4009-8fb7-0530f44e93e2",
+    "Filter": {
+        "Aehnlichkeit": 1661,
+        "Farbe": [
+            1586,
+            3431,
+            8538,
+            9155,
+            9995,
+            10837
+        ]
+    }
+}

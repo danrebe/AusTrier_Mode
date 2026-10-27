@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30717",
+    "titel": "Modebild: Zwei Figuren, weiße Organdykleider mit Stickerei, Pelerine und Schinkenärmeln",
+    "Datum": "1829",
+    "Thema": [
+        "fashion plates",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "被り物",
+        "Kopfbedeckung",
+        "Bürgertum",
+        "Mode",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Fashion",
+        "woman",
+        "Modebilder",
+        "Frau"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49432/511311_default.webp",
+    "id": "53599b2d-d7f9-4450-a64e-0a039724069b",
+    "Filter": {
+        "Aehnlichkeit": 177,
+        "Farbe": [
+            1403,
+            3271,
+            4831,
+            5937,
+            9931,
+            10981
+        ]
+    }
+}

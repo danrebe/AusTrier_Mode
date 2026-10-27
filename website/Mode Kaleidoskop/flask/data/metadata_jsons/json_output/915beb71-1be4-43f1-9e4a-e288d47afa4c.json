@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30460",
+    "titel": "Modebild: \"Französische Dame mit Federhut, weißer Robe mit Pelerine und Gürtel\"",
+    "Datum": "1822",
+    "Thema": [
+        "Modebilder",
+        "fashion plates",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "被り物",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "chapelaria",
+        "Mode",
+        "Biedermeier",
+        "Bürgertum",
+        "Frau",
+        "Bourgeoisie",
+        "Fashion",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48608/511191_default.webp",
+    "id": "915beb71-1be4-43f1-9e4a-e288d47afa4c",
+    "Filter": {
+        "Aehnlichkeit": 25,
+        "Farbe": [
+            1223,
+            4680,
+            6589,
+            8451,
+            9057
+        ]
+    }
+}

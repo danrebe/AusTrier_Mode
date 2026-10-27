@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30092",
+    "titel": "Modebild: \"Junge, deutsche Dame in einem Negligée\"",
+    "Datum": "1794",
+    "Thema": [
+        "chapelaria",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "couvre-chef",
+        "copricapo",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "Modebilder",
+        "Frau",
+        "Bourgeoisie",
+        "Fashion",
+        "Bürgertum",
+        "woman",
+        "Mode",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47325/511503_default.webp",
+    "id": "239bed12-60f6-4ad2-9e90-d34f582ed3aa",
+    "Filter": {
+        "Aehnlichkeit": 220,
+        "Farbe": [
+            869,
+            2813,
+            4255,
+            4390,
+            8347,
+            9733
+        ]
+    }
+}

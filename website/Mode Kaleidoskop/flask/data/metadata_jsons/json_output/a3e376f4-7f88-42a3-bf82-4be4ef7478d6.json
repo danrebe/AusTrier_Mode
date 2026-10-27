@@ -1,0 +1,53 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31577",
+    "titel": "Modebild: Drei Figuren, Ball- und Gesellschaftskleid, Soldat",
+    "Datum": "1832",
+    "Thema": [
+        "被り物",
+        "Modebilder",
+        "fashion plates",
+        "Ballkleid",
+        "dress, gown: ball gown",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Mode",
+        "Mann",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "clothes for official occasions",
+        "Kleidung für offizielle Anlässe",
+        "Biedermeier",
+        "Bräuche",
+        "Bourgeoisie",
+        "Dance",
+        "Frau",
+        "Nachtleben",
+        "Costums",
+        "Bürgertum",
+        "Fashion",
+        "man",
+        "woman",
+        "Tanz",
+        "Public Festivals and Celebrations",
+        "Nightlife"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55334/614433_default.webp",
+    "id": "a3e376f4-7f88-42a3-bf82-4be4ef7478d6",
+    "Filter": {
+        "Aehnlichkeit": 583,
+        "Farbe": [
+            2259,
+            3997,
+            6040,
+            6995,
+            7733,
+            9448,
+            10244
+        ]
+    }
+}

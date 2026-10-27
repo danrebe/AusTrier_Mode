@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31966",
+    "titel": "Modebild: Zwei Figuren, Umhänge für Damen",
+    "Datum": "1840",
+    "Thema": [
+        "(Damen-)Kleid",
+        "Umhang, Cape",
+        "cape",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "chapelaria",
+        "dress, gown",
+        "Bourgeoisie",
+        "Fashion",
+        "Frau",
+        "Bürgertum",
+        "Mode",
+        "woman",
+        "fashion plates",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/56971/510709_default.webp",
+    "id": "848ff712-af34-4dbd-ad62-0e1026f491e3",
+    "Filter": {
+        "Aehnlichkeit": 1731,
+        "Farbe": [
+            778,
+            2686,
+            4206,
+            9612,
+            10466
+        ]
+    }
+}

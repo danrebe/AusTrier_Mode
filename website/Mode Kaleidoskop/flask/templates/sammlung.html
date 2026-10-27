@@ -1,0 +1,88 @@
+
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>Kleidoskop</title>
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+    <header class="header">
+
+        <!-- Klickbares Logo -->
+        <a href="{{ url_for('home') }}"
+           class="logo"
+           aria-label="Kleidoskop Startseite">
+            kleid<span class="logo-line"></span>oskop
+        </a>
+
+        <!-- Navigation -->
+        <nav class="navigation" aria-label="Hauptnavigation">
+
+            <div class="feature-dropdown">
+
+                <button
+                    class="feature-button"
+                    type="button"
+                    aria-expanded="false"
+                    aria-controls="feature-menu">
+
+                    Feature
+                    <span class="dropdown-arrow">⌄</span>
+                </button>
+
+                <div class="feature-menu" id="feature-menu">
+                    <a href="#farbe">Farbe</a>
+                    <a href="#silhouette">Silhouette</a>
+                    <a href="#accessoires">Accessoires</a>
+                    <a href="#embedding">Embedding</a>
+                </div>
+
+            </div>
+
+            <a href="#about">Menü</a>
+
+        </nav>
+
+    </header>
+
+    <main>
+        <!-- später Inhalte -->
+    </main>
+    
+    <footer class="footer">
+        <span>kleid____oskop</span>
+        <span>Historische Mode × Digital Humanities</span>
+    </footer>
+
+    <script>
+        const featureButton = document.querySelector(".feature-button");
+        const featureDropdown = document.querySelector(".feature-dropdown");
+
+        featureButton.addEventListener("click", function () {
+            const isOpen = featureDropdown.classList.toggle("open");
+
+            featureButton.setAttribute(
+                "aria-expanded",
+                String(isOpen)
+            );
+        });
+
+        document.addEventListener("click", function (event) {
+            if (!featureDropdown.contains(event.target)) {
+                featureDropdown.classList.remove("open");
+                featureButton.setAttribute("aria-expanded", "false");
+            }
+        });
+    </script>
+
+</body>
+</html>

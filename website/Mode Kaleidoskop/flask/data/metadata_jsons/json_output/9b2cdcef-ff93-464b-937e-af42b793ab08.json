@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30378",
+    "titel": "Modebild: \"Französische Dame mit Perkalrobe und Hut, ihren Schirm aufspannend\"",
+    "Datum": "1816",
+    "Thema": [
+        "被り物",
+        "copricapo",
+        "Modebilder",
+        "fashion plates",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "chapelaria",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Fashion",
+        "Frau",
+        "Bürgertum",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48355/511977_default.webp",
+    "id": "9b2cdcef-ff93-464b-937e-af42b793ab08",
+    "Filter": {
+        "Aehnlichkeit": 1338,
+        "Farbe": [
+            1489,
+            3347,
+            6682,
+            9127,
+            9961
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31740",
+    "titel": "Modebild: Drei Figuren, Damen-, Mädchen- und Knabenanzug",
+    "Datum": "1835",
+    "Thema": [
+        "dress, gown",
+        "(Damen-)Kleid",
+        "cape",
+        "Umhang, Cape",
+        "Modebilder",
+        "fashion plates",
+        "Mode",
+        "woman",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Kleidung für Mädchen",
+        "Mädchenkleid",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "child",
+        "Frau",
+        "girls dress",
+        "fashion, clothing (+ girls' clothes)",
+        "Kleidung für Jungen",
+        "fashion, clothing (+ boys' clothes)",
+        "Kind"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55820/614761_default.webp",
+    "id": "e63c4aa5-c4a8-4e06-89ea-b7077e8d2a92",
+    "Filter": {
+        "Aehnlichkeit": 705,
+        "Farbe": [
+            2091,
+            6018,
+            6245,
+            6926,
+            7684,
+            8629,
+            9367
+        ]
+    }
+}

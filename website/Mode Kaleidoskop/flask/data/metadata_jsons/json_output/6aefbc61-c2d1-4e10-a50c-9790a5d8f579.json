@@ -1,0 +1,35 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30106",
+    "titel": "Modebild: \"Dame mit modischem Linonshawl\"",
+    "Datum": "1798",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "couvre-chef",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "chapelaria",
+        "Frau",
+        "woman",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Modebilder",
+        "Mode",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47367/511527_default.webp",
+    "id": "6aefbc61-c2d1-4e10-a50c-9790a5d8f579",
+    "Filter": {
+        "Aehnlichkeit": 1644,
+        "Farbe": [
+            1012,
+            2944,
+            4284,
+            4522
+        ]
+    }
+}

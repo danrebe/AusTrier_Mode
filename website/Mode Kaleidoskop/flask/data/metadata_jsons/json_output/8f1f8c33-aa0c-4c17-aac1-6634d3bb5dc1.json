@@ -1,0 +1,52 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31288",
+    "titel": "Modebild: Fünf Figuren, Damen-, Herren- und Kindermoden",
+    "Datum": "1846",
+    "Thema": [
+        "fashion plates",
+        "man",
+        "Frau",
+        "Bourgeoisie",
+        "child",
+        "Bürgertum",
+        "Fashion",
+        "Modebilder",
+        "dandy, beau",
+        "fashion, clothing (+ boys' clothes)",
+        "Kleidung für Jungen",
+        "Mode",
+        "Kind",
+        "Mann",
+        "Umhang, Cape",
+        "woman",
+        "Frisur",
+        "hairdress",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "Accessoires",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "accessories (~ clothing)",
+        "Dandy, Beau, Geck",
+        "Jacke, Mantel",
+        "coat",
+        "cape"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53990/513749_default.webp",
+    "id": "8f1f8c33-aa0c-4c17-aac1-6634d3bb5dc1",
+    "Filter": {
+        "Aehnlichkeit": 1769,
+        "Farbe": [
+            69,
+            649,
+            2418,
+            5801,
+            7274,
+            7800,
+            8733
+        ]
+    }
+}

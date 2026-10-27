@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30603",
+    "titel": "Modebild: Zwei Damen in weißen Musselinkleidern mit Schal, Hüten und weißen Kreuzbandschuhen",
+    "Datum": "1828",
+    "Thema": [
+        "dress, gown",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "Schal",
+        "neck-gear ~ clothing",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Mode",
+        "woman",
+        "Fashion",
+        "Bourgeoisie",
+        "Frau",
+        "Biedermeier",
+        "Bürgertum",
+        "fashion plates",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49066/512327_default.webp",
+    "accessoires": [
+        "Schal"
+    ],
+    "id": "47842ba4-3685-49b5-93b7-3fd3047d0894",
+    "Filter": {
+        "Aehnlichkeit": 460,
+        "Farbe": [
+            1853,
+            3654,
+            5118,
+            6354
+        ]
+    }
+}

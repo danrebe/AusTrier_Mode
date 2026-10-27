@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31486",
+    "titel": "Modebild: Zwei Figuren, Herrenmoden",
+    "Datum": "1831",
+    "Thema": [
+        "dandy, beau",
+        "coat",
+        "Dandy, Beau, Geck",
+        "被り物",
+        "Jacke, Mantel",
+        "copricapo",
+        "chapelaria",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "Modebilder",
+        "man",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "Mode",
+        "Mann",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55160/614249_default.webp",
+    "id": "68377f38-8b2b-4dc8-af59-cc02785b7242",
+    "Filter": {
+        "Aehnlichkeit": 1624,
+        "Farbe": [
+            10,
+            1540,
+            3392,
+            6702,
+            9137,
+            9979
+        ]
+    }
+}

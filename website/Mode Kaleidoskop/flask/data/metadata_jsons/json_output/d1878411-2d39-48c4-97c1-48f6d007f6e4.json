@@ -1,0 +1,48 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31711",
+    "titel": "Modebild: Drei Figuren, Herrengesellschaftsanzug, Damenbesuchstoilette",
+    "Datum": "1835",
+    "Thema": [
+        "被り物",
+        "Kleidung für offizielle Anlässe",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Dandy, Beau, Geck",
+        "dandy, beau",
+        "fashion plates",
+        "clothes for official occasions",
+        "Modebilder",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "coat",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "Frau",
+        "Mode",
+        "Mann",
+        "Public Festivals and Celebrations",
+        "woman",
+        "Jacke, Mantel",
+        "man",
+        "Öffentliche Feste und Feierlichkeiten"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55771/614703_default.webp",
+    "id": "d1878411-2d39-48c4-97c1-48f6d007f6e4",
+    "Filter": {
+        "Aehnlichkeit": 1933,
+        "Farbe": [
+            2145,
+            5762,
+            6023,
+            6948,
+            7698,
+            8646,
+            9392
+        ]
+    }
+}

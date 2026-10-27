@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30405",
+    "titel": "Modebild: \"Pariser Dame mit Federhut und rotem Merinokleid\"",
+    "Datum": "1819",
+    "Thema": [
+        "Kopfbedeckung",
+        "被り物",
+        "couvre-chef",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Modebilder",
+        "fashion plates",
+        "head-gear",
+        "copricapo",
+        "chapelaria",
+        "Frau",
+        "Biedermeier",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48487/512021_default.webp",
+    "id": "9c7efcf7-e565-4202-b9bb-5ec13560bb93",
+    "Filter": {
+        "Aehnlichkeit": 308,
+        "Farbe": [
+            1140,
+            3052,
+            4626,
+            5564,
+            5615,
+            6552
+        ]
+    }
+}

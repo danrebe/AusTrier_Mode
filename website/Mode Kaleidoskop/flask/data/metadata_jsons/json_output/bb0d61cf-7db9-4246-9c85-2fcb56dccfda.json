@@ -1,0 +1,47 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31472",
+    "titel": "Modebild: Zwei Figuren, Morgenkleid und Ballkleid",
+    "Datum": "1830",
+    "Thema": [
+        "Modebilder",
+        "fashion plates",
+        "dress, gown",
+        "dress, gown: ball gown",
+        "Ballkleid",
+        "(Damen-)Kleid",
+        "woman",
+        "Nachtleben",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "copricapo",
+        "head-gear",
+        "couvre-chef",
+        "Biedermeier",
+        "Frau",
+        "Bourgeoisie",
+        "Dance",
+        "Fashion",
+        "Bräuche",
+        "Bürgertum",
+        "Tanz",
+        "Nightlife",
+        "Mode",
+        "Costums"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55139/614221_default.webp",
+    "id": "bb0d61cf-7db9-4246-9c85-2fcb56dccfda",
+    "Filter": {
+        "Aehnlichkeit": 1662,
+        "Farbe": [
+            3355,
+            4899,
+            9966,
+            10539,
+            10620,
+            11109,
+            11188
+        ]
+    }
+}

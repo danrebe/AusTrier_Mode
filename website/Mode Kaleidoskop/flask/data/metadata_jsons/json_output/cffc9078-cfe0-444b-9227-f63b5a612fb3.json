@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30176",
+    "titel": "Modebild: \"Zwei Damen in englischer Mode\"",
+    "Datum": "1800",
+    "Thema": [
+        "dress, gown",
+        "(Damen-)Kleid",
+        "copricapo",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "chapelaria",
+        "Modebilder",
+        "fashion plates",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "Mode",
+        "woman",
+        "Frau"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47548/1759418_default.webp",
+    "id": "cffc9078-cfe0-444b-9227-f63b5a612fb3",
+    "Filter": {
+        "Aehnlichkeit": 940,
+        "Farbe": [
+            182,
+            1037,
+            2969,
+            4543,
+            8394
+        ]
+    }
+}

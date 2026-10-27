@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30878",
+    "titel": "Modebild: Zwei Figuren, Morgen- und Wagenkleid",
+    "Datum": "1830",
+    "Thema": [
+        "被り物",
+        "chapelaria",
+        "(Damen-)Kleid",
+        "fashion plates",
+        "Modebilder",
+        "dress, gown",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Reisen und Tourismus",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "woman",
+        "Travel and Tourism",
+        "Frau",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49934/512753_default.webp",
+    "id": "d034768f-2c6f-49bf-a0b3-2da755e9604a",
+    "Filter": {
+        "Aehnlichkeit": 1928,
+        "Farbe": [
+            481,
+            2039,
+            3809,
+            5233,
+            10871
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30670",
+    "titel": "Modebild: Zwei Figuren, Gesellschaftskleider in rosa und weiß mit Rosen verziert",
+    "Datum": "1829",
+    "Thema": [
+        "clothes for official occasions",
+        "Kopfbedeckung",
+        "Modebilder",
+        "head-gear",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "Öffentliche Feste und Feierlichkeiten",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "被り物",
+        "Kleidung für offizielle Anlässe",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Biedermeier",
+        "Frau",
+        "Fashion",
+        "fashion plates",
+        "Mode",
+        "woman",
+        "Public Festivals and Celebrations"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49337/511289_default.webp",
+    "id": "1d191981-4ec0-40a7-a534-63cc98eec711",
+    "Filter": {
+        "Aehnlichkeit": 120,
+        "Farbe": [
+            2157,
+            3904,
+            5305,
+            6952,
+            7703,
+            11163
+        ]
+    }
+}

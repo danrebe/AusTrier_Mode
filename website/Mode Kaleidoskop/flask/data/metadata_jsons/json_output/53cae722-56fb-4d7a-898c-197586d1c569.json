@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30175",
+    "titel": "Modebild: \"Zwei Damen in weißen Schleppkleidern\"",
+    "Datum": "1800",
+    "Thema": [
+        "Kopfbedeckung",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "couvre-chef",
+        "被り物",
+        "Mode",
+        "head-gear",
+        "copricapo",
+        "chapelaria",
+        "woman",
+        "Frau",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "fashion plates",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47547/1759417_default.webp",
+    "id": "53cae722-56fb-4d7a-898c-197586d1c569",
+    "Filter": {
+        "Aehnlichkeit": 1063,
+        "Farbe": [
+            1035,
+            2967,
+            4541,
+            9796,
+            11095
+        ]
+    }
+}

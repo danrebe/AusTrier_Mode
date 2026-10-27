@@ -1,0 +1,35 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30024",
+    "titel": "Modebild: \"Public Promenade Dress\"",
+    "Datum": "1829",
+    "Thema": [
+        "Modebilder",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Frau",
+        "Fashion",
+        "Bürgertum",
+        "woman",
+        "Mode",
+        "fashion plates",
+        "Kopfbedeckung",
+        "head-gear",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "被り物",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/45225/511381_default.webp",
+    "id": "035569e6-6431-4916-8777-f15a947c992f",
+    "Filter": {
+        "Aehnlichkeit": 361,
+        "Farbe": [
+            1974,
+            3757,
+            5189
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31833",
+    "titel": "Modebild: Zwei Figuren, weibliche  Überhänge",
+    "Datum": "1837",
+    "Thema": [
+        "Winter",
+        "(Damen-)Kleid",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "dress, gown",
+        "fashion plates",
+        "Modebilder",
+        "Bourgeoisie",
+        "Fashion",
+        "Bürgertum",
+        "Frau",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/56062/510631_default.webp",
+    "id": "3c61112d-9671-4d8a-97a2-c7928e1cb589",
+    "Filter": {
+        "Aehnlichkeit": 1387,
+        "Farbe": [
+            1990,
+            3770,
+            6375,
+            8611,
+            9335,
+            10148
+        ]
+    }
+}

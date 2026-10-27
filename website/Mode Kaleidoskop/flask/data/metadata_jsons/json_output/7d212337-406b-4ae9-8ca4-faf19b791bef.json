@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30651",
+    "titel": "Modebild: Zwei Damen mit Samthüten sowie grauer und schwarzer Satinredingote",
+    "Datum": "1829",
+    "Thema": [
+        "(Damen-)Kleid",
+        "被り物",
+        "chapelaria",
+        "dress, gown",
+        "Mode",
+        "couvre-chef",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "fashion plates",
+        "woman",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "Frau",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49219/512399_default.webp",
+    "id": "7d212337-406b-4ae9-8ca4-faf19b791bef",
+    "Filter": {
+        "Aehnlichkeit": 1706,
+        "Farbe": [
+            2004,
+            3781,
+            5211,
+            8057
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30048",
+    "titel": "Modebild: \"Morning Visiting Dresses\"",
+    "Datum": "1838",
+    "Thema": [
+        "Mode",
+        "woman",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "fashion plates",
+        "Modebilder",
+        "Biedermeier",
+        "Fashion",
+        "Frau",
+        "Bürgertum",
+        "Bourgeoisie"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/46905/511423_default.webp",
+    "id": "4cbe8e75-9588-4099-9ac2-73d7892c5aa6",
+    "Filter": {
+        "Aehnlichkeit": 1375,
+        "Farbe": [
+            647,
+            2414,
+            4100,
+            5407,
+            10592
+        ]
+    }
+}

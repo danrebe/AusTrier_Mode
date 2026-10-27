@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31461",
+    "titel": "Modebild: Drei Figuren, Wagenkleid, Abendkleid und Dinnerkleid",
+    "Datum": "1830",
+    "Thema": [
+        "couvre-chef",
+        "(Damen-)Kleid",
+        "fashion plates",
+        "Modebilder",
+        "dress, gown",
+        "Reisen und Tourismus",
+        "copricapo",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "chapelaria",
+        "Biedermeier",
+        "Nightlife",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "Travel and Tourism",
+        "Nachtleben",
+        "Mode",
+        "woman",
+        "Frau"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55119/614199_default.webp",
+    "id": "e4535334-ed0a-4ce1-8772-7bd60761a106",
+    "Filter": {
+        "Aehnlichkeit": 766,
+        "Farbe": [
+            4964,
+            6718,
+            8000,
+            10749,
+            10836,
+            10950,
+            11118
+        ]
+    }
+}

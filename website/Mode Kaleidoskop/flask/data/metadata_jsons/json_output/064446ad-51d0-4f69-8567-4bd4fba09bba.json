@@ -1,0 +1,42 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31614",
+    "titel": "Modebild: Drei Figuren, Damen- und Herrenmoden",
+    "Datum": "1833",
+    "Thema": [
+        "Frau",
+        "Mode",
+        "man",
+        "woman",
+        "Biedermeier",
+        "chapelaria",
+        "Kopfbedeckung",
+        "dandy, beau",
+        "Dandy, Beau, Geck",
+        "被り物",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "coat",
+        "Jacke, Mantel",
+        "couvre-chef",
+        "copricapo",
+        "head-gear",
+        "Modebilder",
+        "fashion plates",
+        "Mann",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55383/614509_default.webp",
+    "id": "064446ad-51d0-4f69-8567-4bd4fba09bba",
+    "Filter": {
+        "Aehnlichkeit": 494,
+        "Farbe": [
+            389,
+            1764,
+            3584,
+            9240
+        ]
+    }
+}

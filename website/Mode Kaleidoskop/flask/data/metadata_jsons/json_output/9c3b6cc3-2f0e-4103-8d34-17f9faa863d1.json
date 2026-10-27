@@ -1,0 +1,50 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31965",
+    "titel": "Modebild: Zwei Figuren, Promenadenkleid, Ballumhang",
+    "Datum": "1840",
+    "Thema": [
+        "Umhang, Cape",
+        "dress, gown: ball gown",
+        "Modebilder",
+        "fashion plates",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Jacke, Mantel",
+        "coat",
+        "cape",
+        "Ballkleid",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Bourgeoisie",
+        "Dance",
+        "Costums",
+        "Frau",
+        "Bräuche",
+        "Bürgertum",
+        "Fashion",
+        "Mode",
+        "Public Festivals and Celebrations",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Tanz",
+        "woman",
+        "Nightlife",
+        "Nachtleben"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/56969/510917_default.webp",
+    "id": "9c3b6cc3-2f0e-4103-8d34-17f9faa863d1",
+    "Filter": {
+        "Aehnlichkeit": 425,
+        "Farbe": [
+            2412,
+            4098,
+            8133,
+            9515,
+            10318
+        ]
+    }
+}

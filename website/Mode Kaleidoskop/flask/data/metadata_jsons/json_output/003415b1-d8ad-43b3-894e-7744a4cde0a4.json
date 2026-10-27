@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30107",
+    "titel": "Modebild: \"Pariserin à la Grecque\"",
+    "Datum": "1798",
+    "Thema": [
+        "Mode",
+        "Fashion",
+        "Bourgeoisie",
+        "Frau",
+        "Bürgertum",
+        "被り物",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "woman",
+        "fashion plates",
+        "Modebilder",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47370/511529_default.webp",
+    "id": "003415b1-d8ad-43b3-894e-7744a4cde0a4",
+    "Filter": {
+        "Aehnlichkeit": 34,
+        "Farbe": [
+            1078,
+            2998,
+            4290,
+            4574,
+            7162,
+            8410
+        ]
+    }
+}

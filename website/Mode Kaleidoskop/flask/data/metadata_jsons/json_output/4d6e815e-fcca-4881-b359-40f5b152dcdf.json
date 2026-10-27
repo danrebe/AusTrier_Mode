@@ -1,0 +1,52 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31218",
+    "titel": "Modebild: Vier Figuren, Damen-, Herren- und Hutmoden",
+    "Datum": "1844",
+    "Thema": [
+        "récipient en céramique : pot, jarre, vase, pichet, broc, cruche",
+        "contenitore di ceramica: vaso, brocca, pentola",
+        "fashion plates",
+        "container of ceramics: jar, jug, pot, vase",
+        "Behälter aus Keramik: Gefäß, Krug, Topf, Vase",
+        "陶磁器の容器: つぼ、水差し、鍋、花瓶",
+        "Frisur",
+        "hairdress",
+        "Mode",
+        "man",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Frau",
+        "recipiente de cerâmica: jarra, jarro, pote, vaso",
+        "Modebilder",
+        "Mann",
+        "head-gear",
+        "dandy, beau",
+        "Dandy, Beau, Geck",
+        "woman",
+        "copricapo",
+        "chapelaria",
+        "couvre-chef",
+        "coat",
+        "Kopfbedeckung",
+        "被り物",
+        "Accessoires",
+        "accessories (~ clothing)",
+        "Jacke, Mantel"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53863/513673_default.webp",
+    "id": "4d6e815e-fcca-4881-b359-40f5b152dcdf",
+    "Filter": {
+        "Aehnlichkeit": 1492,
+        "Farbe": [
+            677,
+            5530,
+            5811,
+            7293,
+            7827,
+            8760,
+            10662
+        ]
+    }
+}

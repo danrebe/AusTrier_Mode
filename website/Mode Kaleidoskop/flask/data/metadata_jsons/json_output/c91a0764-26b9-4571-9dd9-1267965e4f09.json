@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30059",
+    "titel": "Modebild: \"Englische Herrenmode\"",
+    "Datum": "1786",
+    "Thema": [
+        "dandy, beau",
+        "fashion plates",
+        "Modebilder",
+        "Dandy, Beau, Geck",
+        "chapelaria",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "被り物",
+        "Bürgertum",
+        "Jacke, Mantel",
+        "Bourgeoisie",
+        "Fashion",
+        "man",
+        "Mode",
+        "Mann",
+        "coat"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/46966/511443_default.webp",
+    "id": "c91a0764-26b9-4571-9dd9-1267965e4f09",
+    "Filter": {
+        "Aehnlichkeit": 1883,
+        "Farbe": [
+            897,
+            2839,
+            4417,
+            9627,
+            9740
+        ]
+    }
+}

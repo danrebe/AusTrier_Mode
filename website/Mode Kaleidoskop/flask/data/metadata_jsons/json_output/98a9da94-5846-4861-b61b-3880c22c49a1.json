@@ -1,0 +1,34 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 43559",
+    "titel": "Modebild 3 Fig., Mädchenkleid und Trauerkleider",
+    "Datum": "1847",
+    "Thema": [
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Modebilder",
+        "fashion plates",
+        "clothes for official occasions",
+        "Kleidung für offizielle Anlässe",
+        "Trauerkleidung",
+        "mourning dress",
+        "Frau",
+        "Fashion",
+        "Disease and Death",
+        "Krankheit und Tod",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/1006955/1376542_default.webp",
+    "id": "98a9da94-5846-4861-b61b-3880c22c49a1",
+    "Filter": {
+        "Aehnlichkeit": 1703,
+        "Farbe": [
+            82,
+            701,
+            2534,
+            4156,
+            9588
+        ]
+    }
+}

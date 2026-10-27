@@ -1,0 +1,44 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31704",
+    "titel": "Modebild: Zwei Figuren, Gesellschafts- und Besuchskleider",
+    "Datum": "1835",
+    "Thema": [
+        "Kleidung für offizielle Anlässe",
+        "head-gear",
+        "clothes for official occasions",
+        "被り物",
+        "Modebilder",
+        "Jacke, Mantel",
+        "fashion plates",
+        "coat",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "Kopfbedeckung",
+        "dress, gown",
+        "Bourgeoisie",
+        "Fashion",
+        "Bürgertum",
+        "Frau",
+        "Public Festivals and Celebrations",
+        "Öffentliche Feste und Feierlichkeiten",
+        "(Damen-)Kleid",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55754/614689_default.webp",
+    "id": "d508f6c4-f210-415a-84ee-373caca73fc1",
+    "Filter": {
+        "Aehnlichkeit": 1939,
+        "Farbe": [
+            2392,
+            4081,
+            6439,
+            7040,
+            8127,
+            9505,
+            10311
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30892",
+    "titel": "Modebild: Zwei Figuren, Gala- und Wagenkleid",
+    "Datum": "1830",
+    "Thema": [
+        "couvre-chef",
+        "fashion plates",
+        "Modebilder",
+        "dress, gown",
+        "clothes for official occasions",
+        "(Damen-)Kleid",
+        "Nachtleben",
+        "Public Festivals and Celebrations",
+        "Reisen und Tourismus",
+        "Kleidung für offizielle Anlässe",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "chapelaria",
+        "Mode",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Fashion",
+        "Frau",
+        "Biedermeier",
+        "Dance",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Travel and Tourism",
+        "woman",
+        "Nightlife",
+        "Tanz"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49989/512781_default.webp",
+    "id": "acbbea9d-b4af-4e90-a179-741b23f89b63",
+    "Filter": {
+        "Aehnlichkeit": 1032,
+        "Farbe": [
+            469,
+            2006,
+            3783,
+            5212,
+            6892
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30698",
+    "titel": "Modebild: Zwei Figuren, Redingoten in weiß, Schinkenärmeln, Pelerine, Stickerei",
+    "Datum": "1829",
+    "Thema": [
+        "chapelaria",
+        "copricapo",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Modebilder",
+        "被り物",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "woman",
+        "Biedermeier",
+        "Frau",
+        "Bourgeoisie",
+        "Fashion",
+        "Bürgertum",
+        "fashion plates",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49413/511301_default.webp",
+    "id": "92038f54-e443-491e-80cd-d14048937800",
+    "Filter": {
+        "Aehnlichkeit": 129,
+        "Farbe": [
+            2106,
+            3866,
+            5279,
+            10191
+        ]
+    }
+}

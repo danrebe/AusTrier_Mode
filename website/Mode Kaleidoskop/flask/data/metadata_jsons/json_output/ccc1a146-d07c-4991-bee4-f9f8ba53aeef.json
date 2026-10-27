@@ -1,0 +1,42 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30002",
+    "titel": "\"London fashionable Full Dress\" (Originaltitel)",
+    "Datum": "1809",
+    "Thema": [
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "neck-gear ~ clothing",
+        "chapelaria",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "couvre-chef",
+        "Bourgeoisie",
+        "copricapo",
+        "Schal",
+        "woman",
+        "Bürgertum",
+        "Frau",
+        "Fashion",
+        "fashion plates",
+        "Modebilder",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/45201/510729_default.webp",
+    "accessoires": [
+        "Schal"
+    ],
+    "id": "ccc1a146-d07c-4991-bee4-f9f8ba53aeef",
+    "Filter": {
+        "Aehnlichkeit": 1923,
+        "Farbe": [
+            993,
+            2926,
+            4504,
+            8385,
+            9777,
+            10557
+        ]
+    }
+}

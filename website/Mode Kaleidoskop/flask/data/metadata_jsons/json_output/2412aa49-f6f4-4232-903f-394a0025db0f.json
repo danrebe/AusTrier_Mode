@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30325",
+    "titel": "Modebild: \"Pariserin mit Krepphut, Pariser in blauem Rock mit viereckigen Schössen\"",
+    "Datum": "1827",
+    "Thema": [
+        "head-gear",
+        "Kopfbedeckung",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "fashion plates",
+        "man",
+        "woman",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "被り物",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Biedermeier",
+        "Frau",
+        "Fashion",
+        "Mann",
+        "Modebilder",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48187/511133_default.webp",
+    "id": "2412aa49-f6f4-4232-903f-394a0025db0f",
+    "Filter": {
+        "Aehnlichkeit": 523,
+        "Farbe": [
+            390,
+            1765,
+            3585,
+            5061,
+            5713,
+            10910
+        ]
+    }
+}

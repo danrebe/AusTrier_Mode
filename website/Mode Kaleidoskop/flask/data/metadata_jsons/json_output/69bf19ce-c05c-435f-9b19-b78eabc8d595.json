@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30673",
+    "titel": "Modebild: Zwei Figuren, Redingoten aus Gros des Naples in grün und blau verziert mit Fransen",
+    "Datum": "1829",
+    "Thema": [
+        "fashion plates",
+        "Mode",
+        "(Damen-)Kleid",
+        "被り物",
+        "dress, gown",
+        "head-gear",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "Kopfbedeckung",
+        "Modebilder",
+        "Biedermeier",
+        "Bürgertum",
+        "Fashion",
+        "Frau",
+        "Bourgeoisie",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49343/512433_default.webp",
+    "id": "69bf19ce-c05c-435f-9b19-b78eabc8d595",
+    "Filter": {
+        "Aehnlichkeit": 911,
+        "Farbe": [
+            533,
+            2161,
+            3908,
+            5307,
+            6954,
+            10205
+        ]
+    }
+}

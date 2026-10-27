@@ -1,0 +1,51 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31296",
+    "titel": "Modebild: Sechs Figuren, Damen-, Herren- und Kindermoden",
+    "Datum": "1849",
+    "Thema": [
+        "child",
+        "chapelaria",
+        "copricapo",
+        "被り物",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "(Damen-)Kleid",
+        "Kleidung für Mädchen",
+        "Mann",
+        "Kind",
+        "Mädchenkleid",
+        "fashion, clothing (+ girls' clothes)",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Familie",
+        "Family",
+        "Fashion",
+        "man",
+        "Dandy, Beau, Geck",
+        "Modebilder",
+        "fashion plates",
+        "dress, gown",
+        "dandy, beau",
+        "Mode",
+        "girls dress",
+        "fashion, clothing (+ boys' clothes)",
+        "Kleidung für Jungen",
+        "woman",
+        "Frau"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54005/513193_default.webp",
+    "id": "eabbfea6-ce47-40f4-8cde-1cd6ef9fefc5",
+    "Filter": {
+        "Aehnlichkeit": 1087,
+        "Farbe": [
+            820,
+            2757,
+            5588,
+            8321,
+            8937,
+            10500
+        ]
+    }
+}

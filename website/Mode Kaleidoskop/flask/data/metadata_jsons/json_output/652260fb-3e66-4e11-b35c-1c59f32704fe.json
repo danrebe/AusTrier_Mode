@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31386",
+    "titel": "Modebild: Eine Figur, Kleid mit Spenzer",
+    "Datum": "1814",
+    "Thema": [
+        "Modebilder",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Mode",
+        "Bürgertum",
+        "Frau",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Fashion",
+        "woman",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54976/513843_default.webp",
+    "id": "652260fb-3e66-4e11-b35c-1c59f32704fe",
+    "Filter": {
+        "Aehnlichkeit": 1616,
+        "Farbe": [
+            1097,
+            3016,
+            6100,
+            6542,
+            9010,
+            9823
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30108/1",
+    "titel": "Modebild: \"Dame nach englischem Geschmack\"",
+    "Datum": "1798",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Kopfbedeckung",
+        "被り物",
+        "fashion plates",
+        "woman",
+        "Bürgertum",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "Mode",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47373/511531_default.webp",
+    "id": "823903e7-a46a-49d3-89f7-2d56191ef18b",
+    "Filter": {
+        "Aehnlichkeit": 1299,
+        "Farbe": [
+            1015,
+            2947,
+            4285,
+            4525,
+            8391,
+            9786
+        ]
+    }
+}

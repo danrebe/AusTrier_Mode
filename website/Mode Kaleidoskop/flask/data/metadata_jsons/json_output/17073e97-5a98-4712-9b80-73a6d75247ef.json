@@ -1,0 +1,45 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31979",
+    "titel": "Modebild: Zwei Figuren, Damenballkleider",
+    "Datum": "1841",
+    "Thema": [
+        "Modebilder",
+        "fashion plates",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Public Festivals and Celebrations",
+        "dress, gown: ball gown",
+        "Tanz",
+        "woman",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Ballkleid",
+        "被り物",
+        "Fashion",
+        "Dance",
+        "Frau",
+        "Costums",
+        "Bräuche",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Mode",
+        "clothes for official occasions",
+        "Kleidung für offizielle Anlässe",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/57033/510937_default.webp",
+    "id": "17073e97-5a98-4712-9b80-73a6d75247ef",
+    "Filter": {
+        "Aehnlichkeit": 980,
+        "Farbe": [
+            2738,
+            4233,
+            5451,
+            10493
+        ]
+    }
+}

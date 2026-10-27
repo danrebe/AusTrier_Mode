@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30903",
+    "titel": "Modebild: Drei Figuren, französische Damenmoden",
+    "Datum": "1806",
+    "Thema": [
+        "Bürgertum",
+        "Fashion",
+        "Frau",
+        "chapelaria",
+        "Modebilder",
+        "fashion plates",
+        "Mode",
+        "woman",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "couvre-chef",
+        "copricapo",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Bourgeoisie"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/50017/512803_default.webp",
+    "id": "1a8c3a17-dc91-4877-9c12-27c029b27b10",
+    "Filter": {
+        "Aehnlichkeit": 1026,
+        "Farbe": [
+            222,
+            1279,
+            5914,
+            6137,
+            8465,
+            9076
+        ]
+    }
+}

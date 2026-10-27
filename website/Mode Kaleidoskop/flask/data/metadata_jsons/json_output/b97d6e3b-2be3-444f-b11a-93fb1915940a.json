@@ -1,0 +1,47 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31438",
+    "titel": "Modebild: Eine Figur, Pariser Hofrobe",
+    "Datum": "1816",
+    "Thema": [
+        "Nachtleben",
+        "被り物",
+        "Kleidung für offizielle Anlässe",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "fashion plates",
+        "Modebilder",
+        "Nightlife",
+        "Kopfbedeckung",
+        "clothes for official occasions",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "woman",
+        "Aristocracy",
+        "Dance",
+        "Biedermeier",
+        "Court Life",
+        "Frau",
+        "Adel",
+        "Höfisches Leben",
+        "Tanz",
+        "Mode",
+        "Fashion"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55075/513343_default.webp",
+    "id": "b97d6e3b-2be3-444f-b11a-93fb1915940a",
+    "Filter": {
+        "Aehnlichkeit": 1876,
+        "Farbe": [
+            1198,
+            4664,
+            5901,
+            6326,
+            6574,
+            9045,
+            9857
+        ]
+    }
+}

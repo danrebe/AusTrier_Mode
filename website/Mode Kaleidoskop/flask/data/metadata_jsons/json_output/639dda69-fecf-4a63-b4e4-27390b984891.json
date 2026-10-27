@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30085",
+    "titel": "Modebild: \"Junge, deutsche Dame\"",
+    "Datum": "1793",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "copricapo",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "chapelaria",
+        "Modebilder",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "Frau",
+        "woman",
+        "fashion plates",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47293/511491_default.webp",
+    "id": "639dda69-fecf-4a63-b4e4-27390b984891",
+    "Filter": {
+        "Aehnlichkeit": 711,
+        "Farbe": [
+            137,
+            859,
+            2803,
+            4251,
+            4380,
+            8342
+        ]
+    }
+}

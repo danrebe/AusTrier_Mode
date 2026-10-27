@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31206",
+    "titel": "Modebild: Drei Herrenanzüge, zwei Damenmoden",
+    "Datum": "1843",
+    "Thema": [
+        "Frau",
+        "woman",
+        "Mode",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "man",
+        "Mann",
+        "(Damen-)Kleid",
+        "Dandy, Beau, Geck",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "dandy, beau",
+        "coat",
+        "dress, gown",
+        "Jacke, Mantel",
+        "fashion plates",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53850/513107_default.webp",
+    "id": "f4b5fe61-c586-4c9e-a12a-47a92aefb44a",
+    "Filter": {
+        "Aehnlichkeit": 1148,
+        "Farbe": [
+            660,
+            2449,
+            5807,
+            8144,
+            8746,
+            10330
+        ]
+    }
+}

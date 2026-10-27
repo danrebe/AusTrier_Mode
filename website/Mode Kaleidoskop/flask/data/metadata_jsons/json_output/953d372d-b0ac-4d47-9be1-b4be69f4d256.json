@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30114",
+    "titel": "Modebild: \"Damenmoden - Parasolfächer\"",
+    "Datum": "1800",
+    "Thema": [
+        "fashion plates",
+        "Modebilder",
+        "dress, gown",
+        "Kopfbedeckung",
+        "chapelaria",
+        "copricapo",
+        "被り物",
+        "head-gear",
+        "couvre-chef",
+        "Mode",
+        "(Damen-)Kleid",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "Frau",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47389/511543_default.webp",
+    "id": "953d372d-b0ac-4d47-9be1-b4be69f4d256",
+    "Filter": {
+        "Aehnlichkeit": 253,
+        "Farbe": [
+            1003,
+            2935,
+            4513,
+            8388,
+            9782
+        ]
+    }
+}

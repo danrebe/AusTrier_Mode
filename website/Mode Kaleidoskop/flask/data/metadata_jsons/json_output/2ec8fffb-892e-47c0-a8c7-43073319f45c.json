@@ -1,0 +1,44 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30522",
+    "titel": "Modebild: \"Zwei Pariserinnen mit gleicher Frisur und Gesellschaftskleidern",
+    "Datum": "1827",
+    "Thema": [
+        "chapelaria",
+        "Kopfbedeckung",
+        "被り物",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Frisur",
+        "hairdress",
+        "fashion plates",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "clothes for official occasions",
+        "Kleidung für offizielle Anlässe",
+        "Public Festivals and Celebrations",
+        "Modebilder",
+        "Biedermeier",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "Frau",
+        "Mode",
+        "woman",
+        "Öffentliche Feste und Feierlichkeiten"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48806/512203_default.webp",
+    "id": "2ec8fffb-892e-47c0-a8c7-43073319f45c",
+    "Filter": {
+        "Aehnlichkeit": 851,
+        "Farbe": [
+            1804,
+            4332,
+            5087,
+            5715,
+            6191,
+            8578
+        ]
+    }
+}

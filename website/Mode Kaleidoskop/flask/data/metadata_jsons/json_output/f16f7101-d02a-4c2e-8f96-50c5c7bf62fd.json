@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30740",
+    "titel": "Modebild: Zwei Figuren, Kleider mit Samtpelerinen",
+    "Datum": "1830",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "fashion plates",
+        "Modebilder",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Bürgertum",
+        "Fashion",
+        "Biedermeier",
+        "Bourgeoisie",
+        "woman",
+        "Mode",
+        "Frau"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49482/512535_default.webp",
+    "id": "f16f7101-d02a-4c2e-8f96-50c5c7bf62fd",
+    "Filter": {
+        "Aehnlichkeit": 882,
+        "Farbe": [
+            249,
+            1410,
+            4838,
+            5646,
+            8505,
+            10813,
+            10947
+        ]
+    }
+}

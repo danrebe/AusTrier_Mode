@@ -1,0 +1,44 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31035",
+    "titel": "Modebild: Fünf Figuren, Damenmoden (Redingote, Gesellschaftskleid)",
+    "Datum": "1838",
+    "Thema": [
+        "woman",
+        "Bourgeoisie",
+        "Fashion",
+        "Frau",
+        "Bürgertum",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Accessoires",
+        "accessories (~ clothing)",
+        "clothes for official occasions",
+        "Kleidung für offizielle Anlässe",
+        "fashion plates",
+        "Modebilder",
+        "hairdress",
+        "Frisur",
+        "Public Festivals and Celebrations",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/51048/513477_default.webp",
+    "id": "6ae801d5-9bc6-40f9-955b-0797a71710fe",
+    "Filter": {
+        "Aehnlichkeit": 1643,
+        "Farbe": [
+            2677,
+            4204,
+            5852,
+            8275,
+            8892,
+            10701,
+            11087
+        ]
+    }
+}

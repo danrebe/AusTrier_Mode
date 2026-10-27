@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30137",
+    "titel": "Modebild: \"Dame im Negligée- chinesischer Sonnenfächer- chinesischer Sonnenschirm\"",
+    "Datum": "1805",
+    "Thema": [
+        "Mode",
+        "fashion plates",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "被り物",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "Modebilder",
+        "Fashion",
+        "Bürgertum",
+        "Exotismus",
+        "Frau",
+        "Bourgeoisie",
+        "Exoticism",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47465/511583_default.webp",
+    "id": "7116bff5-cd28-4954-8be0-1923b4defad4",
+    "Filter": {
+        "Aehnlichkeit": 1669,
+        "Farbe": [
+            1232,
+            3126,
+            4685,
+            9871
+        ]
+    }
+}

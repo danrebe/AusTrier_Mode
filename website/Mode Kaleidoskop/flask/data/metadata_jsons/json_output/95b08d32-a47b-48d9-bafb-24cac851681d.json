@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30585",
+    "titel": "Modebild: Dame in blauem Kleid mit großem weißem Spitzenkragen",
+    "Datum": "1828",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "fashion plates",
+        "Modebilder",
+        "被り物",
+        "couvre-chef",
+        "chapelaria",
+        "copricapo",
+        "Kopfbedeckung",
+        "head-gear",
+        "Bürgertum",
+        "Biedermeier",
+        "Fashion",
+        "Bourgeoisie",
+        "Frau",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49044/512301_default.webp",
+    "id": "95b08d32-a47b-48d9-bafb-24cac851681d",
+    "Filter": {
+        "Aehnlichkeit": 139,
+        "Farbe": [
+            412,
+            1805,
+            3618,
+            5088,
+            10843
+        ]
+    }
+}

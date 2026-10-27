@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31726",
+    "titel": "Modebild: Zwei Figuren, Sommerkleider",
+    "Datum": "1835",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "copricapo",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "chapelaria",
+        "Bürgertum",
+        "Modebilder",
+        "Bourgeoisie",
+        "Frau",
+        "Fashion",
+        "woman",
+        "Mode",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55799/614733_default.webp",
+    "id": "b625bbdd-c1d1-4a55-bd00-1a9ca0458a89",
+    "Filter": {
+        "Aehnlichkeit": 560,
+        "Farbe": [
+            2117,
+            3874,
+            6937,
+            9378,
+            9642,
+            10194
+        ]
+    }
+}

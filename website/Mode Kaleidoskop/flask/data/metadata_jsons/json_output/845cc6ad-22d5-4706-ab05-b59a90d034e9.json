@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30212",
+    "titel": "Modebild: \"Pariserin mit chinesischer Frisur und Mousselinevolants am Kleid\"",
+    "Datum": "1812",
+    "Thema": [
+        "chapelaria",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "woman",
+        "hairdress",
+        "Mode",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Frau",
+        "Exotismus",
+        "Exoticism",
+        "Fashion",
+        "fashion plates",
+        "Frisur",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47653/1759454_default.webp",
+    "id": "845cc6ad-22d5-4706-ab05-b59a90d034e9",
+    "Filter": {
+        "Aehnlichkeit": 1239,
+        "Farbe": [
+            947,
+            2883,
+            4460,
+            9764
+        ]
+    }
+}

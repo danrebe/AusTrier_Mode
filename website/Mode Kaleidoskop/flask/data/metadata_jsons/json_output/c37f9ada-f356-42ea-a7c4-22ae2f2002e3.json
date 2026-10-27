@@ -1,0 +1,50 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31070",
+    "titel": "Modebild: Fünf Figuren, Anzüge zu Maskenbällen",
+    "Datum": "1839",
+    "Thema": [
+        "Kleidung für offizielle Anlässe",
+        "clothes for official occasions",
+        "couvre-chef",
+        "chapelaria",
+        "copricapo",
+        "Ballkleid",
+        "head-gear",
+        "fashion plates",
+        "Modebilder",
+        "dress, gown: ball gown",
+        "Accessoires",
+        "accessories (~ clothing)",
+        "被り物",
+        "Kopfbedeckung",
+        "woman",
+        "Public Festivals and Celebrations",
+        "Fashion",
+        "Bürgertum",
+        "Bräuche",
+        "Frau",
+        "Bourgeoisie",
+        "Dance",
+        "Costums",
+        "hairdress",
+        "Frisur",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Tanz",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/51177/513515_default.webp",
+    "id": "c37f9ada-f356-42ea-a7c4-22ae2f2002e3",
+    "Filter": {
+        "Aehnlichkeit": 1199,
+        "Farbe": [
+            2553,
+            8201,
+            8797,
+            9652,
+            10389,
+            10675,
+            10785
+        ]
+    }
+}

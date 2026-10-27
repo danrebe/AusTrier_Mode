@@ -1,0 +1,47 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30279",
+    "titel": "Modebild: \"Pariserinnen im Ballkleid und Haarschmuck sowie in Atlasmantel, gefüttert mit sibirischem Bärenpelz\"",
+    "Datum": "1821",
+    "Thema": [
+        "Ballkleid",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Jacke, Mantel",
+        "coat",
+        "dress, gown: ball gown",
+        "Modebilder",
+        "Tanz",
+        "Nachtleben",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "被り物",
+        "Nightlife",
+        "Dance",
+        "Bräuche",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Biedermeier",
+        "Frau",
+        "Costums",
+        "Fashion",
+        "fashion plates",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47882/1759406_default.webp",
+    "id": "77d30865-5d97-4fcb-824f-70f0e8751a17",
+    "Filter": {
+        "Aehnlichkeit": 1683,
+        "Farbe": [
+            1365,
+            3235,
+            4794,
+            6150,
+            9917
+        ]
+    }
+}

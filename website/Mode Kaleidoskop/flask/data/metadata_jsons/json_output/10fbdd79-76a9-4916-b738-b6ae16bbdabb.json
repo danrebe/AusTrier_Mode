@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31914",
+    "titel": "Modebild: Drei Figuren, Gesellschaftskleider",
+    "Datum": "1839",
+    "Thema": [
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Kleidung für offizielle Anlässe",
+        "clothes for official occasions",
+        "Mode",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Frau",
+        "Public Festivals and Celebrations",
+        "woman",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Modebilder",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/56431/510843_default.webp",
+    "id": "10fbdd79-76a9-4916-b738-b6ae16bbdabb",
+    "Filter": {
+        "Aehnlichkeit": 884,
+        "Farbe": [
+            2453,
+            4119,
+            7068,
+            8148,
+            9540,
+            10332
+        ]
+    }
+}

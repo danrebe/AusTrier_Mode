@@ -1,0 +1,46 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31303",
+    "titel": "Modebild: Ein Herrenanzug, drei Ausgehkleider",
+    "Datum": "1849",
+    "Thema": [
+        "Kopfbedeckung",
+        "Mann",
+        "coat",
+        "Jacke, Mantel",
+        "Dandy, Beau, Geck",
+        "dandy, beau",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "head-gear",
+        "couvre-chef",
+        "被り物",
+        "copricapo",
+        "chapelaria",
+        "fashion plates",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "child",
+        "Frau",
+        "Mode",
+        "Modebilder",
+        "man",
+        "Kind",
+        "fashion, clothing (+ boys' clothes)",
+        "Kleidung für Jungen",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54023/513765_default.webp",
+    "id": "83722fa5-cbad-42ce-b5eb-297deba6ec95",
+    "Filter": {
+        "Aehnlichkeit": 734,
+        "Farbe": [
+            826,
+            2769,
+            7394,
+            8326,
+            8947
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30683",
+    "titel": "Modebild: Zwei Figuren, Kleider mit Schinkenärmeln, Oberteil weiß, Rock gelb und blau",
+    "Datum": "1829",
+    "Thema": [
+        "chapelaria",
+        "Kopfbedeckung",
+        "copricapo",
+        "Modebilder",
+        "fashion plates",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "couvre-chef",
+        "head-gear",
+        "被り物",
+        "Fashion",
+        "Bürgertum",
+        "Biedermeier",
+        "Frau",
+        "Bourgeoisie",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49374/512449_default.webp",
+    "id": "b3f48eda-7d41-47df-aa40-8d662c7d908c",
+    "Filter": {
+        "Aehnlichkeit": 127,
+        "Farbe": [
+            2070,
+            3835,
+            5257,
+            6916,
+            10177
+        ]
+    }
+}

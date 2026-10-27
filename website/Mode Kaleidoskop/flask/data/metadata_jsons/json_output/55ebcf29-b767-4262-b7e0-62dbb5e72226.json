@@ -1,0 +1,42 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31913",
+    "titel": "Modebild: Drei Figuren, Damen- und Mädchenmoden",
+    "Datum": "1839",
+    "Thema": [
+        "chapelaria",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Kleidung für Mädchen",
+        "Mädchenkleid",
+        "Mode",
+        "girls dress",
+        "copricapo",
+        "couvre-chef",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "Modebilder",
+        "Fashion",
+        "child",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Frau",
+        "woman",
+        "fashion, clothing (+ girls' clothes)",
+        "Kind",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/56430/510841_default.webp",
+    "id": "55ebcf29-b767-4262-b7e0-62dbb5e72226",
+    "Filter": {
+        "Aehnlichkeit": 1538,
+        "Farbe": [
+            2350,
+            4053,
+            9485,
+            9700,
+            10652
+        ]
+    }
+}

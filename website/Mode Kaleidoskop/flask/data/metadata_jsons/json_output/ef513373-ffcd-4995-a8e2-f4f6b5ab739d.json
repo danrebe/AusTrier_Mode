@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30663",
+    "titel": "Modebild: Zwei Redingoten mit Marderboas und Samthüten",
+    "Datum": "1829",
+    "Thema": [
+        "Modebilder",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "被り物",
+        "couvre-chef",
+        "Kopfbedeckung",
+        "head-gear",
+        "copricapo",
+        "chapelaria",
+        "Bürgertum",
+        "Fashion",
+        "fashion plates",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Frau",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49317/512417_default.webp",
+    "id": "ef513373-ffcd-4995-a8e2-f4f6b5ab739d",
+    "Filter": {
+        "Aehnlichkeit": 445,
+        "Farbe": [
+            2028,
+            3800,
+            5225,
+            9680,
+            10869
+        ]
+    }
+}

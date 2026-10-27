@@ -1,0 +1,35 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30062",
+    "titel": "Modebild: \"Junge Dame in Kleid à la turque\"",
+    "Datum": "1787",
+    "Thema": [
+        "(Damen-)Kleid",
+        "woman",
+        "Bürgertum",
+        "Frau",
+        "Bourgeoisie",
+        "Fashion",
+        "Modebilder",
+        "Mode",
+        "fashion plates",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "dress, gown",
+        "chapelaria"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/46972/511447_default.webp",
+    "id": "1974a666-30f4-4f64-92e7-0c5f994e3301",
+    "Filter": {
+        "Aehnlichkeit": 992,
+        "Farbe": [
+            837,
+            2782,
+            4359,
+            10606
+        ]
+    }
+}

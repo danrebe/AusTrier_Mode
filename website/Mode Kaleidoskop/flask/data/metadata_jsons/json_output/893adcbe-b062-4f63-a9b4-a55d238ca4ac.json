@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31995",
+    "titel": "Modebild: Drei Figuren, Damen- und Mädchenmoden",
+    "Datum": "1841",
+    "Thema": [
+        "cape",
+        "Umhang, Cape",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Kind",
+        "woman",
+        "Modebilder",
+        "Mode",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "fashion plates",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "child",
+        "Frau",
+        "Kleidung für Mädchen",
+        "Mädchenkleid",
+        "girls dress",
+        "fashion, clothing (+ girls' clothes)"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/57161/510725_default.webp",
+    "id": "893adcbe-b062-4f63-a9b4-a55d238ca4ac",
+    "Filter": {
+        "Aehnlichkeit": 720,
+        "Farbe": [
+            643,
+            2408,
+            4094,
+            5403
+        ]
+    }
+}

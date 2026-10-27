@@ -1,0 +1,9 @@
+{
+    "Type": "Filter",
+    "Identifikator": "FILTER_020",
+    "Farbe": {
+        "Tag": "Transparent",
+        "Wert": 20.0
+    },
+    "Index": 20
+}

@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30069",
+    "titel": "Modebild: \"Dame in einem Kleid à l' Anglais\"",
+    "Datum": "1789",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Modebilder",
+        "fashion plates",
+        "Kopfbedeckung",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "被り物",
+        "Frau",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/46981/511461_default.webp",
+    "id": "922af9f0-004e-4ce6-a2ff-d81c9be88de2",
+    "Filter": {
+        "Aehnlichkeit": 214,
+        "Farbe": [
+            903,
+            2844,
+            4266,
+            4422,
+            9743
+        ]
+    }
+}

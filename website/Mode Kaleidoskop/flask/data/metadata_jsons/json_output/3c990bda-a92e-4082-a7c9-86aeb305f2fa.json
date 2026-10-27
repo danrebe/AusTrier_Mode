@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31427",
+    "titel": "Modebild: Eine Figur, Pariser Abendkleid",
+    "Datum": "1816",
+    "Thema": [
+        "dress, gown",
+        "Kopfbedeckung",
+        "head-gear",
+        "被り物",
+        "copricapo",
+        "fashion plates",
+        "Nachtleben",
+        "Modebilder",
+        "chapelaria",
+        "couvre-chef",
+        "(Damen-)Kleid",
+        "woman",
+        "Biedermeier",
+        "Frau",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Mode",
+        "Nightlife"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55058/513331_default.webp",
+    "id": "3c990bda-a92e-4082-a7c9-86aeb305f2fa",
+    "Filter": {
+        "Aehnlichkeit": 1388,
+        "Farbe": [
+            1142,
+            3054,
+            4628,
+            5565,
+            5617,
+            5895,
+            8429
+        ]
+    }
+}

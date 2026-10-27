@@ -1,0 +1,35 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31336",
+    "titel": "Modebild: Zwei Figuren, Damenmoden, Parisian Fashions",
+    "Datum": "1806",
+    "Thema": [
+        "dress, gown",
+        "(Damen-)Kleid",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "Mode",
+        "Bürgertum",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "Modebilder",
+        "fashion plates",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54150/513789_default.webp",
+    "id": "8ce96e9a-5807-4f97-9f83-f9af93c9e188",
+    "Filter": {
+        "Aehnlichkeit": 1164,
+        "Farbe": [
+            197,
+            1118,
+            3033,
+            4606
+        ]
+    }
+}

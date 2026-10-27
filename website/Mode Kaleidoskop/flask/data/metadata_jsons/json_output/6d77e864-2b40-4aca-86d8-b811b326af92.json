@@ -1,0 +1,47 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30488",
+    "titel": "Modebild: \"Pariserin mit Festfrisur, Tanzkleid mir Rosen verziert und Fächer\"",
+    "Datum": "1822",
+    "Thema": [
+        "被り物",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Kleidung für offizielle Anlässe",
+        "Frisur",
+        "woman",
+        "hairdress",
+        "Modebilder",
+        "fashion plates",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "clothes for official occasions",
+        "Public Festivals and Celebrations",
+        "Nightlife",
+        "Biedermeier",
+        "Fashion",
+        "Frau",
+        "Bourgeoisie",
+        "Dance",
+        "Bürgertum",
+        "Nachtleben",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Mode",
+        "Tanz"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48683/512151_default.webp",
+    "id": "6d77e864-2b40-4aca-86d8-b811b326af92",
+    "Filter": {
+        "Aehnlichkeit": 1656,
+        "Farbe": [
+            1109,
+            3026,
+            4600,
+            5470,
+            10562
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30857",
+    "titel": "Modebild: Zwei Figuren, London Dresses for June",
+    "Datum": "1810",
+    "Thema": [
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Kopfbedeckung",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "被り物",
+        "Fashion",
+        "fashion plates",
+        "Bürgertum",
+        "Frau",
+        "Bourgeoisie",
+        "Modebilder",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49832/512711_default.webp",
+    "id": "41bb6b42-2763-44cb-82cb-91811333a665",
+    "Filter": {
+        "Aehnlichkeit": 433,
+        "Farbe": [
+            1168,
+            3074,
+            4641,
+            6563,
+            9847,
+            10564
+        ]
+    }
+}

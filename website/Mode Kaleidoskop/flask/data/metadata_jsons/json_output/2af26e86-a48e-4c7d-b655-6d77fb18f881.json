@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30162",
+    "titel": "Modebild: \"Dame in Tunikakleid mit verschiedenen. Hüten\"",
+    "Datum": "1801",
+    "Thema": [
+        "chapelaria",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "fashion plates",
+        "woman",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Frau",
+        "Fashion",
+        "Mode",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47521/511623_default.webp",
+    "id": "2af26e86-a48e-4c7d-b655-6d77fb18f881",
+    "Filter": {
+        "Aehnlichkeit": 1242,
+        "Farbe": [
+            1325,
+            5926,
+            6143,
+            6630,
+            7179,
+            8484,
+            9087
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30981",
+    "titel": "Modebild: Damenmoden",
+    "Datum": "1836",
+    "Thema": [
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Accessoires",
+        "Mode",
+        "hairdress",
+        "fashion plates",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "accessories (~ clothing)",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "Frau",
+        "woman",
+        "Frisur",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/50215/513423_default.webp",
+    "id": "69fe7916-af49-4271-b2b3-aba8ae413d20",
+    "Filter": {
+        "Aehnlichkeit": 1634,
+        "Farbe": [
+            1724,
+            3548,
+            5495,
+            6781,
+            9223,
+            10047
+        ]
+    }
+}

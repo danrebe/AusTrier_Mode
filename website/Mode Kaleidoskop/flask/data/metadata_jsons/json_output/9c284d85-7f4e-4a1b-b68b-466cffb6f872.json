@@ -1,0 +1,36 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30367",
+    "titel": "Modebild: \"Französische Dame mit Schürzenkleid über Mousseline-Robe\"",
+    "Datum": "1811",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "copricapo",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "chapelaria",
+        "Modebilder",
+        "Bürgertum",
+        "Fashion",
+        "Frau",
+        "Bourgeoisie",
+        "Mode",
+        "woman",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48317/511151_default.webp",
+    "id": "9c284d85-7f4e-4a1b-b68b-466cffb6f872",
+    "Filter": {
+        "Aehnlichkeit": 1801,
+        "Farbe": [
+            1329,
+            3205,
+            4764,
+            6386,
+            6631
+        ]
+    }
+}

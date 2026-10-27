@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30752",
+    "titel": "Modebild: Zwei Figuren, Samtredingoten",
+    "Datum": "1830",
+    "Thema": [
+        "Kopfbedeckung",
+        "Fashion",
+        "woman",
+        "Modebilder",
+        "fashion plates",
+        "Biedermeier",
+        "Frau",
+        "Bourgeoisie",
+        "Bürgertum",
+        "couvre-chef",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "chapelaria",
+        "copricapo",
+        "head-gear",
+        "被り物",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49535/512555_default.webp",
+    "id": "05e82f20-f7f0-4e86-8457-80559286d3dd",
+    "Filter": {
+        "Aehnlichkeit": 456,
+        "Farbe": [
+            5,
+            246,
+            1401,
+            3269,
+            4829
+        ]
+    }
+}

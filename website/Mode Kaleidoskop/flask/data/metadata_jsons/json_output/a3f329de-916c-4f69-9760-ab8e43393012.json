@@ -1,0 +1,44 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31483",
+    "titel": "Modebild: Drei Figuren, Fulldress, Ballkleid und Morgenkleid",
+    "Datum": "um 1834",
+    "Thema": [
+        "(Damen-)Kleid",
+        "dress, gown",
+        "Modebilder",
+        "fashion plates",
+        "Ballkleid",
+        "dress, gown: ball gown",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "woman",
+        "Tanz",
+        "Mode",
+        "Frau",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Costums",
+        "Bräuche",
+        "Dance",
+        "Fashion",
+        "Nachtleben",
+        "Nightlife"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55156/614243_default.webp",
+    "id": "a3f329de-916c-4f69-9760-ab8e43393012",
+    "Filter": {
+        "Aehnlichkeit": 396,
+        "Farbe": [
+            185,
+            1048,
+            2977,
+            4553,
+            5608
+        ]
+    }
+}

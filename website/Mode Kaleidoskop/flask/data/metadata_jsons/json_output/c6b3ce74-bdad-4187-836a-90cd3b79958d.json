@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30638",
+    "titel": "Modebild: Zwei Damen mit weißen Kleidern und roten Wollcapes",
+    "Datum": "1828",
+    "Thema": [
+        "dress, gown",
+        "fashion plates",
+        "Modebilder",
+        "chapelaria",
+        "copricapo",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "(Damen-)Kleid",
+        "Fashion",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Frau",
+        "Bürgertum",
+        "woman",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49160/511273_default.webp",
+    "id": "c6b3ce74-bdad-4187-836a-90cd3b79958d",
+    "Filter": {
+        "Aehnlichkeit": 1905,
+        "Farbe": [
+            1466,
+            3327,
+            4881,
+            5658,
+            11064
+        ]
+    }
+}

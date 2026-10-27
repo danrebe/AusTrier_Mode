@@ -1,0 +1,43 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31228",
+    "titel": "Modebild: Fünf Figuren, Damenmoden, ein Herrenanzug",
+    "Datum": "1844",
+    "Thema": [
+        "Modebilder",
+        "coat",
+        "fashion plates",
+        "dandy, beau",
+        "Dandy, Beau, Geck",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "man",
+        "Mode",
+        "woman",
+        "Mann",
+        "Bourgeoisie",
+        "couvre-chef",
+        "chapelaria",
+        "copricapo",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Jacke, Mantel",
+        "Fashion",
+        "Frau",
+        "Bürgertum"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53876/513127_default.webp",
+    "id": "b30b3e87-1fb7-4371-83b4-c4bf46da6b41",
+    "Filter": {
+        "Aehnlichkeit": 893,
+        "Farbe": [
+            807,
+            2740,
+            7382,
+            7945,
+            8314,
+            8929
+        ]
+    }
+}

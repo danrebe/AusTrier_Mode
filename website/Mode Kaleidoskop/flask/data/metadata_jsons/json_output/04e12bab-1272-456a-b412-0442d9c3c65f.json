@@ -1,0 +1,38 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31772",
+    "titel": "Modebild: Zwei Figuren, Promenadenkleider",
+    "Datum": "1836",
+    "Thema": [
+        "(Damen-)Kleid",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "fashion plates",
+        "Bürgertum",
+        "Mode",
+        "woman",
+        "Modebilder",
+        "dress, gown",
+        "chapelaria"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55864/614825_default.webp",
+    "id": "04e12bab-1272-456a-b412-0442d9c3c65f",
+    "Filter": {
+        "Aehnlichkeit": 413,
+        "Farbe": [
+            683,
+            2498,
+            5815,
+            7087,
+            9564,
+            9710,
+            10360
+        ]
+    }
+}

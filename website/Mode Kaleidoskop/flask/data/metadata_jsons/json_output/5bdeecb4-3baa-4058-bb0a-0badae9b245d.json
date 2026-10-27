@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31909",
+    "titel": "Modebild: Sieben  weibliche  Hut- und Haarmoden",
+    "Datum": "1839",
+    "Thema": [
+        "fashion plates",
+        "chapelaria",
+        "Modebilder",
+        "woman",
+        "copricapo",
+        "Accessoires",
+        "accessories (~ clothing)",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "Mode",
+        "Biedermeier",
+        "Frau",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Fashion",
+        "hairdress",
+        "Frisur"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/56426/510677_default.webp",
+    "id": "5bdeecb4-3baa-4058-bb0a-0badae9b245d",
+    "Filter": {
+        "Aehnlichkeit": 1562,
+        "Farbe": [
+            654,
+            2437,
+            4109,
+            6371,
+            7062,
+            7811,
+            9532
+        ]
+    }
+}

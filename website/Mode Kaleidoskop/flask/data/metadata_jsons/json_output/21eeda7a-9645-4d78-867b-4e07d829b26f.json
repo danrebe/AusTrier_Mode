@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31687",
+    "titel": "Modebild: Vier Haarmoden, zwei Hutmoden, ein Kragenmodell",
+    "Datum": "1834",
+    "Thema": [
+        "hairdress",
+        "woman",
+        "Mode",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Accessoires",
+        "accessories (~ clothing)",
+        "Modebilder",
+        "Frisur",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Frau",
+        "Fashion",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55456/614655_default.webp",
+    "id": "21eeda7a-9645-4d78-867b-4e07d829b26f",
+    "Filter": {
+        "Aehnlichkeit": 846,
+        "Farbe": [
+            1693,
+            6766,
+            7590,
+            8554,
+            9208
+        ]
+    }
+}

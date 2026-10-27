@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30610",
+    "titel": "Modebild: Zwei Damen in weißer und rosa Robe",
+    "Datum": "1828",
+    "Thema": [
+        "(Damen-)Kleid",
+        "fashion plates",
+        "Modebilder",
+        "couvre-chef",
+        "Kopfbedeckung",
+        "head-gear",
+        "被り物",
+        "copricapo",
+        "chapelaria",
+        "Mode",
+        "dress, gown",
+        "Biedermeier",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "Frau",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49073/511259_default.webp",
+    "id": "bc1c4ef8-1ece-4d10-ac57-fcfc7b40cffd",
+    "Filter": {
+        "Aehnlichkeit": 1880,
+        "Farbe": [
+            1943,
+            3732,
+            5171,
+            5731,
+            11143
+        ]
+    }
+}

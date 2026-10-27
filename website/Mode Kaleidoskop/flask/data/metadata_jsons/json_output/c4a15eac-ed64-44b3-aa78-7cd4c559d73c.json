@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30729",
+    "titel": "Modebild: Zwei Figuren, Tüllkleider in rosa und blau",
+    "Datum": "1829",
+    "Thema": [
+        "被り物",
+        "chapelaria",
+        "copricapo",
+        "(Damen-)Kleid",
+        "Modebilder",
+        "dress, gown",
+        "fashion plates",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "Fashion",
+        "Bürgertum",
+        "Biedermeier",
+        "Frau",
+        "Bourgeoisie",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49460/512517_default.webp",
+    "id": "c4a15eac-ed64-44b3-aa78-7cd4c559d73c",
+    "Filter": {
+        "Aehnlichkeit": 1131,
+        "Farbe": [
+            1422,
+            3286,
+            4847,
+            5649,
+            5941,
+            8511,
+            11187
+        ]
+    }
+}

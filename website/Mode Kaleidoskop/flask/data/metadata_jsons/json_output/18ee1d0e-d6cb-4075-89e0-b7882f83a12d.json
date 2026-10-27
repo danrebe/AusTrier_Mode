@@ -1,0 +1,42 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31304",
+    "titel": "Modebild: Damen- und Herrenausgehkleidung",
+    "Datum": "1849",
+    "Thema": [
+        "fashion plates",
+        "man",
+        "Mode",
+        "woman",
+        "Mann",
+        "Bourgeoisie",
+        "Fashion",
+        "Frau",
+        "coat",
+        "Bürgertum",
+        "Modebilder",
+        "Jacke, Mantel",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "Dandy, Beau, Geck",
+        "dandy, beau",
+        "chapelaria",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "copricapo",
+        "head-gear",
+        "被り物"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/54031/513201_default.webp",
+    "id": "18ee1d0e-d6cb-4075-89e0-b7882f83a12d",
+    "Filter": {
+        "Aehnlichkeit": 889,
+        "Farbe": [
+            2754,
+            7386,
+            7953,
+            8319,
+            8934
+        ]
+    }
+}

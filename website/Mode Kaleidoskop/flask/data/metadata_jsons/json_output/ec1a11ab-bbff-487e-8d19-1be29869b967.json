@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30519",
+    "titel": "Modebild: \"Französinnen mit Federhüten und Bändern, Mousselinekleidern und Schärpen\"",
+    "Datum": "1826",
+    "Thema": [
+        "(Damen-)Kleid",
+        "Modebilder",
+        "dress, gown",
+        "fashion plates",
+        "copricapo",
+        "被り物",
+        "Kopfbedeckung",
+        "chapelaria",
+        "head-gear",
+        "couvre-chef",
+        "Fashion",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Frau",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48755/512199_default.webp",
+    "id": "ec1a11ab-bbff-487e-8d19-1be29869b967",
+    "Filter": {
+        "Aehnlichkeit": 1597,
+        "Farbe": [
+            2041,
+            3811,
+            5235,
+            6238,
+            10166
+        ]
+    }
+}

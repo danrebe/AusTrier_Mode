@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30146",
+    "titel": "Modebild: \"Zwei Damen mit Pelzverbrähmung und Schmuck\"",
+    "Datum": "um 1795",
+    "Thema": [
+        "fashion plates",
+        "Modebilder",
+        "(Damen-)Kleid",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "dress, gown",
+        "Bourgeoisie",
+        "Frau",
+        "Bürgertum",
+        "Fashion",
+        "Mode",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47496/511597_default.webp",
+    "id": "c94e7f04-6202-4d62-a7a2-20a6f1c2e10e",
+    "Filter": {
+        "Aehnlichkeit": 938,
+        "Farbe": [
+            873,
+            2817,
+            4393,
+            9654,
+            10608,
+            10703
+        ]
+    }
+}

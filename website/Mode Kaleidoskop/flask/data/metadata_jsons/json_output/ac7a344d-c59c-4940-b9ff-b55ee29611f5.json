@@ -1,0 +1,45 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31052",
+    "titel": "Modebild: Fünf Figuren, Damen- u, Herrenmoden, Frisuren",
+    "Datum": "1839",
+    "Thema": [
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "coat",
+        "Jacke, Mantel",
+        "Modebilder",
+        "fashion plates",
+        "Dandy, Beau, Geck",
+        "被り物",
+        "copricapo",
+        "chapelaria",
+        "accessories (~ clothing)",
+        "Accessoires",
+        "dandy, beau",
+        "Bourgeoisie",
+        "Frau",
+        "Fashion",
+        "Bürgertum",
+        "hairdress",
+        "man",
+        "Frisur",
+        "woman",
+        "Mann",
+        "Mode"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/51118/512959_default.webp",
+    "id": "ac7a344d-c59c-4940-b9ff-b55ee29611f5",
+    "Filter": {
+        "Aehnlichkeit": 100,
+        "Farbe": [
+            2584,
+            5535,
+            5830,
+            8826,
+            9718,
+            11083
+        ]
+    }
+}

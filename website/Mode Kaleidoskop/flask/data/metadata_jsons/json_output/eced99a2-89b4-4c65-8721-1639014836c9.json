@@ -1,0 +1,35 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30338",
+    "titel": "Modebild: \"Anzug einer Arbeiterin in der Modebranche\"",
+    "Datum": "1803",
+    "Thema": [
+        "dress, gown",
+        "(Damen-)Kleid",
+        "head-gear",
+        "被り物",
+        "Kopfbedeckung",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "fashion plates",
+        "woman",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "Frau",
+        "Mode",
+        "Modebilder"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48212/511139_default.webp",
+    "id": "eced99a2-89b4-4c65-8721-1639014836c9",
+    "Filter": {
+        "Aehnlichkeit": 1218,
+        "Farbe": [
+            153,
+            907,
+            2848,
+            4426
+        ]
+    }
+}

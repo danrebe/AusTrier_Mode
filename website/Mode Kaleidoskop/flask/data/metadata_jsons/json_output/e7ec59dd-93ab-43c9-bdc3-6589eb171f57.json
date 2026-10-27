@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31653",
+    "titel": "Modebild: Zwei Figuren, Gesellschaftskleider",
+    "Datum": "1834",
+    "Thema": [
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "clothes for official occasions",
+        "(Damen-)Kleid",
+        "Modebilder",
+        "couvre-chef",
+        "copricapo",
+        "chapelaria",
+        "Kleidung für offizielle Anlässe",
+        "Bourgeoisie",
+        "fashion plates",
+        "Bürgertum",
+        "Fashion",
+        "Öffentliche Feste und Feierlichkeiten",
+        "Public Festivals and Celebrations",
+        "woman",
+        "Frau",
+        "Mode",
+        "dress, gown"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55422/614587_default.webp",
+    "id": "e7ec59dd-93ab-43c9-bdc3-6589eb171f57",
+    "Filter": {
+        "Aehnlichkeit": 1979,
+        "Farbe": [
+            426,
+            1856,
+            3656,
+            6827,
+            9272,
+            10089
+        ]
+    }
+}

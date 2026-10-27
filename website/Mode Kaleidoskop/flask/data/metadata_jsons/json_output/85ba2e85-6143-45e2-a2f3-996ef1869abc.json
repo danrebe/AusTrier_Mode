@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31214",
+    "titel": "Modebild: Fünf Figuren, Damenmoden",
+    "Datum": "1844",
+    "Thema": [
+        "被り物",
+        "fashion plates",
+        "woman",
+        "Mode",
+        "Modebilder",
+        "Fashion",
+        "Bürgertum",
+        "Frau",
+        "Bourgeoisie",
+        "chapelaria",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/53859/513669_default.webp",
+    "id": "85ba2e85-6143-45e2-a2f3-996ef1869abc",
+    "Filter": {
+        "Aehnlichkeit": 1182,
+        "Farbe": [
+            2525,
+            5819,
+            7306,
+            7848,
+            8185,
+            8779
+        ]
+    }
+}

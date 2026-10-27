@@ -1,0 +1,40 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30563",
+    "titel": "Modebild: Zwei Herren mit Pantalons, Mänteln, Zylinder und Zweispitz",
+    "Datum": "1828",
+    "Thema": [
+        "fashion plates",
+        "Dandy, Beau, Geck",
+        "coat",
+        "Jacke, Mantel",
+        "dandy, beau",
+        "chapelaria",
+        "copricapo",
+        "couvre-chef",
+        "head-gear",
+        "Kopfbedeckung",
+        "被り物",
+        "Mann",
+        "Modebilder",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Fashion",
+        "Bürgertum",
+        "Mode",
+        "man"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/48970/512267_default.webp",
+    "id": "f1da2094-a48d-40f7-9ff8-b143bd823634",
+    "Filter": {
+        "Aehnlichkeit": 1740,
+        "Farbe": [
+            387,
+            1759,
+            3579,
+            5057,
+            10909,
+            11131
+        ]
+    }
+}

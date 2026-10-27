@@ -1,0 +1,44 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31622",
+    "titel": "Modebild: Zwei Figuren, Dame im Hausanzug, Herrenanzug",
+    "Datum": "1833",
+    "Thema": [
+        "(Damen-)Kleid",
+        "coat",
+        "Jacke, Mantel",
+        "fashion plates",
+        "Modebilder",
+        "couvre-chef",
+        "dress, gown",
+        "Dandy, Beau, Geck",
+        "head-gear",
+        "被り物",
+        "Kopfbedeckung",
+        "chapelaria",
+        "copricapo",
+        "dandy, beau",
+        "Biedermeier",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "Mann",
+        "Frau",
+        "Mode",
+        "woman",
+        "man"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55391/614525_default.webp",
+    "id": "eb71f9d9-5ff5-42b3-8c19-7505c1920e72",
+    "Filter": {
+        "Aehnlichkeit": 1984,
+        "Farbe": [
+            1744,
+            3564,
+            6789,
+            9235,
+            9669,
+            10056
+        ]
+    }
+}

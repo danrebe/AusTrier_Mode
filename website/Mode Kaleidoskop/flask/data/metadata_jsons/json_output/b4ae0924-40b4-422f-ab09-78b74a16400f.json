@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31482",
+    "titel": "Modebild: Eine Figur, Damenmode (Morgenkleid)",
+    "Datum": "um 1830",
+    "Thema": [
+        "Modebilder",
+        "fashion plates",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Mode",
+        "Biedermeier",
+        "Fashion",
+        "Bourgeoisie",
+        "Frau",
+        "Bürgertum",
+        "woman"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55155/614241_default.webp",
+    "id": "b4ae0924-40b4-422f-ab09-78b74a16400f",
+    "Filter": {
+        "Aehnlichkeit": 1865,
+        "Farbe": [
+            997,
+            2929,
+            4507,
+            6507,
+            7421
+        ]
+    }
+}

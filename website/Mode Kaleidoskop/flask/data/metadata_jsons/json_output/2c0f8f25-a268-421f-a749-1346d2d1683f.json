@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30578",
+    "titel": "Modebild: Dame mit blumengeschmücktem Hut aus Gros de Naples und Kleid aus Gros des Indes",
+    "Datum": "1828",
+    "Thema": [
+        "woman",
+        "(Damen-)Kleid",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "dress, gown",
+        "copricapo",
+        "chapelaria",
+        "被り物",
+        "Mode",
+        "Fashion",
+        "Biedermeier",
+        "Bourgeoisie",
+        "Frau",
+        "Bürgertum",
+        "Modebilder",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49025/511243_default.webp",
+    "id": "2c0f8f25-a268-421f-a749-1346d2d1683f",
+    "Filter": {
+        "Aehnlichkeit": 482,
+        "Farbe": [
+            1689,
+            3519,
+            5020,
+            10031,
+            11056
+        ]
+    }
+}

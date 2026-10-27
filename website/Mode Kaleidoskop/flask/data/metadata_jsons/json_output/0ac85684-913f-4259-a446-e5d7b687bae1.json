@@ -1,0 +1,42 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 31594",
+    "titel": "Modebild: Drei Figuren, Damen- und Herrenreitanzüge",
+    "Datum": "1833",
+    "Thema": [
+        "(Damen-)Kleid",
+        "chapelaria",
+        "copricapo",
+        "coat",
+        "Jacke, Mantel",
+        "couvre-chef",
+        "dress, gown",
+        "被り物",
+        "head-gear",
+        "Kopfbedeckung",
+        "Mann",
+        "Mode",
+        "Modebilder",
+        "Bürgertum",
+        "Dandy, Beau, Geck",
+        "dandy, beau",
+        "Biedermeier",
+        "man",
+        "woman",
+        "fashion plates",
+        "Fashion",
+        "Frau",
+        "Bourgeoisie"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/55359/614467_default.webp",
+    "id": "0ac85684-913f-4259-a446-e5d7b687bae1",
+    "Filter": {
+        "Aehnlichkeit": 715,
+        "Farbe": [
+            528,
+            2152,
+            3899,
+            9395
+        ]
+    }
+}

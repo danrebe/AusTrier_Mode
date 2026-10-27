@@ -1,0 +1,37 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30209",
+    "titel": "Modebild: \"Zwei Pariser Damen in Percal-Kleidern mit blauen und rosa Schuhen\"",
+    "Datum": "1811",
+    "Thema": [
+        "fashion plates",
+        "(Damen-)Kleid",
+        "dress, gown",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Modebilder",
+        "Bürgertum",
+        "Bourgeoisie",
+        "Fashion",
+        "woman",
+        "Mode",
+        "Frau"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47645/1759451_default.webp",
+    "id": "d4a1faf9-eb6d-40e3-8079-0bd7a9c53a86",
+    "Filter": {
+        "Aehnlichkeit": 1277,
+        "Farbe": [
+            1260,
+            4705,
+            6606,
+            8461,
+            9880,
+            10775
+        ]
+    }
+}

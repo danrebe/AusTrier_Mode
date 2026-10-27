@@ -1,0 +1,41 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30191",
+    "titel": "Modebild: \"Damen mit französischem Hut und Perkalkleid\"",
+    "Datum": "1808",
+    "Thema": [
+        "copricapo",
+        "chapelaria",
+        "被り物",
+        "Kopfbedeckung",
+        "dress, gown",
+        "(Damen-)Kleid",
+        "couvre-chef",
+        "head-gear",
+        "neck-gear ~ clothing",
+        "Schal",
+        "Frau",
+        "Fashion",
+        "Bourgeoisie",
+        "Bürgertum",
+        "Modebilder",
+        "Mode",
+        "woman",
+        "fashion plates"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/47618/1759433_default.webp",
+    "accessoires": [
+        "Schal"
+    ],
+    "id": "3105b407-283c-499d-9c08-a54ef40922cb",
+    "Filter": {
+        "Aehnlichkeit": 1289,
+        "Farbe": [
+            926,
+            2864,
+            4442,
+            7409,
+            8365
+        ]
+    }
+}

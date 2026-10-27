@@ -1,0 +1,39 @@
+{
+    "Type": "Metadaten",
+    "Identifikator": "M 30571",
+    "titel": "Modebild: Zwei Herrenanzüge",
+    "Datum": "1828",
+    "Thema": [
+        "chapelaria",
+        "被り物",
+        "Dandy, Beau, Geck",
+        "coat",
+        "Jacke, Mantel",
+        "dandy, beau",
+        "Kopfbedeckung",
+        "head-gear",
+        "couvre-chef",
+        "copricapo",
+        "Mode",
+        "Bürgertum",
+        "Fashion",
+        "Bourgeoisie",
+        "Biedermeier",
+        "Mann",
+        "fashion plates",
+        "Modebilder",
+        "man"
+    ],
+    "URL": "https://sammlung.wienmuseum.at/openapi-images/objects/49000/512279_default.webp",
+    "id": "7f03436f-0c10-4932-982e-2c2d1a0e5752",
+    "Filter": {
+        "Aehnlichkeit": 357,
+        "Farbe": [
+            343,
+            1676,
+            3507,
+            5013,
+            10776
+        ]
+    }
+}
