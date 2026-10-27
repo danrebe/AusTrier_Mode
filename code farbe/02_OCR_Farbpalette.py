@@ -1,107 +1,226 @@
+"""
+Speichert die Farben, die die Wien-Museum-Online-Sammlung zu jedem Bild angibt,
+für alle Modebilder aus dem Kulturpool lokal ab.
+
+Ablauf:
+1. Kulturpool-API: alle Objekte mit edmType = IMAGE und Schlagwort "Modebilder" holen
+   (dieselbe Auswahl wie die Suche auf kulturpool.at, ca. 2021 Bilder).
+2. Für jedes Objekt die Originalseite beim Wien Museum (Feld isShownAt) aufrufen
+   und die dort angegebenen Hex-Farben auslesen.
+3. Farben in results/farben.csv speichern (uuid, wm_objekt_id, inventarnummer, hex, r, g, b).
+
+Das Skript kann jederzeit abgebrochen und neu gestartet werden:
+Objekte, die schon in results/farben.csv stehen, werden übersprungen.
+"""
+
 import os
-import numpy as np
-import cv2
-from sklearn.cluster import KMeans
+import re
+import csv
+import time
+import requests
+from urllib.parse import urljoin
+from tqdm import tqdm
 
-# Globale Variablen für die Farbpalette
-clusters = 5  # Anzahl der Farben in der Palette
-margin = 5    # Abstand zwischen den Farben im Farbbalken
-offset = 0    # Offset für die Anzahl der Cluster
+# --- EINSTELLUNGEN ---
+TEST_LIMIT = None  # Testlauf: nach so vielen Bildern stoppen. None = alle Bilder
+API_URL = "https://api.kulturpool.at/v2/search"
+FILTER = "edmType:=IMAGE && subject:=Modebilder"
 
-def create_colour_palette(image_path, output_folder):
-    # Lesen des Bildes mit OpenCV
-    image = cv2.imread(image_path)
-    if image is None:
-        print(f"\nFehler: Konnte Bild nicht laden oder Datei ist beschädigt: {image_path}")
-        return
+OUTPUT_FOLDER = "results"
+FARBEN_CSV = os.path.join(OUTPUT_FOLDER, "farben.csv")
 
-    # Bild ins RGB-Format konvertieren
-    image_copy = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
+PAUSE_SEKUNDEN = 1.0  # Pause zwischen den Seitenaufrufen beim Wien Museum
 
-    # Umwandeln des Bildes in ein 2D-Array von Pixeln
-    pixelImage = image_copy.reshape((image_copy.shape[0] * image_copy.shape[1], 3))
+HEADERS = {"User-Agent": "Mozilla/5.0 (Farbanalyse Modebilder, Forschungsprojekt)"}
 
-    # Anwenden des Kmeans-Algorithmus, um die Farben zu gruppieren
-    clt = KMeans(n_clusters=clusters + offset, n_init=10)
-    clt.fit(pixelImage)
 
-    # Erstellen des Histogramms der Clusterzentren
-    hist = centroid_histogram(clt)
 
-    # Erstellen des Farbverlaufs für die Farbpalette
-    bar = plot_colors(hist, clt.cluster_centers_)
+# ---------------------------------------------------------------------------
+# 1. Objektliste aus der Kulturpool-API
+# ---------------------------------------------------------------------------
+def objekte_holen():
+    objekte = []
+    seite = 1
+    while True:
+        params = {
+            "q": "*",
+            "filter_by": FILTER,
+            "per_page": 250,  # Maximum der API
+            "page": seite,
+            "include_fields": "uuid,title,identifier,dataProvider,isShownAt",
+            "facet_by": "",   # Facetten abschalten, werden nicht gebraucht
+        }
+        response = requests.get(API_URL, params=params, timeout=60)
+        response.raise_for_status()
+        daten = response.json()
 
-    # Anpassen der Größe des Farbverlaufs
-    bar = cv2.resize(bar, (100, 50))  # Festlegen der Breite auf 100 Pixel und Höhe auf 50 Pixel
+        if seite == 1:
+            print(f"Kulturpool meldet {daten.get('found')} Objekte.")
 
-    # Speichern der Farbpalette im results-Ordner
-    palette_file_path = os.path.join(output_folder, f"{os.path.splitext(os.path.basename(image_path))[0]}_palette.png")
-    cv2.imwrite(palette_file_path, bar)
-    print(f"Farbpalette erfolgreich gespeichert unter: {palette_file_path}")
+        hits = daten.get("hits", [])
+        if not hits:
+            break
+        objekte.extend(hit["document"] for hit in hits)
 
-# Funktion zur Erstellung des Histogramms der Clusterzentren
-def centroid_histogram(clt):
-    numLabels = np.arange(0, len(np.unique(clt.labels_)) + 1)
-    (hist, _) = np.histogram(clt.labels_, bins=numLabels)
-    hist = hist.astype("float")
-    hist /= hist.sum()
-    return hist
+        if len(objekte) >= daten.get("found", 0):
+            break
+        seite += 1
+        time.sleep(0.5)
 
-# Funktion zur Erstellung des Farbverlaufs
-def plot_colors(hist, centroids):
-    bar = np.zeros((50, 300, 3), dtype="uint8")
-    startX = 0
+    print(f"{len(objekte)} Objekte aus der API geladen.")
+    return objekte
 
-    centroids = sorted(centroids, key=lambda x: sum(x))
 
-    excluded_ranges = [ 
-        ((245, 230, 201), (255, 255, 255)) # Grober Ausschluss Hintergrundfarben
-    ]
+# ---------------------------------------------------------------------------
+# 2. Farben von der Wien-Museum-Seite
+# ---------------------------------------------------------------------------
+def farben_aus_html(html):
+    """Liest die Hex-Farben aus den Farbsuche-Links der Objektseite (?colors=%23ce709d)."""
+    hexwerte = re.findall(r"colors=(?:%23|#)([0-9a-fA-F]{6})", html)
+    return list(dict.fromkeys(h.lower() for h in hexwerte))  # Duplikate raus, Reihenfolge bleibt
 
-    # Farben vorab filtern, damit das Layout dynamisch an gültige Farben angepasst wird
-    valid_colors = []
-    for (percent, color) in zip(hist, centroids[offset:]):
-        exclude_color = False
-        for lower_bound, upper_bound in excluded_ranges:
-            if all(lower_bound[i] <= color[i] <= upper_bound[i] for i in range(3)):
-                exclude_color = True
-                break
-        if not exclude_color:
-            valid_colors.append(color)
 
-    num_valid = len(valid_colors)
-    if num_valid == 0:
-        return bar
+def farben_holen(session, url):
+    """
+    Gibt (farben, tatsächlich_gelesene_url) zurück.
+    Kulturpool liefert Kurzadressen wie .../objekt/46971/. Stehen dort keine Farben,
+    wird die vollständige Objektseite (.../objekt/46971-titel-des-bildes/) gesucht und gelesen.
+    """
+    response = session.get(url, headers=HEADERS, timeout=30)
+    response.raise_for_status()
+    farben = farben_aus_html(response.text)
+    if farben:
+        return farben, response.url
 
-    for color in valid_colors:
-        new_length = 300 - margin * (num_valid - 1) if num_valid > 1 else 300
-        endX = startX + new_length / num_valid
-        cv2.rectangle(bar, (int(startX), 0), (int(endX), 50),
-                      color.astype("uint8").tolist(), -1)
-        cv2.rectangle(bar, (int(endX), 0), (int(endX + margin), 50),
-                      (255, 255, 255), -1)
-        startX = endX + margin
+    objekt_id = wm_objekt_id(url)
+    if objekt_id:
+        muster = rf"(?:https?://sammlung\.wienmuseum\.at)?/(?:objekt|en/object)/{objekt_id}-[A-Za-z0-9\-]+/?"
+        treffer = re.search(muster, response.text)
+        if treffer:
+            volle_url = urljoin("https://sammlung.wienmuseum.at/", treffer.group(0))
+            time.sleep(PAUSE_SEKUNDEN)
+            response = session.get(volle_url, headers=HEADERS, timeout=30)
+            response.raise_for_status()
+            farben = farben_aus_html(response.text)
+            if farben:
+                return farben, response.url
 
-    return bar
+    # Für die Fehlersuche: HTML der ersten Seite ohne Farben aufheben
+    debug_pfad = os.path.join(OUTPUT_FOLDER, "debug_seite_ohne_farben.html")
+    if not os.path.exists(debug_pfad):
+        with open(debug_pfad, "w", encoding="utf-8") as f:
+            f.write(response.text)
+    return [], response.url
 
-# Hauptfunktion
+
+def hex_zu_rgb(hexwert):
+    return tuple(int(hexwert[i:i + 2], 16) for i in (0, 2, 4))
+
+
+def wm_objekt_id(url):
+    treffer = re.search(r"/(?:objekt|object)/(\d+)", url)
+    return treffer.group(1) if treffer else ""
+
+
+# ---------------------------------------------------------------------------
+# Fortsetzen nach Abbruch
+# ---------------------------------------------------------------------------
+def erledigte_laden():
+    """Alle Objekte, die schon Farben in farben.csv haben, gelten als erledigt."""
+    erledigt = set()
+    if os.path.exists(FARBEN_CSV):
+        with open(FARBEN_CSV, newline="", encoding="utf-8") as f:
+            for zeile in csv.DictReader(f):
+                erledigt.add(zeile["uuid"])
+    return erledigt
+
+
+def csv_oeffnen(pfad, kopfzeile):
+    neu = not os.path.exists(pfad)
+    f = open(pfad, "a", newline="", encoding="utf-8")
+    writer = csv.writer(f)
+    if neu:
+        writer.writerow(kopfzeile)
+    return f, writer
+
+
+def zaehler_kurz(zaehler):
+    """Kurze Anzeige rechts neben dem Fortschrittsbalken."""
+    return {"ok": zaehler["ok"], "ohne": zaehler["keine_farben"],
+            "fremd": zaehler["kein_wienmuseum_link"], "err": zaehler["fehler"]}
+
+
+# ---------------------------------------------------------------------------
+# Hauptprogramm
+# ---------------------------------------------------------------------------
 def main():
-    # --- HIER DEN PFAD ZU DEINEM BILD ANGEBEN ---
-    image_path = r"ordner\Wien Museum Online Sammlung M 30237.jpg"  # Beispiel: "C:/Bilder/mein_foto.jpg" oder einfach "bild.jpg"
+    os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
-    # Prüfen, ob die Datei existiert
-    if not os.path.exists(image_path):
-        print(f"Fehler: Die Datei '{image_path}' wurde nicht gefunden.")
-        return
+    objekte = objekte_holen()
+    erledigt = erledigte_laden()
+    offen = [d for d in objekte if d["uuid"] not in erledigt]
+    print(f"{len(erledigt)} bereits erledigt, {len(offen)} noch offen.")
+    if TEST_LIMIT:
+        offen = offen[:TEST_LIMIT]
+        print(f"TESTLAUF: Es werden nur {len(offen)} Bilder verarbeitet.")
+    print()
 
-    # Erstellen des Ergebnisordners, falls er nicht existiert
-    output_folder = "results/"
-    if not os.path.exists(output_folder):
-        os.makedirs(output_folder)
+    f_farben, farben_writer = csv_oeffnen(
+        FARBEN_CSV,
+        ["uuid", "wm_objekt_id", "inventarnummer", "hex", "r", "g", "b"],
+    )
 
-    print(f"Starte Farbanalyse für: {image_path}...")
-    create_colour_palette(image_path, output_folder)
-    print("Vorgang abgeschlossen.")
+    zaehler = {"ok": 0, "keine_farben": 0, "kein_wienmuseum_link": 0, "fehler": 0}
+    session = requests.Session()
+    fortschritt = tqdm(offen, desc="Farben laden", unit="Bild")
+
+    try:
+        for i, doc in enumerate(fortschritt, start=1):
+            uuid = doc["uuid"]
+            url = doc.get("isShownAt", "") or ""
+            inventarnummer = "; ".join(doc.get("identifier", []))
+
+            if "wienmuseum.at" not in url:
+                zaehler["kein_wienmuseum_link"] += 1
+                fortschritt.set_postfix(zaehler_kurz(zaehler))
+                continue
+
+            try:
+                farben_hex, gelesene_url = farben_holen(session, url)
+            except requests.RequestException as e:
+                zaehler["fehler"] += 1
+                tqdm.write(f"Fehler: {url} ({e})")
+                fortschritt.set_postfix(zaehler_kurz(zaehler))
+                time.sleep(PAUSE_SEKUNDEN)
+                continue
+
+            if not farben_hex:
+                tqdm.write(f"Keine Farben: {gelesene_url}")
+                zaehler["keine_farben"] += 1
+            else:
+                objekt_id = wm_objekt_id(url)
+                farben_rgb = [hex_zu_rgb(h) for h in farben_hex]
+                for h, (r, g, b) in zip(farben_hex, farben_rgb):
+                    farben_writer.writerow([uuid, objekt_id, inventarnummer, f"#{h}", r, g, b])
+                zaehler["ok"] += 1
+
+            # Sofort auf die Platte schreiben, damit bei Abbruch nichts verloren geht
+            f_farben.flush()
+
+            fortschritt.set_postfix(zaehler_kurz(zaehler))
+            time.sleep(PAUSE_SEKUNDEN)
+
+    except KeyboardInterrupt:
+        tqdm.write("\nAbgebrochen. Beim nächsten Start geht es an dieser Stelle weiter.")
+    finally:
+        fortschritt.close()
+        f_farben.close()
+
+    print(f"\nErgebnis dieses Laufs: {zaehler}")
+    print(f"Farben: {FARBEN_CSV}")
+    if zaehler["fehler"] or zaehler["keine_farben"]:
+        print("Objekte mit Fehler oder ohne Farben werden beim nächsten Start erneut versucht.")
+
 
 if __name__ == "__main__":
     main()
