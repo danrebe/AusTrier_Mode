@@ -11,34 +11,314 @@
 </head>
 
 <body>
+
+    <!-- HEADER -->
     <header class="header">
-        <a href="/" class="logo">
+
+        <a href="/" class="logo" aria-label="Kleid oskop Startseite">
             kleid<span class="logo-line"></span>oskop
         </a>
 
-        <nav class="navigation">
-            <a href="#suche">Suche</a>
+        <nav class="navigation" aria-label="Hauptnavigation">
+
+            <!-- FEATURE DROPDOWN -->
+            <div class="feature-dropdown">
+
+                <button
+                    class="feature-button"
+                    type="button"
+                    aria-expanded="false"
+                    aria-controls="feature-menu">
+                    Feature
+                    <span class="dropdown-arrow">⌄</span>
+                </button>
+
+                <div class="feature-menu" id="feature-menu">
+                    <a href="#farbe">Farbe</a>
+                    <a href="#silhouette">Silhouette</a>
+                    <a href="#accessoires">Accessoires</a>
+                    <a href="#embedding">Embedding</a>
+                </div>
+
+            </div>
+
             <a href="#menue">Menü</a>
+
         </nav>
+
     </header>
 
     <main>
-        <section class="hero">
-            <p class="eyebrow">DIGITALE <span class="highlight">MODESAMMLUNG</span></p>
+
+        <!-- HERO / STARTSEITE -->
+        <section class="hero" id="startseite">
+
+            <p class="eyebrow">
+                DIGITALE
+                <span class="highlight">MODESAMMLUNG</span>
+            </p>
 
             <h1>Mode Kaleidoskop</h1>
 
-            <h2>Historische Mode <span class="italic">entdecken.</span></h2>
+            <h2>
+                Historische Mode
+                <span class="italic">entdecken.</span>
+            </h2>
 
             <p class="description">
-                Entdecke die Geschichte der Mode
-                aus unterschiedlichen Perspektiven.
+                Entdecke die Geschichte der Mode aus
+                unterschiedlichen Perspektiven.
+                Folge Farben, Formen und visuellen
+                Verbindungen durch die Sammlung.
             </p>
 
-            <a href="#sammlung" class="button">
+            <a href="#features" class="button">
                 Sammlung entdecken ↗
             </a>
+
         </section>
+
+
+        <!-- FEATURE ÜBERSICHT -->
+        <section class="features-section" id="features">
+
+            <p class="eyebrow">
+                ENTDECKE DIE FEATURES
+            </p>
+
+            <h2>
+                Ein Kaleidoskop.
+                <span class="italic">Vier Perspektiven.</span>
+            </h2>
+
+            <p class="section-description">
+                Wähle ein Merkmal und entdecke
+                historische Modebilder auf neue Weise.
+            </p>
+
+            <div class="feature-tags">
+                <a href="#farbe" class="feature-tag">#Farbe</a>
+                <a href="#silhouette" class="feature-tag">#Silhouette</a>
+                <a href="#accessoires" class="feature-tag">#Accessoires</a>
+                <a href="#embedding" class="feature-tag">#Embedding</a>
+            </div>
+
+            <div class="features-grid">
+
+                <!-- FARBE -->
+                <article class="feature-card" id="farbe">
+
+                    <div class="card-top">
+                        <span class="feature-number">01 / 04</span>
+                        <span class="feature-status">Daten vorhanden</span>
+                    </div>
+
+                    <div class="color-palette" aria-hidden="true">
+                        <span style="background:#D97979"></span>
+                        <span style="background:#E4AB76"></span>
+                        <span style="background:#E9CF75"></span>
+                        <span style="background:#8DB8A0"></span>
+                        <span style="background:#85ACD2"></span>
+                        <span style="background:#A991C8"></span>
+                    </div>
+
+                    <h3>Farbe</h3>
+
+                    <p>
+                        Entdecke historische Modebilder
+                        durch Farben und Farbpaletten.
+                        Eine Abbildung kann mehrere
+                        Farben enthalten.
+                    </p>
+
+                    <p class="feature-note">
+                        Farbdaten aus der Sammlung verfügbar.
+                    </p>
+
+                </article>
+
+
+                <!-- SILHOUETTE -->
+                <article class="feature-card" id="silhouette">
+
+                    <div class="card-top">
+                        <span class="feature-number">02 / 04</span>
+                        <span class="feature-status pending">
+                            In Vorbereitung
+                        </span>
+                    </div>
+
+                    <div class="feature-symbol" aria-hidden="true">
+                        ◇
+                    </div>
+
+                    <h3>Silhouette</h3>
+
+                    <p>
+                        Entdecke Mode durch ihre Formen,
+                        Schnitte und charakteristischen
+                        Silhouetten.
+                    </p>
+
+                    <p class="feature-note">
+                        Die Klassifikationsdaten werden
+                        noch ergänzt.
+                    </p>
+
+                </article>
+
+
+                <!-- ACCESSOIRES -->
+                <article class="feature-card" id="accessoires">
+
+                    <div class="card-top">
+                        <span class="feature-number">03 / 04</span>
+                        <span class="feature-status pending">
+                            In Vorbereitung
+                        </span>
+                    </div>
+
+                    <div class="feature-symbol" aria-hidden="true">
+                        ✳
+                    </div>
+
+                    <h3>Accessoires</h3>
+
+                    <p>
+                        Entdecke Hüte, Taschen,
+                        Schmuck und weitere modische
+                        Accessoires in historischen Bildern.
+                    </p>
+
+                    <p class="feature-note">
+                        Die Merkmalsdaten werden
+                        noch ergänzt.
+                    </p>
+
+                </article>
+
+
+                <!-- EMBEDDING -->
+                <article class="feature-card" id="embedding">
+
+                    <div class="card-top">
+                        <span class="feature-number">04 / 04</span>
+                        <span class="feature-status">Daten vorhanden</span>
+                    </div>
+
+                    <div class="embedding-visual" aria-hidden="true">
+                        <span class="embedding-dot dot-1"></span>
+                        <span class="embedding-dot dot-2"></span>
+                        <span class="embedding-dot dot-3"></span>
+                        <span class="embedding-dot dot-4"></span>
+                        <span class="embedding-dot dot-5"></span>
+                        <span class="embedding-dot dot-6"></span>
+                    </div>
+
+                    <h3>Embedding</h3>
+
+                    <p>
+                        Entdecke visuell verwandte
+                        Modebilder. Für jedes erfasste
+                        Bild können bis zu fünf ähnliche
+                        Bilder angezeigt werden.
+                    </p>
+
+                    <p class="feature-note">
+                        Vorberechnete Ähnlichkeitsdaten verfügbar.
+                    </p>
+
+                </article>
+
+            </div>
+
+        </section>
+
+
+        <!-- MENÜ / INFORMATION -->
+        <section class="info-section" id="menue">
+
+            <p class="eyebrow">ÜBER DAS PROJEKT</p>
+
+            <h2>
+                Mode aus neuen
+                <span class="italic">Blickwinkeln.</span>
+            </h2>
+
+            <p class="section-description">
+                Das Mode Kaleidoskop lädt dazu ein,
+                digitale Sammlungsobjekte nicht nur
+                über Suchbegriffe, sondern anhand
+                visueller Merkmale zu entdecken.
+            </p>
+
+            <a href="#startseite" class="button">
+                Zurück nach oben ↑
+            </a>
+
+        </section>
+
     </main>
+
+
+    <footer class="footer">
+        <span>kleid—oskop</span>
+        <span>Digitales Mode-Entdeckungsprojekt</span>
+    </footer>
+
+
+    <!-- DROPDOWN INTERACTION -->
+    <script>
+        const featureButton =
+            document.querySelector(".feature-button");
+
+        const featureDropdown =
+            document.querySelector(".feature-dropdown");
+
+        const featureMenu =
+            document.querySelector(".feature-menu");
+
+        featureButton.addEventListener("click", function () {
+            const isOpen =
+                featureDropdown.classList.toggle("open");
+
+            featureButton.setAttribute(
+                "aria-expanded",
+                String(isOpen)
+            );
+        });
+
+        featureMenu.querySelectorAll("a").forEach(function (link) {
+            link.addEventListener("click", function () {
+                featureDropdown.classList.remove("open");
+                featureButton.setAttribute(
+                    "aria-expanded",
+                    "false"
+                );
+            });
+        });
+
+        document.addEventListener("click", function (event) {
+            if (!featureDropdown.contains(event.target)) {
+                featureDropdown.classList.remove("open");
+                featureButton.setAttribute(
+                    "aria-expanded",
+                    "false"
+                );
+            }
+        });
+
+        document.addEventListener("keydown", function (event) {
+            if (event.key === "Escape") {
+                featureDropdown.classList.remove("open");
+                featureButton.setAttribute(
+                    "aria-expanded",
+                    "false"
+                );
+                featureButton.focus();
+            }
+        });
+    </script>
+
 </body>
 </html>
