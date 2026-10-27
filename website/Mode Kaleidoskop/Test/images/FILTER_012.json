@@ -1,0 +1,9 @@
+{
+    "Type": "Filter",
+    "Identifikator": "FILTER_012",
+    "Farbe": {
+        "Tag": "Braun",
+        "Wert": 12.65
+    },
+    "Index": 12
+}
