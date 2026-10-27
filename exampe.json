@@ -1,0 +1,21 @@
+// Indentifikator sollte im Namen enthalten sein, nach klarem schema
+{
+    "Type" : "Metadaten",
+    "Identifikator" : "", 
+    "titel" : "",
+    "Datum" : "",
+    "Ist ein Teil von" : "",
+    "Thema" : "",
+    "Objekttyp" : "",
+    "URL" : "" //URL über die man das Bild laden kann
+}
+
+{
+    "Type" : "Filter",
+    "Identifikator" : "",
+    "Farbe" : {
+        "Tag" : "",
+        "Wert" : "<float>"
+    }
+//weitere Filter in der Form von Farbe
+}
