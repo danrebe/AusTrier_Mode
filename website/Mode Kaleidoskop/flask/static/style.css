@@ -178,3 +178,33 @@ h3, h4, h5, h6 {
         font-size: 18px;
     }
 }
+
+
+/* SANFTES SCROLLEN */
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* ABOUT SECTION */
+
+.about-section {
+    padding: 60px 6%;
+    border-top: 1px solid var(--text);
+    min-height: 250px;
+}
+
+.about-section h2 {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 36px;
+    font-weight: 400;
+    color: var(--highlight);
+    margin: 0 0 24px;
+}
+
+.about-section p {
+    max-width: 650px;
+    font-size: 16px;
+    line-height: 1.7;
+    color: var(--text);
+}
