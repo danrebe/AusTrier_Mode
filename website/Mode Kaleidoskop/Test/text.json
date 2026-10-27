@@ -1,0 +1,162 @@
+[
+  {
+    "Type": "Filter",
+    "Identifikator": "FILTER_001",
+    "Farbe": {
+      "Tag": "Rot",
+      "Wert": 1.0
+    }
+  },
+  {
+    "Type": "Filter",
+    "Identifikator": "FILTER_002",
+    "Farbe": {
+      "Tag": "Gruen",
+      "Wert": 2.5
+    }
+  },
+  {
+    "Type": "Filter",
+    "Identifikator": "FILTER_003",
+    "Farbe": {
+      "Tag": "Blau",
+      "Wert": 3.75
+    }
+  },
+  {
+    "Type": "Filter",
+    "Identifikator": "FILTER_004",
+    "Farbe": {
+      "Tag": "Gelb",
+      "Wert": 4.2
+    }
+  },
+  {
+    "Type": "Filter",
+    "Identifikator": "FILTER_005",
+    "Farbe": {
+      "Tag": "Orange",
+      "Wert": 5.0
+    }
+  },
+  {
+    "Type": "Filter",
+    "Identifikator": "FILTER_006",
+    "Farbe": {
+      "Tag": "Violett",
+      "Wert": 6.35
+    }
+  },
+  {
+    "Type": "Filter",
+    "Identifikator": "FILTER_007",
+    "Farbe": {
+      "Tag": "Schwarz",
+      "Wert": 7.8
+    }
+  },
+  {
+    "Type": "Filter",
+    "Identifikator": "FILTER_008",
+    "Farbe": {
+      "Tag": "Weiss",
+      "Wert": 8.15
+    }
+  },
+  {
+    "Type": "Filter",
+    "Identifikator": "FILTER_009",
+    "Farbe": {
+      "Tag": "Grau",
+      "Wert": 9.0
+    }
+  },
+  {
+    "Type": "Filter",
+    "Identifikator": "FILTER_010",
+    "Farbe": {
+      "Tag": "Pink",
+      "Wert": 10.45
+    }
+  },
+  {
+    "Type": "Filter",
+    "Identifikator": "FILTER_011",
+    "Farbe": {
+      "Tag": "Türkis",
+      "Wert": 11.2
+    }
+  },
+  {
+    "Type": "Filter",
+    "Identifikator": "FILTER_012",
+    "Farbe": {
+      "Tag": "Braun",
+      "Wert": 12.65
+    }
+  },
+  {
+    "Type": "Filter",
+    "Identifikator": "FILTER_013",
+    "Farbe": {
+      "Tag": "Magenta",
+      "Wert": 13.5
+    }
+  },
+  {
+    "Type": "Filter",
+    "Identifikator": "FILTER_014",
+    "Farbe": {
+      "Tag": "Cyan",
+      "Wert": 14.95
+    }
+  },
+  {
+    "Type": "Filter",
+    "Identifikator": "FILTER_015",
+    "Farbe": {
+      "Tag": "Limette",
+      "Wert": 15.3
+    }
+  },
+  {
+    "Type": "Filter",
+    "Identifikator": "FILTER_016",
+    "Farbe": {
+      "Tag": "Indigo",
+      "Wert": 16.75
+    }
+  },
+  {
+    "Type": "Filter",
+    "Identifikator": "FILTER_017",
+    "Farbe": {
+      "Tag": "Koralle",
+      "Wert": 17.1
+    }
+  },
+  {
+    "Type": "Filter",
+    "Identifikator": "FILTER_018",
+    "Farbe": {
+      "Tag": "Gold",
+      "Wert": 18.85
+    }
+  },
+  {
+    "Type": "Filter",
+    "Identifikator": "FILTER_019",
+    "Farbe": {
+      "Tag": "Silber",
+      "Wert": 19.4
+    }
+  },
+  {
+    "Type": "Filter",
+    "Identifikator": "FILTER_020",
+    "Farbe": {
+      "Tag": "Transparent",
+      "Wert": 20.0
+    }
+  }
+]
