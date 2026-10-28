@@ -63,13 +63,11 @@ def sammlungClicked():
     if kategorie == "accessoires":
         urls = im.sucheAccessoires(10)
     else:
-        
         ids = im.getImagebyIndex(index, filterList, 10)
         urls = []
         for uuid in ids:
             url = im.loadImage(uuid)
             urls.append(url)
-    print(urls)
     for i in range(len(urls)):
         bild_laden(urls[i], i)
     
