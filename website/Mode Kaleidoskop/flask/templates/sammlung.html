@@ -59,40 +59,41 @@
         <!-- ZENTRALES KLEIDUNGSSTÜCK -->
         <div class="center-image">
             <img
-                src="{{ url_for('static', filename='images/mode-01.jpg') }}"
+                src="{{ url_for('static', filename='images/mode-11.webp') }}"
                 alt="Zentrales Kleidungsstück">
         </div>
 
         <!-- INNERER RING: 8 BILDER -->
         <div class="image-ring ring-inner">
 
-            {% for i in range(2, 10) %}
+            {% for i in [7, 8, 9, 10, 12, 13, 14, 15] %}
 
             <div
                 class="circle-image"
                 style="--i: {{ loop.index0 }}; --count: {{ loop.length }};">
 
                 <img
-                    src="{{ url_for('static', filename='images/mode-%02d.jpg' % i) }}"
+                    src="{{ url_for('static', filename='images/mode-%02d.webp' % i) }}"
                     alt="Historisches Kleidungsstück">
 
             </div>
 
             {% endfor %}
 
+
         </div>
 
         <!-- ÄUSSERER RING: 12 BILDER -->
         <div class="image-ring ring-outer">
 
-            {% for i in range(10, 22) %}
+            {% for i in [1, 2, 3, 4, 5, 6, 16, 17, 18, 19] %}
 
             <div
                 class="circle-image"
                 style="--i: {{ loop.index0 }}; --count: {{ loop.length }};">
 
                 <img
-                    src="{{ url_for('static', filename='images/mode-%02d.jpg' % i) }}"
+                    src="{{ url_for('static', filename='images/mode-%02d.webp' % i) }}"
                     alt="Historisches Kleidungsstück">
 
             </div>
