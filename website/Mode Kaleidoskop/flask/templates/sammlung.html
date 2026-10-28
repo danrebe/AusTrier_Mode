@@ -8,6 +8,11 @@
 
     <title>kleid____oskop</title>
 
+    <link rel="icon"
+      type="image/png"
+      href="{{ url_for('static', filename='favicon_kleid-oskop.png') }}">
+    
+
     <link rel="stylesheet"
           href="{{ url_for('static', filename='style.css') }}">
 </head>
@@ -40,7 +45,7 @@
                     <a href="/sammlung?kategorie=farbe">Farbe</a>
                     <a href="/sammlung?kategorie=silhouette">Silhouette</a>
                     <a href="/sammlung?kategorie=accessoires">Accessoires</a>
-                    <a href="/sammlung?kategorie=embedding">Embedding</a>
+                    <a href="/sammlung?kategorie=embedding">Ähnlichkeit</a>
                 </div>
 
             </div>
@@ -84,50 +89,45 @@
 
                 <div class="detail-information">
 
-                    <p class="detail-eyebrow">
-                        HISTORISCHE MODESAMMLUNG
-                    </p>
+    <h2 class="detail-heading" id="detailHeading">
+        Kleidungsstück
+    </h2>
 
-                    <h2 class="detail-heading" id="detailHeading">
-                        Kleidungsstück
-                    </h2>
+    <div class="detail-metadata">
 
-                    <!-- FARBPALETTE -->
+        <h3>Metadaten</h3>
 
-                    <div class="detail-color-section">
-                        <span class="detail-label">FARBPALETTE</span>
-                        <div class="detail-colors" id="detailColors"></div>
-                    </div>
+        <p>
+            <strong>Titel</strong>
+            <span id="detailTitle"></span>
+        </p>
 
-                    <!-- METADATEN -->
+        <p>
+            <strong>Datierung</strong>
+            <span id="detailDate"></span>
+        </p>
 
-                    <div class="detail-metadata">
+        <p>
+            <strong>ID</strong>
+            <span id="detailId"></span>
+        </p>
 
-                        <h3>Metadaten</h3>
+        <p>
+            <strong>Themen</strong>
+            <span id="detailThemes"></span>
+        </p>
 
-                        <p>
-                            <strong>Titel</strong>
-                            <span id="detailTitle"></span>
-                        </p>
+        <p>
+            <strong>Rechte</strong>
+            <a href="https://wiki.creativecommons.org/wiki/De:CC0"
+               target="_blank"
+               rel="noopener noreferrer">CC0</a>
+        </p>
 
-                        <p>
-                            <strong>Datierung</strong>
-                            <span id="detailDate"></span>
-                        </p>
+    </div>
 
-                        <p>
-                            <strong>ID</strong>
-                            <span id="detailId"></span>
-                        </p>
+</div>
 
-                        <p>
-                            <strong>Themen</strong>
-                            <span id="detailThemes"></span>
-                        </p>
-
-                    </div>
-
-                </div>
 
             </section>
 
@@ -263,23 +263,21 @@
     const detailDate = document.getElementById("detailDate");
     const detailId = document.getElementById("detailId");
     const detailThemes = document.getElementById("detailThemes");
-    const detailColors = document.getElementById("detailColors");
 
     if (
-        !collectionLayout ||
-        !detailPanel ||
-        !detailClose ||
-        !detailImage ||
-        !detailHeading ||
-        !detailTitle ||
-        !detailDate ||
-        !detailId ||
-        !detailThemes ||
-        !detailColors
-    ) {
-        console.error("[FEHLER] Benötigte HTML-Elemente fehlen.");
-        throw new Error("Die Detailansicht ist unvollständig.");
-    }
+    !collectionLayout ||
+    !detailPanel ||
+    !detailClose ||
+    !detailImage ||
+    !detailHeading ||
+    !detailTitle ||
+    !detailDate ||
+    !detailId ||
+    !detailThemes
+) {
+    console.error("[FEHLER] Benötigte HTML-Elemente fehlen.");
+    throw new Error("Die Detailansicht ist unvollständig.");
+}
 
     const ladeDatenUrl = collectionLayout.dataset.ladeDatenUrl;
     const kategorie = collectionLayout.dataset.kategorie;
@@ -322,7 +320,6 @@
         detailDate.textContent = "–";
         detailId.textContent = imageId;
         detailThemes.textContent = "–";
-        detailColors.replaceChildren();
 
         try {
 
@@ -435,29 +432,6 @@
                 ? themen.join(", ")
                 : String(themen);
 
-            // ==========================================
-            // FARBEN
-            // ==========================================
-
-            detailColors.replaceChildren();
-
-            const farben = daten.Filter?.Farbe ?? [];
-
-            if (Array.isArray(farben)) {
-
-                farben.forEach(farbe => {
-
-                    const swatch = document.createElement("span");
-
-                    swatch.className = "detail-color-swatch";
-                    swatch.title = `Farb-ID: ${farbe}`;
-                    swatch.textContent = String(farbe);
-
-                    detailColors.appendChild(swatch);
-
-                });
-
-            }
 
             // ==========================================
             // LOKALES BILD BEIBEHALTEN

@@ -1537,3 +1537,110 @@ html {
     overflow-wrap: anywhere;
     min-width: 0;
 }
+
+/* Kompakte Detailansicht mit sichtbarem Seitenrand */
+
+.collection-layout {
+    --detail-inset: clamp(16px, 3vw, 48px);
+}
+
+.detail-panel {
+    box-sizing: border-box;
+
+    left: var(--detail-inset);
+    top: 0;
+
+    width: min(
+        760px,
+        calc(100% - var(--detail-inset) - var(--detail-inset))
+    );
+    height: auto;
+    max-height: 78vh;
+    max-height: 78dvh;
+
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 24px;
+
+    padding: 38px 24px 24px;
+    overflow-y: auto;
+
+    /* Beim Schließen auch den linken Abstand ausgleichen */
+    transform: translateX(
+        calc(-100% - var(--detail-inset) - 2px)
+    );
+}
+
+.collection-layout.detail-open .detail-panel {
+    transform: translateX(0);
+}
+
+/* Bild proportional darstellen */
+.detail-panel .detail-image {
+    flex: 1.1;
+    min-width: 0;
+    height: auto;
+    overflow: hidden;
+}
+
+.detail-panel .detail-image img {
+    display: block;
+    width: 100%;
+    height: auto;
+    max-height: 60vh;
+    max-height: 60dvh;
+    object-fit: contain;
+    object-position: center top;
+}
+
+/* Informationen neben dem Bild */
+.detail-panel .detail-information {
+    flex: 1;
+    min-width: 0;
+    gap: 0;
+}
+
+.detail-panel .detail-heading {
+    margin: 0 0 22px;
+    font-size: clamp(24px, 2.2vw, 30px);
+    line-height: 1.2;
+    overflow-wrap: anywhere;
+}
+
+.detail-panel .detail-metadata h3 {
+    margin: 0 0 12px;
+    font-size: 22px;
+}
+
+.detail-panel .detail-metadata p {
+    padding: 9px 0;
+    font-size: 14px;
+}
+
+.detail-panel .detail-metadata a {
+    color: var(--highlight);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+}
+
+/* Kleinere Bildschirme: Bild und Steckbrief untereinander */
+@media (max-width: 700px) {
+    .detail-panel {
+        flex-direction: column;
+        gap: 20px;
+        padding: 38px 18px 20px;
+    }
+
+    .detail-panel .detail-image,
+    .detail-panel .detail-information {
+        flex: none;
+        width: 100%;
+        height: auto;
+    }
+
+    .detail-panel .detail-image img {
+        max-height: 38vh;
+        max-height: 38dvh;
+    }
+}
