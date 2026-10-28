@@ -38,7 +38,7 @@ with open(AUSGABE, "w", newline="", encoding="utf-8") as f:
     writer = csv.writer(f)
     writer.writerow(["thema", "uuid"])
     for thema in REIHENFOLGE:
-        writer.writerow([thema, " | ".join(treffer[thema])])
+        writer.writerow([thema, " , ".join(treffer[thema])])
 
 for thema in REIHENFOLGE:
     print(f"{thema:25} {len(treffer[thema])} Bilder")
