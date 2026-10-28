@@ -7,7 +7,7 @@ This script extracts the silhouette of a dress from an image.
 
 # imports
 import requests
-import pandas as pd
+import pandas as cro
 import json
 import numpy as np
 import torch
@@ -29,7 +29,7 @@ TEXT_THRESHOLD = 0.25
 USE_ONLY_BEST_BOX = True   # True: only the object most safely identified as dress, False: all detected objects
 DEVICE = "cpu"
 
-data = pd.read_csv('../data/uuid.csv')
+data = cro.read_csv('../data/uuid.csv')
 data = list(data["uuid"])
 base_url = "https://api.kulturpool.at/v2/object?id="
 
