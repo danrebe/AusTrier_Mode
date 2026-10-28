@@ -5,6 +5,21 @@ import random
 from pathlib import Path
 import json
 
+def getSpecial(id):
+    special = ["Kind", "Sport", "Verkleidung", "Maskierung"]
+    ordner = Path(__file__).parent.parent / "data" / "metadata_jsons" / "json_output"
+    datei = ordner / f"{id}.json"
+    
+    with open(datei, "r", encoding="utf-8") as f:
+        daten = json.load(f)
+
+    treffer = [element for element in daten["Thema"] if element in special]
+
+    if len(treffer):
+        return treffer[0]
+
+    return "NA"
+    
 
 def getImagebyIndex(index, filter, offset):
     datei = Path(__file__).parent.parent / "data" / "index.json"
@@ -12,16 +27,37 @@ def getImagebyIndex(index, filter, offset):
     with open(datei, "r", encoding="utf-8") as f:
         daten = json.load(f)
 
+
     filterlist = daten["Filter"][filter]
+
+    special = getSpecial(filterlist[index])
+    if special != "NA":
+        if special == "Verkleidung":
+            special = "Maskierung"
+        dateiSpecial = Path(__file__).parent.parent / "data" / f"{special}Filter.json"
+        
+        with open(dateiSpecial, "r", encoding="utf-8") as f:
+            datenSpecial = json.load(f)
+        
+        filterlistSpecial = datenSpecial["Filter"][filter]
+        start = max(0, index - 4)
+        ende = min(len(filterlistSpecial), index + 4 + 1)
+        ergebnis = filterlistSpecial[start:ende]
+
+        startNeu = max(0, index - offset + 4)
+        endeNeu = min(len(filterlist), index + offset + 1 - 4)
+
+        ergebnis = filterlist[startNeu : index] + ergebnis + filterlist[index + 1: endeNeu]
+
+    else:
+        start = max(0, index - offset)
+        ende = min(len(filterlist), index + offset + 1)
+
+        ergebnis = filterlist[start:ende]
 
     ziel_laenge = 2 * offset + 1
 
-    start = max(0, index - offset)
-    ende = min(len(filterlist), index + offset + 1)
-
-    ergebnis = filterlist[start:ende]
-
-    if filter == "Farbe":
+    if filter == "Farbe" or special != "NA":
         ergebnis = list(dict.fromkeys(ergebnis))
 
         while (
@@ -48,6 +84,7 @@ def loadImage(id):
     return daten["URL"]
 
 
+    
 def sucheWeitereAccessoires(wert, anz, eigene_id=None):
     treffer = []
 
