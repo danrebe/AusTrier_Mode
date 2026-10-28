@@ -1526,3 +1526,14 @@ html {
 .section-description {
     white-space: nowrap;
 }
+.feature-heading {
+    gap: 10px;
+    min-width: 0;
+}
+
+.feature-heading h3 {
+    font-size: 28px;
+    white-space: normal;
+    overflow-wrap: anywhere;
+    min-width: 0;
+}
