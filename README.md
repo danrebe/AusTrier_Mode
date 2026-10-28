@@ -1,4 +1,4 @@
-# Mode Kaleidoskop
+# Kleid____doskop
 
 Mode Kaleidoskop ist ein Prototyp, mit dem man historische Modebilder ohne Suchfeld erkunden kann. Ausgangspunkt ist eine von vier Perspektiven: **Farbe**, **Silhouette**, **Accessoires** oder **visuelle Ähnlichkeit (Embedding)**. Die Website zeigt dann eine Reihe von Bildern, die sich in diesem Merkmal schrittweise verändern.
 
