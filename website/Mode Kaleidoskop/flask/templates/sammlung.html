@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="de">
 
@@ -7,7 +6,7 @@
     <meta name="viewport"
           content="width=device-width, initial-scale=1.0">
 
-    <title>Kleidoskop</title>
+    <title>kleid____oskop</title>
 
     <link rel="stylesheet"
           href="{{ url_for('static', filename='style.css') }}">
@@ -17,7 +16,6 @@
 
     <header class="header">
 
-        <!-- Klickbares Logo -->
         <a href="{{ url_for('home') }}"
            class="logo"
            aria-label="Kleidoskop Startseite">
@@ -48,15 +46,64 @@
 
             </div>
 
-            <a href="#about">Menü</a>
+            <a href="#about">About</a>
 
         </nav>
 
     </header>
 
-    <main>
-        <!-- später Inhalte -->
-    </main>
+    <main class="collection-page">
+
+    <div class="collection-stage">
+
+        <!-- ZENTRALES KLEIDUNGSSTÜCK -->
+        <div class="center-image">
+            <img
+                src="{{ url_for('static', filename='images/mode-01.jpg') }}"
+                alt="Zentrales Kleidungsstück">
+        </div>
+
+        <!-- INNERER RING: 8 BILDER -->
+        <div class="image-ring ring-inner">
+
+            {% for i in range(2, 10) %}
+
+            <div
+                class="circle-image"
+                style="--i: {{ loop.index0 }}; --count: {{ loop.length }};">
+
+                <img
+                    src="{{ url_for('static', filename='images/mode-%02d.jpg' % i) }}"
+                    alt="Historisches Kleidungsstück">
+
+            </div>
+
+            {% endfor %}
+
+        </div>
+
+        <!-- ÄUSSERER RING: 12 BILDER -->
+        <div class="image-ring ring-outer">
+
+            {% for i in range(10, 22) %}
+
+            <div
+                class="circle-image"
+                style="--i: {{ loop.index0 }}; --count: {{ loop.length }};">
+
+                <img
+                    src="{{ url_for('static', filename='images/mode-%02d.jpg' % i) }}"
+                    alt="Historisches Kleidungsstück">
+
+            </div>
+
+            {% endfor %}
+
+        </div>
+
+    </div>
+
+</main>
     
     <footer class="footer">
         <span>kleid____oskop</span>

@@ -336,6 +336,13 @@ h6 {
     max-width: 900px;
 }
 
+/* About */
+.section-description {
+    font-size: 15px;
+    line-height: 1.6;
+    color: var(--text);
+}
+
 
 /* ==========================================
    FEATURE HASHTAGS
@@ -754,4 +761,172 @@ h6 {
         animation-duration: 0.01ms !important;
     }
 
+}
+
+
+/* SAMMLUNG */
+
+.collection-page {
+    padding: 60px 4% 0;
+    text-align: center;
+}
+
+.collection-introduction {
+    margin-bottom: 25px;
+}
+
+.collection-intro {
+    font-size: 20px;
+    color: var(--text);
+}
+
+/* KREISFÖRMIGE GALERIE */
+
+.collection-stage {
+    position: relative;
+
+    width: min(100%, 940px);
+    aspect-ratio: 1 / 1;
+
+    margin: 0 auto;
+
+    --radius-inner: clamp(118px, 22vw, 218px);
+    --radius-outer: clamp(210px, 37vw, 370px);
+}
+
+/* ZENTRALES BILD */
+
+.center-image {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+    transform: translate(-50%, -50%);
+
+    width: clamp(105px, 15vw, 170px);
+    aspect-ratio: 1;
+
+    border-radius: 50%;
+    overflow: hidden;
+
+    z-index: 2;
+}
+
+/* ALLE BILDER */
+
+.center-image img,
+.circle-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+/* BILDRINGE */
+
+.image-ring {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+}
+
+/* EINZELNE KREISE */
+
+.circle-image {
+    position: absolute;
+
+    top: 50%;
+    left: 50%;
+
+    width: 110px;
+    aspect-ratio: 1;
+
+    border-radius: 50%;
+    overflow: hidden;
+
+    
+    pointer-events: auto;
+
+    --angle: calc(360deg / var(--count) * var(--i));
+
+    transform:
+        translate(-50%, -50%)
+        rotate(var(--angle))
+        translateY(calc(-1 * var(--radius)))
+        rotate(calc(-1 * var(--angle)));
+}
+
+/* INNERER RING */
+
+.ring-inner {
+    --radius: var(--radius-inner);
+}
+
+.ring-inner .circle-image {
+    width: clamp(70px, 10vw, 110px);
+}
+
+/* ÄUSSERER RING */
+
+.ring-outer {
+    --radius: var(--radius-outer);
+}
+
+.ring-outer .circle-image {
+    width: clamp(58px, 8vw, 88px);
+}
+
+/* HOVER */
+
+.circle-image,
+.center-image {
+    transition: scale 0.3s ease;
+    cursor: pointer;
+}
+
+.circle-image:hover,
+.center-image:hover {
+    scale: 1.2;
+    z-index: 10;
+}
+
+/* ABOUT */
+
+.about-section {
+    padding: 80px 6%;
+    border-top: 1px solid var(--text);
+    text-align: left;
+}
+
+.about-section p {
+    max-width: 700px;
+    font-size: 17px;
+    line-height: 1.7;
+}
+
+/* SANFTES SCROLLEN */
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* MOBILE */
+
+@media (max-width: 650px) {
+
+    .collection-stage {
+        --radius-inner: 118px;
+    }
+
+    .ring-outer {
+        display: none;
+    }
+
+    .ring-inner .circle-image {
+        width: 68px;
+    }
+
+    .center-image {
+        width: 105px;
+    }
 }
