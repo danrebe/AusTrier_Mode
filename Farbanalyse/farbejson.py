@@ -14,7 +14,7 @@ import webcolors
 EINGABE = sys.argv[1] if len(sys.argv) > 1 else "Farbanalyse/farben.csv"
 AUSGABE = sys.argv[2] if len(sys.argv) > 2 else "filter_jsons/farben_filter.json"
 
-
+#Wird nur gebraucht um die hex werte den richtigen Namen zu geben.
 def rgb_zu_lab(r, g, b):
     """sRGB (0–255) -> CIE-Lab (D65)."""
     def lin(c):
