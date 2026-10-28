@@ -13,7 +13,7 @@ with open(AEHNLICHKEITEN_DATEI, "r", encoding="utf-8") as f:
     aehnlichkeiten_dokument = json.load(f)
 
 # UUID -> Liste aller Indizes
-aehnlichkeiten = aehnlichkeiten_dokument["Filter"]["Farbe"]
+aehnlichkeiten = aehnlichkeiten_dokument["Filter"]["Silhouette"]
 id_to_indices = {}
 
 for index, uuid in enumerate(aehnlichkeiten):
@@ -28,7 +28,7 @@ for datei in DATA_DIR.glob("*.json"):
     identifikator = data["id"]
 
     if identifikator in id_to_indices:
-        data.setdefault("Filter", {})["Farbe"] = (
+        data.setdefault("Filter", {})["Silhouette"] = (
             id_to_indices[identifikator]
         )
     else:
