@@ -31,7 +31,6 @@ DEVICE = "cpu"
 
 data = pd.read_csv('../data/uuid.csv')
 data = list(data["uuid"])
-
 base_url = "https://api.kulturpool.at/v2/object?id="
 
 
