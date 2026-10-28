@@ -1,10 +1,10 @@
+
 <!DOCTYPE html>
 <html lang="de">
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <title>kleid____oskop</title>
 
@@ -22,7 +22,6 @@
             kleid<span class="logo-line"></span>oskop
         </a>
 
-        <!-- Navigation -->
         <nav class="navigation" aria-label="Hauptnavigation">
 
             <div class="feature-dropdown">
@@ -38,15 +37,15 @@
                 </button>
 
                 <div class="feature-menu" id="feature-menu">
-                    <a href="#farbe">Farbe</a>
-                    <a href="#silhouette">Silhouette</a>
-                    <a href="#accessoires">Accessoires</a>
-                    <a href="#embedding">Embedding</a>
+                    <a href="/sammlung?kategorie=farbe">Farbe</a>
+                    <a href="/sammlung?kategorie=silhouette">Silhouette</a>
+                    <a href="/sammlung?kategorie=accessoires">Accessoires</a>
+                    <a href="/sammlung?kategorie=embedding">Embedding</a>
                 </div>
 
             </div>
 
-            <a href="#about">About</a>
+            <a href="/#about">About</a>
 
         </nav>
 
@@ -55,87 +54,108 @@
 
     <main class="collection-page">
 
-        <div class="collection-layout" id="collectionLayout">
+        <div
+            class="collection-layout"
+            id="collectionLayout"
+            data-lade-daten-url="{{ url_for('lade_daten') }}"
+            data-kategorie="{{ kategorie }}">
 
             <!-- DETAILANSICHT LINKS -->
-            <section class="detail-panel" id="detailPanel"
-                    aria-hidden="true">
 
-                <button class="detail-close" id="detailClose"
-                        type="button" aria-label="Detailansicht schließen">
+            <section
+                class="detail-panel"
+                id="detailPanel"
+                aria-hidden="true">
+
+                <button
+                    class="detail-close"
+                    id="detailClose"
+                    type="button"
+                    aria-label="Detailansicht schließen">
                     &times;
                 </button>
 
                 <div class="detail-image">
-                    <img id="detailImage" src="" alt="Ausgewähltes Kleidungsstück">
+                    <img
+                        id="detailImage"
+                        src=""
+                        alt="Ausgewähltes Kleidungsstück">
                 </div>
 
-                
-<div class="detail-information">
+                <div class="detail-information">
 
-    <p class="detail-eyebrow">HISTORISCHE MODESAMMLUNG</p>
+                    <p class="detail-eyebrow">
+                        HISTORISCHE MODESAMMLUNG
+                    </p>
 
-    <h2 class="detail-heading">
-        Kleidungsstück
-    </h2>
+                    <h2 class="detail-heading" id="detailHeading">
+                        Kleidungsstück
+                    </h2>
 
-    <!-- FARBPALETTE -->
-    <div class="detail-color-section">
-        <span class="detail-label">FARBPALETTE</span>
-        <div class="detail-colors" id="detailColors"></div>
-    </div>
+                    <!-- FARBPALETTE -->
 
-    <!-- METADATEN -->
-    <div class="detail-metadata">
+                    <div class="detail-color-section">
+                        <span class="detail-label">FARBPALETTE</span>
+                        <div class="detail-colors" id="detailColors"></div>
+                    </div>
 
-        <h3>Metadaten</h3>
+                    <!-- METADATEN -->
 
-        <p>
-            <strong>Titel</strong>
-            <span id="detailTitle"></span>
-        </p>
+                    <div class="detail-metadata">
 
-        <p>
-            <strong>Datierung</strong>
-            <span id="detailDate"></span>
-        </p>
+                        <h3>Metadaten</h3>
 
-        <p>
-            <strong>ID</strong>
-            <span id="detailId"></span>
-        </p>
+                        <p>
+                            <strong>Titel</strong>
+                            <span id="detailTitle"></span>
+                        </p>
 
-        <p>
-            <strong>Themen</strong>
-            <span id="detailThemes"></span>
-        </p>
+                        <p>
+                            <strong>Datierung</strong>
+                            <span id="detailDate"></span>
+                        </p>
 
-    </div>
+                        <p>
+                            <strong>ID</strong>
+                            <span id="detailId"></span>
+                        </p>
 
-</div>
+                        <p>
+                            <strong>Themen</strong>
+                            <span id="detailThemes"></span>
+                        </p>
 
-                
+                    </div>
+
+                </div>
+
             </section>
 
+
             <!-- KALEIDOSKOP -->
+
             <div class="collection-stage" id="collectionStage">
 
                 <!-- ZENTRALES KLEIDUNGSSTÜCK -->
-                <button class="center-image"
+
+                <button
+                    class="center-image"
                     type="button"
-                    data-image-id="10"
+                    data-image-id="9"
                     aria-label="Zentrales Kleidungsstück anzeigen">
 
                     <img
-                        src="{{ url_for('static', filename='images/mode-10.webp') }}"
+                        src="{{ url_for('static', filename='images/mode-09.webp') }}"
                         alt="Zentrales Kleidungsstück">
 
                 </button>
 
+
                 <!-- INNERER RING -->
+
                 <div class="image-ring ring-inner">
 
-                    {% for i in [6, 7, 8, 9, 11, 12, 13, 14] %}
+                    {% for i in [5, 6, 7, 8, 10, 11, 12, 13] %}
 
                     <button
                         class="circle-image"
@@ -144,20 +164,25 @@
                         style="--i: {{ loop.index0 }}; --count: {{ loop.length }};">
 
                         <span class="circle-image-content">
+
                             <img
                                 src="{{ url_for('static', filename='images/mode-%02d.webp' % i) }}"
                                 alt="Historisches Kleidungsstück {{ i }}">
+
                         </span>
 
                     </button>
 
                     {% endfor %}
+
                 </div>
 
+
                 <!-- ÄUSSERER RING -->
+
                 <div class="image-ring ring-outer">
 
-                    {% for i in [0, 1, 2, 3, 4, 5, 15, 16, 17, 18, 19, 20] %}
+                    {% for i in [0, 1, 2, 3, 4, 14, 15, 16, 17, 18] %}
 
                     <button
                         class="circle-image"
@@ -166,106 +191,362 @@
                         style="--i: {{ loop.index0 }}; --count: {{ loop.length }};">
 
                         <span class="circle-image-content">
+
                             <img
                                 src="{{ url_for('static', filename='images/mode-%02d.webp' % i) }}"
                                 alt="Historisches Kleidungsstück {{ i }}">
+
                         </span>
 
                     </button>
 
                     {% endfor %}
+
                 </div>
 
             </div>
-        </div>    
+
+        </div>
+
     </main>
-    
+
+
     <footer class="footer">
         <span>kleid____oskop</span>
         <span>Historische Mode × Digital Humanities</span>
     </footer>
 
+
     <script>
-        const featureButton = document.querySelector(".feature-button");
-        const featureDropdown = document.querySelector(".feature-dropdown");
 
-        featureButton.addEventListener("click", function () {
-            const isOpen = featureDropdown.classList.toggle("open");
-
-            featureButton.setAttribute(
-                "aria-expanded",
-                String(isOpen)
-            );
-        });
-
-        document.addEventListener("click", function (event) {
-            if (!featureDropdown.contains(event.target)) {
-                featureDropdown.classList.remove("open");
-                featureButton.setAttribute("aria-expanded", "false");
-            }
-        });
-        
     // ==========================================
-    // SAMMLUNG: DETAILANSICHT
+    // FEATURE-DROPDOWN
     // ==========================================
+
+    const featureButton = document.querySelector(".feature-button");
+    const featureDropdown = document.querySelector(".feature-dropdown");
+
+    featureButton.addEventListener("click", function () {
+
+        const isOpen = featureDropdown.classList.toggle("open");
+
+        featureButton.setAttribute("aria-expanded", String(isOpen));
+
+    });
+
+    document.addEventListener("click", function (event) {
+
+        if (!featureDropdown.contains(event.target)) {
+
+            featureDropdown.classList.remove("open");
+
+            featureButton.setAttribute("aria-expanded", "false");
+
+        }
+
+    });
+
+
+    // ==========================================
+    // DETAILANSICHT: ELEMENTE
+    // ==========================================
+
+    console.log("[START] Detailansicht-JavaScript wird geladen.");
 
     const collectionLayout = document.getElementById("collectionLayout");
     const detailPanel = document.getElementById("detailPanel");
     const detailClose = document.getElementById("detailClose");
 
     const detailImage = document.getElementById("detailImage");
+    const detailHeading = document.getElementById("detailHeading");
     const detailTitle = document.getElementById("detailTitle");
     const detailDate = document.getElementById("detailDate");
     const detailId = document.getElementById("detailId");
     const detailThemes = document.getElementById("detailThemes");
     const detailColors = document.getElementById("detailColors");
 
+    if (
+        !collectionLayout ||
+        !detailPanel ||
+        !detailClose ||
+        !detailImage ||
+        !detailHeading ||
+        !detailTitle ||
+        !detailDate ||
+        !detailId ||
+        !detailThemes ||
+        !detailColors
+    ) {
+        console.error("[FEHLER] Benötigte HTML-Elemente fehlen.");
+        throw new Error("Die Detailansicht ist unvollständig.");
+    }
 
-    // Detailansicht öffnen
-    function openDetail(button) {
+    const ladeDatenUrl = collectionLayout.dataset.ladeDatenUrl;
+    const kategorie = collectionLayout.dataset.kategorie;
+
+    console.log("[INIT] Flask-URL:", ladeDatenUrl);
+    console.log("[INIT] Kategorie:", kategorie);
+
+
+    // ==========================================
+    // DETAILANSICHT ÖFFNEN UND DATEN LADEN
+    // ==========================================
+
+    async function openDetail(button) {
 
         const imageId = button.dataset.imageId;
         const image = button.querySelector("img");
 
-        // Das angeklickte Bild vergrößert anzeigen
-        detailImage.src = image.src;
-        detailImage.alt = image.alt;
+        console.log("[CLICK] Bild-ID:", imageId);
 
-        // Vorläufige Metadaten für den Frontend-Test
-        detailTitle.textContent = "Historisches Kleidungsstück";
+        if (!imageId || !image) {
+            console.error("[FEHLER] Bild-ID oder Bild fehlt.");
+            return;
+        }
+
+        // WICHTIG:
+        // Das lokale Bild speichern, damit es beim Laden
+        // der Metadaten nicht durch eine API-URL ersetzt wird.
+
+        const localImageSrc = image.src;
+        const localImageAlt = image.alt;
+
+        detailImage.src = localImageSrc;
+        detailImage.alt = localImageAlt;
+
+        collectionLayout.classList.add("detail-open");
+        detailPanel.setAttribute("aria-hidden", "false");
+
+        detailHeading.textContent = "Kleidungsstück";
+        detailTitle.textContent = "Lade Daten …";
         detailDate.textContent = "–";
         detailId.textContent = imageId;
         detailThemes.textContent = "–";
-
-        // Farbfelder vorläufig leeren
         detailColors.replaceChildren();
 
-        // Detailansicht einblenden
-        collectionLayout.classList.add("detail-open");
-        detailPanel.setAttribute("aria-hidden", "false");
+        try {
+
+            if (!ladeDatenUrl) {
+                throw new Error("Die Flask-URL ist nicht definiert.");
+            }
+
+            // GET-Anfrage vorbereiten
+
+            const params = new URLSearchParams();
+
+            params.set("image_id", imageId);
+
+            if (kategorie) {
+                params.set("kategorie", kategorie);
+            }
+
+            const url = `${ladeDatenUrl}?${params.toString()}`;
+
+            console.log("[FETCH] Sende GET-Anfrage:", url);
+
+            const response = await fetch(url, {
+                method: "GET",
+                headers: {
+                    "Accept": "application/json"
+                }
+            });
+
+            const responseText = await response.text();
+
+            console.log("[FETCH] HTTP-Status:", response.status);
+            console.log("[FETCH] Antwort vom Server:", responseText);
+
+            let result;
+
+            try {
+
+                result = JSON.parse(responseText);
+
+            } catch (error) {
+
+                throw new Error(
+                    "Die Serverantwort ist kein gültiges JSON: " +
+                    responseText.slice(0, 300)
+                );
+
+            }
+
+            if (!response.ok) {
+
+                throw new Error(
+                    result.fehler ||
+                    result.error ||
+                    `HTTP-Fehler ${response.status}`
+                );
+
+            }
+
+            if (result.fehler || result.error) {
+
+                throw new Error(result.fehler || result.error);
+
+            }
+
+            // ==========================================
+            // METADATEN AUS DER JSON-ANTWORT
+            // ==========================================
+
+            const daten =
+                result.metadaten ??
+                result.daten ??
+                result.data ??
+                result;
+
+            if (
+                !daten ||
+                typeof daten !== "object" ||
+                Array.isArray(daten)
+            ) {
+                throw new Error(
+                    "Die Serverantwort enthält kein Metadaten-Objekt."
+                );
+            }
+
+            console.log("[ERFOLG] Geladene Metadaten:", daten);
+
+            // TITEL
+
+            const titel = daten.titel ?? "Unbekannt";
+
+            detailHeading.textContent = titel;
+            detailTitle.textContent = titel;
+
+            // DATIERUNG
+
+            detailDate.textContent = daten.Datum ?? "–";
+
+            // IDENTIFIKATOR
+
+            detailId.textContent =
+                daten.Identifikator ??
+                daten.id ??
+                imageId;
+
+            // THEMEN
+
+            const themen = daten.Thema ?? [];
+
+            detailThemes.textContent = Array.isArray(themen)
+                ? themen.join(", ")
+                : String(themen);
+
+            // ==========================================
+            // FARBEN
+            // ==========================================
+
+            detailColors.replaceChildren();
+
+            const farben = daten.Filter?.Farbe ?? [];
+
+            if (Array.isArray(farben)) {
+
+                farben.forEach(farbe => {
+
+                    const swatch = document.createElement("span");
+
+                    swatch.className = "detail-color-swatch";
+                    swatch.title = `Farb-ID: ${farbe}`;
+                    swatch.textContent = String(farbe);
+
+                    detailColors.appendChild(swatch);
+
+                });
+
+            }
+
+            // ==========================================
+            // LOKALES BILD BEIBEHALTEN
+            // ==========================================
+
+            detailImage.src = localImageSrc;
+            detailImage.alt = localImageAlt;
+
+            console.log(
+                "[ERFOLG] Metadaten geladen. Lokales Bild bleibt erhalten."
+            );
+
+        } catch (error) {
+
+            console.error("[FEHLER] Detailansicht:", error);
+
+            // Auch bei einem Fetch-Fehler das lokale Bild behalten.
+
+            detailImage.src = localImageSrc;
+            detailImage.alt = localImageAlt;
+
+            detailHeading.textContent = "Fehler beim Laden";
+            detailTitle.textContent =
+                "Daten konnten nicht geladen werden";
+
+            detailDate.textContent = "–";
+            detailThemes.textContent = error.message;
+
+        }
+
     }
 
 
-    // Klicks auf die Bilder
-    document.querySelectorAll(".circle-image, .center-image")
-    .forEach(button => {
+    // ==========================================
+    // KLICK-HANDLER REGISTRIEREN
+    // ==========================================
+
+    const imageButtons = document.querySelectorAll(
+        ".circle-image, .center-image"
+    );
+
+    console.log(
+        "[INIT] Gefundene Kleidungsstück-Buttons:",
+        imageButtons.length
+    );
+
+    imageButtons.forEach(button => {
 
         button.addEventListener("click", function () {
+
             openDetail(this);
+
         });
 
     });
 
 
-    // Detailansicht schließen
+    // ==========================================
+    // DETAILANSICHT SCHLIESSEN
+    // ==========================================
+
     detailClose.addEventListener("click", function () {
 
         collectionLayout.classList.remove("detail-open");
+
         detailPanel.setAttribute("aria-hidden", "true");
 
     });
 
+
+    // ESC-TASTE ZUM SCHLIESSEN
+
+    document.addEventListener("keydown", function (event) {
+
+        if (event.key === "Escape") {
+
+            collectionLayout.classList.remove("detail-open");
+
+            detailPanel.setAttribute("aria-hidden", "true");
+
+        }
+
+    });
+
+
+    console.log("[START] Event-Handler erfolgreich registriert.");
+
     </script>
 
 </body>
+
 </html>

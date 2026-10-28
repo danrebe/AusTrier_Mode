@@ -3,7 +3,7 @@ from pathlib import Path
 
 PROJEKT_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = PROJEKT_DIR / "data"
-datei = DATA_DIR / "aehnlichkeiten_embeddings copy.json"
+datei = DATA_DIR / "distanceList.json"
 
 with open(datei, "r", encoding="utf-8") as file:
     data = json.load(file)
@@ -38,7 +38,7 @@ while aktuelle_id is not None:
     ]
 
     if kandidaten:
-        aktuelle_id = max(kandidaten, key=lambda x: x[1])[0]
+        aktuelle_id = min(kandidaten, key=lambda x: x[1])[0]
     else:
         aktuelle_id = next(
             (
@@ -61,7 +61,7 @@ else:
     config = {}
 
 # Sortierte IDs hinzufügen
-config["Aehnlichkeiten"] = sortierte_ids
+config["Silhouette"] = sortierte_ids
 
 # Config speichern
 with config_file.open("w", encoding="utf-8") as file:

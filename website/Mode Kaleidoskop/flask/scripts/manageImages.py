@@ -21,7 +21,7 @@ def getSpecial(id):
     return "NA"
     
 
-def getImagebyIndex(index, filter, offset):
+def getImagebyIndex(index, filter, offset, id = None):
     datei = Path(__file__).parent.parent / "data" / "index.json"
 
     with open(datei, "r", encoding="utf-8") as f:
@@ -55,24 +55,13 @@ def getImagebyIndex(index, filter, offset):
 
         ergebnis = filterlist[start:ende]
 
-    ziel_laenge = 2 * offset + 1
+    if id:
+        start = max(0, index - offset)
+        ende = min(len(filterlist), index + offset + 1)
+        ergebnis = ergebnis = filterlist[start : index] + [id] + filterlist[index + 1: ende]
+        print(ergebnis)
 
-    if filter == "Farbe" or special != "NA":
-        ergebnis = list(dict.fromkeys(ergebnis))
-
-        while (
-            len(ergebnis) < ziel_laenge
-            and (start > 0 or ende < len(filterlist))
-        ):
-            if start > 0:
-                start -= 1
-
-            if ende < len(filterlist):
-                ende += 1
-
-            ergebnis = list(dict.fromkeys(filterlist[start:ende]))
-
-    return ergebnis[:ziel_laenge]
+    return ergebnis
 
 def loadImage(id):
     ordner = Path(__file__).parent.parent / "data" / "metadata_jsons" / "json_output"
@@ -83,6 +72,14 @@ def loadImage(id):
 
     return daten["URL"]
 
+def loadImagefull(id):
+    ordner = Path(__file__).parent.parent / "data" / "metadata_jsons" / "json_output"
+    datei = ordner / f"{id}.json"
+
+    with open(datei, "r", encoding="utf-8") as f:
+        daten = json.load(f)
+
+    return daten
 
     
 def sucheWeitereAccessoires(wert, anz, eigene_id=None):
