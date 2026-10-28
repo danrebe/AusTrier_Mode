@@ -52,59 +52,133 @@
 
     </header>
 
+
     <main class="collection-page">
 
-    <div class="collection-stage">
+        <div class="collection-layout" id="collectionLayout">
 
-        <!-- ZENTRALES KLEIDUNGSSTÜCK -->
-        <div class="center-image">
-            <img
-                src="{{ url_for('static', filename='images/mode-11.webp') }}"
-                alt="Zentrales Kleidungsstück">
-        </div>
+            <!-- DETAILANSICHT LINKS -->
+            <section class="detail-panel" id="detailPanel"
+                    aria-hidden="true">
 
-        <!-- INNERER RING: 8 BILDER -->
-        <div class="image-ring ring-inner">
+                <button class="detail-close" id="detailClose"
+                        type="button" aria-label="Detailansicht schließen">
+                    &times;
+                </button>
 
-            {% for i in [7, 8, 9, 10, 12, 13, 14, 15] %}
+                <div class="detail-image">
+                    <img id="detailImage" src="" alt="Ausgewähltes Kleidungsstück">
+                </div>
 
-            <div
-                class="circle-image"
-                style="--i: {{ loop.index0 }}; --count: {{ loop.length }};">
+                
+<div class="detail-information">
 
-                <img
-                    src="{{ url_for('static', filename='images/mode-%02d.webp' % i) }}"
-                    alt="Historisches Kleidungsstück">
+    <p class="detail-eyebrow">HISTORISCHE MODESAMMLUNG</p>
 
-            </div>
+    <h2 class="detail-heading">
+        Kleidungsstück
+    </h2>
 
-            {% endfor %}
+    <!-- FARBPALETTE -->
+    <div class="detail-color-section">
+        <span class="detail-label">FARBPALETTE</span>
+        <div class="detail-colors" id="detailColors"></div>
+    </div>
 
+    <!-- METADATEN -->
+    <div class="detail-metadata">
 
-        </div>
+        <h3>Metadaten</h3>
 
-        <!-- ÄUSSERER RING: 12 BILDER -->
-        <div class="image-ring ring-outer">
+        <p>
+            <strong>Titel</strong>
+            <span id="detailTitle"></span>
+        </p>
 
-            {% for i in [1, 2, 3, 4, 5, 6, 16, 17, 18, 19] %}
+        <p>
+            <strong>Datierung</strong>
+            <span id="detailDate"></span>
+        </p>
 
-            <div
-                class="circle-image"
-                style="--i: {{ loop.index0 }}; --count: {{ loop.length }};">
+        <p>
+            <strong>ID</strong>
+            <span id="detailId"></span>
+        </p>
 
-                <img
-                    src="{{ url_for('static', filename='images/mode-%02d.webp' % i) }}"
-                    alt="Historisches Kleidungsstück">
-
-            </div>
-
-            {% endfor %}
-
-        </div>
+        <p>
+            <strong>Themen</strong>
+            <span id="detailThemes"></span>
+        </p>
 
     </div>
 
-</main>
+</div>
+
+                
+            </section>
+
+            <!-- KALEIDOSKOP -->
+            <div class="collection-stage" id="collectionStage">
+
+                <!-- ZENTRALES KLEIDUNGSSTÜCK -->
+                <button class="center-image"
+                    type="button"
+                    data-image-id="10"
+                    aria-label="Zentrales Kleidungsstück anzeigen">
+
+                    <img
+                        src="{{ url_for('static', filename='images/mode-10.webp') }}"
+                        alt="Zentrales Kleidungsstück">
+
+                </button>
+
+                <!-- INNERER RING -->
+                <div class="image-ring ring-inner">
+
+                    {% for i in [6, 7, 8, 9, 11, 12, 13, 14] %}
+
+                    <button
+                        class="circle-image"
+                        type="button"
+                        data-image-id="{{ i }}"
+                        style="--i: {{ loop.index0 }}; --count: {{ loop.length }};">
+
+                        <span class="circle-image-content">
+                            <img
+                                src="{{ url_for('static', filename='images/mode-%02d.webp' % i) }}"
+                                alt="Historisches Kleidungsstück {{ i }}">
+                        </span>
+
+                    </button>
+
+                    {% endfor %}
+                </div>
+
+                <!-- ÄUSSERER RING -->
+                <div class="image-ring ring-outer">
+
+                    {% for i in [0, 1, 2, 3, 4, 5, 15, 16, 17, 18, 19, 20] %}
+
+                    <button
+                        class="circle-image"
+                        type="button"
+                        data-image-id="{{ i }}"
+                        style="--i: {{ loop.index0 }}; --count: {{ loop.length }};">
+
+                        <span class="circle-image-content">
+                            <img
+                                src="{{ url_for('static', filename='images/mode-%02d.webp' % i) }}"
+                                alt="Historisches Kleidungsstück {{ i }}">
+                        </span>
+
+                    </button>
+
+                    {% endfor %}
+                </div>
+
+            </div>
+        </div>    
+    </main>
     
     <footer class="footer">
         <span>kleid____oskop</span>
@@ -130,6 +204,67 @@
                 featureButton.setAttribute("aria-expanded", "false");
             }
         });
+        
+    // ==========================================
+    // SAMMLUNG: DETAILANSICHT
+    // ==========================================
+
+    const collectionLayout = document.getElementById("collectionLayout");
+    const detailPanel = document.getElementById("detailPanel");
+    const detailClose = document.getElementById("detailClose");
+
+    const detailImage = document.getElementById("detailImage");
+    const detailTitle = document.getElementById("detailTitle");
+    const detailDate = document.getElementById("detailDate");
+    const detailId = document.getElementById("detailId");
+    const detailThemes = document.getElementById("detailThemes");
+    const detailColors = document.getElementById("detailColors");
+
+
+    // Detailansicht öffnen
+    function openDetail(button) {
+
+        const imageId = button.dataset.imageId;
+        const image = button.querySelector("img");
+
+        // Das angeklickte Bild vergrößert anzeigen
+        detailImage.src = image.src;
+        detailImage.alt = image.alt;
+
+        // Vorläufige Metadaten für den Frontend-Test
+        detailTitle.textContent = "Historisches Kleidungsstück";
+        detailDate.textContent = "–";
+        detailId.textContent = imageId;
+        detailThemes.textContent = "–";
+
+        // Farbfelder vorläufig leeren
+        detailColors.replaceChildren();
+
+        // Detailansicht einblenden
+        collectionLayout.classList.add("detail-open");
+        detailPanel.setAttribute("aria-hidden", "false");
+    }
+
+
+    // Klicks auf die Bilder
+    document.querySelectorAll(".circle-image, .center-image")
+    .forEach(button => {
+
+        button.addEventListener("click", function () {
+            openDetail(this);
+        });
+
+    });
+
+
+    // Detailansicht schließen
+    detailClose.addEventListener("click", function () {
+
+        collectionLayout.classList.remove("detail-open");
+        detailPanel.setAttribute("aria-hidden", "true");
+
+    });
+
     </script>
 
 </body>
