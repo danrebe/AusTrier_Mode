@@ -3,27 +3,30 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <title>kleid_____oskop</title>
+
+    <link rel="icon"
+      type="image/png"
+      href="{{ url_for('static', filename='favicon_kleid-oskop.png') }}">
 
     <link rel="stylesheet"
           href="{{ url_for('static', filename='style.css') }}">
+
 </head>
 
 <body>
 
     <!-- HEADER -->
-     
     <header class="header">
-
-        <a href="/" class="logo" aria-label="Kleid-oskop Startseite">
+        <a href="/"
+           class="logo"
+           aria-label="Kleid-oskop Startseite">
             kleid<span class="logo-line"></span>oskop
         </a>
 
         <nav class="navigation" aria-label="Hauptnavigation">
-
-            <!-- FEATURE DROPDOWN -->
             <div class="feature-dropdown">
-
                 <button
                     class="feature-button"
                     type="button"
@@ -37,245 +40,204 @@
                     <a href="/sammlung?kategorie=farbe">Farbe</a>
                     <a href="/sammlung?kategorie=silhouette">Silhouette</a>
                     <a href="/sammlung?kategorie=accessoires">Accessoires</a>
-                    <a href="/sammlung?kategorie=embedding">Embedding</a>
+                    <a href="/sammlung?kategorie=embedding">Ähnlichkeit</a>
                 </div>
-
             </div>
 
             <a href="#about">About</a>
-
         </nav>
-
     </header>
 
     <main>
 
         <!-- HERO / STARTSEITE -->
         <section class="hero" id="startseite">
+            <div class="hero-content">
 
-            <p class="eyebrow">
-                DIGITALE
-                <span class="highlight">MODESAMMLUNG</span>
-            </p>
+                <h1>kleid____oskop</h1>
 
-            <h1>Mode Kaleidoskop</h1>
+                <h2>
+                    Historische Mode entdecken.
+                </h2>
 
-            <h2>
-                Historische Mode
-                <span class="italic">entdecken.</span>
-            </h2>
+                <p class="description">
+                    Stöbere durch die Sammlung der Druckgrafiken des Wien Museums <br>und folge den Trends des 18. und 19. Jahrhunderts.
+                </p>
 
-            <p class="description">
-                Entdecke die Geschichte der Mode aus
-                unterschiedlichen Perspektiven.
-                Folge Farben, Formen und visuellen
-                Verbindungen durch die Sammlung.
-            </p>
-           <a href="/sammlung?kategorie=random" class="button">
-                Sammlung entdecken ↗
-            </a>
+                <a href="/sammlung?kategorie=random" class="button">
+                    Sammlung entdecken ↗
+                </a>
+            </div>
 
+            <!-- Großes Bild rechts -->
+            <div class="hero-art" aria-hidden="true">
+                <img
+                    src="{{ url_for('static', filename='dame_mit_kleid.png') }}"
+                    alt=""
+                    decoding="async">
+            </div>
         </section>
 
-
-        <!-- FEATURE ÜBERSICHT -->
+        <!-- VIER PERSPEKTIVEN -->
         <section class="features-section" id="features">
-
-            <p class="eyebrow">
-                ENTDECKE DIE FEATURES
-            </p>
+            
 
             <h2>
                 Ein Kaleidoskop.
-                <span class="italic">Vier Perspektiven.</span>
+                Vier Perspektiven.
             </h2>
 
-            <p class="section-description">
-                Wähle ein Merkmal und entdecke
-                historische Modebilder auf neue Weise.
+            <p class="description">
+               Folge Farben, Formen und visuellen Verbindungen durch die Sammlung.
+               <br> Wähle ein merkmal und beginne deine Reise.
             </p>
+            
 
             <div class="features-grid">
 
                 <!-- FARBE -->
-                <a href="/sammlung?kategorie=farbe" class="feature-card-link">
-                <article class="feature-card" id="farbe">
+                <a href="/sammlung?kategorie=farbe"
+                   class="feature-card-link">
+                    <article class="feature-card" id="farbe">
+    <div class="feature-heading">
+        <span
+            class="perspective-image"
+            style="--icon: url('{{ url_for('static', filename='Farbe.png') }}');"
+            aria-hidden="true"></span>
 
-                    <div class="card-top">
-                        <span class="feature-number">01 / 04</span>
-                        <span class="feature-status">Daten vorhanden</span>
-                    </div>
+        <h3>Farbe</h3>
+    </div>
 
-                    <div class="color-palette" aria-hidden="true">
-                        <span style="background:#D97979"></span>
-                        <span style="background:#E4AB76"></span>
-                        <span style="background:#E9CF75"></span>
-                        <span style="background:#8DB8A0"></span>
-                        <span style="background:#85ACD2"></span>
-                        <span style="background:#A991C8"></span>
-                    </div>
-
-                    <h3>Farbe</h3>
-
-                    <p>
-                        Entdecke historische Modebilder
-                        durch Farben und Farbpaletten.
-                        Eine Abbildung kann mehrere
-                        Farben enthalten.
-                    </p>
-
-                    <p class="feature-note">
-                        Farbdaten aus der Sammlung verfügbar.
-                    </p>
-
-                </article>
+                        <p>
+                            <br>Entdecke die Sammlung anhand von Farben.
+                        </p>
+                    </article>
                 </a>
 
                 <!-- SILHOUETTE -->
-                <a href="/sammlung?kategorie=silhouette" class="feature-card-link">
-                <article class="feature-card" id="silhouette">
+                <a href="/sammlung?kategorie=silhouette"
+                   class="feature-card-link">
+                    <article class="feature-card" id="silhouette">
+    <div class="feature-heading">
+        <span
+            class="perspective-image"
+            style="--icon: url('{{ url_for('static', filename='Silhouette.png') }}');"
+            aria-hidden="true"></span>
 
-                    <div class="card-top">
-                        <span class="feature-number">02 / 04</span>
-                        <span class="feature-status pending">
-                            In Vorbereitung
-                        </span>
-                    </div>
+        <h3>Silhouette</h3>
+    </div>
 
-                    <div class="feature-symbol" aria-hidden="true">
-                        ◇
-                    </div>
-
-                    <h3>Silhouette</h3>
-
-                    <p>
-                        Entdecke Mode durch ihre Formen,
-                        Schnitte und charakteristischen
-                        Silhouetten.
-                    </p>
-
-                    <p class="feature-note">
-                        Die Klassifikationsdaten werden
-                        noch ergänzt.
-                    </p>
-
-                </article>
+                        <p>
+                            <br>Sichte Kleider mit ähnlichen Formen und Schnitten.
+                        </p>
+                    </article>
                 </a>
 
                 <!-- ACCESSOIRES -->
-                <a href="/sammlung?kategorie=accessoires" class="feature-card-link">
-                <article class="feature-card" id="accessoires">
+                <a href="/sammlung?kategorie=accessoires"
+                   class="feature-card-link">
+                    <article class="feature-card" id="accessoires">
+    <div class="feature-heading">
+        <span
+            class="perspective-image"
+            style="--icon: url('{{ url_for('static', filename='Accessories.png') }}');"
+            aria-hidden="true"></span>
+    
 
-                    <div class="card-top">
-                        <span class="feature-number">03 / 04</span>
-                        <span class="feature-status pending">
-                            In Vorbereitung
-                        </span>
-                    </div>
-
-                    <div class="feature-symbol" aria-hidden="true">
-                        ✳
-                    </div>
-
-                    <h3>Accessoires</h3>
-
-                    <p>
-                        Entdecke Hüte, Taschen,
-                        Schmuck und weitere modische
-                        Accessoires in historischen Bildern.
-                    </p>
-
-                    <p class="feature-note">
-                        Die Merkmalsdaten werden
-                        noch ergänzt.
-                    </p>
-
-                </article>
+                        <h3>Accessoires</h3>
+</div>
+                        <p>
+                            <br>Muff, Stock, Schirm und Hut. Betrachte historische Accessoires.
+                        </p>
+                    </article>
                 </a>
 
                 <!-- EMBEDDING -->
-                <a href="/sammlung?kategorie=embedding" class="feature-card-link">
-                <article class="feature-card" id="embedding">
+                <a href="/sammlung?kategorie=embedding"
+                   class="feature-card-link">
+                    <article class="feature-card" id="embedding">
+                    
 
-                    <div class="card-top">
-                        <span class="feature-number">04 / 04</span>
-                        <span class="feature-status">Daten vorhanden</span>
-                    </div>
-
-                    <div class="embedding-visual" aria-hidden="true">
-                        <span class="embedding-dot dot-1"></span>
-                        <span class="embedding-dot dot-2"></span>
-                        <span class="embedding-dot dot-3"></span>
-                        <span class="embedding-dot dot-4"></span>
-                        <span class="embedding-dot dot-5"></span>
-                        <span class="embedding-dot dot-6"></span>
-                    </div>
-
-                    <h3>Embedding</h3>
-
-                    <p>
-                        Entdecke visuell verwandte
-                        Modebilder. Für jedes erfasste
-                        Bild können bis zu fünf ähnliche
-                        Bilder angezeigt werden.
-                    </p>
-
-                    <p class="feature-note">
-                        Vorberechnete Ähnlichkeitsdaten verfügbar.
-                    </p>
-
-                </article>
+    <div class="feature-heading">
+        <span
+            class="perspective-image"
+            style="--icon: url('{{ url_for('static', filename='Embedding.png') }}');"
+            aria-hidden="true"></span>
+    
+                        <h3>Ähnlichkeit</h3>
+</div>
+                        <p>
+                            <br>Finde visuell verwandte Modebilder basierend auf mathematischen Ähnlichkeiten.
+                        </p>
+                    </article>
                 </a>
-            </div>
 
+            </div>
         </section>
 
-
-        <!-- MENÜ / INFORMATION -->
+        <!-- ÜBER DAS PROJEKT -->
         <section class="info-section" id="about">
 
-            <p class="eyebrow">ÜBER DAS PROJEKT</p>
-
             <h2>
-                Mode aus neuen
-                <span class="italic">Blickwinkeln.</span>
+                Über das Projekt
             </h2>
 
             <p class="section-description">
-                Das <span class="highlight">kleid____oskop</span> ist ein im Rahmen des Hackathons "Hack the Pool 2026" entstandenes Projekt. Vom 27. - 28. Oktober 2026 arbeiteten daran: Violetta Binz¹, Naemi Bürger¹, Helene Christ², Yongshi "Esther" Chen¹³, Rebecca Daniel¹, Nele Mantaj¹, Bianca Ottenberg¹ & Carina Zander¹.
-
-            <br/>¹Universität Trier ²Universität Wien ³ 
+                Das <span class="highlight">kleid____oskop</span>
+                ist ein im Rahmen des Hackathons
+                "Hack the Pool 2026" entstandenes Projekt.<br> 
+                Es soll die Betrachtung von historischer Mode aus neuen Blickwinkeln ermöglichen.<br><br>
+                Vom 27. - 28. Oktober 2026 arbeiteten daran:<br>
+                Violetta Binz¹, Naemi Bürger¹, Helene Christ²,
+                Yongshi "Esther" Chen²³, Rebecca Daniel¹,
+                <br>Nele Mantaj¹, Bianca Ottenberg¹ &amp; Carina Zander¹.
+                <br><br><br>
+                ¹Universität Trier ²Universität Wien ³
             </p>
 
             <a href="/" class="button">
                 Zurück nach oben ↑
             </a>
-
         </section>
 
     </main>
-
 
     <footer class="footer">
         <span>kleid____oskop</span>
         <span>Historische Mode × Digital Humanities</span>
     </footer>
 
-
-    <!-- DROPDOWN INTERACTION -->
     <script>
-        const featureButton =
-            document.querySelector(".feature-button");
+        // Highlight-Textfarbe aus style.css für die Icons übernehmen.
+        function updateIconColor() {
+            const highlight = document.querySelector(".highlight");
 
-        const featureDropdown =
-            document.querySelector(".feature-dropdown");
+            if (highlight) {
+                const color = getComputedStyle(highlight).color;
 
-        const featureMenu =
-            document.querySelector(".feature-menu");
+                document.documentElement.style.setProperty(
+                    "--perspective-icon-color",
+                    color
+                );
+            }
+        }
+
+        updateIconColor();
+        window.addEventListener("load", updateIconColor);
+        window.addEventListener("resize", updateIconColor);
+
+        // Feature-Dropdown
+        const featureButton = document.querySelector(".feature-button");
+        const featureDropdown = document.querySelector(".feature-dropdown");
+        const featureMenu = document.querySelector(".feature-menu");
+
+        function closeFeatureMenu() {
+            featureDropdown.classList.remove("open");
+            featureButton.setAttribute("aria-expanded", "false");
+        }
 
         featureButton.addEventListener("click", function () {
-            const isOpen =
-                featureDropdown.classList.toggle("open");
+            const isOpen = featureDropdown.classList.toggle("open");
 
             featureButton.setAttribute(
                 "aria-expanded",
@@ -284,57 +246,43 @@
         });
 
         featureMenu.querySelectorAll("a").forEach(function (link) {
-            link.addEventListener("click", function () {
-                featureDropdown.classList.remove("open");
-                featureButton.setAttribute(
-                    "aria-expanded",
-                    "false"
-                );
-            });
+            link.addEventListener("click", closeFeatureMenu);
         });
 
         document.addEventListener("click", function (event) {
             if (!featureDropdown.contains(event.target)) {
-                featureDropdown.classList.remove("open");
-                featureButton.setAttribute(
-                    "aria-expanded",
-                    "false"
-                );
+                closeFeatureMenu();
             }
         });
 
         document.addEventListener("keydown", function (event) {
-            if (event.key === "Escape") {
-                featureDropdown.classList.remove("open");
-                featureButton.setAttribute(
-                    "aria-expanded",
-                    "false"
-                );
+            if (
+                event.key === "Escape" &&
+                featureDropdown.classList.contains("open")
+            ) {
+                closeFeatureMenu();
                 featureButton.focus();
             }
         });
-    
-   
-async function sammlungClicked(kategorie) {
-    console.log("JavaScript gestartet:", kategorie);
 
-    const response = await fetch("/sammlung", {
-        method: "POST",
-        headers: {
-            "Content-Type": "application/json"
-        },
-        body: JSON.stringify({
-            kategorie: kategorie
-        })
-    });
+        async function sammlungClicked(kategorie) {
+            console.log("JavaScript gestartet:", kategorie);
 
-    console.log("HTTP-Status:", response.status);
+            const response = await fetch("/sammlung", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({
+                    kategorie: kategorie
+                })
+            });
 
-    const result = await response.text();
-    console.log("Antwort:", result);
-}
+            console.log("HTTP-Status:", response.status);
 
-
+            const result = await response.text();
+            console.log("Antwort:", result);
+        }
     </script>
 
 </body>
