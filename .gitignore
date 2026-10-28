@@ -1,6 +1,6 @@
 /exclude_folder
 /website/Mode Kaleidoskop/flask/scripts/__pycache__
 /website/Mode Kaleidoskop/.vscode
-/website/Mode Kaleidoskop/flask/data/images/*.webp
+/website/Mode Kaleidoskop/flask/static/images/*.webp
 .idea
 .vscode
