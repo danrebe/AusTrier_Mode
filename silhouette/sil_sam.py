@@ -93,7 +93,7 @@ for i in range(masks.shape[0]):
 
 # 3) Ergebnisse speichern
 silhouette = Image.fromarray((final_mask * 255).astype(np.uint8))
-silhouette.save("silhouette.png")
+silhouette.save("silhouette_old.png")
 
 rgba = np.dstack([np.array(image), (final_mask * 255).astype(np.uint8)])
 Image.fromarray(rgba, "RGBA").save("cutout.png")
@@ -102,4 +102,4 @@ overlay = np.array(image).copy()
 overlay[final_mask] = (0.5 * overlay[final_mask] + 0.5 * np.array([255, 0, 80])).astype(np.uint8)
 Image.fromarray(overlay).save("overlay.png")
 
-print("Fertig! Gespeichert: silhouette.png, cutout.png, overlay.png")
+print("Fertig! Gespeichert: silhouette_old.png, cutout.png, overlay.png")
